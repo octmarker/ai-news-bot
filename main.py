@@ -64,7 +64,7 @@ def collect_news() -> str:
     response = client.messages.create(
         model="claude-sonnet-4-20250514",
         max_tokens=4096,
-        tools=[{"type": "web_search"}],
+        tools=[{"type": "web_search_20250305"}],
         messages=[{"role": "user", "content": prompt}],
     )
 
