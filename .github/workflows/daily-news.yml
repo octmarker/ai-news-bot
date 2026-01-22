@@ -10,6 +10,8 @@ on:
 jobs:
   collect-news:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
 
     steps:
       - name: Checkout repository
@@ -20,20 +22,10 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: Debug - show files
-        run: |
-          echo "=== main.py first 10 lines ==="
-          head -10 main.py
-          echo "=== requirements.txt ==="
-          cat requirements.txt
-
       - name: Install dependencies
         run: pip install -r requirements.txt
 
       - name: Run news collection
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-          GOOGLE_CREDENTIALS_JSON: ${{ secrets.GOOGLE_CREDENTIALS_JSON }}
-          GOOGLE_DRIVE_FOLDER_ID: ${{ secrets.GOOGLE_DRIVE_FOLDER_ID }}
-          DRIVE_OWNER_EMAIL: ${{ secrets.DRIVE_OWNER_EMAIL }}
         run: python main.py

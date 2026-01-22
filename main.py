@@ -1,37 +1,11 @@
 #!/usr/bin/env python3
-"""AI News Bot - 生成AI関連ニュースを収集してGoogle Docsに保存"""
+"""AI News Bot - 生成AI関連ニュースを収集してMarkdownファイルに保存"""
 
-import json
 import os
+import subprocess
 from datetime import datetime, timezone, timedelta
 
 import httpx
-from google.oauth2 import service_account
-from googleapiclient.discovery import build
-
-
-def get_google_credentials():
-    """Google認証情報を取得（環境変数またはファイルから）"""
-    scopes = [
-        "https://www.googleapis.com/auth/drive",
-    ]
-
-    # 環境変数からJSON文字列を取得
-    creds_json = os.environ.get("GOOGLE_CREDENTIALS_JSON")
-    if creds_json:
-        creds_info = json.loads(creds_json)
-        return service_account.Credentials.from_service_account_info(
-            creds_info, scopes=scopes
-        )
-
-    # ローカルファイルから取得
-    creds_file = os.environ.get("GOOGLE_CREDENTIALS_FILE", "credentials.json")
-    if os.path.exists(creds_file):
-        return service_account.Credentials.from_service_account_file(
-            creds_file, scopes=scopes
-        )
-
-    return None
 
 
 def collect_news() -> str:
@@ -93,60 +67,49 @@ def collect_news() -> str:
     return result_text
 
 
-def create_google_doc(content: str, folder_id: str | None) -> str | None:
-    """Google Driveにドキュメントを作成"""
-    credentials = get_google_credentials()
-    if not credentials:
-        print("Google認証情報が見つかりません")
-        return None
-
-    drive_service = build("drive", "v3", credentials=credentials)
+def save_to_file(content: str) -> str:
+    """ニュースをMarkdownファイルに保存"""
     jst = timezone(timedelta(hours=9))
-    today = datetime.now(jst).strftime("%Y-%m-%d")
-    title = f"AI News - {today}"
+    today = datetime.now(jst)
+    date_str = today.strftime("%Y-%m-%d")
 
-    # Google Docsとしてファイルを作成
-    file_metadata = {
-        "name": title,
-        "mimeType": "application/vnd.google-apps.document",
-    }
-    if folder_id:
-        file_metadata["parents"] = [folder_id]
+    # newsディレクトリを作成
+    os.makedirs("news", exist_ok=True)
 
-    # テキストファイルとしてアップロードし、Google Docsに変換
-    import io
-    from googleapiclient.http import MediaIoBaseUpload
+    # ファイルに保存
+    filename = f"news/{date_str}.md"
+    header = f"# AI News - {date_str}\n\n"
 
-    media = MediaIoBaseUpload(
-        io.BytesIO(content.encode("utf-8")),
-        mimetype="text/plain",
-        resumable=True,
+    with open(filename, "w", encoding="utf-8") as f:
+        f.write(header + content)
+
+    return filename
+
+
+def git_commit_and_push(filename: str):
+    """変更をコミットしてプッシュ"""
+    # Git設定
+    subprocess.run(["git", "config", "user.name", "github-actions[bot]"], check=True)
+    subprocess.run(["git", "config", "user.email", "github-actions[bot]@users.noreply.github.com"], check=True)
+
+    # 追加・コミット・プッシュ
+    subprocess.run(["git", "add", filename], check=True)
+
+    result = subprocess.run(
+        ["git", "diff", "--cached", "--quiet"],
+        capture_output=True,
     )
 
-    doc = drive_service.files().create(
-        body=file_metadata,
-        media_body=media,
-        fields="id",
-    ).execute()
-
-    doc_id = doc["id"]
-
-    # オーナーシップを移転（ストレージ容量問題を回避）
-    owner_email = os.environ.get("DRIVE_OWNER_EMAIL")
-    if owner_email:
-        drive_service.permissions().create(
-            fileId=doc_id,
-            body={
-                "type": "user",
-                "role": "owner",
-                "emailAddress": owner_email,
-            },
-            transferOwnership=True,
-        ).execute()
-        print(f"オーナーシップを {owner_email} に移転しました")
-
-    doc_url = f"https://docs.google.com/document/d/{doc_id}/edit"
-    return doc_url
+    if result.returncode != 0:  # 変更がある場合
+        date_str = os.path.basename(filename).replace(".md", "")
+        subprocess.run(
+            ["git", "commit", "-m", f"Add AI news for {date_str}"],
+            check=True,
+        )
+        subprocess.run(["git", "push"], check=True)
+        print(f"コミットしてプッシュしました: {filename}")
+    else:
+        print("変更がないためコミットをスキップしました")
 
 
 def main():
@@ -163,24 +126,13 @@ def main():
     print(news_content)
     print("----------------\n")
 
-    folder_id = os.environ.get("GOOGLE_DRIVE_FOLDER_ID")
+    print("ファイルに保存中...")
+    filename = save_to_file(news_content)
+    print(f"保存しました: {filename}")
 
-    if not folder_id:
-        print("GOOGLE_DRIVE_FOLDER_IDが未設定のため、コンソール出力のみで終了します")
-        return
-
-    credentials = get_google_credentials()
-    if not credentials:
-        print("Google認証情報が見つからないため、コンソール出力のみで終了します")
-        return
-
-    print("Google Docsにドキュメントを作成中...")
-    doc_url = create_google_doc(news_content, folder_id)
-
-    if doc_url:
-        print(f"ドキュメントを作成しました: {doc_url}")
-    else:
-        print("ドキュメントの作成に失敗しました")
+    # GitHub Actions環境でのみコミット
+    if os.environ.get("GITHUB_ACTIONS"):
+        git_commit_and_push(filename)
 
 
 if __name__ == "__main__":
