@@ -13,8 +13,7 @@ from googleapiclient.discovery import build
 def get_google_credentials():
     """Google認証情報を取得（環境変数またはファイルから）"""
     scopes = [
-        "https://www.googleapis.com/auth/documents",
-        "https://www.googleapis.com/auth/drive.file",
+        "https://www.googleapis.com/auth/drive",
     ]
 
     # 環境変数からJSON文字列を取得
@@ -95,34 +94,42 @@ def collect_news() -> str:
 
 
 def create_google_doc(content: str, folder_id: str | None) -> str | None:
-    """Google Docsにドキュメントを作成"""
+    """Google Driveにドキュメントを作成"""
     credentials = get_google_credentials()
     if not credentials:
         print("Google認証情報が見つかりません")
         return None
 
-    # ドキュメント作成
-    docs_service = build("docs", "v1", credentials=credentials)
+    drive_service = build("drive", "v3", credentials=credentials)
     jst = timezone(timedelta(hours=9))
     today = datetime.now(jst).strftime("%Y-%m-%d")
     title = f"AI News - {today}"
 
-    doc = docs_service.documents().create(body={"title": title}).execute()
-    doc_id = doc["documentId"]
+    # Google Docsとしてファイルを作成
+    file_metadata = {
+        "name": title,
+        "mimeType": "application/vnd.google-apps.document",
+    }
+    if folder_id:
+        file_metadata["parents"] = [folder_id]
 
-    # コンテンツを挿入
-    requests = [{"insertText": {"location": {"index": 1}, "text": content}}]
-    docs_service.documents().batchUpdate(
-        documentId=doc_id, body={"requests": requests}
+    # テキストファイルとしてアップロードし、Google Docsに変換
+    import io
+    from googleapiclient.http import MediaIoBaseUpload
+
+    media = MediaIoBaseUpload(
+        io.BytesIO(content.encode("utf-8")),
+        mimetype="text/plain",
+        resumable=True,
+    )
+
+    doc = drive_service.files().create(
+        body=file_metadata,
+        media_body=media,
+        fields="id",
     ).execute()
 
-    # フォルダに移動
-    if folder_id:
-        drive_service = build("drive", "v3", credentials=credentials)
-        drive_service.files().update(
-            fileId=doc_id, addParents=folder_id, fields="id, parents"
-        ).execute()
-
+    doc_id = doc["id"]
     doc_url = f"https://docs.google.com/document/d/{doc_id}/edit"
     return doc_url
 
