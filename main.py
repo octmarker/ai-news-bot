@@ -64,8 +64,10 @@ def collect_news() -> str:
     response = client.messages.create(
         model="claude-sonnet-4-20250514",
         max_tokens=4096,
-        tools=[{"type": "web_search_20250305", "name": "web_search"}],
         messages=[{"role": "user", "content": prompt}],
+        extra_body={
+            "tools": [{"type": "web_search_20250305", "name": "web_search"}]
+        },
     )
 
     # レスポンスからテキスト部分を抽出
