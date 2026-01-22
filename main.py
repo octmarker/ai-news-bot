@@ -5,7 +5,7 @@ import json
 import os
 from datetime import datetime, timezone, timedelta
 
-import anthropic
+import httpx
 from google.oauth2 import service_account
 from googleapiclient.discovery import build
 
@@ -37,7 +37,9 @@ def get_google_credentials():
 
 def collect_news() -> str:
     """Claude APIのweb_search toolを使ってニュースを収集"""
-    client = anthropic.Anthropic()
+    api_key = os.environ.get("ANTHROPIC_API_KEY")
+    if not api_key:
+        raise ValueError("ANTHROPIC_API_KEY is not set")
 
     today = datetime.now(timezone(timedelta(hours=9))).strftime("%Y年%m月%d日")
 
@@ -61,20 +63,33 @@ def collect_news() -> str:
 
 重要度・話題性の高いものを優先してください。"""
 
-    response = client.messages.create(
-        model="claude-sonnet-4-20250514",
-        max_tokens=4096,
-        messages=[{"role": "user", "content": prompt}],
-        extra_body={
-            "tools": [{"type": "web_search_20250305", "name": "web_search"}]
-        },
-    )
+    headers = {
+        "x-api-key": api_key,
+        "anthropic-version": "2023-06-01",
+        "content-type": "application/json",
+    }
+
+    payload = {
+        "model": "claude-sonnet-4-20250514",
+        "max_tokens": 4096,
+        "messages": [{"role": "user", "content": prompt}],
+        "tools": [{"type": "web_search_20250305", "name": "web_search"}],
+    }
+
+    with httpx.Client(timeout=120.0) as client:
+        response = client.post(
+            "https://api.anthropic.com/v1/messages",
+            headers=headers,
+            json=payload,
+        )
+        response.raise_for_status()
+        data = response.json()
 
     # レスポンスからテキスト部分を抽出
     result_text = ""
-    for block in response.content:
-        if block.type == "text":
-            result_text += block.text
+    for block in data.get("content", []):
+        if block.get("type") == "text":
+            result_text += block.get("text", "")
 
     return result_text
 
