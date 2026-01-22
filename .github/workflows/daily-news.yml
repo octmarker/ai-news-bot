@@ -20,6 +20,13 @@ jobs:
         with:
           python-version: '3.11'
 
+      - name: Debug - show files
+        run: |
+          echo "=== main.py first 10 lines ==="
+          head -10 main.py
+          echo "=== requirements.txt ==="
+          cat requirements.txt
+
       - name: Install dependencies
         run: pip install -r requirements.txt
 
