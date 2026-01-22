@@ -130,6 +130,21 @@ def create_google_doc(content: str, folder_id: str | None) -> str | None:
     ).execute()
 
     doc_id = doc["id"]
+
+    # オーナーシップを移転（ストレージ容量問題を回避）
+    owner_email = os.environ.get("DRIVE_OWNER_EMAIL")
+    if owner_email:
+        drive_service.permissions().create(
+            fileId=doc_id,
+            body={
+                "type": "user",
+                "role": "owner",
+                "emailAddress": owner_email,
+            },
+            transferOwnership=True,
+        ).execute()
+        print(f"オーナーシップを {owner_email} に移転しました")
+
     doc_url = f"https://docs.google.com/document/d/{doc_id}/edit"
     return doc_url
 
