@@ -2,8 +2,8 @@ name: Daily AI News Collection
 
 on:
   schedule:
-    # 毎朝9:00 JST (0:00 UTC)
-    - cron: '0 0 * * *'
+    # 毎朝9:05 JST (0:05 UTC) - 混雑時間を避けるため5分ずらす
+    - cron: '5 0 * * *'
   workflow_dispatch:
     # 手動実行も可能
 
