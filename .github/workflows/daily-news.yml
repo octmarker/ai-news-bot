@@ -2,8 +2,8 @@ name: Daily AI News Collection
 
 on:
   schedule:
-    # テスト用: 11:34 JST (02:34 UTC) に実行設定
-    - cron: '34 2 * * *'
+    # 毎朝9:05 JST (0:05 UTC) - 混雑時間を避けるため5分ずらす
+    - cron: '5 0 * * *'
   workflow_dispatch:
     # 手動実行も可能
 
