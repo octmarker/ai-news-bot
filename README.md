@@ -46,7 +46,7 @@ python main.py
 
 ```yaml
 schedule:
-  - cron: '0 0 * * *'  # UTC 0:00 = JST 9:00
+  - cron: '5 0 * * *'  # UTC 0:05 = JST 9:05
 ```
 
 ### 出力件数の変更

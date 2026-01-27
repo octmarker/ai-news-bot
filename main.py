@@ -14,9 +14,13 @@ def collect_news() -> str:
     if not api_key:
         raise ValueError("ANTHROPIC_API_KEY is not set")
 
-    today = datetime.now(timezone(timedelta(hours=9))).strftime("%Y年%m月%d日")
-
-    yesterday = (datetime.now(timezone(timedelta(hours=9))) - timedelta(days=1)).strftime("%Y年%m月%d日")
+    jst = timezone(timedelta(hours=9))
+    now = datetime.now(jst)
+    today = now.strftime("%Y年%m月%d日")
+    yesterday = (now - timedelta(days=1)).strftime("%Y年%m月%d日")
+    
+    print(f"[{now.strftime('%Y-%m-%d %H:%M:%S JST')}] Starting news collection...")
+    print(f"Target period: {yesterday} ~ {today}")
 
     prompt = f"""今日は{today}です。あなたはVibe Coding専門のニュースキュレーターです。
 
@@ -59,29 +63,72 @@ def collect_news() -> str:
         "content-type": "application/json",
     }
 
-    payload = {
-        "model": "claude-sonnet-4-20250514",
-        "max_tokens": 4096,
-        "messages": [{"role": "user", "content": prompt}],
-        "tools": [{"type": "web_search_20250305", "name": "web_search"}],
-    }
+    messages = [{"role": "user", "content": prompt}]
+    tools = [{"type": "web_search_20250305", "name": "web_search"}]
 
-    with httpx.Client(timeout=120.0) as client:
-        response = client.post(
-            "https://api.anthropic.com/v1/messages",
-            headers=headers,
-            json=payload,
-        )
-        response.raise_for_status()
-        data = response.json()
+    # Tool calling loop
+    max_iterations = 5
+    for iteration in range(max_iterations):
+        print(f"[{datetime.now(jst).strftime('%Y-%m-%d %H:%M:%S JST')}] API call iteration {iteration + 1}/{max_iterations}")
+        
+        payload = {
+            "model": "claude-sonnet-4-20250514",
+            "max_tokens": 4096,
+            "messages": messages,
+            "tools": tools,
+        }
 
-    # レスポンスからテキスト部分を抽出
-    result_text = ""
-    for block in data.get("content", []):
-        if block.get("type") == "text":
-            result_text += block.get("text", "")
+        with httpx.Client(timeout=120.0) as client:
+            response = client.post(
+                "https://api.anthropic.com/v1/messages",
+                headers=headers,
+                json=payload,
+            )
+            response.raise_for_status()
+            data = response.json()
 
-    return result_text
+        stop_reason = data.get("stop_reason")
+        print(f"Stop reason: {stop_reason}")
+
+        # Check if we have tool use requests
+        has_tool_use = False
+        tool_results = []
+        
+        for block in data.get("content", []):
+            if block.get("type") == "tool_use":
+                has_tool_use = True
+                tool_id = block.get("id")
+                tool_name = block.get("name")
+                print(f"Tool use detected: {tool_name} (id: {tool_id})")
+                # For web_search_20250305, the tool is handled server-side
+                # We should not reach here normally, but handle it gracefully
+                tool_results.append({
+                    "type": "tool_result",
+                    "tool_use_id": tool_id,
+                    "content": "Tool executed server-side"
+                })
+
+        # If no tool use, extract text and return
+        if not has_tool_use or stop_reason == "end_turn":
+            result_text = ""
+            for block in data.get("content", []):
+                if block.get("type") == "text":
+                    result_text += block.get("text", "")
+            
+            if result_text:
+                print(f"[{datetime.now(jst).strftime('%Y-%m-%d %H:%M:%S JST')}] News collection completed successfully")
+                return result_text
+            else:
+                print("Warning: No text content in response")
+                continue
+
+        # Add assistant message and tool results to continue conversation
+        messages.append({"role": "assistant", "content": data.get("content", [])})
+        messages.append({"role": "user", "content": tool_results})
+
+    # If we exhausted iterations
+    print(f"Warning: Reached max iterations ({max_iterations})")
+    return "ニュースの収集中にエラーが発生しました（最大試行回数に達しました）"
 
 
 def save_to_file(content: str) -> str:
@@ -105,12 +152,16 @@ def save_to_file(content: str) -> str:
 
 def git_commit_and_push(filename: str):
     """変更をコミットしてプッシュ"""
+    jst = timezone(timedelta(hours=9))
+    print(f"[{datetime.now(jst).strftime('%Y-%m-%d %H:%M:%S JST')}] Starting git operations...")
+    
     # Git設定
     subprocess.run(["git", "config", "user.name", "github-actions[bot]"], check=True)
     subprocess.run(["git", "config", "user.email", "github-actions[bot]@users.noreply.github.com"], check=True)
 
-    # 追加・コミット・プッシュ
+    # 追加
     subprocess.run(["git", "add", filename], check=True)
+    print(f"Added {filename} to git")
 
     result = subprocess.run(
         ["git", "diff", "--cached", "--quiet"],
@@ -119,18 +170,33 @@ def git_commit_and_push(filename: str):
 
     if result.returncode != 0:  # 変更がある場合
         date_str = os.path.basename(filename).replace(".md", "")
+        
+        # Pull before push to avoid conflicts
+        print("Pulling latest changes...")
+        pull_result = subprocess.run(
+            ["git", "pull", "--rebase", "origin", "main"],
+            capture_output=True,
+            text=True,
+        )
+        if pull_result.returncode != 0:
+            print(f"Pull warning: {pull_result.stderr}")
+        
+        print(f"Committing changes for {date_str}...")
         subprocess.run(
             ["git", "commit", "-m", f"Add AI news for {date_str}"],
             check=True,
         )
+        
+        print("Pushing to remote...")
         subprocess.run(["git", "push"], check=True)
-        print(f"コミットしてプッシュしました: {filename}")
+        print(f"[{datetime.now(jst).strftime('%Y-%m-%d %H:%M:%S JST')}] Successfully committed and pushed: {filename}")
     else:
-        print("変更がないためコミットをスキップしました")
+        print(f"[{datetime.now(jst).strftime('%Y-%m-%d %H:%M:%S JST')}] No changes detected, skipping commit")
 
 
 def main():
-    print("=== AI News Bot ===")
+    jst = timezone(timedelta(hours=9))
+    print(f"[{datetime.now(jst).strftime('%Y-%m-%d %H:%M:%S JST')}] === AI News Bot ===")
     print("ニュースを収集中...")
 
     news_content = collect_news()
@@ -150,6 +216,10 @@ def main():
     # GitHub Actions環境でのみコミット
     if os.environ.get("GITHUB_ACTIONS"):
         git_commit_and_push(filename)
+    else:
+        print(f"[{datetime.now(jst).strftime('%Y-%m-%d %H:%M:%S JST')}] Skipping git operations (not in GitHub Actions)")
+    
+    print(f"[{datetime.now(jst).strftime('%Y-%m-%d %H:%M:%S JST')}] === Completed ===")
 
 
 if __name__ == "__main__":
