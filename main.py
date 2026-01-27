@@ -155,21 +155,35 @@ def git_commit_and_push(filename: str):
     jst = timezone(timedelta(hours=9))
     print(f"[{datetime.now(jst).strftime('%Y-%m-%d %H:%M:%S JST')}] Starting git operations...")
     
+    # Render環境の場合、Gitリポジトリを初期化
+    github_token = os.environ.get("GITHUB_TOKEN")
+    github_repo = os.environ.get("GITHUB_REPOSITORY")
+    
+    if github_token and github_repo and not os.environ.get("GITHUB_ACTIONS"):
+        print("Initializing Git repository for Render...")
+        
+        # .gitディレクトリが存在しない場合は初期化
+        if not os.path.exists(".git"):
+            subprocess.run(["git", "init"], check=True)
+            subprocess.run(["git", "remote", "add", "origin", f"https://{github_token}@github.com/{github_repo}.git"], check=True)
+            print("Git repository initialized and remote added")
+        else:
+            # リモートが存在しない場合は追加
+            result = subprocess.run(["git", "remote", "get-url", "origin"], capture_output=True)
+            if result.returncode != 0:
+                subprocess.run(["git", "remote", "add", "origin", f"https://{github_token}@github.com/{github_repo}.git"], check=True)
+            else:
+                subprocess.run(["git", "remote", "set-url", "origin", f"https://{github_token}@github.com/{github_repo}.git"], check=True)
+        
+        # mainブランチに切り替え（存在しない場合は作成）
+        subprocess.run(["git", "checkout", "-B", "main"], check=True)
+    
     # Git設定（環境変数から取得、デフォルトはGitHub Actions用）
     git_user_name = os.environ.get("GIT_USER_NAME", "github-actions[bot]")
     git_user_email = os.environ.get("GIT_USER_EMAIL", "github-actions[bot]@users.noreply.github.com")
     
     subprocess.run(["git", "config", "user.name", git_user_name], check=True)
     subprocess.run(["git", "config", "user.email", git_user_email], check=True)
-    
-    # Render環境の場合、GitHub tokenを使って認証
-    github_token = os.environ.get("GITHUB_TOKEN")
-    github_repo = os.environ.get("GITHUB_REPOSITORY")
-    
-    if github_token and github_repo and not os.environ.get("GITHUB_ACTIONS"):
-        print("Setting up GitHub authentication for Render...")
-        remote_url = f"https://{github_token}@github.com/{github_repo}.git"
-        subprocess.run(["git", "remote", "set-url", "origin", remote_url], check=True)
 
     # 追加
     subprocess.run(["git", "add", filename], check=True)
