@@ -1,11 +1,10 @@
 services:
-  - type: cron
+  - type: web
     name: ai-news-bot
     env: python
-    # 毎朝9:05 JST (0:05 UTC)
-    schedule: "5 0 * * *"
+    plan: free
     buildCommand: pip install -r requirements.txt
-    startCommand: python main.py
+    startCommand: gunicorn app:app
     envVars:
       - key: ANTHROPIC_API_KEY
         sync: false
@@ -17,3 +16,6 @@ services:
         value: render-bot
       - key: GIT_USER_EMAIL
         value: render-bot@users.noreply.github.com
+      - key: RENDER
+        value: "true"
+
