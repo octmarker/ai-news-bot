@@ -155,9 +155,21 @@ def git_commit_and_push(filename: str):
     jst = timezone(timedelta(hours=9))
     print(f"[{datetime.now(jst).strftime('%Y-%m-%d %H:%M:%S JST')}] Starting git operations...")
     
-    # Git設定
-    subprocess.run(["git", "config", "user.name", "github-actions[bot]"], check=True)
-    subprocess.run(["git", "config", "user.email", "github-actions[bot]@users.noreply.github.com"], check=True)
+    # Git設定（環境変数から取得、デフォルトはGitHub Actions用）
+    git_user_name = os.environ.get("GIT_USER_NAME", "github-actions[bot]")
+    git_user_email = os.environ.get("GIT_USER_EMAIL", "github-actions[bot]@users.noreply.github.com")
+    
+    subprocess.run(["git", "config", "user.name", git_user_name], check=True)
+    subprocess.run(["git", "config", "user.email", git_user_email], check=True)
+    
+    # Render環境の場合、GitHub tokenを使って認証
+    github_token = os.environ.get("GITHUB_TOKEN")
+    github_repo = os.environ.get("GITHUB_REPOSITORY")
+    
+    if github_token and github_repo and not os.environ.get("GITHUB_ACTIONS"):
+        print("Setting up GitHub authentication for Render...")
+        remote_url = f"https://{github_token}@github.com/{github_repo}.git"
+        subprocess.run(["git", "remote", "set-url", "origin", remote_url], check=True)
 
     # 追加
     subprocess.run(["git", "add", filename], check=True)
@@ -213,11 +225,11 @@ def main():
     filename = save_to_file(news_content)
     print(f"保存しました: {filename}")
 
-    # GitHub Actions環境でのみコミット
-    if os.environ.get("GITHUB_ACTIONS"):
+    # GitHub ActionsまたはRender環境でコミット
+    if os.environ.get("GITHUB_ACTIONS") or os.environ.get("RENDER"):
         git_commit_and_push(filename)
     else:
-        print(f"[{datetime.now(jst).strftime('%Y-%m-%d %H:%M:%S JST')}] Skipping git operations (not in GitHub Actions)")
+        print(f"[{datetime.now(jst).strftime('%Y-%m-%d %H:%M:%S JST')}] Skipping git operations (local environment)")
     
     print(f"[{datetime.now(jst).strftime('%Y-%m-%d %H:%M:%S JST')}] === Completed ===")
 

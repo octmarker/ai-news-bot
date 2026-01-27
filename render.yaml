@@ -1,0 +1,19 @@
+services:
+  - type: cron
+    name: ai-news-bot
+    env: python
+    # 毎朝9:05 JST (0:05 UTC)
+    schedule: "5 0 * * *"
+    buildCommand: pip install -r requirements.txt
+    startCommand: python main.py
+    envVars:
+      - key: ANTHROPIC_API_KEY
+        sync: false
+      - key: GITHUB_TOKEN
+        sync: false
+      - key: GITHUB_REPOSITORY
+        value: octmarker/ai-news-bot
+      - key: GIT_USER_NAME
+        value: render-bot
+      - key: GIT_USER_EMAIL
+        value: render-bot@users.noreply.github.com
