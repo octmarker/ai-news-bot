@@ -2,8 +2,8 @@ name: Daily AI News Collection
 
 on:
   schedule:
-    # テスト用: UTC 15:15に実行（約7分後）
-    - cron: '15 15 * * *'
+    # テスト用: UTC 01:42に実行（Public化後のテスト）
+    - cron: '42 1 * * *'
   workflow_dispatch:
     # 手動実行も可能
 
