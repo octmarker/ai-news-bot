@@ -62,7 +62,7 @@ def collect_news() -> str:
     # Gemini 2.5 Flash with Google Search grounding (stable version)
     model = genai.GenerativeModel(
         model_name="gemini-2.5-flash",
-        tools="google_search_retrieval",
+        tools="google_search",
     )
     
     print(f"[{datetime.now(jst).strftime('%Y-%m-%d %H:%M:%S JST')}] Sending request to Gemini API...")
