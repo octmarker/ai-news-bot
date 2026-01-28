@@ -185,6 +185,16 @@ def git_commit_and_push(filename: str):
     subprocess.run(["git", "config", "user.name", git_user_name], check=True)
     subprocess.run(["git", "config", "user.email", git_user_email], check=True)
 
+    # Pull before adding files to avoid rebase conflicts
+    print("Pulling latest changes...")
+    pull_result = subprocess.run(
+        ["git", "pull", "--rebase", "origin", "main"],
+        capture_output=True,
+        text=True,
+    )
+    if pull_result.returncode != 0:
+        print(f"Pull warning: {pull_result.stderr}")
+    
     # 追加
     subprocess.run(["git", "add", filename], check=True)
     print(f"Added {filename} to git")
@@ -196,16 +206,6 @@ def git_commit_and_push(filename: str):
 
     if result.returncode != 0:  # 変更がある場合
         date_str = os.path.basename(filename).replace(".md", "")
-        
-        # Pull before push to avoid conflicts
-        print("Pulling latest changes...")
-        pull_result = subprocess.run(
-            ["git", "pull", "--rebase", "origin", "main"],
-            capture_output=True,
-            text=True,
-        )
-        if pull_result.returncode != 0:
-            print(f"Pull warning: {pull_result.stderr}")
         
         print(f"Committing changes for {date_str}...")
         subprocess.run(
