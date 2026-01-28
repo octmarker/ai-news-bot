@@ -59,9 +59,9 @@ def collect_news() -> str:
 
 該当期間にニュースがない場合は「本日の主要ニュースはありませんでした」と記載してください。"""
 
-    # Gemini 1.5 Flash with Google Search grounding (stable version)
+    # Gemini 2.5 Flash with Google Search grounding (stable version)
     model = genai.GenerativeModel(
-        model_name="gemini-1.5-flash",
+        model_name="gemini-2.5-flash",
         tools="google_search_retrieval",
     )
     
