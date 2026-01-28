@@ -5,7 +5,8 @@ import os
 import subprocess
 from datetime import datetime, timezone, timedelta
 
-import google.generativeai as genai
+from google import genai
+from google.genai import types
 
 
 def collect_news() -> str:
@@ -14,7 +15,7 @@ def collect_news() -> str:
     if not api_key:
         raise ValueError("GEMINI_API_KEY is not set")
 
-    genai.configure(api_key=api_key)
+    client = genai.Client(api_key=api_key)
 
     jst = timezone(timedelta(hours=9))
     now = datetime.now(jst)
@@ -59,15 +60,22 @@ def collect_news() -> str:
 
 該当期間にニュースがない場合は「本日の主要ニュースはありませんでした」と記載してください。"""
 
-    # Gemini 2.5 Flash with Google Search grounding (stable version)
-    model = genai.GenerativeModel(
-        model_name="gemini-2.5-flash",
-        tools="google_search",
+    # Google Search grounding tool
+    grounding_tool = types.Tool(
+        google_search=types.GoogleSearch()
+    )
+    
+    config = types.GenerateContentConfig(
+        tools=[grounding_tool]
     )
     
     print(f"[{datetime.now(jst).strftime('%Y-%m-%d %H:%M:%S JST')}] Sending request to Gemini API...")
     
-    response = model.generate_content(prompt)
+    response = client.models.generate_content(
+        model="gemini-2.5-flash",
+        contents=prompt,
+        config=config,
+    )
     
     print(f"[{datetime.now(jst).strftime('%Y-%m-%d %H:%M:%S JST')}] News collection completed successfully")
     
