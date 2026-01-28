@@ -165,7 +165,7 @@ def git_commit_and_push(filename: str):
         )
         
         print("Pushing to remote...")
-        subprocess.run(["git", "push"], check=True)
+        subprocess.run(["git", "push", "--set-upstream", "origin", "main"], check=True)
         print(f"[{datetime.now(jst).strftime('%Y-%m-%d %H:%M:%S JST')}] Successfully committed and pushed: {filename}")
     else:
         print(f"[{datetime.now(jst).strftime('%Y-%m-%d %H:%M:%S JST')}] No changes detected, skipping commit")
