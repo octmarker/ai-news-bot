@@ -85,6 +85,9 @@ def collect_news() -> str:
                 headers=headers,
                 json=payload,
             )
+            if response.status_code != 200:
+                print(f"API Error: {response.status_code}")
+                print(f"Response: {response.text}")
             response.raise_for_status()
             data = response.json()
 
