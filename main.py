@@ -1,18 +1,20 @@
 #!/usr/bin/env python3
-"""AI News Bot - 生成AI関連ニュースを収集してMarkdownファイルに保存"""
+"""AI News Bot - 生成AI関連ニュースを収集してMarkdownファイルに保存 (Gemini版)"""
 
 import os
 import subprocess
 from datetime import datetime, timezone, timedelta
 
-import httpx
+import google.generativeai as genai
 
 
 def collect_news() -> str:
-    """Claude APIのweb_search toolを使ってニュースを収集"""
-    api_key = os.environ.get("ANTHROPIC_API_KEY")
+    """Gemini APIのGoogle Search groundingを使ってニュースを収集"""
+    api_key = os.environ.get("GEMINI_API_KEY")
     if not api_key:
-        raise ValueError("ANTHROPIC_API_KEY is not set")
+        raise ValueError("GEMINI_API_KEY is not set")
+
+    genai.configure(api_key=api_key)
 
     jst = timezone(timedelta(hours=9))
     now = datetime.now(jst)
@@ -57,82 +59,19 @@ def collect_news() -> str:
 
 該当期間にニュースがない場合は「本日の主要ニュースはありませんでした」と記載してください。"""
 
-    headers = {
-        "x-api-key": api_key,
-        "anthropic-version": "2023-06-01",
-        "anthropic-beta": "web-search-2025-03-05",
-        "content-type": "application/json",
-    }
-
-    messages = [{"role": "user", "content": prompt}]
-    tools = [{"type": "web_search_20250305", "name": "web_search"}]
-
-    # Tool calling loop
-    max_iterations = 5
-    for iteration in range(max_iterations):
-        print(f"[{datetime.now(jst).strftime('%Y-%m-%d %H:%M:%S JST')}] API call iteration {iteration + 1}/{max_iterations}")
-        
-        payload = {
-            "model": "claude-sonnet-4-20250514",
-            "max_tokens": 4096,
-            "messages": messages,
-            "tools": tools,
-        }
-
-        with httpx.Client(timeout=120.0) as client:
-            response = client.post(
-                "https://api.anthropic.com/v1/messages",
-                headers=headers,
-                json=payload,
-            )
-            if response.status_code != 200:
-                print(f"API Error: {response.status_code}")
-                print(f"Response: {response.text}")
-            response.raise_for_status()
-            data = response.json()
-
-        stop_reason = data.get("stop_reason")
-        print(f"Stop reason: {stop_reason}")
-
-        # Check if we have tool use requests
-        has_tool_use = False
-        tool_results = []
-        
-        for block in data.get("content", []):
-            if block.get("type") == "tool_use":
-                has_tool_use = True
-                tool_id = block.get("id")
-                tool_name = block.get("name")
-                print(f"Tool use detected: {tool_name} (id: {tool_id})")
-                # For web_search_20250305, the tool is handled server-side
-                # We should not reach here normally, but handle it gracefully
-                tool_results.append({
-                    "type": "tool_result",
-                    "tool_use_id": tool_id,
-                    "content": "Tool executed server-side"
-                })
-
-        # If no tool use, extract text and return
-        if not has_tool_use or stop_reason == "end_turn":
-            result_text = ""
-            for block in data.get("content", []):
-                if block.get("type") == "text":
-                    result_text += block.get("text", "")
-            
-            if result_text:
-                print(f"[{datetime.now(jst).strftime('%Y-%m-%d %H:%M:%S JST')}] News collection completed successfully")
-                return result_text
-            else:
-                print("Warning: No text content in response")
-                continue
-
-        # Add assistant message and tool results to continue conversation
-        messages.append({"role": "assistant", "content": data.get("content", [])})
-        messages.append({"role": "user", "content": tool_results})
-
-    # If we exhausted iterations
-    print(f"Warning: Reached max iterations ({max_iterations})")
-    return "ニュースの収集中にエラーが発生しました（最大試行回数に達しました）"
+    # Gemini 2.0 Flash with Google Search grounding
+    model = genai.GenerativeModel(
+        model_name="gemini-2.0-flash-exp",
+        tools="google_search_retrieval",
+    )
+    
+    print(f"[{datetime.now(jst).strftime('%Y-%m-%d %H:%M:%S JST')}] Sending request to Gemini API...")
+    
+    response = model.generate_content(prompt)
+    
+    print(f"[{datetime.now(jst).strftime('%Y-%m-%d %H:%M:%S JST')}] News collection completed successfully")
+    
+    return response.text
 
 
 def save_to_file(content: str) -> str:
