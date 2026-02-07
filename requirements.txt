@@ -1,3 +1,3 @@
 google-genai
-flask
-gunicorn
+PyGithub
+functions-framework
