@@ -58,5 +58,6 @@
         "boosted_keywords": [],
         "suppressed_keywords": []
     },
-    "last_updated": "2026-02-05T11:32:00+09:00"
+    "last_updated": "2026-02-05T11:32:00+09:00",
+    "learning_phase": 0
 }
