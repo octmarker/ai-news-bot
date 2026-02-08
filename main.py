@@ -421,6 +421,102 @@ def collect_news(category_id: str, config: Dict[str, Any]) -> str:
     return response.text
 
 
+def fetch_web_clicks() -> List[Dict]:
+    """web-trackerのuser_clicks.jsonからクリックデータを取得"""
+    github_token = os.environ.get("GITHUB_TOKEN")
+    if not github_token:
+        return []
+
+    tracker_repo = "octmarker/ai-news-bot-web-tracker"
+    try:
+        auth = Auth.Token(github_token)
+        g = Github(auth=auth)
+        repo = g.get_repo(tracker_repo)
+        file_content = repo.get_contents("data/user_clicks.json", ref="main")
+        data = json.loads(file_content.decoded_content.decode('utf-8'))
+        clicks = data.get("clicks", [])
+        log(f"Fetched {len(clicks)} web clicks from {tracker_repo}")
+        return clicks
+    except GithubException as e:
+        if e.status == 404:
+            log("Web tracker user_clicks.json not found")
+            return []
+        log(f"Failed to fetch web clicks: {e}")
+        return []
+
+
+def extract_topics_from_title(title: str) -> List[str]:
+    """記事タイトルからCATEGORY_KEYWORDSにマッチするトピックを抽出"""
+    topics = []
+    for category, keywords in CATEGORY_KEYWORDS.items():
+        for keyword in keywords:
+            if keyword.lower() in title.lower():
+                topics.append(keyword)
+    # マッチなしの場合はタイトルをそのままトピックとして使用
+    if not topics:
+        topics.append(title)
+    return topics
+
+
+def merge_clicks_into_preferences(preferences: Dict[str, Any], clicks: List[Dict]) -> Dict[str, Any]:
+    """Webクリックデータをselection_historyにマージ"""
+    if not clicks:
+        return preferences
+
+    history = preferences.get("selection_history", [])
+    existing_dates = {entry["date"] for entry in history}
+
+    # クリックを日付ごとにグループ化
+    from collections import defaultdict
+    by_date = defaultdict(list)
+    for click in clicks:
+        date_str = click.get("clicked_at", "")[:10]  # YYYY-MM-DD
+        if date_str:
+            by_date[date_str].append(click)
+
+    added = 0
+    for date_str, day_clicks in sorted(by_date.items()):
+        if date_str in existing_dates:
+            continue  # 既にその日のエントリがあればスキップ（冪等性）
+
+        positive = [c for c in day_clicks if c.get("type", "positive") == "positive"]
+        negative = [c for c in day_clicks if c.get("type") == "negative"]
+
+        if not positive and not negative:
+            continue
+
+        selected_nums = [c["article_number"] for c in positive]
+        rejected_nums = [c["article_number"] for c in negative]
+
+        selected_topics = []
+        for c in positive:
+            selected_topics.extend(extract_topics_from_title(c.get("title", "")))
+        selected_topics = list(dict.fromkeys(selected_topics))  # 重複除去（順序保持）
+
+        selected_sources = list(dict.fromkeys(
+            c.get("source", "") for c in positive if c.get("source")
+        ))
+
+        entry = {
+            "date": date_str,
+            "selected": selected_nums,
+            "rejected": rejected_nums,
+            "selected_topics": selected_topics,
+            "selected_sources": selected_sources,
+        }
+        history.append(entry)
+        added += 1
+
+    if added > 0:
+        # 過去30日分のみ保持
+        cutoff = (get_jst_now() - timedelta(days=30)).strftime("%Y-%m-%d")
+        history = [e for e in history if e.get("date", "") >= cutoff]
+        preferences["selection_history"] = history
+        log(f"Merged {added} days of web clicks into selection_history")
+
+    return preferences
+
+
 def load_user_preferences() -> Dict[str, Any]:
     """GitHubからuser_preferences.jsonを読み込む"""
     github_token = os.environ.get("GITHUB_TOKEN")
@@ -701,6 +797,14 @@ def run_candidate_mode() -> Tuple[bool, str]:
         
         # ユーザー設定を読み込み
         preferences = load_user_preferences()
+
+        # Webクリックデータを取り込み
+        try:
+            web_clicks = fetch_web_clicks()
+            if web_clicks:
+                preferences = merge_clicks_into_preferences(preferences, web_clicks)
+        except Exception as e:
+            log(f"Warning: Failed to fetch web clicks: {e}")
 
         # 自動学習更新
         if preferences.get("selection_history"):
