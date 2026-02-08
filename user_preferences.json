@@ -55,9 +55,36 @@
         }
     },
     "search_config": {
-        "boosted_keywords": [],
-        "suppressed_keywords": []
+        "boosted_keywords": [
+            "AI",
+            "テクノロジー",
+            "生成AI",
+            "LLM",
+            "Claude",
+            "Sonnet",
+            "Gemini",
+            "Apple",
+            "CarPlay",
+            "コーディング",
+            "マルチモーダル",
+            "日銀",
+            "利上げ",
+            "金融",
+            "経済"
+        ],
+        "suppressed_keywords": [
+            "芸能人",
+            "結婚"
+        ],
+        "preferred_sources": [],
+        "category_distribution": {
+            "ai": 0.8,
+            "finance": 0.2,
+            "politics": 0,
+            "other": 0
+        },
+        "serendipity_ratio": 0
     },
-    "last_updated": "2026-02-05T11:32:00+09:00",
-    "learning_phase": 0
+    "last_updated": "2026-02-08T12:53:52.231Z",
+    "learning_phase": 1
 }
