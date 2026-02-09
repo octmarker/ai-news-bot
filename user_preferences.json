@@ -57,20 +57,20 @@
     "search_config": {
         "boosted_keywords": [
             "AI",
-            "テクノロジー",
-            "生成AI",
             "LLM",
             "Claude",
             "Sonnet",
             "Gemini",
-            "Apple",
-            "CarPlay",
+            "GPT-4o",
             "コーディング",
             "マルチモーダル",
+            "Apple",
+            "CarPlay",
+            "チャットボット",
+            "学習データ",
+            "サム・アルトマン",
             "日銀",
-            "利上げ",
-            "金融",
-            "経済"
+            "利上げ"
         ],
         "suppressed_keywords": [
             "芸能人",
@@ -85,6 +85,6 @@
         },
         "serendipity_ratio": 0
     },
-    "last_updated": "2026-02-08T12:53:52.231Z",
-    "learning_phase": 0
+    "last_updated": "2026-02-09T00:14:14.137Z",
+    "learning_phase": 1
 }
