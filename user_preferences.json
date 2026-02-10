@@ -59,18 +59,18 @@
             "AI",
             "LLM",
             "Claude",
-            "Sonnet",
             "Gemini",
             "GPT-4o",
             "コーディング",
             "マルチモーダル",
             "Apple",
             "CarPlay",
-            "チャットボット",
+            "AIエージェント",
             "学習データ",
             "サム・アルトマン",
             "日銀",
-            "利上げ"
+            "利上げ",
+            "データセンター"
         ],
         "suppressed_keywords": [
             "芸能人",
@@ -85,6 +85,6 @@
         },
         "serendipity_ratio": 0
     },
-    "last_updated": "2026-02-09T00:14:14.137Z",
-    "learning_phase": 0
+    "last_updated": "2026-02-10T00:14:17.253Z",
+    "learning_phase": 1
 }
