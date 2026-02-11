@@ -57,34 +57,40 @@
     "search_config": {
         "boosted_keywords": [
             "AI",
-            "LLM",
             "Claude",
             "Gemini",
             "GPT-4o",
             "コーディング",
             "マルチモーダル",
-            "Apple",
-            "CarPlay",
             "AIエージェント",
             "学習データ",
+            "データセンター",
             "サム・アルトマン",
+            "フェイク",
             "日銀",
             "利上げ",
-            "データセンター"
+            "雇用統計",
+            "インフレ"
         ],
         "suppressed_keywords": [
             "芸能人",
             "結婚"
         ],
-        "preferred_sources": [],
+        "preferred_sources": [
+            "Anthropic Blog",
+            "Google AI Blog",
+            "日経新聞",
+            "The Verge",
+            "AIDB"
+        ],
         "category_distribution": {
-            "ai": 0.8,
-            "finance": 0.2,
+            "ai": 0.82,
+            "finance": 0.18,
             "politics": 0,
             "other": 0
         },
         "serendipity_ratio": 0
     },
-    "last_updated": "2026-02-10T00:14:17.253Z",
-    "learning_phase": 0
+    "last_updated": "2026-02-11T00:14:10.358Z",
+    "learning_phase": 2
 }
