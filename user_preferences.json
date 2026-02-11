@@ -10,6 +10,7 @@
             "selected_topics": [
                 "Google Gemini",
                 "コーディング支援",
+                "マルチモーダル入力",
                 "OpenAI",
                 "GPT-4o",
                 "AIエージェント"
@@ -30,15 +31,14 @@
             "rejected": [],
             "selected_topics": [
                 "Google Gemini",
-                "マルチモーダル",
+                "パフォーマンス",
+                "マルチモーダル機能",
                 "AIチャットボット",
                 "健康アドバイス",
-                "日銀",
-                "金融政策",
+                "日銀金融政策",
                 "利上げ",
                 "雇用統計",
-                "インフレ",
-                "市場"
+                "インフレ"
             ],
             "selected_sources": [
                 "[Tech Blog]",
@@ -62,9 +62,11 @@
                 "AI駆動開発",
                 "Vercel",
                 "AIコーディングエージェント",
+                "AGENTS.md",
                 "AI論文",
                 "AIブーム",
                 "資源不足",
+                "ニューヨーク州議会",
                 "AIデータセンター",
                 "衆院選",
                 "AI生成フェイク"
@@ -88,16 +90,18 @@
                 2
             ],
             "selected_topics": [
-                "Claude",
+                "Claude 4.5 Sonnet",
+                "コーディング能力",
                 "日銀",
-                "利上げ",
-                "Gemini",
-                "Apple",
-                "CarPlay",
-                "AIチャットボット",
-                "AI",
-                "学習データ",
-                "サム・アルトマン"
+                "追加利上げ",
+                "Gemini 2.5 Flash",
+                "マルチモーダル性能",
+                "GPT-4o",
+                "Apple CarPlay",
+                "サードパーティ製AIチャットボット",
+                "AIの学習データ枯渇",
+                "サム・アルトマン",
+                "巨大モデル"
             ],
             "selected_sources": [
                 "Anthropic Blog",
@@ -110,68 +114,89 @@
     ],
     "learned_interests": {
         "topics": {
+            "AI": 1,
             "Gemini": 1,
-            "日銀": 0.8,
-            "利上げ": 0.8,
-            "Claude": 0.6,
-            "AIチャットボット": 0.6,
-            "マルチモーダル": 0.6,
-            "衆院選": 0.6,
-            "学習データ": 0.4,
-            "サム・アルトマン": 0.4,
-            "AIエージェント": 0.4,
-            "雇用統計": 0.4,
-            "インフレ": 0.4
+            "日銀": 1,
+            "利上げ": 1,
+            "マルチモーダル": 0.9,
+            "AIチャットボット": 0.8,
+            "Claude": 0.7,
+            "衆院選": 0.7,
+            "AIエージェント": 0.6,
+            "学習データ": 0.5,
+            "サム・アルトマン": 0.5,
+            "雇用統計": 0.5,
+            "インフレ": 0.5,
+            "コーディング": 0.4,
+            "GPT-4o": 0.4,
+            "金融政策": 0.4,
+            "データセンター": 0.3,
+            "OpenAI": 0.3,
+            "Vercel": 0.3,
+            "AGENTS.md": 0.3,
+            "AI論文": 0.3,
+            "Apple": 0.2,
+            "フェイク": 0.2,
+            "健康アドバイス": 0.2,
+            "芸能人": 0,
+            "結婚": 0
         },
         "sources": {
             "Reddit (7min.ai recap)": 1,
-            "Anthropic Blog": 0.7,
-            "日経新聞": 0.7,
-            "The Verge": 0.7,
+            "The Verge": 0.9,
+            "Anthropic Blog": 0.8,
+            "日経新聞": 0.8,
             "東洋経済オンライン": 0.7,
-            "Google AI Blog": 0.5,
-            "Wired": 0.5,
-            "AIDB": 0.5,
-            "週刊AI駆動開発": 0.5
+            "Google AI Blog": 0.6,
+            "Wired": 0.6,
+            "AIDB": 0.6,
+            "週刊AI駆動開発": 0.6,
+            "[Tech Blog]": 0.3,
+            "CTV News": 0.3,
+            "KAB 熊本朝日放送": 0.3,
+            "Morningstar / Interactive Brokers": 0.3,
+            "日本経済新聞 (仮想)": 0.3,
+            "The Verge (仮想)": 0.3,
+            "Yahoo!ニュース": 0
         }
     },
     "search_config": {
         "boosted_keywords": [
             "AI",
-            "Claude",
             "Gemini",
-            "GPT-4o",
-            "AIエージェント",
-            "コーディング",
-            "マルチモーダル",
-            "学習データ",
-            "データセンター",
-            "サム・アルトマン",
             "日銀",
             "利上げ",
-            "金融政策",
+            "マルチモーダル",
+            "AIチャットボット",
+            "Claude",
+            "AIエージェント",
+            "コーディング",
+            "GPT-4o",
+            "学習データ",
+            "サム・アルトマン",
             "雇用統計",
-            "インフレ"
+            "インフレ",
+            "金融政策"
         ],
         "suppressed_keywords": [
             "芸能人",
             "結婚"
         ],
         "preferred_sources": [
-            "Anthropic Blog",
-            "Google AI Blog",
-            "日経新聞",
+            "Reddit (7min.ai recap)",
             "The Verge",
-            "Reddit (7min.ai recap)"
+            "Anthropic Blog",
+            "日経新聞",
+            "Google AI Blog"
         ],
         "category_distribution": {
-            "ai": 0.89,
-            "finance": 0.11,
+            "ai": 0.88,
+            "finance": 0.12,
             "politics": 0,
             "other": 0
         },
         "serendipity_ratio": 0
     },
-    "last_updated": "2026-02-11T03:14:37.298Z",
+    "last_updated": "2026-02-11T23:58:42.543Z",
     "learning_phase": 2
 }
