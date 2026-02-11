@@ -1,57 +1,138 @@
 {
     "selection_history": [
         {
-            "date": "2026-02-05",
+            "date": "2026-02-11",
             "selected": [
-                2,
-                3,
-                4,
-                8
+                16,
+                17
             ],
-            "rejected": [
-                1,
-                5,
+            "rejected": [],
+            "selected_topics": [
+                "Google Gemini",
+                "コーディング支援",
+                "OpenAI",
+                "GPT-4o",
+                "AIエージェント"
+            ],
+            "selected_sources": [
+                "日本経済新聞 (仮想)",
+                "The Verge (仮想)"
+            ]
+        },
+        {
+            "date": "2026-02-10",
+            "selected": [
+                12,
+                13,
+                14,
+                15
+            ],
+            "rejected": [],
+            "selected_topics": [
+                "Google Gemini",
+                "マルチモーダル",
+                "AIチャットボット",
+                "健康アドバイス",
+                "日銀",
+                "金融政策",
+                "利上げ",
+                "雇用統計",
+                "インフレ",
+                "市場"
+            ],
+            "selected_sources": [
+                "[Tech Blog]",
+                "CTV News",
+                "KAB 熊本朝日放送",
+                "Morningstar / Interactive Brokers"
+            ]
+        },
+        {
+            "date": "2026-02-09",
+            "selected": [
                 6,
                 7,
+                8,
                 9,
                 10,
-                11,
-                12
+                11
+            ],
+            "rejected": [],
+            "selected_topics": [
+                "AI駆動開発",
+                "Vercel",
+                "AIコーディングエージェント",
+                "AI論文",
+                "AIブーム",
+                "資源不足",
+                "AIデータセンター",
+                "衆院選",
+                "AI生成フェイク"
+            ],
+            "selected_sources": [
+                "週刊AI駆動開発",
+                "Reddit (7min.ai recap)",
+                "AIDB"
+            ]
+        },
+        {
+            "date": "2026-02-08",
+            "selected": [
+                0,
+                1,
+                3,
+                4,
+                5
+            ],
+            "rejected": [
+                2
             ],
             "selected_topics": [
                 "Claude",
-                "AI事業戦略",
-                "為替市場",
-                "日銀金融政策",
-                "円高",
-                "政策金利",
+                "日銀",
                 "利上げ",
-                "衆院選",
-                "選挙と金融政策"
+                "Gemini",
+                "Apple",
+                "CarPlay",
+                "AIチャットボット",
+                "AI",
+                "学習データ",
+                "サム・アルトマン"
             ],
             "selected_sources": [
-                "Anthropic",
-                "東洋経済オンライン",
-                "ダイヤモンド・オンライン"
+                "Anthropic Blog",
+                "日経新聞",
+                "Google AI Blog",
+                "The Verge",
+                "Wired"
             ]
         }
     ],
     "learned_interests": {
         "topics": {
-            "Claude": 0.1,
-            "AI事業戦略": 0.1,
-            "為替市場": 0.1,
-            "日銀金融政策": 0.1,
-            "円高": 0.1,
-            "政策金利": 0.1,
-            "利上げ": 0.1,
-            "衆院選": 0.1,
-            "選挙と金融政策": 0.1
+            "Gemini": 1,
+            "日銀": 0.8,
+            "利上げ": 0.8,
+            "Claude": 0.6,
+            "AIチャットボット": 0.6,
+            "マルチモーダル": 0.6,
+            "衆院選": 0.6,
+            "学習データ": 0.4,
+            "サム・アルトマン": 0.4,
+            "AIエージェント": 0.4,
+            "雇用統計": 0.4,
+            "インフレ": 0.4
         },
         "sources": {
-            "Anthropic": 0.1,
-            "東洋経済オンライン": 0.2,
-            "ダイヤモンド・オンライン": 0.1
+            "Reddit (7min.ai recap)": 1,
+            "Anthropic Blog": 0.7,
+            "日経新聞": 0.7,
+            "The Verge": 0.7,
+            "東洋経済オンライン": 0.7,
+            "Google AI Blog": 0.5,
+            "Wired": 0.5,
+            "AIDB": 0.5,
+            "週刊AI駆動開発": 0.5
         }
     },
     "search_config": {
@@ -60,15 +141,15 @@
             "Claude",
             "Gemini",
             "GPT-4o",
+            "AIエージェント",
             "コーディング",
             "マルチモーダル",
-            "AIエージェント",
             "学習データ",
             "データセンター",
             "サム・アルトマン",
-            "フェイク",
             "日銀",
             "利上げ",
+            "金融政策",
             "雇用統計",
             "インフレ"
         ],
@@ -81,16 +162,16 @@
             "Google AI Blog",
             "日経新聞",
             "The Verge",
-            "AIDB"
+            "Reddit (7min.ai recap)"
         ],
         "category_distribution": {
-            "ai": 0.82,
-            "finance": 0.18,
+            "ai": 0.89,
+            "finance": 0.11,
             "politics": 0,
             "other": 0
         },
         "serendipity_ratio": 0
     },
-    "last_updated": "2026-02-11T00:14:10.358Z",
+    "last_updated": "2026-02-11T03:14:37.298Z",
     "learning_phase": 2
 }
