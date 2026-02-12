@@ -1,3 +1,4 @@
+# Google Cloud Functions 用依存関係
 google-genai
 PyGithub
 functions-framework

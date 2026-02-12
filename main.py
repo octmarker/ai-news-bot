@@ -8,6 +8,12 @@ import json
 import functions_framework
 from datetime import datetime, timezone, timedelta
 from typing import Optional, Tuple, Dict, Any, List
+from concurrent.futures import ThreadPoolExecutor, as_completed
+
+import trafilatura
+
+# Import GNews client
+from gnews_client import collect_multi_category_articles
 
 from google import genai
 from google.genai import types
@@ -193,6 +199,95 @@ def get_ai_candidate_prompt(
 ※公開日が確認できない記事は含めないこと
 
 該当期間にニュースが見つからない場合は「該当なし」と記載してください。"""
+
+
+def get_gnews_filtering_prompt(
+    today: str, yesterday: str, articles: List[Dict[str, Any]],
+    boosted_keywords: list = None, suppressed_keywords: list = None,
+    preferred_sources: list = None, category_distribution: dict = None,
+    serendipity_ratio: float = 0.0, learning_phase: int = 0
+) -> str:
+    """GNews記事フィルタリング用プロンプト（パーソナライズド版）
+    
+    事前に収集された記事リストから、ユーザーの選好に基づいて10-15件を選択・ランク付けする
+    """
+    boost_section = ""
+    if boosted_keywords:
+        boost_section = f"\n🔥 **特に優先**: {', '.join(boosted_keywords)}"
+
+    suppress_section = ""
+    if suppressed_keywords:
+        suppress_section = f"\n⬇️ **優先度下げる**: {', '.join(suppressed_keywords)}"
+
+    source_section = ""
+    if learning_phase >= 2 and preferred_sources:
+        source_section = f"\n📰 **信頼するソース**: {', '.join(preferred_sources)}"
+
+    category_section = """
+
+【カテゴリ別最低件数の保証】
+- AI・テクノロジー: 最低5〜6件
+- 経済・金融: 最低4〜5件
+- 政治・政策: 最低2〜3件"""
+
+    serendipity_section = ""
+    if learning_phase >= 3 and serendipity_ratio > 0:
+        serendipity_section = """
+
+🎲 **セレンディピティ枠**: 候補のうち2〜3件は、上記の優先トピック以外の
+意外性のある記事を含めてください（フィルターバブル防止）。"""
+
+    # Format articles list for the prompt
+    articles_text = ""
+    for i, article in enumerate(articles, 1):
+        articles_text += f"""
+{i}. {article['title']}
+   📰 {article['source']} | 📅 {article['published_at'][:10]}
+   💡 {article['description'][:100]}...
+   🔗 {article['url']}
+   カテゴリ: {article.get('category', '未分類')}
+"""
+
+    return f"""今日は{today}です。以下の記事リストから、ユーザーの選好に基づいて10〜15件を選択してください。
+
+【重要な制約】
+1. **以下のリストにある記事のみを選択すること**（新しい記事を検索しない）
+2. **日付の確認**: {yesterday}〜{today}に公開された記事を優先
+3. **推測記事の生成禁止**: リストにない記事を作らない
+{boost_section}{suppress_section}{source_section}{category_section}{serendipity_section}
+
+【選択基準】
+- ユーザーの興味（ブーストワード）に合致する記事を優先
+- 抑制ワードに関連する記事は優先度を下げる
+- カテゴリバランスを保つ（AI 5-6件、経済 4-5件、政治 2-3件）
+- 信頼できるソースを優先（指定がある場合）
+
+【記事リスト】
+{articles_text}
+
+【出力フォーマット】
+選択した記事を重要度順に10〜15件出力してください。必ず以下の形式を守ること：
+
+**1️⃣ AI・テクノロジー**
+
+1. [記事タイトル]
+   📅 公開日: YYYY-MM-DD | 📰 [サイト名] | 💡 [一言メモ（20字以内）]
+   URL: [記事URL]
+
+2. [記事タイトル]
+   📅 公開日: YYYY-MM-DD | 📰 [サイト名] | 💡 [一言メモ]
+   URL: [記事URL]
+
+**2️⃣ 経済・金融**
+
+3. [記事タイトル]
+   📅 公開日: YYYY-MM-DD | 📰 [サイト名] | 💡 [一言メモ]
+   URL: [記事URL]
+
+... (10〜15件まで)
+
+⚠️ **重要**: 必ずリストにある記事のみを使用し、URLは元のURLをそのまま使うこと
+"""
 
 
 def get_politics_prompt(today: str, yesterday: str) -> str:
@@ -467,18 +562,213 @@ def get_default_preferences() -> Dict[str, Any]:
     }
 
 
+def _fetch_one_article(article: Dict[str, Any]) -> Dict[str, Any]:
+    """1記事の本文をtrafilaturaで取得"""
+    try:
+        downloaded = trafilatura.fetch_url(article["url"])
+        if not downloaded:
+            return None
+        text = trafilatura.extract(downloaded)
+        if not text or len(text) < 100:
+            return None
+        article["content"] = text[:5000]
+        return article
+    except Exception as e:
+        log(f"  Failed to fetch {article['url'][:60]}: {e}")
+        return None
 
-def collect_candidates(today: str, yesterday: str, preferences: Dict[str, Any]) -> str:
-    """ニュース候補を収集（パーソナライズ対応）"""
+
+def fetch_article_contents(articles: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
+    """全記事の本文を並列取得し、取得成功した記事のみ返す"""
+    log(f"Fetching article contents for {len(articles)} articles...")
+    results = []
+    with ThreadPoolExecutor(max_workers=10) as executor:
+        futures = {executor.submit(_fetch_one_article, a): a for a in articles}
+        for future in as_completed(futures):
+            result = future.result()
+            if result:
+                results.append(result)
+    log(f"Successfully fetched {len(results)}/{len(articles)} articles")
+    return results
+
+
+def generate_summary(client, title: str, content: str) -> Optional[Dict[str, Any]]:
+    """1記事のGemini要約を生成"""
+    prompt = f"""あなたはニュース記事の要約エキスパートです。以下の記事を日本語で要約してください。
+
+【記事タイトル】
+{title}
+
+【記事本文】
+{content}
+
+【出力形式】
+以下のJSON形式で出力してください。JSON以外は出力しないでください：
+{{
+  "headline": "記事の一言見出し（30字以内）",
+  "key_points": ["ポイント1", "ポイント2", "ポイント3"],
+  "detailed_summary": "200〜300字の詳細要約。記事の背景、主要な事実、影響や意義を含む",
+  "why_it_matters": "なぜこのニュースが重要なのかを1〜2文で"
+}}"""
+
+    safety = [
+        types.SafetySetting(category="HARM_CATEGORY_HARASSMENT", threshold="OFF"),
+        types.SafetySetting(category="HARM_CATEGORY_HATE_SPEECH", threshold="OFF"),
+        types.SafetySetting(category="HARM_CATEGORY_SEXUALLY_EXPLICIT", threshold="OFF"),
+        types.SafetySetting(category="HARM_CATEGORY_DANGEROUS_CONTENT", threshold="OFF"),
+    ]
+    gen_config = types.GenerateContentConfig(safety_settings=safety)
+
+    try:
+        response = client.models.generate_content(
+            model="gemini-2.5-flash",
+            contents=prompt,
+            config=gen_config,
+        )
+        text = response.text
+        import re
+        json_match = re.search(r'\{[\s\S]*\}', text)
+        if not json_match:
+            return None
+        return json.loads(json_match.group())
+    except Exception as e:
+        log(f"  Summary generation failed: {e}")
+        return None
+
+
+def generate_summaries(client, articles: List[Dict[str, Any]], rate_limit: int = 4) -> List[Dict[str, Any]]:
+    """フィルタリング済み記事に要約を生成。要約失敗した記事は除外
+
+    rate_limit: 連続リクエスト数（この数ごとに60秒待機）。フィルタリングで1リクエスト消費済みなので
+                無料枠(5/分)の場合はデフォルト4で開始
+    """
+    import time
+    log(f"Generating summaries for {len(articles)} articles...")
+    results = []
+    for i, article in enumerate(articles, 1):
+        if i > 1 and (i - 1) % rate_limit == 0:
+            log(f"  Rate limit: waiting 60s...")
+            time.sleep(60)
+            rate_limit = 5  # 2回目以降は5リクエスト/分フルに使える
+        log(f"  Summarizing {i}/{len(articles)}: {article['title'][:40]}...")
+        summary = generate_summary(client, article["title"], article["content"])
+        if summary:
+            article["summary"] = summary
+            results.append(article)
+        else:
+            log(f"  Skipped (summary failed): {article['title'][:40]}")
+    log(f"Successfully summarized {len(results)}/{len(articles)} articles")
+    return results
+
+
+def collect_candidates(today: str, yesterday: str, preferences: Dict[str, Any]) -> Optional[List[Dict[str, Any]]]:
+    """ニュース候補を収集（GNews API + 本文取得 + Gemini フィルタリング + 要約）"""
+    api_key = os.environ.get("GEMINI_API_KEY")
+    if not api_key:
+        raise ValueError("GEMINI_API_KEY is not set")
+
+    client = genai.Client(api_key=api_key)
+
+    log("Collecting news candidates with GNews API...")
+
+    # user_preferencesから検索条件を取得
+    search_config = preferences.get("search_config", {})
+    boosted = search_config.get("boosted_keywords", [])
+    suppressed = search_config.get("suppressed_keywords", [])
+    preferred_sources = search_config.get("preferred_sources", [])
+    category_distribution = search_config.get("category_distribution", {})
+    serendipity_ratio = search_config.get("serendipity_ratio", 0.0)
+    learning_phase = preferences.get("learning_phase", 0)
+
+    # Stage 1: Collect articles from GNews API
+    try:
+        articles = collect_multi_category_articles(
+            preferences=preferences,
+            articles_per_category=12
+        )
+        log(f"Collected {len(articles)} articles from GNews API")
+
+        if not articles:
+            log("No articles collected from GNews API")
+            return None
+    except Exception as e:
+        log(f"Error collecting from GNews API: {e}")
+        return None
+
+    # Stage 2: Fetch article contents (filter out failures)
+    articles = fetch_article_contents(articles)
+    if not articles:
+        log("No articles could be fetched")
+        return None
+
+    # Stage 3: Filter and rank with Gemini
+    log("Filtering articles with Gemini...")
+
+    prompt = get_gnews_filtering_prompt(
+        today, yesterday, articles, boosted, suppressed,
+        preferred_sources=preferred_sources,
+        category_distribution=category_distribution,
+        serendipity_ratio=serendipity_ratio,
+        learning_phase=learning_phase
+    )
+
+    gen_config = types.GenerateContentConfig()
+
+    response = client.models.generate_content(
+        model="gemini-2.5-flash",
+        contents=prompt,
+        config=gen_config,
+    )
+
+    # Geminiが選んだ記事番号を抽出して、元のarticlesリストからマッチさせる
+    selected = parse_filtered_articles(response.text, articles)
+    log(f"Gemini selected {len(selected)} articles")
+
+    if not selected:
+        log("No articles selected by Gemini")
+        return None
+
+    # Stage 4: Generate summaries for selected articles
+    selected = generate_summaries(client, selected)
+    if not selected:
+        log("No articles could be summarized")
+        return None
+
+    return selected
+
+
+def parse_filtered_articles(gemini_response: str, original_articles: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
+    """Geminiのフィルタリング結果からURLでマッチして選択された記事を返す"""
+    import re
+    selected = []
+    seen_urls = set()
+
+    # URLを抽出
+    url_pattern = re.compile(r'URL:\s*\[?(https?://[^\s\]\)]+)')
+    for match in url_pattern.finditer(gemini_response):
+        url = match.group(1)
+        if url in seen_urls:
+            continue
+        seen_urls.add(url)
+        # 元の記事リストからURLでマッチ
+        for article in original_articles:
+            if article["url"] == url:
+                selected.append(article)
+                break
+
+    return selected
+
+
+def collect_candidates_legacy(today: str, yesterday: str, preferences: Dict[str, Any]) -> str:
+    """レガシー版：Gemini Groundingを使った候補収集（フォールバック用）"""
     api_key = os.environ.get("GEMINI_API_KEY")
     if not api_key:
         raise ValueError("GEMINI_API_KEY is not set")
 
     client = genai.Client(api_key=api_key)
     
-    log("Collecting news candidates...")
+    log("Using legacy Gemini Grounding method...")
 
-    # user_preferencesから検索条件を取得
     search_config = preferences.get("search_config", {})
     boosted = search_config.get("boosted_keywords", [])
     suppressed = search_config.get("suppressed_keywords", [])
@@ -495,7 +785,6 @@ def collect_candidates(today: str, yesterday: str, preferences: Dict[str, Any]) 
         learning_phase=learning_phase
     )
 
-    # Google Search grounding tool
     grounding_tool = types.Tool(
         google_search=types.GoogleSearch()
     )
@@ -510,7 +799,7 @@ def collect_candidates(today: str, yesterday: str, preferences: Dict[str, Any]) 
         config=gen_config,
     )
     
-    log("Candidate collection completed")
+    log("Legacy candidate collection completed")
     
     return response.text
 
@@ -528,38 +817,42 @@ def run_candidate_mode() -> Tuple[bool, str]:
         # ユーザー設定を読み込み（Vercel Cronで毎日更新済み）
         preferences = load_user_preferences()
 
-        # 候補を収集
-        candidates = collect_candidates(today, yesterday, preferences)
-        
-        if not candidates:
+        # 候補を収集（本文取得 + フィルタリング + 要約込み）
+        articles = collect_candidates(today, yesterday, preferences)
+
+        if not articles:
             return False, "No candidates collected"
-        
-        # candidates.md を生成
-        candidates_content = f"""# 📰 ニュース候補 - {date_str}
 
-以下から気になる記事の番号を選んでください。
-Claudeに「1,3,5を選ぶ」のように伝えると、詳細要約を生成します。
+        # JSON形式で出力
+        output = {
+            "date": date_str,
+            "articles": []
+        }
+        for i, article in enumerate(articles, 1):
+            output["articles"].append({
+                "number": i,
+                "title": article["title"],
+                "source": article["source"],
+                "description": article["description"],
+                "url": article["url"],
+                "category": article.get("category", "未分類"),
+                "published_at": article.get("published_at", "")[:10],
+                "summary": article.get("summary", {})
+            })
 
----
+        candidates_content = json.dumps(output, ensure_ascii=False, indent=2)
 
-{candidates}
-
----
-
-💡 **選択方法**: 記事番号をカンマ区切りで伝えてください（例: 1,4,7）
-"""
-        
         # GitHubにプッシュ
-        candidates_path = f"news/{date_str}-candidates.md"
+        candidates_path = f"news/{date_str}-candidates.json"
         push_to_github(
             file_path=candidates_path,
             content=candidates_content,
             commit_message=f"Add news candidates for {date_str}"
         )
-        
-        log(f"Saved: {candidates_path}")
+
+        log(f"Saved: {candidates_path} ({len(output['articles'])} articles)")
         log("=== Candidate Mode Completed ===")
-        
+
         return True, f"Saved: {candidates_path}"
         
     except Exception as e:
