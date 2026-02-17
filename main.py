@@ -5,6 +5,7 @@
 
 import os
 import json
+import re as _re
 import functions_framework
 from datetime import datetime, timezone, timedelta
 from typing import Optional, Tuple, Dict, Any, List
@@ -205,10 +206,11 @@ def get_gnews_filtering_prompt(
     today: str, yesterday: str, articles: List[Dict[str, Any]],
     boosted_keywords: list = None, suppressed_keywords: list = None,
     preferred_sources: list = None, category_distribution: dict = None,
-    serendipity_ratio: float = 0.0, learning_phase: int = 0
+    serendipity_ratio: float = 0.0, learning_phase: int = 0,
+    learned_interests: dict = None
 ) -> str:
     """GNews記事フィルタリング用プロンプト（パーソナライズド版）
-    
+
     事前に収集された記事リストから、ユーザーの選好に基づいて10-15件を選択・ランク付けする
     """
     boost_section = ""
@@ -219,16 +221,32 @@ def get_gnews_filtering_prompt(
     if suppressed_keywords:
         suppress_section = f"\n⬇️ **優先度下げる**: {', '.join(suppressed_keywords)}"
 
+    # preferred_sourcesから日本語ソースのみ抽出 + learned_interestsのソースも含める
+    all_sources = set()
+    if preferred_sources:
+        all_sources.update(preferred_sources)
+    if learned_interests:
+        for src, score in learned_interests.get("sources", {}).items():
+            if score >= 0.5:
+                all_sources.add(src)
     source_section = ""
-    if learning_phase >= 2 and preferred_sources:
-        source_section = f"\n📰 **信頼するソース**: {', '.join(preferred_sources)}"
+    if learning_phase >= 2 and all_sources:
+        source_section = f"\n📰 **信頼するソース（部分一致で判定）**: {', '.join(all_sources)}"
 
-    category_section = """
-
-【カテゴリ別最低件数の保証】
-- AI・テクノロジー: 最低5〜6件
-- 経済・金融: 最低4〜5件
-- 政治・政策: 最低2〜3件"""
+    # カテゴリ配分を動的に生成
+    category_lines = []
+    category_label_map = {"ai": "AI・テクノロジー", "finance": "経済・金融", "politics": "政治・政策"}
+    total_target = 12  # 目標記事数
+    if category_distribution:
+        for key, label in category_label_map.items():
+            ratio = category_distribution.get(key, 0)
+            if ratio <= 0:
+                continue
+            count = max(1, round(total_target * ratio))
+            category_lines.append(f"- {label}: 約{count}件")
+    else:
+        category_lines = ["- AI・テクノロジー: 約6件", "- 経済・金融: 約4件", "- 政治・政策: 約2件"]
+    category_section = "\n\n【カテゴリ別目安件数】\n" + "\n".join(category_lines)
 
     serendipity_section = ""
     if learning_phase >= 3 and serendipity_ratio > 0:
@@ -236,6 +254,23 @@ def get_gnews_filtering_prompt(
 
 🎲 **セレンディピティ枠**: 候補のうち2〜3件は、上記の優先トピック以外の
 意外性のある記事を含めてください（フィルターバブル防止）。"""
+
+    # ユーザーの興味プロファイル（交差点推論用）
+    interest_profile_section = ""
+    if learned_interests:
+        top_topics = sorted(
+            [(t, s) for t, s in learned_interests.get("topics", {}).items() if s >= 0.3],
+            key=lambda x: -x[1]
+        )
+        if top_topics:
+            topic_str = ", ".join(f"{t}({s:.1f})" for t, s in top_topics[:10])
+            interest_profile_section = f"""
+
+【ユーザーの興味プロファイル（スコア順）】
+{topic_str}
+
+上記の興味が複数交差する記事（例: AI×金融政策、コーディング×新モデル）は、
+単一キーワードのみ一致する記事より優先すること。"""
 
     # Format articles list for the prompt
     articles_text = ""
@@ -254,13 +289,13 @@ def get_gnews_filtering_prompt(
 1. **以下のリストにある記事のみを選択すること**（新しい記事を検索しない）
 2. **日付の確認**: {yesterday}〜{today}に公開された記事を優先
 3. **推測記事の生成禁止**: リストにない記事を作らない
-{boost_section}{suppress_section}{source_section}{category_section}{serendipity_section}
+{boost_section}{suppress_section}{source_section}{category_section}{serendipity_section}{interest_profile_section}
 
 【選択基準】
-- ユーザーの興味（ブーストワード）に合致する記事を優先
+- ユーザーの興味プロファイルに合致する記事を優先
+- 複数の興味が交差する記事は特に高く評価
 - 抑制ワードに関連する記事は優先度を下げる
-- カテゴリバランスを保つ（AI 5-6件、経済 4-5件、政治 2-3件）
-- 信頼できるソースを優先（指定がある場合）
+- 信頼するソースの記事を優先（部分一致で判定）
 
 【記事リスト】
 {articles_text}
@@ -661,6 +696,111 @@ def generate_summaries(client, articles: List[Dict[str, Any]], rate_limit: int =
     return results
 
 
+def _normalize_url_path(url: str) -> str:
+    """URLからドメインを除去してパス部分のみ返す（同一記事の異ドメイン配信検出用）"""
+    from urllib.parse import urlparse
+    parsed = urlparse(url)
+    # パス + クエリを正規化（末尾スラッシュ除去）
+    return parsed.path.rstrip("/")
+
+
+def _title_prefix(title: str, length: int = 20) -> str:
+    """タイトルの先頭N文字を返す（タイトル類似度の簡易チェック用）"""
+    return title.strip()[:length].strip()
+
+
+def _is_duplicate(article: Dict[str, Any], prev_urls: set, prev_url_paths: set, prev_title_prefixes: set) -> bool:
+    """記事が過去の候補と重複しているかを複数シグナルで判定"""
+    url = article.get("url", "")
+    title = article.get("title", "")
+
+    # 1. URL完全一致
+    if url in prev_urls:
+        return True
+
+    # 2. URLパス一致（ドメイン違い、同一記事）
+    path = _normalize_url_path(url)
+    if path and path in prev_url_paths:
+        return True
+
+    # 3. タイトル先頭一致
+    prefix = _title_prefix(title)
+    if prefix and prefix in prev_title_prefixes:
+        return True
+
+    return False
+
+
+def load_previous_candidates(days_back: int = 2) -> tuple:
+    """過去の候補ファイルからURL・タイトルを取得し、重複除外に使用する
+
+    Args:
+        days_back: 何日前まで遡って重複チェックするか
+
+    Returns:
+        (urls: set, url_paths: set, title_prefixes: set)
+    """
+    github_token = os.environ.get("GITHUB_TOKEN")
+    if not github_token:
+        log("GITHUB_TOKEN not set, skipping dedup")
+        return set(), set(), set()
+
+    repo_name = os.environ.get("GITHUB_REPOSITORY", "octmarker/ai-news-bot")
+    now = get_jst_now()
+
+    all_urls = set()
+    all_url_paths = set()
+    all_title_prefixes = set()
+
+    try:
+        auth = Auth.Token(github_token)
+        g = Github(auth=auth)
+        repo = g.get_repo(repo_name)
+
+        for days_ago in range(1, days_back + 1):
+            date_str = (now - timedelta(days=days_ago)).strftime("%Y-%m-%d")
+
+            for ext in [".json", ".md"]:
+                path = f"news/{date_str}-candidates{ext}"
+                try:
+                    file_content = repo.get_contents(path, ref="main")
+                    text = file_content.decoded_content.decode("utf-8")
+
+                    if ext == ".json":
+                        data = json.loads(text)
+                        for a in data.get("articles", []):
+                            url = a.get("url", "")
+                            title = a.get("title", "")
+                            if url:
+                                all_urls.add(url)
+                                all_url_paths.add(_normalize_url_path(url))
+                            if title:
+                                all_title_prefixes.add(_title_prefix(title))
+                    else:
+                        urls = set(_re.findall(r'URL:\s*(https?://\S+)', text))
+                        all_urls.update(urls)
+                        for url in urls:
+                            all_url_paths.add(_normalize_url_path(url))
+                        # mdからタイトルも抽出（番号付きリスト形式）
+                        titles = _re.findall(r'^\d+\.\s+(.+)$', text, _re.MULTILINE)
+                        for title in titles:
+                            all_title_prefixes.add(_title_prefix(title))
+
+                    log(f"Loaded previous candidates from {path}")
+                    break  # json found, skip md
+                except GithubException as e:
+                    if e.status == 404:
+                        continue
+                    raise
+
+        log(f"Dedup data: {len(all_urls)} URLs, {len(all_url_paths)} paths, {len(all_title_prefixes)} title prefixes")
+        return all_urls, all_url_paths, all_title_prefixes
+
+    except Exception as e:
+        log(f"Error loading previous candidates: {e}")
+        return set(), set(), set()
+
+
 def collect_candidates(today: str, yesterday: str, preferences: Dict[str, Any]) -> Optional[List[Dict[str, Any]]]:
     """ニュース候補を収集（GNews API + 本文取得 + Gemini フィルタリング + 要約）"""
     api_key = os.environ.get("GEMINI_API_KEY")
@@ -679,12 +819,13 @@ def collect_candidates(today: str, yesterday: str, preferences: Dict[str, Any]) 
     category_distribution = search_config.get("category_distribution", {})
     serendipity_ratio = search_config.get("serendipity_ratio", 0.0)
     learning_phase = preferences.get("learning_phase", 0)
+    learned_interests = preferences.get("learned_interests", {})
 
     # Stage 1: Collect articles from GNews API
     try:
         articles = collect_multi_category_articles(
             preferences=preferences,
-            articles_per_category=12
+            total_articles=30
         )
         log(f"Collected {len(articles)} articles from GNews API")
 
@@ -694,6 +835,15 @@ def collect_candidates(today: str, yesterday: str, preferences: Dict[str, Any]) 
     except Exception as e:
         log(f"Error collecting from GNews API: {e}")
         return None
+
+    # Stage 1.5: Remove articles that appeared in previous candidates (multi-signal dedup)
+    prev_urls, prev_url_paths, prev_title_prefixes = load_previous_candidates(days_back=2)
+    if prev_urls or prev_title_prefixes:
+        before = len(articles)
+        articles = [a for a in articles if not _is_duplicate(a, prev_urls, prev_url_paths, prev_title_prefixes)]
+        removed = before - len(articles)
+        if removed > 0:
+            log(f"Removed {removed} duplicate articles from previous days")
 
     # Stage 2: Fetch article contents (filter out failures)
     articles = fetch_article_contents(articles)
@@ -709,7 +859,8 @@ def collect_candidates(today: str, yesterday: str, preferences: Dict[str, Any]) 
         preferred_sources=preferred_sources,
         category_distribution=category_distribution,
         serendipity_ratio=serendipity_ratio,
-        learning_phase=learning_phase
+        learning_phase=learning_phase,
+        learned_interests=learned_interests
     )
 
     gen_config = types.GenerateContentConfig()
