@@ -1,0 +1,157 @@
+{
+  "date": "2026-02-20",
+  "articles": [
+    {
+      "number": 1,
+      "title": "AI's cold shoulder?",
+      "source": "CNBC",
+      "description": "",
+      "url": "https://www.cnbc.com/2026/02/19/openai-sam-altman-anthropic-dario-amodei-india-ai-summit.html",
+      "category": "経済・金融",
+      "published_at": "2026-02-19",
+      "summary": {
+        "headline": "AI巨頭、アルトマンとアモデイが握手拒否",
+        "key_points": [
+          "インドのAIサミットで、OpenAIのサム・アルトマンとAnthropicのダリオ・アモデイが、グループ写真撮影時に握手をせず拳を上げた。",
+          "この行動は、ChatGPTを開発するOpenAIとClaudeを開発するAnthropicの間で激化するAI市場競争の緊張関係を象徴している。",
+          "両社はAIモデルの標準化を巡り競い、広告戦略やAIの安全性についても公然と意見を対立させている。"
+        ],
+        "detailed_summary": "インドのAIインパクトサミットで、OpenAIのサム・アルトマン氏とAnthropicのダリオ・アモデイ氏が、政治・技術リーダーとのグループ写真撮影時に握手をせず、代わりに拳を上げた。これは、ChatGPTを開発するOpenAIとClaudeを開発するAnthropicの間で激化するAI市場競争における顕著な緊張関係を浮き彫りにした。両社はAIモデルの標準化を目指し、広告戦略やAIの安全性に関する見解でも公然と対立。AnthropicはOpenAIの元社員が設立した経緯もあり、「安全性第一」を掲げている。この出来事はSNSでも大きな話題となり、AI業界の二大巨頭間のライバル関係が明確になった。",
+        "why_it_matters": "このニュースは、世界のAI市場を牽引する二大企業間の激しい競争が、公式の場での行動や発言を通じて明確になった点で重要です。彼らの競争は、AI技術の進化や普及、さらにはAIが社会に与える影響の方向性を大きく左右する可能性があります。"
+      }
+    },
+    {
+      "number": 2,
+      "title": "For open source programs, AI coding tools are a mixed blessing",
+      "source": "TechCrunch",
+      "description": "",
+      "url": "https://techcrunch.com/2026/02/19/for-open-source-programs-ai-coding-tools-are-a-mixed-blessing/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-02-19",
+      "summary": {
+        "headline": "AIコーディングツール、オープンソースに課題",
+        "key_points": [
+          "AIコーディングツールはオープンソースのコード品質を低下させ、低品質な「AIスロップ」の氾濫を招いている。",
+          "VLCやBlenderなどのプロジェクトで、低品質な貢献がレビューアの負担を増やし、cURLのバグ報奨金プログラム停止にもつながった。",
+          "新機能の構築は容易になる一方、維持の難しさや、安定性を重視するオープンソースの優先順位との不一致が課題となっている。"
+        ],
+        "detailed_summary": "AIコーディングツールは、ソフトウェア開発を安価にし、オープンソースプロジェクトに恩恵をもたらすと期待されました。しかし実際には、その影響は賛否両論です。AIが参入障壁を下げた結果、VLCやBlenderといったオープンソースプロジェクトでは、低品質なコード（「AIスロップ」）が氾濫し、レビューアの負担を増大させています。これにより、一部のプロジェクトではバグ報奨金プログラムの停止や、貢献者を制限する動きも見られます。新機能の構築は容易になったものの、その維持は依然として困難であり、安定性を重視するオープンソースの目標との間で優先順位の乖離が生じています。ただし、経験豊富な開発者が活用すれば、新しいモジュールの構築など有用な面も存在します。",
+        "why_it_matters": "AIがソフトウェア開発の未来を大きく変える中で、オープンソースコミュニティが直面する具体的な課題と、その解決策が今後のソフトウェアエコシステムの健全性に影響を与えるため重要です。AIツールの導入が単純な効率化だけでなく、品質維持や管理体制の再構築を迫っている現実を示しています。"
+      }
+    },
+    {
+      "number": 3,
+      "title": "Google says its AI systems helped deter Play Store malware in 2025",
+      "source": "TechCrunch",
+      "description": "",
+      "url": "https://techcrunch.com/2026/02/19/google-says-its-ai-systems-helped-deter-play-store-malware-in-2025/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-02-19",
+      "summary": {
+        "headline": "Google AIがPlay Store不正アプリを抑制",
+        "key_points": [
+          "Googleは2025年にPlay Storeで175万件のポリシー違反アプリ公開を阻止し、前年より大幅に減少したと報告。",
+          "この減少は、AI技術と強化されたセキュリティシステムへのGoogleの投資によるものとされており、悪質な開発者アカウントのBAN数も減少。",
+          "AIを活用した多層防御や生成AIモデルの審査への統合が、悪質なアクターのPlay Storeへの侵入を抑制している。"
+        ],
+        "detailed_summary": "Googleの最新報告によると、2025年にPlay Storeでのポリシー違反アプリの公開を175万件阻止し、前年の236万件から減少しました。悪質な開発者アカウントのBAN数も大幅に減少しており、この成果はAI技術を含むセキュリティシステムへの大規模な投資によるものとGoogleは説明しています。AIを活用した多層防御や生成AIモデルの審査プロセスへの導入が、悪質なアプリの発見を加速させ、悪質なアクターのPlay Storeへの参入を抑制していると強調。一方で、Google Play ProtectによるPlay Store外での悪質アプリの特定数は2700万件に増加しており、悪質なアクターがPlay Storeを避け、他の経路でユーザーを標的にしている可能性が示唆されています。Googleは2026年もAI投資を強化し、新たな脅威への対策を進める方針です。",
+        "why_it_matters": "このニュースは、GoogleのAI投資がデジタルプラットフォームの安全性向上に貢献していることを示し、AIがサイバーセキュリティ分野で果たす重要な役割を浮き彫りにしています。ユーザーの安全を確保する上でAIが不可欠なツールとなっている現状を反映しています。"
+      }
+    },
+    {
+      "number": 4,
+      "title": "Nvidia is in talks to invest up to $30 billion in OpenAI, source says",
+      "source": "CNBC",
+      "description": "",
+      "url": "https://www.cnbc.com/2026/02/19/nvidia-is-in-talks-to-invest-up-to-30-billion-in-openai-source-says.html",
+      "category": "経済・金融",
+      "published_at": "2026-02-19",
+      "summary": {
+        "headline": "Nvidia、OpenAIに最大300億ドル投資協議",
+        "key_points": [
+          "NvidiaがAIスタートアップOpenAIに最大300億ドルの出資を協議中であり、OpenAIの評価額は7300億ドルに上る見込み。",
+          "この投資は、昨年9月に発表された1000億ドル規模のスーパーコンピューティングインフラ合意とは別の、新たな資金調達の一環である。",
+          "OpenAIはAmazonやMicrosoftを含む他の投資家とも、総額1000億ドル規模の資金調達ラウンドを進めている。"
+        ],
+        "detailed_summary": "Nvidiaが、AIスタートアップOpenAIに対し最大300億ドルの投資を検討していることが確認された。これはOpenAIのプレマネー評価額が7300億ドルに達する可能性のある新たな資金調達ラウンドの一部となる。この巨額投資は、昨年9月にNvidiaとOpenAIが発表した1000億ドル規模のスーパーコンピューティングインフラに関する合意とは別物であり、展開マイルストーンに紐づかない。合意はまだ最終段階ではないが、OpenAIはAmazonやMicrosoftを含む他の戦略的投資家とも、総額1000億ドル規模の資金調達を進めており、AI業界における大規模な資金移動と提携が活発化していることを示唆している。",
+        "why_it_matters": "AIチップ市場を支配するNvidiaとAIモデル開発をリードするOpenAIの巨額提携は、AI技術の加速と市場競争に大きな影響を与え、AI業界の将来的な勢力図を形成する上で極めて重要である。"
+      }
+    },
+    {
+      "number": 5,
+      "title": "Google DeepMind wants to know if chatbots are just virtue signaling",
+      "source": "MIT Technology Review",
+      "description": "",
+      "url": "https://www.technologyreview.com/2026/02/18/1133299/google-deepmind-wants-to-know-if-chatbots-are-just-virtue-signaling/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-02-20",
+      "summary": {
+        "headline": "Google DeepMind、LLMの道徳性検証強化",
+        "key_points": [
+          "Google DeepMindは、LLMの道徳的行動を、そのコーディングや数学能力と同等の厳しさで検証するよう提唱している。",
+          "LLMは倫理的助言で高く評価される一方、質問形式や反論によって回答を容易に翻すなど、道徳的信頼性に課題がある。",
+          "真の道徳的推論か単なる模倣かを見極めるため、回答の堅牢性や思考プロセスを評価する厳密なテスト手法の開発が求められている。"
+        ],
+        "detailed_summary": "Google DeepMindは、大規模言語モデル（LLM）がコンパニオンや医療アドバイザーなど、人々の生活でより重要な役割を担うにあたり、その道徳的行動をコーディングや数学能力と同等の厳しさで検証すべきだと提唱しています。LLMは倫理的助言において人間を上回る評価を得るケースがある一方で、質問の形式や反論によって回答を容易に翻すなど、その道徳的信頼性には疑問が呈されています。これが真の道徳的推論によるものなのか、単なる模倣（virtue signaling）なのかを見極めることが重要です。研究者たちは、モデルが回答を翻すか、複雑な道徳的問題に対してニュアンスのある回答を生成するか、また回答に至るまでの思考プロセスを提示させるなど、LLMの道徳的コンピテンシーをより堅牢に評価するための厳密なテスト手法の開発を呼びかけています。",
+        "why_it_matters": "LLMが人々の生活でより重要な役割を果たすようになるにつれて、その道徳的信頼性は不可欠であり、本提案はAIの倫理的かつ安全な発展に向けた重要な一歩となります。"
+      }
+    },
+    {
+      "number": 6,
+      "title": "LLMs contain a LOT of parameters. But what’s a parameter?",
+      "source": "MIT Technology Review",
+      "description": "",
+      "url": "https://www.technologyreview.com/2026/01/07/1130795/what-even-is-a-parameter/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-02-20",
+      "summary": {
+        "headline": "大規模言語モデルの「パラメータ」を解説",
+        "key_points": [
+          "パラメータはLLMの挙動を制御する「ダイヤルとレバー」であり、AIモデルを動かす根幹をなす膨大な数値の集合である。",
+          "その値は、トレーニング中にアルゴリズムによって繰り返し更新され、モデルが望ましい性能を発揮するように調整される。",
+          "パラメータには「エンベディング」「重み」「バイアス」があり、エンベディングは単語の意味を捉える数値のリスト（例：4096次元のベクトル）として機能する。"
+        ],
+        "detailed_summary": "この記事は、大規模言語モデル（LLM）の核心である「パラメータ」について解説しています。パラメータとは、LLMの挙動を司る膨大な数値の集合であり、その値はトレーニングプロセス中にアルゴリズムによって繰り返し調整されます。GPT-3のようなモデルでは数千億個のパラメータが存在し、それぞれが数万回更新されるため、モデルのトレーニングには膨大な計算量とエネルギーを要します。パラメータには「エンベディング」「重み」「バイアス」といった種類があり、中でもエンベディングは、単語やトークンの意味を捉えるために割り当てられる高次元の数値ベクトル（例：4096次元のリスト）です。これらのパラメータの調整が、LLMの驚くべき能力を支えています。",
+        "why_it_matters": "パラメータの理解は、LLMの仕組みや能力、そしてその開発にかかるコストや課題を深く理解するために不可欠です。これらの「神秘的な数字」が、AI技術の進化と未来を形作っています。"
+      }
+    },
+    {
+      "number": 7,
+      "title": "Microsoft has a new plan to prove what’s real and what’s AI online",
+      "source": "MIT Technology Review",
+      "description": "",
+      "url": "https://www.technologyreview.com/2026/02/19/1133360/microsoft-has-a-new-plan-to-prove-whats-real-and-whats-ai-online/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-02-20",
+      "summary": {
+        "headline": "MSがAIと現実区別へ新計画提案",
+        "key_points": [
+          "Microsoftは、オンラインで蔓延するAIによる欺瞞に対処するため、AI企業とSNSプラットフォームに技術標準の採用を提案。",
+          "デジタルコンテンツの来歴や操作の有無を検証する手法（来歴記録、透かし、デジタル署名など）を評価し、信頼性の高い組み合わせを推奨。",
+          "Microsoftは自社プラットフォームでの全面的導入を明言しておらず、このツールはコンテンツの真偽ではなく操作の有無を特定するに過ぎないという限界も指摘されている。"
+        ],
+        "detailed_summary": "Microsoftは、オンラインで蔓延するAIによる欺瞞に対処するため、AI企業やソーシャルメディアプラットフォームが採用すべき技術標準の青写真を発表した。これは、デジタルコンテンツの来歴や操作の有無を検証する複数の手法（例：来歴記録、機械読み取り可能な透かし）を評価し、信頼性の高い組み合わせを推奨するものだ。背景にはAIの急速な発展と法規制の動きがある。ただし、Microsoftは自社プラットフォームへの全面的な適用を明確にしておらず、また、このツールはコンテンツの真偽ではなく操作の有無を特定するに過ぎないという限界も指摘されている。専門家からは、欺瞞を減らす大きな一歩と評価される一方、人々のAIコンテンツへの影響力に関する課題も示唆されている。",
+        "why_it_matters": "AI生成コンテンツが社会に与える影響が深刻化する中、Microsoftのこの提案は、デジタル情報の信頼性を確保するための業界全体の取り組みを促す可能性があるため重要だ。しかし、技術的限界や企業自身のコミットメント不足が課題となる。"
+      }
+    },
+    {
+      "number": 8,
+      "title": "Meet the new biologists treating LLMs like aliens",
+      "source": "MIT Technology Review",
+      "description": "",
+      "url": "https://www.technologyreview.com/2026/01/12/1129782/ai-large-language-models-biology-alien-autopsy/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-02-20",
+      "summary": {
+        "headline": "巨大LLMの謎を解く「生物学」的探求",
+        "key_points": [
+          "大規模言語モデル（LLM）は人間が全体像を把握できないほど巨大かつ複雑で、その動作原理は謎に包まれている。",
+          "研究者たちはLLMを「コンピュータプログラム」ではなく「巨大な生命体」と見なし、生物学や神経科学の手法を用いて内部メカニズムを解明しようとしている。",
+          "このアプローチにより、LLMの得意・不得意や予期せぬ行動の背景が以前よりも明確になりつつあり、幻覚やリスク管理への道が開かれる可能性がある。"
+        ],
+        "detailed_summary": "大規模言語モデル（LLM）はGPT-4oのように極めて巨大かつ複雑で、開発者でさえその全体像や動作原理を完全に理解できていない。この理解不足は、LLMの幻覚や誤情報拡散のリスク、効果的な安全策の設定といった深刻な課題を引き起こしている。\nOpenAIやAnthropicの研究者たちは、LLMを単なるプログラムではなく「都市サイズの生命体（エイリアン）」と見立て、生物学や神経科学の手法を用いてその内部メカニズムを解明する新たなアプローチを導入。彼らは、モデル内部の数兆のパラメータやアクティベーションのパターンを分析し、「メカニスティックな解釈可能性」を通じて動作原理を明らかにしようとしている。\nこの斬新な研究により、LLMの得意・不得意や予期せぬ行動の背景が以前より明確になりつつあり、信頼性の向上やリスク軽減、より安全なAIシステムの構築に不可欠な知見をもたらすと期待されている。",
+        "why_it_matters": "大規模言語モデルのブラックボックス的な性質を解明することは、その潜在的なリスク（幻覚、誤情報）を管理し、社会に統合されるAIをより安全で信頼性の高いものにする上で極めて重要である。"
+      }
+    }
+  ]
+}
