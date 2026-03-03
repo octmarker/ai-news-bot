@@ -1,0 +1,276 @@
+{
+  "date": "2026-03-03",
+  "mode": "multimode",
+  "articles": [
+    {
+      "number": 1,
+      "title": "ユーザーがChatGPTからClaudeへ移行中 ― 乗り換え方法のガイド",
+      "source": "TechCrunch",
+      "description": "",
+      "url": "https://techcrunch.com/2026/03/02/users-are-ditching-chatgpt-for-claude-heres-how-to-make-the-switch/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-03-02",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 1,
+        "title_ja": "ユーザーがChatGPTからClaudeへ移行中 ― 乗り換え方法のガイド",
+        "headline": "OpenAIへの反発でClaudeへの移行者が急増",
+        "key_points": [
+          "OpenAIの国防総省との提携に対し、プライバシーや倫理面の懸念が拡大",
+          "軍事利用を拒否したAnthropic社のClaudeがApp Storeで首位に",
+          "ChatGPTからClaudeへデータを移行するための具体的な手順を解説"
+        ],
+        "detailed_summary": "OpenAIが国防総省と提携し、AI技術を軍事利用に提供する道を開いたことに対し、多くのユーザーが反発しています。一方で、監視や自律兵器への利用を拒否したAnthropic社の「Claude」は、その倫理的姿勢が支持され、米App Storeの無料アプリランキングでChatGPTを抜いて首位に立ちました。利用者は過去最高を記録しており、有料会員数も倍増しています。本記事では、ChatGPTに蓄積されたパーソナライズデータや対話履歴をエクスポートし、スムーズにClaudeへ乗り換えるための具体的な設定方法や手順を紹介しています。",
+        "why_it_matters": "AI開発企業の倫理的方針がユーザーの選択に直結し始めており、業界内での勢力図が大きく塗り替わる可能性を示唆しています。"
+      }
+    },
+    {
+      "number": 2,
+      "title": "OpenAIの国防総省との「妥協」はAnthropicが危惧した内容そのもの",
+      "source": "MIT Technology Review",
+      "description": "",
+      "url": "https://www.technologyreview.com/2026/03/02/1133850/openais-compromise-with-the-pentagon-is-what-anthropic-feared/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-03-03",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 2,
+        "title_ja": "OpenAIの国防総省との「妥協」はAnthropicが危惧した内容そのもの",
+        "headline": "OpenAIと米軍の提携は「法的な妥協」か",
+        "key_points": [
+          "OpenAIはAnthropicが拒否した国防総省との契約を「実利的に」締結",
+          "明確な禁止条項ではなく、既存の法律遵守を前提とした緩やかな合意",
+          "社内や支持者からは、倫理的境界線の後退を懸念する声が上がる"
+        ],
+        "detailed_summary": "OpenAIは米国防総省と、機密環境下での技術利用を認める契約を締結しました。先行して交渉していたAnthropicは、軍による監視や自律兵器への利用を明示的に禁止する契約を求めましたが、OpenAIはより柔軟で「実利的」な法的アプローチを選択しました。OpenAIは「現行法に抵触しない範囲」での利用を認める形をとっており、これが実質的に軍への譲歩であるとの批判を招いています。地政学的緊張が高まる中、AI企業が政府と結ぶ協力関係の深さと、それに伴う倫理的責任が問われています。",
+        "why_it_matters": "AIの軍事利用における「禁止事項」の定義が曖昧になることで、将来的な技術の悪用や人権侵害のリスクが高まる懸念があります。"
+      }
+    },
+    {
+      "number": 3,
+      "title": "ChatGPTの「学習モード（Study Mode）」が登場",
+      "source": "OpenAI",
+      "description": "",
+      "url": "https://openai.com/index/chatgpt-study-mode/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-03-03",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 3,
+        "title_ja": "ChatGPTの「学習モード（Study Mode）」が登場",
+        "headline": "答えではなく「考え方」を教える新モードが開始",
+        "key_points": [
+          "ソクラテス式問答を用い、段階的なヒントで理解を深める学習支援機能",
+          "教育学者や教師と協力し、認知負荷の管理や批判的思考を促す設計",
+          "FreeやPlusなど、教育版を含む各プランのユーザーが利用可能"
+        ],
+        "detailed_summary": "OpenAIは、ChatGPTに教育に特化した「学習モード」を導入しました。これは単に正解を提示するのではなく、対話を通じて学生に考えさせ、段階的に解決へと導く機能です。教育専門家との協力により開発され、能動的な学習を促すための「問いかけ」や、情報を整理して提示する「足場かけ」、知識の定着を確認するクイズなどが含まれています。AIが宿題の代行ツールになるという懸念に対し、学習プロセスそのものをサポートするツールへと進化させることで、教育現場での健全なAI活用を目指しています。",
+        "why_it_matters": "教育におけるAIの役割が「回答提供者」から「個別指導教官」へとシフトし、学習効率の向上と教育格差の是正に寄与する可能性があります。"
+      }
+    },
+    {
+      "number": 4,
+      "title": "Stripe、AIコストを利益に変える新機能を発表",
+      "source": "TechCrunch",
+      "description": "",
+      "url": "https://techcrunch.com/2026/03/02/stripe-wants-to-turn-your-ai-costs-into-a-profit-center/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-03-02",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 4,
+        "title_ja": "Stripe、AIコストを利益に変える新機能を発表",
+        "headline": "AIトークン利用料に利益を乗せて自動請求可能に",
+        "key_points": [
+          "LLMのトークン使用料を顧客に転嫁し、利益率を上乗せする新機能",
+          "スタートアップがAIエージェントの多用で赤字になるリスクを回避",
+          "VercelやOpenRouterなどの主要なAIゲートウェイとも連携"
+        ],
+        "detailed_summary": "決済大手のStripeは、AIスタートアップがLLM（大規模言語モデル）の運用コストを管理・収益化するための新機能を発表しました。この機能により、企業は顧客が消費したトークン代に、例えば30%の利益を自動で上乗せして請求できるようになります。特に消費量の予測が困難な「自律型エージェント」を提供する場合、固定額プランでは利用過多により赤字になるリスクがありますが、この従量課金モデルにより健全な利益率を維持できます。Stripeは独自のAIゲートウェイに加え、外部の人気ツールとの統合も進めています。",
+        "why_it_matters": "AIビジネスにおける最大の課題である「コスト管理と収益化」の仕組みを簡素化し、スタートアップの生存率と持続可能性を高める重要なインフラとなります。"
+      }
+    },
+    {
+      "number": 5,
+      "title": "AWS、ドローン攻撃でUAEなどの中東3拠点停止　イランとの戦闘激化で",
+      "source": "日本経済新聞",
+      "description": "",
+      "url": "https://www.nikkei.com/article/DGXZQOGN031Y20T00C26A3000000/",
+      "category": "経済・金融",
+      "published_at": "2026-03-03",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 1,
+        "title_ja": "AWS、ドローン攻撃でUAEなどの中東3拠点停止　イランとの戦闘激化で",
+        "headline": "中東のAWS拠点にドローン攻撃、軍事衝突の余波広がる",
+        "key_points": [
+          "UAEとバーレーンのデータセンター3拠点が直接的・間接的な被害",
+          "米国・イスラエルによるイラン空爆とハメネイ師死亡の報道が背景",
+          "地政学的リスクが物理的なITインフラを破壊する異例の事態に"
+        ],
+        "detailed_summary": "クラウド最大手のアマゾン・ウェブ・サービス（AWS）は、アラブ首長国連邦（UAE）とバーレーンにある3つのデータセンター拠点がドローン攻撃を受け、サービスが停止したと発表しました。この攻撃は、米国とイスラエルがイランのテヘランを空爆し、イランの最高指導者ハメネイ師が死亡したとされる軍事衝突の激化に伴うものです。UAEでは2拠点に直接攻撃があり、バーレーンでは近隣への攻撃が影響しました。中東地域の重要なITインフラが物理的な戦闘の標的となり、デジタル経済にも深刻な影を落としています。",
+        "why_it_matters": "地政学的な紛争がクラウドインフラという現代社会の基盤を直接標的としたことで、グローバルなIT供給網の脆弱性とリスクが浮き彫りになりました。"
+      }
+    },
+    {
+      "number": 6,
+      "title": "LLM時代のデータエンジニアリング：文脈こそが新たなフロンティア",
+      "source": "kdnuggets.com",
+      "description": "",
+      "url": "https://www.kdnuggets.com/data-engineering-for-the-llm-age",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-03-03",
+      "mode": "deep_dive",
+      "summary": {
+        "article_index": 2,
+        "title_ja": "LLM時代のデータエンジニアリング：文脈こそが新たなフロンティア",
+        "headline": "AIの性能を左右する「AIレディ」なデータ基盤の構築",
+        "key_points": [
+          "BI向けの構造化データからAI向けの非構造化データ管理へ転換",
+          "RAGアーキテクチャがLLMの推論と知識補完において中核を担う",
+          "学習・推論・評価の全フェーズで新しいデータパイプラインが必要"
+        ],
+        "detailed_summary": "LLMの普及に伴い、データエンジニアリングの役割は「ビジネスインテリジェンス（BI）」から「AI対応」へと進化しています。従来の構造化データだけでなく、PDFやコードなどの非構造化データをモデルが理解・推論できる形式に変換することが不可欠となりました。具体的には、モデルの事前学習だけでなく、RAG（検索拡張生成）を用いた推論時の文脈提供、さらにはモデルの正確性を検証する評価パイプラインの構築が重要です。AIの性能はモデルそのもの以上に、それを支えるデータの質とパイプラインの設計に依存する時代に突入しています。",
+        "why_it_matters": "高性能なAIモデルをビジネスで実用化するためには、モデルのアルゴリズム以上に、その背後にあるデータの管理・加工技術が重要であることを示唆しています。"
+      }
+    },
+    {
+      "number": 7,
+      "title": "FigmaがMCPを通じてClaude CodeおよびCodexと連携",
+      "source": "Web Search",
+      "description": "",
+      "url": "https://techinformed.com/figma-connects-codex-and-claude-code-via-mcp/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-03-03",
+      "mode": "deep_dive",
+      "summary": {
+        "article_index": 3,
+        "title_ja": "FigmaがMCPを通じてClaude CodeおよびCodexと連携",
+        "headline": "Figma、MCPでAIコーディングツールとの双方向連携を実現",
+        "key_points": [
+          "共通プロトコルMCPを採用し、AIエージェントとデザインを接続",
+          "稼働中のUIをFigmaに復元し、修正後にコードへ戻す連携が可能に",
+          "OpenAIとAnthropicという競合両社のツールと同時に提携"
+        ],
+        "detailed_summary": "デザインツールのFigmaは、Anthropicの「Claude Code」およびOpenAIの「Codex」との統合を発表しました。これは共通規格「Model Context Protocol（MCP）」を利用したもので、エンジニアは稼働中のUIをFigma上の編集可能なレイヤーとして取り込み、デザイン調整後に再びAIエージェントを介してコードへ反映させるという、シームレスな往復作業が可能になります。特定のベンダーに依存せず、オープンな標準を介して複数のAIツールと連携することで、デザイナーとエンジニアの境界を曖昧にし、開発の意思決定を加速させる狙いがあります。",
+        "why_it_matters": "デザインとコードの断絶を解消する共通プロトコルの普及により、AIを活用したソフトウェア開発のスピードと創造性が飛躍的に向上する可能性があります。"
+      }
+    },
+    {
+      "number": 8,
+      "title": "Anthropicが他社からの乗り換え機能を強化、米国防省との対立も",
+      "source": "gizmodo.com",
+      "description": "",
+      "url": "https://gizmodo.com/anthropic-improves-feature-to-switch-from-competitors-as-users-call-for-chatgpt-boycott-2000728352",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-03-03",
+      "mode": "deep_dive",
+      "summary": {
+        "article_index": 4,
+        "title_ja": "Anthropicが他社からの乗り換え機能を強化、米国防省との対立も",
+        "headline": "米国防省との対立でClaudeが急伸、他社からの移行も容易に",
+        "key_points": [
+          "他社チャットボットの設定や記憶をClaudeへ引き継ぐ新機能を導入",
+          "軍事利用の制限を求め米国防省と対立し、ブラックリストに登録",
+          "倫理的姿勢への支持からClaudeがApp Storeで首位を獲得"
+        ],
+        "detailed_summary": "Anthropicは、ChatGPTなどの他社サービスから記憶や設定を簡単に移行できるツールを公開しました。一方で同社は、自社技術を自律型兵器や国内監視に利用させないという制限を求めたことで米国防省と対立。国防省は同社を供給網リスクとしてブラックリストに登録し、直後にOpenAIが国防省と契約を結ぶ事態となりました。しかし、このAnthropicの倫理的姿勢がユーザーの支持を集め、ClaudeはApp Storeで無料アプリ首位を獲得しました。AIの軍事利用を巡る企業の姿勢が、市場シェアを大きく動かす要因となっています。",
+        "why_it_matters": "AI企業の倫理基準と軍事利用の是非が、政府との契約だけでなく一般ユーザーの選択やブランド価値にまで直接的な影響を及ぼし始めています。"
+      }
+    },
+    {
+      "number": 9,
+      "title": "Agentic AI vs. アシスタントモード：Blender MCPの新しいベンチマーク",
+      "source": "Web Search",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=agentic-blender-2026",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-03-03",
+      "mode": "deep_dive",
+      "summary": {
+        "article_index": 1,
+        "title_ja": "Agentic AI vs. アシスタントモード：Blender MCPの新しいベンチマーク",
+        "headline": "Blender MCPにおけるAI制御方式の性能比較指標",
+        "key_points": [
+          "自律的な「Agentic AI」と対話型の「アシスタント」の比較",
+          "3DCGソフトBlenderのMCP環境を対象とした評価",
+          "AIの自律性と実行能力を測定する新基準の導入"
+        ],
+        "detailed_summary": "この記事は、3DCG制作ソフトBlenderにおける「Model Context Protocol (MCP)」を活用した、次世代AIの性能評価について触れています。従来のユーザー指示を待つ「アシスタントモード」に対し、AIが自らタスクを計画・実行する「Agentic AI（エージェント的AI）」の優位性と課題を、新しいベンチマークを通じて明らかにしようとする試みです。本文の大部分が定型的な著作権情報ですが、タイトルからはAIが単なる補助ツールから、複雑な制作工程を自律的にこなす主体へと進化している現状が示唆されています。",
+        "why_it_matters": "クリエイティブな制作現場において、AIがどこまで自律的に作業を完結できるかを客観的に評価する基準となり、開発の方向性を左右するためです。"
+      }
+    },
+    {
+      "number": 10,
+      "title": "デザインの次なる時代は「意図主導（インテント・ドリブン）」へ",
+      "source": "uxdesign.cc",
+      "description": "",
+      "url": "https://uxdesign.cc/the-next-era-of-design-is-intent-driven-f789ee521482",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-03-03",
+      "mode": "adjacent",
+      "summary": {
+        "article_index": 2,
+        "title_ja": "デザインの次なる時代は「意図主導（インテント・ドリブン）」へ",
+        "headline": "ユーザーの意図を先読みする適応型UIへの進化",
+        "key_points": [
+          "10個の青いリンクから動的・対話的な回答形式への変遷",
+          "2012年の知識グラフがもたらした文脈理解の重要性",
+          "情報の「検索」から、ユーザーの「意図」への即時対応へ"
+        ],
+        "detailed_summary": "インターフェースデザインの歴史を、1950年代のデータ蓄積時代から現代の「意図主導型」まで辿り、その進化を解説しています。2005年頃の検索は複数のリンクを辿る手動の作業でしたが、Googleの知識グラフ登場を経て、現在はユーザーが検索窓に打ち込む「意図」をAIが理解し、スポーツの試合結果や天気をリアルタイムかつ動的なビジュアルで即座に提供する段階に達しました。ユーザーが情報を探す手間を省き、文脈に沿った最適な回答をインターフェース側が自動生成する、適応型UIの重要性が強調されています。",
+        "why_it_matters": "従来の「検索してページを閲覧する」というWeb体験が終わり、AIがユーザーの目的を察して答えを提示する「ゼロクリック」のUXが標準になることを示しています。"
+      },
+      "adjacent_field": "認知負荷理論とエージェンティックUI (Cognitive Load Theory in HAI)",
+      "adjacent_reasoning": "言語化による思考向上とコンテキストスイッチ削減の重視から、人間がAIエージェントと協調する際の脳の負荷を最小化するインターフェース設計は、個人戦略の鍵となります。"
+    },
+    {
+      "number": 11,
+      "title": "NEP-CG：効率的で高精度な粗視化・マルチスケール神経進化ポテンシャル",
+      "source": "Web Search",
+      "description": "",
+      "url": "https://arxiv.org/abs/2603.01234",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-03-03",
+      "mode": "adjacent",
+      "summary": {
+        "article_index": 3,
+        "title_ja": "NEP-CG：効率的で高精度な粗視化・マルチスケール神経進化ポテンシャル",
+        "headline": "機械学習による高速・高精度な物理シミュレーション手法",
+        "key_points": [
+          "ノイズを抑えた学習データ生成による粗視化（CG）モデルの構築",
+          "水やC60、金ナノワイヤなど多様な物質系での高い再現性",
+          "GPU利用による従来の数千倍の計算速度の実現"
+        ],
+        "detailed_summary": "物理学の計算において、原子レベルの精度を維持しつつ計算負荷を下げる「粗視化（CG）モデル」の新手法を提案しています。神経進化ポテンシャル（NEP）フレームワークを用い、平均力ポテンシャルに基づいてノイズを排除した学習データを作成することで、密度汎関数理論（DFT）に匹敵する精度を実現しました。液体水の密度再現や金ナノワイヤの破断シミュレーションにおいて、高い汎用性と効率性を示しており、民生用GPU1枚で1日に数百から数千ナノ秒分ものシミュレーションが実行可能であるとしています。",
+        "why_it_matters": "材料科学やバイオテクノロジーの分野で、これまで膨大な計算時間を要していた複雑な分子挙動の解析を、大幅に高速化・低コスト化できる画期的な成果です。"
+      },
+      "adjacent_field": "メカニズムデザイン (Incentive Engineering)",
+      "adjacent_reasoning": "マルチエージェントシステムの設計とマクロ経済学の両方に関心があるため、エージェント間の協力や競争をゲーム理論的に最適化する設計思想は、システム構築の根幹となります。"
+    },
+    {
+      "number": 12,
+      "title": "エージェンティック・デザインパターン：自律システム構築の2026年版ガイド",
+      "source": "sitepoint.com",
+      "description": "",
+      "url": "https://www.sitepoint.com/the-definitive-guide-to-agentic-design-patterns-in-2026/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-03-03",
+      "mode": "adjacent",
+      "summary": {
+        "article_index": 4,
+        "title_ja": "エージェンティック・デザインパターン：自律システム構築の2026年版ガイド",
+        "headline": "プロンプトから「フロー」へ、自律型AI構築の6つの型",
+        "key_points": [
+          "単発プロンプトの限界と、推論フロー設計へのパラダイムシフト",
+          "自己批判（Reflection）や計画（Planning）など6つの主要パターン",
+          "特定のフレームワークに依存しない、持続的な設計手法の確立"
+        ],
+        "detailed_summary": "2026年におけるAI開発の主流は、単一のプロンプトを磨く手法から、複雑な「フロー（工程）」を構築する「フローエンジニアリング」へと移行しました。本ガイドでは、AIが自らの回答を修正する「Reflection」や、タスクを細分化する「Planning」、複数のAIが協力する「Multi-Agent Collaboration」など、信頼性の高い自律システムを構築するための6つのデザインパターンを解説しています。特定のライブラリの習得よりも、エラーからの回復や動的な判断を可能にする「型」を理解することの重要性を説いています。",
+        "why_it_matters": "AIを単なるチャットボットではなく、複雑な業務を自動で完結させる「自律エージェント」として実用化するための、決定的な設計指針となっています。"
+      },
+      "adjacent_field": "認知負荷理論とエージェンティックUI (Cognitive Load Theory in HAI)",
+      "adjacent_reasoning": "言語化による思考向上とコンテキストスイッチ削減の重視から、人間がAIエージェントと協調する際の脳の負荷を最小化するインターフェース設計は、個人戦略の鍵となります。"
+    }
+  ]
+}
