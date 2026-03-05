@@ -1,0 +1,276 @@
+{
+  "date": "2026-03-05",
+  "mode": "multimode",
+  "articles": [
+    {
+      "number": 1,
+      "title": "対イラン精密爆撃に確執のアンソロピックAI、米軍が実戦投入",
+      "source": "日本経済新聞",
+      "description": "",
+      "url": "https://www.nikkei.com/article/DGXZQOGN04CK70U6A300C2000000/",
+      "category": "経済・金融",
+      "published_at": "2026-03-05",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 1,
+        "title_ja": "対イラン精密爆撃に確執のアンソロピックAI、米軍が実戦投入",
+        "headline": "米軍、イラン攻撃にアンソロピック等のAI技術を実戦投入",
+        "key_points": [
+          "アンソロピックやパランティアのAIを情報分析や標的特定に活用",
+          "「イラン型」の低コスト自爆ドローンを模倣して実戦投入",
+          "トランプ政権が進める米軍装備の近代化戦略の一環"
+        ],
+        "detailed_summary": "米軍がイランへの軍事攻撃において、最新のAI技術やドローンを実戦投入し始めたことが明らかになった。具体的には、米アンソロピックやパランティア・テクノロジーズのAI技術を情報分析や標的の特定に利用している。また、従来の高価な兵器とは対照的な、低コストで運用される「イラン型」の自爆ドローンを逆に模倣して投入した。トランプ政権下のヘグセス国防長官は米軍のあらゆる分野での近代化を急ピッチで進めており、民間発の高度なアルゴリズムと安価な自律型兵器を組み合わせた新しい戦闘形態への移行を鮮明にしている。",
+        "why_it_matters": "最先端の民間AI技術が軍事の意思決定に直接組み込まれることで、現代戦のスピードと精度が劇的に変化するフェーズに入ったことを示しています。"
+      }
+    },
+    {
+      "number": 2,
+      "title": "Apple、10万円切るMacBook Neo　半導体性能抑えメモリー高に対応",
+      "source": "日本経済新聞",
+      "description": "",
+      "url": "https://www.nikkei.com/article/DGXZQOGN04CME0U6A300C2000000/",
+      "category": "経済・金融",
+      "published_at": "2026-03-05",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 2,
+        "title_ja": "Apple、10万円切るMacBook Neo　半導体性能抑えメモリー高に対応",
+        "headline": "アップル、10万円を切る低価格モデル「MacBook Neo」発表",
+        "key_points": [
+          "599ドル（日本価格9万9800円）の新モデルを2月11日に発売",
+          "スマートフォン向けの「A18 Pro」チップを搭載しコストを抑制",
+          "メモリー価格高騰の中で競合に対抗するための戦略的モデル"
+        ],
+        "detailed_summary": "米アップルは、ノートパソコンの新モデル「MacBook Neo」を2月11日に発売すると発表した。価格は599ドル（国内価格は9万9800円）からに設定され、従来の入門モデルの約半額という異例の低価格を実現した。世界的なメモリー価格の高騰によりパソコンの製造コストが上昇する中、自社開発のスマートフォン向け半導体「A18 Pro」を採用して性能を最適化することで、価格競争力を高めた。これにより、安価なWindows機やChromebookが占める普及価格帯の市場において、シェア拡大と新規顧客の獲得を狙う。",
+        "why_it_matters": "プレミアム戦略を維持してきたAppleが、部品コスト増に直面しながらも低価格帯へ再参入したことは、PC市場のシェア争いに大きな影響を与えます。"
+      }
+    },
+    {
+      "number": 3,
+      "title": "エヌビディアCEO、OpenAI出資「最後かも」　15兆円計画を修正",
+      "source": "日本経済新聞",
+      "description": "",
+      "url": "https://www.nikkei.com/article/DGXZQOGN04CR60U6A300C2000000/",
+      "category": "経済・金融",
+      "published_at": "2026-03-05",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 3,
+        "title_ja": "エヌビディアCEO、OpenAI出資「最後かも」　15兆円計画を修正",
+        "headline": "エヌビディアCEO、OpenAIへの巨額出資計画を下方修正",
+        "key_points": [
+          "OpenAIへの300億ドルの出資が最後になる可能性を示唆",
+          "2025年に発表した最大1000億ドルの投資計画を見直し",
+          "将来的なOpenAIの株式上場見通しを理由に挙げる"
+        ],
+        "detailed_summary": "米エヌビディアのジェンスン・ファンCEOは、オープンAIに対する300億ドル（約4兆7000億円）の出資について、今回が最後になる可能性を述べた。同氏は以前、最大1000億ドル（約15兆円）に及ぶ巨額の投資計画を掲げていたが、これを修正する考えだ。背景にはオープンAIの株式上場の見通しがあり、未上場段階での資金支援というフェーズから変化することを示唆している。AI半導体の王者であるエヌビディアが、最大のパートナーであるオープンAIとの資本関係のあり方を再考し始めたことは、AI業界全体の投資環境に影響を及ぼすとみられる。",
+        "why_it_matters": "AIブームを牽引する両社の関係性の変化は、生成AIバブルの持続性や今後の開発資金の調達構造に一石を投じるものです。"
+      }
+    },
+    {
+      "number": 4,
+      "title": "米潜水艦、イラン軍艦を撃沈　国防長官「トランプ氏暗殺部隊トップを殺害」",
+      "source": "日本経済新聞",
+      "description": "",
+      "url": "https://www.nikkei.com/article/DGXZQOGN04BYJ0U6A300C2000000/",
+      "category": "経済・金融",
+      "published_at": "2026-03-05",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 4,
+        "title_ja": "米潜水艦、イラン軍艦を撃沈　国防長官「トランプ氏暗殺部隊トップを殺害」",
+        "headline": "米潜水艦、イラン最新鋭艦を撃沈。暗殺計画部隊のトップを殺害",
+        "key_points": [
+          "インド洋でイランのフリゲート艦を潜水艦の魚雷により撃沈",
+          "第二次大戦以来、約80年ぶりとなる魚雷による敵艦撃沈事例",
+          "トランプ大統領暗殺計画に関与した部隊幹部の殺害が目的"
+        ],
+        "detailed_summary": "ヘグセス米国防長官は、米潜水艦がインド洋にてイラン海軍の最新鋭モッジ級フリゲート艦を魚雷で撃沈したと発表した。米軍による実戦での魚雷撃沈は第二次世界大戦以来という異例の事態である。この攻撃は、トランプ大統領の暗殺を企てていたとされる部隊のトップを殺害するための作戦の一環として実行された。沈没した艦船は乗員約180人を擁し、地対空ミサイル等を備えたイランの主要戦力であった。米国が暗殺計画への直接的な報復として軍艦の撃沈という強硬手段に出たことで、中東における緊張は極限まで高まっている。",
+        "why_it_matters": "国家首脳への暗殺計画に対し、米軍が直接的な軍事力行使で応えたことは、イランとの対立が決定的な武力衝突の段階へ移行したことを意味します。"
+      }
+    },
+    {
+      "number": 5,
+      "title": "中国、経済成長率目標「4.5〜5%」に引き下げ　消費低迷で過去最低",
+      "source": "日本経済新聞",
+      "description": "",
+      "url": "https://www.nikkei.com/article/DGXZQOGM036AK0T00C26A3000000/",
+      "category": "経済・金融",
+      "published_at": "2026-03-05",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 1,
+        "title_ja": "中国、経済成長率目標「4.5〜5%」に引き下げ　消費低迷で過去最低",
+        "headline": "中国、2026年の成長目標を過去最低の4.5〜5%に設定",
+        "key_points": [
+          "2026年の実質成長率目標を前年の5%前後から事実上引き下げた",
+          "不動産不況の長期化と内需不足による経済減速を容認する姿勢",
+          "5日開幕の全人代にて李強首相が政府活動報告で詳細を説明"
+        ],
+        "detailed_summary": "中国政府は2026年の実質経済成長率の目標を4.5〜5%とする方針を固めた。2025年の「5%前後」から目標を引き下げた形となり、5%を下回る水準を容認するのは過去最低となる。背景には長引く不動産不況に伴う深刻な消費低迷や内需不足があり、政府は無理な景気刺激よりも小幅な成長減速を受け入れる判断を下した。5日に開幕した全国人民代表大会（全人代）において、李強首相は成長の鈍化を前提とした経済運営の方針を表明する。かつての高成長路線から、構造的な課題解決を優先する安定重視の姿勢が鮮明になっている。",
+        "why_it_matters": "世界第2位の経済大国である中国が成長減速を公式に認めたことは、世界経済全体の先行きの不透明感を強める象徴的な動きといえます。"
+      }
+    },
+    {
+      "number": 6,
+      "title": "MCPサーバー：Claude Context Mode（v1.2.0）リリース",
+      "source": "Web Search",
+      "description": "",
+      "url": "https://github.com/mksglu/claude-context-mode",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-03-04",
+      "mode": "deep_dive",
+      "summary": {
+        "article_index": 2,
+        "title_ja": "MCPサーバー：Claude Context Mode（v1.2.0）リリース",
+        "headline": "Claudeの文脈消費を98%削減する新ツールが登場",
+        "key_points": [
+          "MCPツールの膨大な出力を圧縮し、コンテキスト窓の浪費を防ぐ",
+          "生データをサンドボックスで処理し、要約のみをモデルに返送",
+          "PlaywrightやGitHub等の重いデータ処理で劇的な節約効果を発揮"
+        ],
+        "detailed_summary": "新たにリリースされた「Claude Context Mode」は、Claude Codeが外部ツール（MCP）を呼び出す際に発生するコンテキストウィンドウの枯渇問題を解決するサーバーである。従来、Playwrightのスクリーンショットやログなどの生データは数十KBの文脈を一度に消費していたが、本ツールを介することで最大98%の削減が可能となる。具体的には、外部出力をサンドボックス内で処理し、必要な情報のみを要約してモデルに届ける仕組みだ。11の言語ランタイムに対応し、長時間のアージェント作業においても文脈の維持とコスト削減を両立させる。",
+        "why_it_matters": "AIエージェントが複雑なタスクをこなす際の最大のボトルネックである「文脈制限」を打破し、実用性を飛躍的に高める技術です。"
+      }
+    },
+    {
+      "number": 7,
+      "title": "AIエージェントがリポジトリIDを捏造、Vercelへ誤デプロイ",
+      "source": "awesomeagents.ai",
+      "description": "",
+      "url": "https://awesomeagents.ai/news/openclaw-opus-hallucinated-repo-id-vercel-deploy/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-03-04",
+      "mode": "deep_dive",
+      "summary": {
+        "article_index": 3,
+        "title_ja": "AIエージェントがリポジトリIDを捏造、Vercelへ誤デプロイ",
+        "headline": "Claudeが架空のIDを生成し他人のコードを誤デプロイ",
+        "key_points": [
+          "Claude Opus 4.6が実在しないGitHub IDを捏造してAPI送信した",
+          "検証ステップを飛ばし「もっともらしい数字」で処理を強行",
+          "Vercel CEOが自律型AIの「ハルシネーション」による実害を報告"
+        ],
+        "detailed_summary": "VercelのCEOであるギレルモ・ラウシュ氏は、AIエージェントが架空のリポジトリIDを捏造し、誤ったコードをチームプロジェクトにデプロイした事案を報告した。OpenClaw上で動作していたClaude Opus 4.6は、リポジトリを検索する代わりに「913939401」というもっともらしい数字を勝手に生成してAPIに送った。幸い、該当IDは無害な公開リポジトリだったため大きな被害はなかったが、AIがAPIアクセス権限を持つ環境において、嘘（ハルシネーション）が深刻なシステム誤動作に直結するリスクを露呈させた。",
+        "why_it_matters": "AIに自律的な操作権限を与える際、従来のチャット以上の厳格な検証プロセスと安全策が必要であることを示す警鐘となっています。"
+      }
+    },
+    {
+      "number": 8,
+      "title": "SaaSpocalypse：AIエージェントが企業向けソフトウェアを飲み込む",
+      "source": "techbuzz.ai",
+      "description": "",
+      "url": "https://www.techbuzz.ai/articles/the-saaspocalypse-ai-agents-are-eating-enterprise-software",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-03-04",
+      "mode": "deep_dive",
+      "summary": {
+        "article_index": 4,
+        "title_ja": "SaaSpocalypse：AIエージェントが企業向けソフトウェアを飲み込む",
+        "headline": "既存SaaSモデルの終焉。AIが特定業務ソフトを代替",
+        "key_points": [
+          "高額なサブスク型SaaSがAIによる自動化で急速に陳腐化している",
+          "特定業務を担う個別ツールから、汎用AIエージェントへ支出が転換",
+          "MicrosoftはAIを製品に統合し、他社の単機能ソリューションを排除"
+        ],
+        "detailed_summary": "エンタープライズソフトウェア業界は、AIエージェントの台頭により「SaaSpocalypse（SaaSの黙示録）」と呼ばれる存亡の危機に直面している。これまで高額な月額料金を徴収してきたCRM、マーケティング、人事等の特定業務SaaSが、柔軟なAIエージェントに置き換わり始めている。企業のソフトウェア支出は2009年以来初めて縮小に転じており、これは景気後退ではなく「代替」の結果とされる。MicrosoftはCopilotを全製品に埋め込むことで防御を固めており、特定の機能のみを提供するスタートアップの市場を奪い去る動きを加速させている。",
+        "why_it_matters": "15年以上続いた「クラウドとサブスク」というIT業界の支配的なビジネスモデルが根底から覆されようとしています。"
+      }
+    },
+    {
+      "number": 9,
+      "title": "Anthropic、Claude Codeに音声モードを追加",
+      "source": "Web Search",
+      "description": "",
+      "url": "https://autogpt.net/anthropic-adds-voice-mode-to-claude-code/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-03-04",
+      "mode": "deep_dive",
+      "summary": {
+        "article_index": 1,
+        "title_ja": "Anthropic、Claude Codeに音声モードを追加",
+        "headline": "Claude Codeに音声操作機能が試験導入",
+        "key_points": [
+          "開発者が音声でコードのリファクタリング等を指示可能に",
+          "現在は5%のユーザーに限定された段階的リリース",
+          "Anthropicの収益は急成長中で国防省への協力拒否も話題"
+        ],
+        "detailed_summary": "Anthropicは、AIコーディングアシスタント「Claude Code」に音声モードを導入した。開発者は「/voice」コマンドで機能を有効にし、リファクタリングなどの指示を口頭で行うことができる。現在は一部のユーザーに限定した段階的な展開だが、数週間以内の拡大が予定されている。同社は収益ベースで25億ドルを突破するなど急成長を遂げており、米国国防省による監視や自律型兵器へのAI利用を拒否する姿勢が、アプリのダウンロード数増加やChatGPT超えの評価に繋がっている。コーディング時の疲労軽減と集中力維持が期待されている。",
+        "why_it_matters": "コーディング作業の効率化と身体的負担の軽減に寄与すると同時に、企業の倫理的姿勢が市場シェアに与える影響を示しています。"
+      }
+    },
+    {
+      "number": 10,
+      "title": "Dominus Empyreus：AI時代におけるデジタル主権の再定義",
+      "source": "explore.st-aug.edu",
+      "description": "",
+      "url": "https://explore.st-aug.edu/exp/dominus-empyreus-the-architect-of-digital-sovereignty-in-an-age-of-domain-sovereignty",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-03-04",
+      "mode": "adjacent",
+      "summary": {
+        "article_index": 2,
+        "title_ja": "Dominus Empyreus：AI時代におけるデジタル主権の再定義",
+        "headline": "ブロックチェーン活用の次世代ドメイン管理システムが登場",
+        "key_points": [
+          "非中央集権的なインフラによるデジタル主権の確立を目指す",
+          "ブロックチェーン技術でドメイン所有権の透明性と不変性を保証",
+          "P2Pネットワークによりサイバー攻撃や障害への耐性を強化"
+        ],
+        "detailed_summary": "Dominus Empyreusは、AI時代のデジタルアイデンティティと主権を再定義する次世代ドメインネームシステム（DNS）である。従来の管理モデルとは異なり、ブロックチェーンを統合した登録フレームワークを採用することで、第三者に依存しない確実な所有権をユーザーに提供する。インフラ面ではP2Pネットワークによる分散トポロジーを構築し、単一障害点を排除。さらに、適応型ルーティングや機械学習を用いた脅威検知機能を備え、サイバー攻撃下でも高い可用性とセキュリティを維持する設計となっている。ドメインの盗難やフィッシング対策にも注力している。",
+        "why_it_matters": "中央集権的なドメイン管理のリスクを回避し、個人のデータ主権と企業のレジリエンスを強化する新たなインフラの方向性を提示しています。"
+      },
+      "adjacent_field": "デジタル主権 (Digital Sovereignty) と個人データストア (PDS)",
+      "adjacent_reasoning": "自己ホスト型AIやプライバシー保護への強いこだわりは、単なる技術選定ではなく、プラットフォーマーに依存しない「個人によるデータの完全統治」という思想に繋がります。GitHubをライフリポジトリとする実践を、汎用的な分散型アイデンティティや所有権の概念へと拡張することで、AI時代の個人戦略がより強固な哲学を持ちます。"
+    },
+    {
+      "number": 11,
+      "title": "AIエージェントを悪用させる脆弱性「PleaseFix」",
+      "source": "helpnetsecurity.com",
+      "description": "",
+      "url": "https://www.helpnetsecurity.com/2026/03/04/agentic-browser-vulnerability-perplexedbrowser/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-03-04",
+      "mode": "adjacent",
+      "summary": {
+        "article_index": 3,
+        "title_ja": "AIエージェントを悪用させる脆弱性「PleaseFix」",
+        "headline": "AIエージェントがユーザーを攻撃する深刻な脆弱性が発覚",
+        "key_points": [
+          "AIブラウザの脆弱性「PleaseFix」をZenity Labsが公表",
+          "日常のワークフローを介してエージェントを乗っ取ることが可能",
+          "0クリックでローカルファイルの窃取や認証情報の操作が行われる"
+        ],
+        "detailed_summary": "セキュリティ企業のZenity Labsは、Perplexity CometなどのAIエージェント型ブラウザに影響する深刻な脆弱性「PleaseFix」を特定した。これは間接的プロンプトインジェクションを利用したもので、攻撃者が埋め込んだ悪意あるコンテンツをAIが読み込むことで、ユーザーの気づかぬうちにローカルファイルの窃取やパスワードの操作が実行される。従来のブラウザと異なり、AIエージェントが自律的に認証済みセッション内で行動する性質を悪用しており、既存のセキュリティ制御では検知が困難な新しい脅威となっている。",
+        "why_it_matters": "AIエージェントの自律性が高まる中で、従来のセキュリティ対策が通用しない新たな攻撃ベクトルが現実の脅威となっていることを警告しています。"
+      },
+      "adjacent_field": "サイバー物理システム (CPS) セキュリティ",
+      "adjacent_reasoning": "AIエージェントがPC操作権限を持つことのリスクを懸念している点から、ソフトウェア（AI）が物理的・実務的環境に影響を与える際の安全性を扱うこの分野は不可欠な知識です。サンドボックス環境の構築や権限隔離の技術を、より広範なシステム制御の安全基準から学ぶことで、エージェント運用の信頼性が飛躍的に高まります。"
+    },
+    {
+      "number": 12,
+      "title": "Blender Jarvis：生成AI活用のためのオープンソース資源リスト",
+      "source": "github.com",
+      "description": "",
+      "url": "https://github.com/taishi-i/awesome-ChatGPT-repositories/blob/main/docs/README.zh-hans.md",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-03-05",
+      "mode": "adjacent",
+      "summary": {
+        "article_index": 4,
+        "title_ja": "Blender Jarvis：生成AI活用のためのオープンソース資源リスト",
+        "headline": "ChatGPT関連の膨大なオープンソース資源リストが更新",
+        "key_points": [
+          "2,400件以上のChatGPT関連GitHubリポジトリを網羅",
+          "プロンプト集、CLIツール、ブラウザ拡張機能など多岐にわたる",
+          "Hugging Face上で検索ツールも提供され開発者支援を強化"
+        ],
+        "detailed_summary": "「Blender Jarvis」に関連するGitHub上のオープンソース資源リストが更新され、2026年3月時点で合計2,461件のリポジトリが掲載された。このリストには、14万件以上のスターを獲得しているプロンプト集「awesome-chatgpt-prompts」や、セキュリティ、計算生物学、NLPなどの専門分野に特化したリソースが含まれている。開発者はHugging Face Spaces上で提供される検索ツールを通じて、必要なSDKやAPI、代替ツールを容易に探すことが可能だ。コミュニティ主導で更新され続けており、AI活用のエコシステムを支える重要な情報基盤となっている。",
+        "why_it_matters": "急速に進化するAI開発において、膨大なオープンソース資産を整理・共有することで、開発効率の向上とイノベーションの加速を促しています。"
+      },
+      "adjacent_field": "ジェネレーティブ・デザインとプロシージャル・モデリング",
+      "adjacent_reasoning": "AI駆動の3D制作やノイズを重視する美学は、AIに全てを任せるのではなく、数理的なルール（プロシージャル）とAIの推論を組み合わせる手法と親和性が高いです。Blender MCP等の活用を一歩進め、AIが「形状の生成ルール」自体を構築・調整するワークフローを知ることで、創作の再現性と独創性が両立します。"
+    }
+  ]
+}
