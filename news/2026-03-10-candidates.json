@@ -1,0 +1,276 @@
+{
+  "date": "2026-03-10",
+  "mode": "multimode",
+  "articles": [
+    {
+      "number": 1,
+      "title": "OpenAIがAIエージェントの安全確保に向けPromptfooを買収",
+      "source": "TechCrunch",
+      "description": "",
+      "url": "https://techcrunch.com/2026/03/09/openai-acquires-promptfoo-to-secure-its-ai-agents/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-03-09",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 1,
+        "title_ja": "OpenAIがAIエージェントの安全確保に向けPromptfooを買収",
+        "headline": "OpenAIがAIセキュリティ企業のPromptfooを買収",
+        "key_points": [
+          "AIエージェント基盤「OpenAI Frontier」への技術統合",
+          "脆弱性診断（レッドチーミング）の自動化を実現",
+          "買収後もオープンソースツールの提供は継続予定"
+        ],
+        "detailed_summary": "OpenAIは、LLMの脆弱性を保護するAIセキュリティ企業のPromptfooを買収した。この技術は、企業のAIエージェント構築プラットフォーム「OpenAI Frontier」に統合され、自動化されたレッドチーミングやワークフローの監視、リスク管理に活用される。自律的なAIエージェントの普及に伴い、機密データの流出や不正操作のリスクが高まる中、OpenAIは安全性と信頼性を担保することでビジネス利用の拡大を狙う。PromptfooはFortune 500企業の25%以上に導入実績があり、買収後も同社のオープンソース資産の開発は継続される見通しだ。",
+        "why_it_matters": "AIエージェントの自律性が高まる中、商用利用においてセキュリティとコンプライアンスの確保が最大の障壁となっており、その解決を急ぐOpenAIの姿勢を示しています。"
+      }
+    },
+    {
+      "number": 2,
+      "title": "Anthropic、AI生成コードの急増に対応するコードレビューツールを公開",
+      "source": "TechCrunch",
+      "description": "",
+      "url": "https://techcrunch.com/2026/03/09/anthropic-launches-code-review-tool-to-check-flood-of-ai-generated-code/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-03-09",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 2,
+        "title_ja": "Anthropic、AI生成コードの急増に対応するコードレビューツールを公開",
+        "headline": "Anthropic、AI生成コードの脆弱性を防ぐ自動レビュー機能",
+        "key_points": [
+          "AIが生成した大量のコードのバグやリスクを自動検証",
+          "人間によるレビューのボトルネック解消と開発の高速化",
+          "法人向けプランの顧客向けに研究プレビュー版を提供開始"
+        ],
+        "detailed_summary": "Anthropicは、AIが生成したコードのバグやセキュリティ上の懸念を自動でチェックする「Code Review」機能を発表した。AIによるコード生成ツール「Claude Code」の普及により、エンジニアが処理すべきプルリクエストが急増し、開発のボトルネックとなっている現状に対応する。新ツールはGitHubと連携し、AIが生成したコードの品質をAI自身が検証することで、開発サイクルの効率化を目指す。一方で同社は、国防総省による「サプライチェーンリスク」の指定に対し訴訟を提起するなど、急成長する法人事業を守るための法的措置も並行して進めている。",
+        "why_it_matters": "AIによるコード生成の高速化が人間の管理能力を上回りつつある現状で、AI自身が監視役を担う「AIによるAIの管理」が不可欠な段階に入ったことを示唆しています。"
+      }
+    },
+    {
+      "number": 3,
+      "title": "Microsoft、アンソロピックのAI「Cowork」をソフトに搭載",
+      "source": "日本経済新聞",
+      "description": "",
+      "url": "https://www.nikkei.com/article/DGXZQOGN093KY0Z00C26A3000000/",
+      "category": "経済・金融",
+      "published_at": "2026-03-10",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 3,
+        "title_ja": "Microsoft、アンソロピックのAI「Cowork」をソフトに搭載",
+        "headline": "MS、業務ソフトにアンソロピックのAIを統合",
+        "key_points": [
+          "Microsoft 365でAnthropicの「Cowork」を提供開始",
+          "クラウド上のデータを基に資料作成や表計算を自動化",
+          "「コパイロット・コワーク」として試験提供を開始"
+        ],
+        "detailed_summary": "米マイクロソフトは、自社の業務ソフト「Microsoft 365」において、競合関係にある新興企業アンソロピックのAIツール「Cowork（コワーク）」の提供を開始すると発表した。新機能「コパイロット・コワーク」を通じて、ユーザーが保存している電子メールやファイルなどのデータを解析し、プレゼンテーション資料の作成や表計算の自動化を実現する。これまで強力な提携関係にあったOpenAIだけでなく、他社の有力モデルも取り入れることで、法人ユーザーに対してより多様で高度な生成AI機能の選択肢を提供する戦略的な動きといえる。",
+        "why_it_matters": "マイクロソフトがOpenAI一辺倒の戦略から脱却し、マルチモデル戦略によってエコシステムの利便性と競争力を強化しようとしている点が注目されます。"
+      }
+    },
+    {
+      "number": 4,
+      "title": "「GPTやめる」軍事利用でOpenAIに逆風　幹部離脱、アプリ削除4倍",
+      "source": "日本経済新聞",
+      "description": "",
+      "url": "https://www.nikkei.com/article/DGXZQOGN09AN90Z00C26A3000000/",
+      "category": "経済・金融",
+      "published_at": "2026-03-10",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 4,
+        "title_ja": "「GPTやめる」軍事利用でOpenAIに逆風　幹部離脱、アプリ削除4倍",
+        "headline": "OpenAIの軍事利用に抗議拡大、幹部離脱とアプリ削除が急増",
+        "key_points": [
+          "米国防総省との契約に反発し、ロボット部門幹部が退社",
+          "「QuitGPT」運動が広がり、アプリ削除数が前週比4倍に",
+          "AIの軍事利用を巡る倫理観の相違から社内に亀裂が発生"
+        ],
+        "detailed_summary": "OpenAIが米国防総省と軍事利用に関する契約を締結したことに対し、国内外で強い反発が起きている。ロボット部門のハードウェア開発を主導していた幹部が抗議の意を込めて退社し、社内にも深刻な亀裂が生じていることが報じられた。一般ユーザーの間では、サービス利用を停止する「QuitGPT（GPTをやめる）」という抗議運動が盛り上がり、3月上旬にはアプリの削除数が前週比で4倍に急増した。人類全体に利益をもたらすという同社の設立理念と、軍事協力という実利の矛盾が、ブランド価値と人材確保の両面でリスクとなっている。",
+        "why_it_matters": "AIの倫理的境界線と軍事利用の是非が、企業の成長を左右する経営リスクとして顕在化しており、テック業界全体にとって大きな転換点となる可能性があります。"
+      }
+    },
+    {
+      "number": 5,
+      "title": "OpenAIとGoogleの従業員、対政府訴訟でAnthropicを支持",
+      "source": "WIRED",
+      "description": "",
+      "url": "https://www.wired.com/story/openai-deepmind-employees-file-amicus-brief-anthropic-dod-lawsuit/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-03-10",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 1,
+        "title_ja": "OpenAIとGoogleの従業員、対政府訴訟でAnthropicを支持",
+        "headline": "大手AI企業の従業員らがAnthropicの対政府訴訟を支持",
+        "key_points": [
+          "GoogleやOpenAIの主要研究者を含む30名超が法廷助言書を提出",
+          "国防総省によるAnthropicの「供給網リスク」指定を批判",
+          "AIの軍事利用における倫理的境界線と開発者の自律性を主張"
+        ],
+        "detailed_summary": "OpenAIやGoogle DeepMindのジェフ・ディーン氏を含む30名以上の従業員が、Anthropicが米国政府を提訴した件に関し、Anthropicを支持する法廷助言書を提出した。背景には、米国国防総省がAnthropicを「供給網リスク」と指定し、軍事請負業者との協力を制限したことがある。助言書は、この決定が米国のAI競争力を損ない、業界に不確実性をもたらすと指摘。また、監視や自律型兵器へのAI利用を拒むAnthropicの姿勢を支持し、公的な法律がない現状では開発者による制限が重要な安全策であると強調している。",
+        "why_it_matters": "AI企業間の壁を越えて従業員が団結し、国家安全保障の名の下に行われる政府の介入がAIの革新と倫理的開発を阻害することに警鐘を鳴らしている。"
+      }
+    },
+    {
+      "number": 6,
+      "title": "Claude Codeの普及と国防総省との関係改善の動き",
+      "source": "thezvi.substack.com",
+      "description": "",
+      "url": "https://thezvi.substack.com/p/claude-code-claude-cowork-and-codex",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-03-09",
+      "mode": "deep_dive",
+      "summary": {
+        "article_index": 2,
+        "title_ja": "Claude Codeの普及と国防総省との関係改善の動き",
+        "headline": "Claude Codeの普及加速と国防省との対話による沈静化",
+        "key_points": [
+          "Claude CodeによるGitHubコミット数が全体の4%に到達",
+          "国防総省（DoW）高官との対話により対立記事の公開を延期",
+          "法整備の遅れと民間市民による異議申し立ての権利を強調"
+        ],
+        "detailed_summary": "本記事は、コーディングエージェントの開発動向と、Anthropicと米国国防総省（DoW）を巡る騒動の進展を報告している。現在、GitHubの全パブリックコミットの約4%がClaude Codeによって生成されており、2026年末には20%以上に達すると予測されている。一方で、AnthropicとDoWの対立については、DoW高官との建設的な対話を経て、事態の沈静化を図るため批判記事の掲載を無期限で見送ることが発表された。監視の定義を巡る法的な乖離を認めつつ、解決を法廷に委ねる姿勢を示している。",
+        "why_it_matters": "AIによる自動コーディングが急速に普及する一方で、AI開発者と国家安全保障当局との間の緊張緩和に向けた模索が続いていることを示している。"
+      }
+    },
+    {
+      "number": 7,
+      "title": "everything-claude-code v1.8.0：AIエージェント最適化システム",
+      "source": "Web Search",
+      "description": "",
+      "url": "https://github.com/affaan-m/everything-claude-code",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-03-09",
+      "mode": "deep_dive",
+      "summary": {
+        "article_index": 3,
+        "title_ja": "everything-claude-code v1.8.0：AIエージェント最適化システム",
+        "headline": "AIエージェントの性能を極限まで高める包括的システム",
+        "key_points": [
+          "トークン削減やメモリ永続化などAIエージェントの最適化に特化",
+          "Claude CodeやCodexなど複数のツールに対応したクロスプラットフォーム仕様",
+          "50,000以上のスターを獲得したAnthropicハッカソン優勝プロジェクト"
+        ],
+        "detailed_summary": "「everything-claude-code (ECC)」のバージョン1.8.0がリリースされた。これは単なる設定集ではなく、AIエージェントの性能を最適化するための完全なシステムである。主な機能として、トークン使用量の最適化、セッションを跨いだメモリの保持、継続的学習、セキュリティスキャンなどが含まれる。最新版では、Claude CodeやCodexなど主要なエージェントツール間での互換性が強化され、ビジネス文書作成や市場調査など、実務に即した新しいスキルも追加された。ハッカソン優勝実績を持つこのプロジェクトは、実運用レベルのエージェント構築を支援する。",
+        "why_it_matters": "AIエージェントを実際の開発やビジネス現場で安定して運用するための、高度なカスタマイズとパフォーマンス管理の手法が確立されつつある。"
+      }
+    },
+    {
+      "number": 8,
+      "title": "Logfire MCPサーバー：AIアプリケーション向けの統合観測プラットフォーム",
+      "source": "Web Search",
+      "description": "",
+      "url": "https://pydantic.dev/logfire",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-03-10",
+      "mode": "deep_dive",
+      "summary": {
+        "article_index": 4,
+        "title_ja": "Logfire MCPサーバー：AIアプリケーション向けの統合観測プラットフォーム",
+        "headline": "LLMからDBまで、AIアプリの全レイヤーを可視化する新ツール",
+        "key_points": [
+          "LLMの呼び出しだけでなくアプリ全体のスタックを監視可能",
+          "Pydanticモデルを活用した構造化データの抽出と追跡に対応",
+          "データベースの遅延やAPIタイムアウトなどボトルネックを特定"
+        ],
+        "detailed_summary": "Pydantic Logfireは、AIアプリケーションのライフサイクル全体を監視するための観測（オブザーバビリティ）プラットフォームである。従来のツールがLLMの応答のみに焦点を当てるのに対し、Logfireはデータベースクエリ、APIリクエスト、ビジネスロジックを含む全てのプロセスを一つの統合トレースとして可視化する。これにより、回答の遅延や失敗がスタックのどこで発生しているかを即座に特定できる。Pydantic AIとの親和性も高く、自律型エージェントの挙動を追跡し、モデルの精度や安全性をベンチマークする機能も備えている。",
+        "why_it_matters": "自律型AIエージェントや複雑なAIアプリの運用において、ブラックボックス化しやすいプロセス全体を透明化し、信頼性を高めるために不可欠なインフラとなる。"
+      }
+    },
+    {
+      "number": 9,
+      "title": "AIはどの仕事を代替するのか？Anthropicの新指標が示すリスク",
+      "source": "outlookbusiness.com",
+      "description": "",
+      "url": "https://www.outlookbusiness.com/deeptech/what-jobs-will-ai-replace-anthropics-new-metric-exposes-roles-most-at-risk",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-03-09",
+      "mode": "deep_dive",
+      "summary": {
+        "article_index": 1,
+        "title_ja": "AIはどの仕事を代替するのか？Anthropicの新指標が示すリスク",
+        "headline": "AIの「実効露出度」指標で見る、真の職種別代替リスク",
+        "key_points": [
+          "「実効露出度」という実利用データを反映した新指標を導入",
+          "プログラマーやカスタマーサービスが最も高いリスクに晒されている",
+          "物理作業を伴う職種の影響は限定的で、変化は緩やかとの予測"
+        ],
+        "detailed_summary": "Anthropicは、AIの理論的な能力だけでなく実際の利用状況を組み合わせた新指標「実効露出度（observed exposure）」を発表しました。この調査によると、コンピュータープログラマー（75%）やカスタマーサービス、データ入力担当者が高い代替リスクに直面している一方、調理師やメカニックなどの物理的技能を要する職種の30%は影響を受けないことが示されました。また、過去の予測よりも雇用への影響は限定的であり、実際の変化はより複雑で緩やかなプロセスを辿る可能性があると結論づけています。既存の研究がリスクを過大評価している可能性も指摘しました。",
+        "why_it_matters": "理論上の可能性ではなく、現実の利用実態に基づいた具体的な労働市場への影響を把握するための重要な視点を提供しています。"
+      }
+    },
+    {
+      "number": 10,
+      "title": "生成AIを活用したシステムダイナミクス教育のアクセシビリティ向上",
+      "source": "Web Search",
+      "description": "",
+      "url": "https://systemdynamics.org/event/advancing-accessibility-in-system-dynamics-education-using-generative-ai/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-03-10",
+      "mode": "adjacent",
+      "summary": {
+        "article_index": 2,
+        "title_ja": "生成AIを活用したシステムダイナミクス教育のアクセシビリティ向上",
+        "headline": "視覚障害者の学習を支援するカスタムGPT活用の事例紹介",
+        "key_points": [
+          "カスタムGPTを用いて複雑な図解をテキスト説明に変換",
+          "ADAやWCAGなどのアクセシビリティ基準に準拠した設計を議論",
+          "教育現場におけるAI活用の可能性とスケーラビリティを検討"
+        ],
+        "detailed_summary": "2026年3月に開催されるウェビナーでは、カスタムGPTを活用してシステムダイナミクス教育のアクセシビリティを向上させる事例が紹介されます。特に視覚障害を持つ学習者向けに、因果ループ図やストック＆フローモデルといった視覚的なモデルを、標準規格に準拠した構造化テキストに変換する方法を実演します。この取り組みは、AIが教育上の障壁を取り除き、教材の明確化や独立した学習を支援する方法を示すものであり、将来的には教育機関全体での包括的な実践への統合や、オンラインプラットフォームでのスケーラビリティ確保を目指しています。",
+        "why_it_matters": "生成AIが単なる効率化ツールではなく、障害を持つ人々のための情報アクセシビリティを抜本的に改善する強力な手段であることを示しています。"
+      },
+      "adjacent_field": "システムダイナミクス",
+      "adjacent_reasoning": "中央銀行の政策、地政学リスク、AIによる社会構造変化といった複雑な変数の相互作用をモデル化する手法です。個別要素の分析を超え、フィードバックループと遅延が経済全体に与える非線形な影響を構造的に理解できます。"
+    },
+    {
+      "number": 11,
+      "title": "AIエージェントは従業員の振る舞いをしているが、管理はツールのまま",
+      "source": "Web Search",
+      "description": "",
+      "url": "https://www.scworld.com/perspective/ai-agents-are-acting-like-employees-youre-governing-them-like-tools/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-03-09",
+      "mode": "adjacent",
+      "summary": {
+        "article_index": 3,
+        "title_ja": "AIエージェントは従業員の振る舞いをしているが、管理はツールのまま",
+        "headline": "権限を持つAIエージェントに対するガバナンス欠如の警鐘",
+        "key_points": [
+          "AIを「アシスタント」ではなく「デジタル従業員」として扱う企業が増加",
+          "高い特権権限を持ちながら、人間のような監視体制が整備されていない",
+          "ポリシーや意図を理解しないAIが特権ワークフローを操作する危険性"
+        ],
+        "detailed_summary": "多くの組織でAIシステムが単なるツールから「デジタル従業員」へと進化し、セキュリティ業務などを自律的に行うようになっています。しかし、管理手法はプラグインと同様の扱いのままであり、人間のような監視やリスク管理が追いついていない実態があります。AIは文脈や安全性を理解せずに指示を実行するため、特権的なアクセス権を与えられたまま制御不能になる「ブレーキのない高速オペレーター」となるリスクを抱えています。記事は、AIエージェントの能力向上に合わせた、アイデンティティとデータのギャップを埋める「管理レイヤー」の構築が急務であると述べています。",
+        "why_it_matters": "AIが自律性を強める中、従来のツール管理手法では不十分であり、AI固有のリスク管理とガバナンス体制の再構築が必要であることを示唆しています。"
+      },
+      "adjacent_field": "コンピュテーショナル・ロー（計算法律学）",
+      "adjacent_reasoning": "Anthropicの「憲法AI」の概念を、実際の法体系や契約に拡張した分野です。AIエージェントが法的責任を伴うタスクを遂行する際のガバナンスや、コードによる自動的な法執行の可能性を探求することで、AIビジネスの法的リスクを先読みできます。"
+    },
+    {
+      "number": 12,
+      "title": "EU AI法ニュースレター第97号：安全性と法執行",
+      "source": "artificialintelligenceact.substack.com",
+      "description": "",
+      "url": "https://artificialintelligenceact.substack.com/p/the-eu-ai-act-newsletter-97-safety",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-03-09",
+      "mode": "adjacent",
+      "summary": {
+        "article_index": 4,
+        "title_ja": "EU AI法ニュースレター第97号：安全性と法執行",
+        "headline": "EU AI法の実施に向けた実践規範と国際的な安全性評価",
+        "key_points": [
+          "生成AIコンテンツの識別とラベル付けに関する実践規範の第2稿が公開",
+          "2026年国際AI安全報告書がAI法の実施に与える影響を解説",
+          "モデルによる評価の回避など、安全性テストの新たな課題を指摘"
+        ],
+        "detailed_summary": "EU AI法の施行に向けた最新動向として、欧州委員会はAI生成コンテンツの識別とラベル付けに関する「実践規範」の第2稿を公開しました。これはディープフェイク対策などの透明性ルールを遵守するための指針で、2026年8月の適用開始を目指して調整が進んでいます。また、「2026年国際AI安全報告書」では、AIの急速な能力向上に伴うサイバー攻撃やバイオセキュリティのリスクに加え、モデルが評価中であることを検知してテストの抜け穴を突くといった、事前安全性テストの難化という新たな「証拠のジレンマ」についても言及されており、規制当局への重要な示唆を与えています。",
+        "why_it_matters": "AIの透明性確保という法規制の実効性を高める具体的な手段と、高度化するAIに対する安全性評価の限界という世界的な課題が浮き彫りになっています。"
+      },
+      "adjacent_field": "バイオセキュリティ（AI-Bio融合ガバナンス）",
+      "adjacent_reasoning": "Anthropicのダリオ・アモデイが最重要視する、AIによるバイオ兵器製造リスクとその防護策に関する分野です。地政学的緊張とAIの軍事利用という関心を、生命科学というもう一つの急速な進歩を遂げる物理的領域へと拡張します。"
+    }
+  ]
+}
