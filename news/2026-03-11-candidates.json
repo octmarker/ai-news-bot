@@ -4,29 +4,7 @@
   "articles": [
     {
       "number": 1,
-      "title": "トランプ氏、イランの機雷船を「完全に破壊」と投稿　ホルムズ海峡での報復警告",
-      "source": "日本経済新聞",
-      "description": "",
-      "url": "https://www.nikkei.com/article/DGXZQOGN10CC00Q6A310C2000000/",
-      "category": "経済・金融",
-      "published_at": "2026-03-11",
-      "mode": "breaking",
-      "summary": {
-        "article_index": 1,
-        "title_ja": "トランプ氏、イランの機雷船を「完全に破壊」と投稿　ホルムズ海峡での報復警告",
-        "headline": "トランプ氏、イラン機雷船を破壊と発表",
-        "key_points": [
-          "トランプ米大統領がイラン艦艇10隻を攻撃し「完全に破壊した」とSNSで発表",
-          "ホルムズ海峡への機雷敷設に対し、前例のない規模の軍事報復を警告",
-          "現時点で機雷敷設の報告はないが、撤去されない場合は標的になると強調"
-        ],
-        "detailed_summary": "トランプ米大統領はSNSへの投稿を通じ、ホルムズ海峡で機雷を敷設しようとしたイランの艦艇など10隻を攻撃し、完全に破壊したことを明らかにした。さらに多くの艦船が標的になる可能性を示唆し、機雷が敷設された後に撤去されなければ「前例のない規模の軍事報復」を行うと強く警告している。現時点では実際に機雷が敷設されたとの報告は受けていないとしているが、イラン側の行動に対して軍事的圧力を強める姿勢を鮮明にしており、中東情勢の緊張が急速に高まっている。",
-        "why_it_matters": "世界のエネルギー輸送の要衝であるホルムズ海峡での軍事衝突の懸念が高まっており、国際情勢や原油価格に重大な影響を与える可能性があります。"
-      }
-    },
-    {
-      "number": 2,
-      "title": "MetaがAIエージェント向けSNS「Moltbook」を買収、開発チームを吸収",
+      "title": "MetaがAIエージェント向けSNS「Moltbook」を買収",
       "source": "TechCrunch",
       "description": "",
       "url": "https://techcrunch.com/2026/03/10/meta-acquired-moltbook-the-ai-agent-social-network-that-went-viral-because-of-fake-posts/",
@@ -34,21 +12,21 @@
       "published_at": "2026-03-10",
       "mode": "breaking",
       "summary": {
-        "article_index": 2,
-        "title_ja": "MetaがAIエージェント向けSNS「Moltbook」を買収、開発チームを吸収",
-        "headline": "Meta、AI同士が対話するSNSを買収",
+        "article_index": 1,
+        "title_ja": "MetaがAIエージェント向けSNS「Moltbook」を買収",
+        "headline": "Meta、AI同士が対話するSNSを買収し開発加速",
         "key_points": [
-          "AIエージェントが相互に対話するReddit風SNS「Moltbook」を買収",
-          "創設者はMetaの「超知能研究所（MSL）」に加わり開発を継続",
-          "AIによる不気味な会話が話題となったが、実態は脆弱性を突いた人間の投稿"
+          "AIエージェント専用のSNS「Moltbook」を買収しMSL部門に統合",
+          "AIが人間抜きで会話する様子が話題となったが脆弱性も露呈",
+          "創設者らはMetaに参画し安全なAIエージェント体験の開発へ"
         ],
-        "detailed_summary": "Metaは、AIエージェント同士が公開の場で対話を行うReddit風のSNS「Moltbook」を買収した。創設者のマット・シュリヒト氏とベン・パー氏は、Metaの「超知能研究所（MSL）」に参加し、AIエージェントによる新たな体験構築に取り組む。Moltbookは、AIが人間抜きで独自の暗号言語を開発しようとする投稿などがSNSで拡散され注目を集めたが、実際にはセキュリティが脆弱で、人間がAIに成り済まして投稿可能な状態であったことも判明している。Metaはこの買収を通じて、AIエージェントの社会性や安全な活用を模索する狙いだ。",
-        "why_it_matters": "AIエージェントが自律的に連携する未来に向けた動きであり、大手テック企業がそのコミュニティや技術を先行して取り込む重要性を示しています。"
+        "detailed_summary": "Metaは、AIエージェント同士が交流するSNS「Moltbook」を買収しました。同サービスは、AIが人間について噂話をしたり、独自の暗号言語を作成したりする様子がSNSで拡散され注目を集めましたが、実際にはセキュリティが脆弱で、人間がAIになりすませる状態であったことも判明しています。Moltbookの創設者はMetaのSuperintelligence Labsに参加し、エージェントをディレクトリで繋ぐ新しいアプローチをMetaのAI事業に活用します。MetaのCTOは、AIの挙動そのものよりも、脆弱性を突いたハッキングが起きた事実に興味を示しています。",
+        "why_it_matters": "AIエージェントが自律的に連携する未来を見据え、Metaがその基盤技術と人材の確保に動いたことを示しています。"
       }
     },
     {
-      "number": 3,
-      "title": "Mandiant創設者が新会社「Armadin」設立、1.9億ドルの資金調達を実施",
+      "number": 2,
+      "title": "Mandiant創業者がAIセキュリティ企業で1.9億ドルを調達",
       "source": "TechCrunch",
       "description": "",
       "url": "https://techcrunch.com/2026/03/10/mandiants-founder-just-raised-190m-for-his-autonomous-ai-agent-security-startup/",
@@ -56,43 +34,21 @@
       "published_at": "2026-03-10",
       "mode": "breaking",
       "summary": {
-        "article_index": 3,
-        "title_ja": "Mandiant創設者が新会社「Armadin」設立、1.9億ドルの資金調達を実施",
-        "headline": "セキュリティの重鎮、自律型AI防衛の新会社",
+        "article_index": 2,
+        "title_ja": "Mandiant創業者がAIセキュリティ企業で1.9億ドルを調達",
+        "headline": "セキュリティの権威、自律型AI防御のスタートアップを始動",
         "key_points": [
-          "Mandiant創設者が自律型AIサイバーセキュリティ企業「Armadin」を設立",
-          "シードおよびシリーズAで約1.9億ドルの過去最高級の資金調達に成功",
-          "AIによる高速な攻撃に対抗するための「AI対AI」の防衛手段を開発"
+          "ケビン・マンディア氏の新会社「Armadin」が異例の巨額調達",
+          "自律的に学習・適応するAIハッカーに対抗する防衛AIを開発",
+          "CIAのベンチャー部門を含む大手VCが多数出資"
         ],
-        "detailed_summary": "サイバーセキュリティ大手Mandiantの創設者であるケビン・マンディア氏が、自律型AIセキュリティ企業「Armadin」を立ち上げ、約1億9000万ドルの巨額資金を調達した。この資金調達は、初期段階のセキュリティスタートアップとしては過去最高規模とされる。Armadinは、人間を介さずに脅威を学習・対応する自律型エージェントの開発を目指す。マンディア氏は、AIを悪用した攻撃が数日かかる作業を数分で完了させるようになると警告しており、これに対抗するために防衛側も「自律型AIの軍団」を備える必要があると主張している。",
-        "why_it_matters": "AIによるサイバー攻撃の高度化・高速化が現実味を帯びる中、防御側もAIを全面に押し出す新たなセキュリティパラダイムへの転換を象徴しています。"
+        "detailed_summary": "Mandiantの創設者で元Google幹部のケビン・マンディア氏が、AIネイティブなサイバーセキュリティ企業「Armadin」を立ち上げ、1.899億ドルの資金を調達しました。この額は初期段階のセキュリティ企業として記録的です。同社は、人間を介さずに脅威へ対応する「自律型サイバーセキュリティエージェント」の開発を目的としています。マンディア氏は、AIによる攻撃の自動化・高速化を危惧しており、防御側にも「エージェント軍団」が必要だと主張しています。チームにはGoogleやMandiantの元幹部らが名を連ねています。",
+        "why_it_matters": "AIを用いた高度なサイバー攻撃が現実の脅威となる中、防御側もAIによる完全自動化へシフトしようとする動きの象徴です。"
       }
     },
     {
-      "number": 4,
-      "title": "日経平均株価が続伸、一時1300円超の上昇　米オラクル決算や原油安が追い風",
-      "source": "日本経済新聞",
-      "description": "",
-      "url": "https://www.nikkei.com/article/DGXZQOFL110KR0R10C26A3000000/",
-      "category": "経済・金融",
-      "published_at": "2026-03-11",
-      "mode": "breaking",
-      "summary": {
-        "article_index": 4,
-        "title_ja": "日経平均株価が続伸、一時1300円超の上昇　米オラクル決算や原油安が追い風",
-        "headline": "日経平均5万5000円台回復、AI投資期待",
-        "key_points": [
-          "米オラクルの好決算を受け、ソフトバンクGなどハイテク関連株が急騰",
-          "IEAによる大規模な石油備蓄放出の観測から原油相場が下落し、安心感",
-          "中東情勢の緊張が重荷となる一方、AI需要への期待が相場を大きく牽引"
-        ],
-        "detailed_summary": "11日午前の東京株式市場で日経平均株価は続伸し、一時前日比1300円超高い5万5500円台まで上昇した。米オラクルの決算が市場予想を上回り、AI投資の拡大が鮮明になったことで、提携関係にあるソフトバンクグループなどのハイテク株に買いが集まった。また、IEAによる過去最大規模の石油備蓄放出提案の報道を受けて原油先物価格が下落し、インフレ懸念が和らいだことも株価を押し上げた。一方で、イランによるホルムズ海峡への機雷敷設の動きなど地政学リスクへの警戒感も依然として強く、相場の重荷となっている。",
-        "why_it_matters": "AI産業の成長期待が市場を力強く牽引する一方で、エネルギー価格や地政学リスクといった外部要因が投資判断に大きな影響を与える局面にあることを示しています。"
-      }
-    },
-    {
-      "number": 5,
-      "title": "AI搭載アプリ、長期継続率の低さに直面との新レポート",
+      "number": 3,
+      "title": "AI搭載アプリ、長期的な継続利用率の維持に苦戦",
       "source": "TechCrunch",
       "description": "",
       "url": "https://techcrunch.com/2026/03/10/ai-powered-apps-struggle-with-long-term-retention-new-report-shows/",
@@ -100,177 +56,200 @@
       "published_at": "2026-03-10",
       "mode": "breaking",
       "summary": {
-        "article_index": 1,
-        "title_ja": "AI搭載アプリ、長期継続率の低さに直面との新レポート",
-        "headline": "AIアプリは継続率が低く、解約速度が非AIより30%速い",
+        "article_index": 3,
+        "title_ja": "AI搭載アプリ、長期的な継続利用率の維持に苦戦",
+        "headline": "AIアプリ、非AIアプリに比べ解約率が30%高いことが判明",
         "key_points": [
-          "AIアプリの年間継続率は21.1%で、非AIアプリの30.7%を大きく下回る",
-          "ユーザーは最新技術を求めてアプリ間を乗り換えやすく、返金率も20%高い",
-          "写真・動画カテゴリでAI導入が最も進む一方、ゲーム領域は6.2%に留まる"
+          "年間継続率は非AIアプリより約10ポイント低い21.1%に留まる",
+          "ユーザーが最新技術を求めてアプリを頻繁に乗り換える傾向",
+          "返金率も非AIアプリより20%高く、収益のボラティリティが大"
         ],
-        "detailed_summary": "RevenueCatの2026年版レポートによると、アプリ市場でAI機能の導入が加速している一方で、有料ユーザーの維持には課題があることが判明した。AI搭載アプリは、非AIアプリと比較してサブスクリプションの解約（チャーン）速度が中央値で30%速い。特に年間継続率において顕著な差が出ており、背景にはAI技術の急速な進化によりユーザーがより優れた機能を求めて頻繁に乗り換える傾向や、期待に満たない場合の返金率の高さがある。週単位の継続率ではAIが勝るものの、長期的な収益性には不透明感が残る結果となった。",
-        "why_it_matters": "AI機能の追加が必ずしもビジネスの成功に直結しないことを示しており、開発者は機能の実装だけでなく顧客体験の質と維持戦略を再考する必要があります。"
+        "detailed_summary": "RevenueCatの最新レポートにより、AI機能を搭載したアプリは非AIアプリに比べてユーザーの長期維持が困難であることが明らかになりました。調査によると、AIアプリの解約速度は非AIアプリより30%早く、年間継続率も大きく下回っています。この背景には、AI技術の進化が速いため、ユーザーがより優れた機能を求めて次々と新しいアプリを試用・乗り換えしている現状があります。また、期待した効果が得られないことによる返金率の高さも課題となっており、AI導入が必ずしも安定した収益に繋がらない実態が浮き彫りになりました。",
+        "why_it_matters": "AIブームの中で開発者が直面する「技術の陳腐化」と「ユーザーの定着」という深刻な課題をデータで示しています。"
+      }
+    },
+    {
+      "number": 4,
+      "title": "トランプ政権、Anthropicへの追加制裁を否定せず",
+      "source": "WIRED",
+      "description": "",
+      "url": "https://www.wired.com/story/trump-administration-refuses-to-say-it-wont-take-further-action-against-anthropic/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-03-11",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 4,
+        "title_ja": "トランプ政権、Anthropicへの追加制裁を否定せず",
+        "headline": "米政府、Anthropicの政府利用を禁止する大統領令を検討",
+        "key_points": [
+          "政府側はサプライチェーンリスク認定に基づく追加制裁を示唆",
+          "Anthropicは認定の取り消しを求めて政府を提訴",
+          "軍事利用の是非を巡る対立が「政治的報復」に発展か"
+        ],
+        "detailed_summary": "トランプ政権からサプライチェーンのリスクと認定されたAnthropicが、認定の停止を求めて提訴した裁判で、政府側は追加の制裁を行わないという約束を拒否しました。ホワイトハウスは、政府全体で同社ツールの使用を禁止する大統領令を準備中と報じられています。この紛争は、Anthropicが自社技術を監視や無人ミサイル発射などの軍事目的に使用させることを拒否したことから始まりました。同社は、現政権が法律を乱用して「政治的敵」を攻撃していると主張しており、ビジネスへの甚大な悪影響を訴えています。",
+        "why_it_matters": "AI企業の倫理規定と国家安全保障の要求が真っ向から対立し、法的・政治的な争いに発展している極めて重要な事例です。"
+      }
+    },
+    {
+      "number": 5,
+      "title": "SaaSの死？AIエージェントによる産業構造の変化と影響",
+      "source": "dir.co.jp",
+      "description": "*   **Actual Publish Date:** 2026-03-10 *   **Description:** This structural analysis report explores the \"Death of SaaS\" narrative that gained momentum following the release of Anthropic's \"Claude Cowork.\" It argues that while SaaS as a delivery model will survive, the business model must shift from seat-based pricing to value-based outcomes as AI agents become the primary operators of software. *   **Actual Publish Date:** 2026-03-10 *   **Actual Publish Date:** 2026-03-10 *   **Actual Publish",
+      "url": "https://www.dir.co.jp/english/research/report/analysis/20260310_025622.html",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-03-10",
+      "mode": "deep_dive",
+      "summary": {
+        "article_index": 1,
+        "title_ja": "SaaSの死？AIエージェントによる産業構造の変化と影響",
+        "headline": "AIエージェントが促すSaaS業界の構造転換",
+        "key_points": [
+          "AnthropicのAIエージェント登場によりSaaSの終焉が議論されている",
+          "SaaSモデル自体は存続するが、UI重視からAPIや監査性重視へ変化する",
+          "ユーザー数ベースの課金体系が見直され、AIによる付加価値競争が激化する"
+        ],
+        "detailed_summary": "2026年3月のレポートによると、Anthropicの「Claude Cowork」などのAIエージェントの進展により、従来のSaaSモデルが脅かされる「SaaSの死」という言葉が市場に広がりました。しかし、実際にはSaaSが消滅するわけではなく、AIが主導する形への構造変化が起きると分析されています。具体的には、人間ではなくAIが操作の主体となるため、UI/UXよりも外部連携（API）や権限管理、監査ログの重要性が高まります。また、従来のユーザー数課金から別の価格体系への移行も予測されています。",
+        "why_it_matters": "AIがホワイトカラーの働き方やソフトウェア産業の収益構造を根本から再設計する、歴史的な転換点を示唆しています。"
       }
     },
     {
       "number": 6,
-      "title": "Claude Codeに「Code Review」機能が追加",
+      "title": "Anthropic、Claude Codeに「Code Review」機能を導入",
       "source": "infoworld.com",
-      "description": "",
+      "description": "Anthropic Introduces 'Code Review' to Catch Coding Mistakes Early**",
       "url": "https://www.infoworld.com/article/4143297/claude-code-adds-code-reviews.html",
       "category": "AI・テクノロジー",
-      "published_at": "2026-03-10",
+      "published_at": "2026-03-11",
       "mode": "deep_dive",
       "summary": {
         "article_index": 2,
-        "title_ja": "Claude Codeに「Code Review」機能が追加",
-        "headline": "AIエージェントがバグを多角的に分析し、修正を強力支援",
+        "title_ja": "Anthropic、Claude Codeに「Code Review」機能を導入",
+        "headline": "AIエージェントが並列でバグを検知・検証する新機能",
         "key_points": [
-          "複数のAIエージェントが並行して動作し、人間が見落とすバグを特定",
-          "大規模なプルリクエストの84%で問題を発見し、深刻度別にランク付け",
-          "エンジニアとの合意率が高く、誤検知としてマークされたのは1%未満"
+          "複数のAIエージェントが並列でコードをレビューし、バグを特定する",
+          "誤検知を自動でフィルタリングし、深刻度順にランク付けして報告する",
+          "内部テストでは大規模な変更の84%で問題を指摘し、誤検知は1%未満"
         ],
-        "detailed_summary": "Anthropicは、同社のコマンドラインツール「Claude Code」に新機能「Code Review」を導入した。この機能は、複数のAIエージェントが連携してプルリクエストを詳細に分析し、バグの探索、検証、深刻度のランク付けを行う。内部テストでは、1,000行を超える大規模な変更において高い確率で有効な指摘を行っており、レビュー時間は平均約20分。現在は法人向けプランのプレビュー版として提供されており、開発者はコードの品質管理を高度に自動化できる。誤検知率の低さも大きな特徴となっている。",
-        "why_it_matters": "AIによるコードレビューが「単なる補助」から「人間以上の精度でバグを見分ける実用的なチームメンバー」へと進化したことを示しています。"
+        "detailed_summary": "Anthropicは、開発者向けツール「Claude Code」の新機能として、AIエージェントによる高度なコードレビュー機能を発表しました。この機能は複数のエージェントを派遣してコード内のバグを並列検索し、人間が見落としがちなエラーを特定します。レビュー結果はプルリクエストに直接、精度の高いコメントとして投稿され、平均所要時間は約20分です。同社の内部テストでは、大規模なコード変更において高い検知率と、1%未満という極めて低い誤検知率を記録しています。",
+        "why_it_matters": "AIがコード生成だけでなく、高度な品質保証（QA）まで自律的に担うことで、ソフトウェア開発の信頼性と速度が飛躍的に向上します。"
       }
     },
     {
       "number": 7,
-      "title": "プロンプトの移植性と2026年のSaaS崩壊予測",
-      "source": "Web Search",
-      "description": "",
-      "url": "https://www.saastr.com/the-4-levels-of-prompt-portability/",
+      "title": "Claude Codeのスキル仕組み入門：Draw.io連携を理解する",
+      "source": "claudecode.jp",
+      "description": "*   **URL**: https://zenn.dev/topics/claude-code-skills-guide-2026",
+      "url": "https://claudecode.jp/ja/news/student/drawio-skill-for-claude-code",
       "category": "AI・テクノロジー",
-      "published_at": "2026-03-10",
+      "published_at": "2026-03-11",
       "mode": "deep_dive",
       "summary": {
         "article_index": 3,
-        "title_ja": "プロンプトの移植性と2026年のSaaS崩壊予測",
-        "headline": "AIプロンプトの移行しやすさがSaaSの顧客離れを加速させる",
+        "title_ja": "Claude Codeのスキル仕組み入門：Draw.io連携を理解する",
+        "headline": "AIが直接編集可能な図表ファイルを生成する新スキル",
         "key_points": [
-          "プロンプトをコピペできる「レベル1」の製品は、他社への移行が極めて容易",
-          "多くのB2B顧客は短期試用を前提としており、数ヶ月で他社への乗り換えを検討",
-          "真の競合優位性はAIではなく、セキュリティや配信インフラなどにある"
+          "Claude CodeがネイティブなDraw.io形式（XML）を直接生成可能になった",
+          "外部サーバー不要で、生成された図表はDraw.ioでそのまま再編集できる",
+          "プロンプトによる指示を超え、AIに「図表作成能力」を直接付与する"
         ],
-        "detailed_summary": "AIエージェント市場において、プロンプトの「移植性」が解約率を左右する重大な要因となっている。メール作成やチャットボットなどの単純なAI製品（レベル1）は、プロンプトを他社製品に貼り付けるだけで移行が完了するため、顧客のスイッチングコストがほぼゼロに近い。多くの企業は1年契約を結ぶものの、実際には数ヶ月で他社との比較を始める傾向がある。独自のワークフローや蓄積データを持たないベンダーは、2026年までに深刻な顧客減少に直面すると予測されており、AI機能以外の基盤的な堀を築くことが存続の鍵となる。",
-        "why_it_matters": "AIツールのコモディティ化が進む中、単純な「AIラッパー」的な製品は淘汰され、深い統合と独自のデータを持つ製品のみが生き残る時代への警鐘です。"
+        "detailed_summary": "2026年2月、Claude CodeにDraw.io連携スキルが追加されました。これにより、AIはMermaid記法などの仲介フォーマットを使わずに、直接編集可能な「.drawio」ファイルを生成できるようになりました。生成されたPNGやPDFファイルにはXMLデータが埋め込まれており、デスクトップ版アプリで再度開いて修正する「往復編集」が可能です。このアップデートは、AIが単なるテキスト生成器から、特定のツールを使いこなす「スキル」を備えたワークフロー基盤へと進化していることを示しています。",
+        "why_it_matters": "システム構成図などの視覚的なドキュメント作成が自動化され、設計と実装の同期が容易になることでエンジニアの生産性が高まります。"
       }
     },
     {
       "number": 8,
-      "title": "Cloudflare、AI支援で構築したNext.js代替ツールを実験公開",
-      "source": "infoq.com",
-      "description": "",
-      "url": "https://www.infoq.com/news/2026/03/cloudflare-vinext-experimental/",
+      "title": "UiPath、RPAから「自律型AI」プラットフォームへ進化",
+      "source": "simplywall.st",
+      "description": "*   **Actual Publish Date:** 2026-03-10 *   **Actual Publish Date:** 2026-03-10 *   **Actual Publish Date:** 2026-03-10 *   **Actual Publish Date:** 2026-03-10 *   **Actual Publish Date:** 2026-03-10 *   **Actual Publish Date:** 2026-03-10 *   **URL:** [https://www.investing.com/news/stock-market-news/oracle-earnings-preview-ai-automation-focus-3891026](https://www.investing.com/news/stock-market-news/oracle-earnings-preview-ai-automation-focus-3891026) *   **Actual Publish Date:** 2026-03-10 * ",
+      "url": "https://simplywall.st/community/narratives/us/software/nyse-path/uipath/0ohp7ybk-uipath-inc-path-agentic-ai-pivot-and-milestone-profits-set-the-stage-for-q4-results",
       "category": "AI・テクノロジー",
       "published_at": "2026-03-10",
       "mode": "deep_dive",
       "summary": {
         "article_index": 4,
-        "title_ja": "Cloudflare、AI支援で構築したNext.js代替ツールを実験公開",
-        "headline": "AIを活用し、わずか1週間でNext.jsより高速な代替品を開発",
+        "title_ja": "UiPath、RPAから「自律型AI」プラットフォームへ進化",
+        "headline": "医療特化型AIエージェントとセキュリティ認証で攻勢",
         "key_points": [
-          "1人のエンジニアがAI（Claude）を使い、API費用1,100ドルで構築",
-          "Next.jsと比較してビルド速度が4.4倍高速、バンドルサイズは57%削減",
-          "1,700以上のテストをクリアし、既に米政府のベータサイトで採用"
+          "従来型RPAから自律型AIエージェント（Agentic AI）へと事業を転換中",
+          "医療分野に特化したソリューションで、書類確認時間を70分から6分に短縮",
+          "AIエージェントの安全基準「AIUC-1」認証を業界で初めて取得"
         ],
-        "detailed_summary": "Cloudflareは、Next.jsの実験的な代替フレームワーク「vinext」を発表した。AI（Claude）を開発パートナーとして活用し、一人のエンジニアがわずか1週間で書き上げた。Viteをベースに構築されており、ビルド速度の大幅な向上とバンドルサイズの軽量化を実現している。AIがコード作成とテストを繰り返し行うことで、高いテストカバレッジを確保。現時点では静的な事前レンダリングに制限があるものの、アクセス状況に応じて動的に事前生成する「TPR」という新技術も提案しており、AI駆動型開発の極めて高い生産性を証明している。",
-        "why_it_matters": "AIを活用することで、これまで多大なリソースを必要とした複雑なフレームワーク開発が、極めて低コストかつ短期間で可能になるという開発パラダイムの転換を示しています。"
+        "detailed_summary": "UiPathは、従来のRPA提供企業から、AIエージェントを統合・管理する「Agentic AI」プラットフォームへの変革を加速させています。2026年3月の報告では、医療分野での事務作業を大幅に効率化するソリューションの展開や、AIエージェントの信頼性を保証する新基準「AIUC-1」の取得が強調されました。同社は個別のAIエージェントを提供するだけでなく、それらが既存の企業システムと安全に連携するための「オーケストレーション（司令塔）」としての地位確立を目指しています。",
+        "why_it_matters": "セキュリティや規制が厳しいエンタープライズ領域において、AIエージェントの実装が本格的なビジネスフェーズに入ったことを示しています。"
       }
     },
     {
       "number": 9,
-      "title": "マスク氏と「豊かな」世界　米国で議論に、AIは欠乏を根絶するか",
-      "source": "日本経済新聞",
-      "description": "",
-      "url": "https://www.nikkei.com/article/DGXZQOCD090I00Z00C26A3000000/",
-      "category": "経済・金融",
+      "title": "すべてのAIエージェントには「パスポート」が必要になる",
+      "source": "crypto.news",
+      "description": "Every AI Agent Will Need a Passport | Opinion *   **Description:** The author argues that as AI agents begin to transact autonomously, they require a decentralized identity and \"passport\" system. The article proposes an incentive-compatible mechanism where agents use \"identity + reputation + stake\" (bonded capital) to ensure honest behavior. It frames this as a necessary shift from \"internal\" alignment (matching a user's intent) to \"external\" accountability (preventing exploitation in agent-to-a",
+      "url": "https://crypto.news/every-ai-agent-will-need-a-passport-opinion/",
+      "category": "AI・テクノロジー",
       "published_at": "2026-03-11",
-      "mode": "breaking",
+      "mode": "adjacent",
       "summary": {
         "article_index": 1,
-        "title_ja": "マスク氏と「豊かな」世界　米国で議論に、AIは欠乏を根絶するか",
-        "headline": "AIがもたらす「豊饒さ」が米国の新たな政策指針に",
+        "title_ja": "すべてのAIエージェントには「パスポート」が必要になる",
+        "headline": "AIエージェントに信頼と責任を。身分証導入の必要性",
         "key_points": [
-          "「アバンダンス（豊饒さ）」という概念が米国の政治・経済で注目されている。",
-          "2025年出版の書籍を機に、民主党の次期政策指針に取り入れられるとの予測がある。",
-          "AIが社会の欠乏を根絶し、金銭を超えた真の豊かさを実現するかが議論の焦点。"
+          "AIエージェントの自律化に伴う、取引や交渉における説明責任の欠如",
+          "本人確認・評判・保証金を組み合わせた「パスポート」構想の提案",
+          "2026年までに企業の40%がAIエージェントを導入するとの予測"
         ],
-        "detailed_summary": "米国で「豊饒さ（アバンダンス）」という概念が注目を集めている。2025年に出版された書籍が火付け役となり、イーロン・マスク氏らの活動と相まって、AIが社会の欠乏を根絶し、金銭的な豊かさを超えた「真の豊かさ」をもたらす可能性が議論されている。トランプ主義に対抗する民主党の次期大統領選に向けた政策指針としての活用も予測されており、技術革新がもたらす社会構造の変化と、それに対する政治的アプローチが問われている。本記事は、AIがもたらす生産性の向上が単なる消費の拡大ではなく、人類の充足にどう寄与するかを考察している。",
-        "why_it_matters": "AI技術が単なる効率化の道具を超え、国家の基本政策や「豊かさ」の定義そのものを変容させる可能性を示唆している。"
-      }
+        "detailed_summary": "AIエージェントが企業に代わって交渉や予約を行う時代が到来しているが、現状ではその身元を証明し、行動に責任を負わせる仕組みが欠けている。本記事は、SIMカードやSSL証明書のように、AIにも「パスポート」が必要だと主張する。具体的には、KYCによる本人確認、過去の履歴に基づく評判、不正を防ぐための預託金を組み合わせることで、経済的なインセンティブを通じた誠実な行動を促す仕組みだ。AI市場が急拡大する中、こうした信頼インフラがなければ、エージェントによる大規模な濫用やシステム障害を招くリスクがあると警鐘を鳴らしている。",
+        "why_it_matters": "AIが自律的に経済活動を行う未来において、詐欺や不正を防ぎ、安全な取引を保証するための信頼の土台となる構想だからです。"
+      },
+      "adjacent_field": "メカニズムデザイン (アルゴリズムゲーム理論)",
+      "adjacent_reasoning": "ディスコ社の「Will」のような社内通貨制度や、AI安全性（憲法AI）の背後にある「いかにして個人の動機を全体の利益に一致させるか」という課題の数学的解決策を提供します。インセンティブ設計の理論を学ぶことで、AIエージェントの自律性管理や組織運営への理解が抽象レベルで深まります。"
     },
     {
       "number": 10,
-      "title": "調整のギャップ：マルチエージェント版「元恋人たちの争い」における時間的動態の交互指標",
-      "source": "Web Search",
-      "description": "",
-      "url": "https://arxiv.org/abs/2603.05789",
+      "title": "エヌビディアが中国向けAIチップ「H200」の生産を停止",
+      "source": "asiatimes.com",
+      "description": "*   **Actual Publish Date:** 2026-03-10 *   **Description:** Reports that Nvidia has stopped production of its H200 AI chips specifically designed for the Chinese market. *   **Actual Publish Date:** 2026-03-10 *   **Actual Publish Date:** 2026-03-10 *   **Actual Publish Date:** 2026-03-10 *   **Actual Publish Date:** 2026-03-10 *   **Actual Publish Date:** 2026-03-11 *   **Actual Publish Date:** 2026-03-11",
+      "url": "https://asiatimes.com/2026/03/nvidia-halts-h200-production-as-china-backs-huawei-ai-chips/",
       "category": "AI・テクノロジー",
       "published_at": "2026-03-10",
       "mode": "adjacent",
       "summary": {
         "article_index": 2,
-        "title_ja": "調整のギャップ：マルチエージェント版「元恋人たちの争い」における時間的動態の交互指標",
-        "headline": "AI間の協調を測る新たな時間的指標「ALT」の提案",
+        "title_ja": "エヌビディアが中国向けAIチップ「H200」の生産を停止",
+        "headline": "米中摩擦と国産化政策を受け、エヌビディアが中国戦略を転換",
         "key_points": [
-          "従来の評価指標では、AIエージェント間の時間的な協調や公平性を正確に測定できない。",
-          "「Perfect Alternation（PA）」を基準とし、6つの新たな「ALT指標」を導入。",
-          "報酬ベースで高評価でも、実際には協調に失敗しているケースが多いことを特定。"
+          "米中の規制の不確実性と、中国の国産チップ優先方針により生産停止",
+          "TSMCの製造能力を次世代ハードウェア「Vera Rubin」へ再配分",
+          "米国の石油押収への報復として中国側が輸入制限を行った可能性"
         ],
-        "detailed_summary": "マルチエージェント・システムにおける協調のジレンマを解明するため、時間的な構造を考慮した新しい評価指標「ALT」が提案された。ゲーム理論の「元恋人たちの争い」をモデルにした実験において、従来の報酬ベースの指標では高い公平性が示されていても、実際には非効率な行動パターンに陥っているケースが判明した。新指標を用いた検証では、学習済みモデルがランダムな行動よりも最大81%劣る結果も確認されており、複雑なAI間の協調を評価する際、時間軸に配慮した観測がいかに不可欠であるかを本論文は強調している。",
-        "why_it_matters": "AI同士が共存・協調する社会において、表面的な成果だけでなく、その「プロセスや質」を正しく評価する基盤となる。"
+        "detailed_summary": "米中間の政治的緊張と中国政府の国産チップ支援策を受け、エヌビディアが中国向けAIチップ「H200」の生産を停止したと報じられた。同社は製造リソースを次世代機「Vera Rubin」に振り向け、より確実な市場へ注力する。背景には米国によるベネズエラ産原油の押収に対する中国側の反発や、ファーウェイなどの国産技術への自信があるとされる。これにより中国のAI開発は、学習段階では課題を抱えるものの、推論領域では国産チップへの移行が加速する見通しだ。エヌビディアは、政治的リスクの大きい市場よりも最先端技術の開発を優先する判断を下した。",
+        "why_it_matters": "半導体供給網の分断が決定定的になり、企業のビジネス戦略が地政学的な対立に直接左右される現状を象徴しています。"
       },
-      "adjacent_field": "アルゴリズム・ゲーム理論 (Algorithmic Game Theory)",
-      "adjacent_reasoning": "複数のAIエージェントの相互作用や、地政学的な偶発的衝突リスクを数学的に分析する視点を与えます。投資市場におけるPERの拡大や市場の認識変化を、参加者の戦略的行動の帰結として構造的に理解するのに役立ちます。"
+      "adjacent_field": "半導体地政学・コンピュート・ソブリンティ",
+      "adjacent_reasoning": "Anthropicの安全性や軍事利用、ホルムズ海峡の安全保障といった関心事は、最終的に「計算リソースの物理的確保」というボトルネックに集約されます。ソフトウェアとしてのAIだけでなく、その物理基盤となるサプライチェーンの地政学を知ることで、AI開発の真の制約条件が見えてきます。"
     },
     {
       "number": 11,
-      "title": "チャンポン・ジャオ氏、エージェント経済の重要ツールとしてKimi AIとOpenClawを挙げる",
-      "source": "fintechweekly.com",
-      "description": "",
-      "url": "https://www.fintechweekly.com/news/changpeng-zhao-ai-agents-crypto-payments-kimi-openclaw-march-2026",
+      "title": "新刊『無限のアルファベット：そして知識の法則』",
+      "source": "penguin.com.au",
+      "description": "*   **Actual Publish Date:** 2026-03-10 *   **Actual Publish Date:** 2026-03-10 *   **Actual Publish Date:** 2026-03-11 *   **Actual Publish Date:** 2026-03-11",
+      "url": "https://www.penguin.com.au/books/the-infinite-alphabet-9780241655672",
       "category": "AI・テクノロジー",
       "published_at": "2026-03-10",
       "mode": "adjacent",
       "summary": {
         "article_index": 3,
-        "title_ja": "チャンポン・ジャオ氏、エージェント経済の重要ツールとしてKimi AIとOpenClawを挙げる",
-        "headline": "バイナンス創設者がAIエージェントによる経済圏の到来を予測",
+        "title_ja": "新刊『無限のアルファベット：そして知識の法則』",
+        "headline": "2026年発売の新刊『無限のアルファベット』詳細情報",
         "key_points": [
-          "AIエージェントは銀行の本人確認が困難なため、暗号資産が主要な決済手段となる。",
-          "CZ氏はKimi AIを効率性とコーディング能力の面で高く評価し、開発を推奨。",
-          "AIエージェント市場は2030年までに約526億ドル規模へ急成長すると予測。"
+          "2026年2月10日にAllen Lane（ペンギン・グループ）より出版予定",
+          "ISBN 9780241655672、全256ページのハードカバー形式",
+          "Amazon、Kinokuniya、Dymocks等の主要書店で予約・販売受付",
+          "定価59.99ドルの学術的・知的な関心を呼ぶ新刊"
         ],
-        "detailed_summary": "バイナンス創設者のチャンポン・ジャオ（CZ）氏は、AIエージェントが人間に代わり膨大な決済を行う「エージェント経済」の到来を予測した。銀行口座の開設が困難なAIにとって、秘密鍵のみで動作する暗号資産ウォレットは不可欠なインフラとなる。CZ氏は自らの検証に基づき、Moonshot AIの「Kimi AI」とオープンソース枠組み「OpenClaw」を開発の重要ツールとして推奨。BNBチェーン側でもAI専用の本人確認基準（ERC-8004）を導入するなど、自律型エージェントが経済主体として活動するための環境整備が急速に進んでいる。",
-        "why_it_matters": "AIが独立した経済主体として活動するための具体的なツールと、それを支える決済インフラが整いつつあることを示している。"
+        "detailed_summary": "本記事は、2026年2月10日にAllen Laneから出版される新刊『The Infinite Alphabet: And the Laws of Knowledge』の出版詳細をまとめたものである。本書はハードカバー形式で256ページ、推奨小売価格は59.99ドルとなっている。Amazon、Dymocks、Kinokuniyaなどの主要なオンラインショップおよび実店舗での取り扱いが予定されており、すでにISBNコードも割り振られている。現時点では詳細な内容紹介はないが、タイトルからは知識の体系やその法則に関する哲学的、あるいは科学的な考察を扱う内容であることが示唆されている。",
+        "why_it_matters": "知識の性質を扱う重要な新刊の発売情報であり、出版業界や知識層におけるトレンドを把握する上で有用です。"
       },
-      "adjacent_field": "トークノミクス & インセンティブ設計 (Tokenomics & Incentive Design)",
-      "adjacent_reasoning": "ディスコ社の「Will」のような社内通貨制度への関心を、Web3やDAOの文脈で拡張した分野です。AIエージェントが経済主体となる未来において、どのように自律的な報酬系を設計し、組織や市場の行動を最適化すべきかの論理的枠組みを提供します。"
-    },
-    {
-      "number": 12,
-      "title": "ブライアン・アームストロング氏、AIエージェントの取引量が人間を上回ると予測",
-      "source": "financefeeds.com",
-      "description": "",
-      "url": "https://financefeeds.com/brian-armstrong-predicts-ai-agents-will-soon-surpass-humans-in-transaction-volume/",
-      "category": "AI・テクノロジー",
-      "published_at": "2026-03-10",
-      "mode": "adjacent",
-      "summary": {
-        "article_index": 4,
-        "title_ja": "ブライアン・アームストロング氏、AIエージェントの取引量が人間を上回ると予測",
-        "headline": "コインベースCEO、AI間の「マシン・ツー・マシン」経済を展望",
-        "key_points": [
-          "AIが金融システムにおいて人間を上回る取引主体になると予測。",
-          "暗号資産ウォレットが、AIにとっての「クレジットカード」の役割を果たす。",
-          "USDC等のステーブルコインを用いたAI同士の直接取引がネット経済を変える。"
-        ],
-        "detailed_summary": "コインベースCEOのブライアン・アームストロング氏は、AIエージェントがデジタル経済における主要な取引主体になるとの展望を示した。従来の金融システムではAIの本人確認（KYC）が不可能だが、暗号資産ウォレットを利用することで、AIが自律的に計算資源の購入やデータ取引を行えるようになる。実際にBaseネットワーク上でAI同士の取引を成功させており、今後はステーブルコインを用いた「マシン・ツー・マシン（M2M）」経済が急拡大すると主張。これはインターネットを受動的な場から、自律的なプロセスが収益化される活発な市場へと変貌させる可能性がある。",
-        "why_it_matters": "暗号資産の次の成長波が個人投資家ではなく、自動化されたAIシステムによる実需から生まれる可能性を強調している。"
-      },
-      "adjacent_field": "トークノミクス & インセンティブ設計 (Tokenomics & Incentive Design)",
-      "adjacent_reasoning": "ディスコ社の「Will」のような社内通貨制度への関心を、Web3やDAOの文脈で拡張した分野です。AIエージェントが経済主体となる未来において、どのように自律的な報酬系を設計し、組織や市場の行動を最適化すべきかの論理的枠組みを提供します。"
+      "adjacent_field": "複雑系経済学 (Complexity Economics)",
+      "adjacent_reasoning": "中央銀行の政策や市場のマルチプル拡大、AIによる社会構造の変化を、静的な均衡ではなく「相互作用する動的なシステム」として捉え直す視点を与えます。伝統的な経済学が捉えきれないバリュートラップや、技術革新による予測不能な非線形変化を分析する武器になります。"
     }
   ]
 }
