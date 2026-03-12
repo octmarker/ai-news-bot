@@ -1,0 +1,276 @@
+{
+  "date": "2026-03-12",
+  "mode": "multimode",
+  "articles": [
+    {
+      "number": 1,
+      "title": "Replit、半年で評価額3倍の90億ドルに到達",
+      "source": "TechCrunch",
+      "description": "",
+      "url": "https://techcrunch.com/2026/03/11/replit-snags-9b-valuation-6-months-after-hitting-3b/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-03-11",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 1,
+        "title_ja": "Replit、半年で評価額3倍の90億ドルに到達",
+        "headline": "Replitが評価額90億ドルを達成",
+        "key_points": [
+          "シリーズDで4億ドルを調達し、企業価値が90億ドルに急上昇",
+          "プロ向けから非エンジニア向けへの戦略転換が成功の鍵",
+          "年内までに年換算収益（ARR）10億ドルの達成を目指す"
+        ],
+        "detailed_summary": "開発プラットフォームを提供するReplitが、最新の資金調達ラウンドで4億ドルを調達し、評価額がわずか半年で30億ドルから90億ドルへと急拡大した。今回の調達はGeorgian Partnersが主導し、著名投資家やDatabricks Venturesなどの大手も参加している。同社は「バイブ・コーディング」の潮流に乗り、プロの開発者だけでなく、自然言語でアプリを作りたい非エンジニア層へとターゲットを広げたことで飛躍的な成長を遂げた。創業から9年の苦節を経て、AIによる開発の民主化を牽引するユニコーン企業としての地位を固めている。",
+        "why_it_matters": "AIを活用した「プログラミング不要の開発」が巨大な市場価値を持つことを示しており、ソフトウエア開発のあり方を根本から変えようとしています。"
+      }
+    },
+    {
+      "number": 2,
+      "title": "Lovable、従業員146名でARR 4億ドルを突破",
+      "source": "TechCrunch",
+      "description": "",
+      "url": "https://techcrunch.com/2026/03/11/lovable-says-it-added-100m-in-revenue-last-month-alone-with-just-146-employees/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-03-11",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 2,
+        "title_ja": "Lovable、従業員146名でARR 4億ドルを突破",
+        "headline": "Lovable、月間1億ドルの収益増で急成長",
+        "key_points": [
+          "2月にARR 4億ドルを達成し、創業1年足らずで評価額66億ドルに",
+          "自然言語でアプリを構築する「バイブ・コーディング」が主流化",
+          "KlarnaやHubSpotなど、エンタープライズ顧客の獲得を強化"
+        ],
+        "detailed_summary": "スウェーデン発のAIスタートアップLovableは、2月の年換算収益（ARR）が4億ドルに達したことを発表した。わずか1ヶ月で収益を1億ドル積み上げる驚異的な成長を見せており、従業員わずか146名という極めて高い生産性を誇る。同社は自然言語でのアプリ構築を可能にするツールを提供し、非技術層から大企業まで幅広い支持を獲得している。AnthropicやOpenAIなどの大手AIラボも競合ツールを展開する中、セキュリティ機能の強化や独自のブランド戦略によって差別化を図り、年末までのARR 10億ドル達成を視野に入れている。",
+        "why_it_matters": "AIネイティブな企業の台頭により、極めて少人数の組織が従来のソフトウェア企業を上回るスピードで莫大な収益を上げる新時代の到来を象徴しています。"
+      }
+    },
+    {
+      "number": 3,
+      "title": "中国でAIツール「OpenClaw」が大流行、ビジネス化する人々",
+      "source": "MIT Technology Review",
+      "description": "",
+      "url": "https://www.technologyreview.com/2026/03/11/1134179/china-openclaw-gold-rush/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-03-12",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 3,
+        "title_ja": "中国でAIツール「OpenClaw」が大流行、ビジネス化する人々",
+        "headline": "中国でAIツール「OpenClaw」狂騒曲",
+        "key_points": [
+          "オープンソースAI「OpenClaw」が中国で社会現象に",
+          "設置代行や設定済みハード販売など、草の根ビジネスが活況",
+          "セキュリティリスクを承知で最新AIを導入する一般層の熱狂"
+        ],
+        "detailed_summary": "中国では「OpenClaw（愛称：ロブスター）」と呼ばれる、デバイスを自律操作するオープンソースAIツールが爆発的な人気を博している。この熱狂を商機と捉えた若手エンジニアたちが、技術知識のない一般層向けに設置サポートや設定済み端末を販売するビジネスを次々と立ち上げている。北京のあるエンジニアは、この副業がわずか数ヶ月で100人以上の従業員を抱える規模に成長した。専門家がセキュリティ上のリスクを警告する一方で、AIエージェントを自ら使いこなしたいという中国の一般市民の意欲は極めて高く、独自のAIエコシステムが形成されつつある。",
+        "why_it_matters": "AIエージェントが一般消費者レベルで急速に普及し、公式なサービスを待たずにユーザーが自らエコシステムを構築していく中国特有のスピード感を示しています。"
+      }
+    },
+    {
+      "number": 4,
+      "title": "OpenAI、コーディングAI分野でAnthropicを追う内部事情",
+      "source": "WIRED",
+      "description": "",
+      "url": "https://www.wired.com/story/openai-codex-race-claude-code/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-03-12",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 4,
+        "title_ja": "OpenAI、コーディングAI分野でAnthropicを追う内部事情",
+        "headline": "OpenAI、先行するライバルを猛追",
+        "key_points": [
+          "AnthropicのClaude Codeが収益でOpenAIのCodexを圧倒",
+          "サム・アルトマン氏はコーディングAIを「数兆ドル市場」と定義",
+          "OpenAIはAGIへの重要経路としてコーディング分野の挽回を急ぐ"
+        ],
+        "detailed_summary": "AI業界のリーダーであるOpenAIが、コーディング支援分野で競合Anthropicに先行を許す異例の事態となっている。Anthropicの「Claude Code」が25億ドルのARRを上げているのに対し、OpenAIの「Codex」は10億ドル程度に留まっているとされる。サム・アルトマンCEOは、コーディングはAGI（汎用人工知能）実現に向けた最も有力な道筋であり、数兆ドル規模の経済価値を生むと確信している。これまで「追われる側」だったOpenAIが、エンジニアの支持を取り戻すために組織を挙げてキャッチアップを急いでいる実態が浮き彫りになった。",
+        "why_it_matters": "AI開発の主戦場が汎用チャットから「実務としてのコーディング」に移行しており、その成否が次世代の覇権争いとAGI到達の鍵を握っていることを示唆しています。"
+      }
+    },
+    {
+      "number": 5,
+      "title": "IEA、石油備蓄の協調放出で全加盟国が合意　過去最大の4億バレル",
+      "source": "日本経済新聞",
+      "description": "",
+      "url": "https://www.nikkei.com/article/DGXZQOGR1179I0R10C26A3000000/",
+      "category": "経済・金融",
+      "published_at": "2026-03-12",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 1,
+        "title_ja": "IEA、石油備蓄の協調放出で全加盟国が合意　過去最大の4億バレル",
+        "headline": "IEAが過去最大4億バレルの備蓄放出へ、供給懸念に対応",
+        "key_points": [
+          "国際エネルギー機関（IEA）全加盟国が過去最大4億バレルの石油備蓄放出に合意。",
+          "イランによるホルムズ海峡の事実上の封鎖による市場への影響緩和が目的。",
+          "ロシアのウクライナ侵攻時を大幅に上回る規模で、日米欧が足並みを揃える。"
+        ],
+        "detailed_summary": "国際エネルギー機関（IEA）は、日米欧を含む全加盟国が過去最大となる計4億バレルの石油備蓄を協調放出することで合意したと発表しました。この決定は、イランがホルムズ海峡を事実上封鎖したことによる原油供給への打撃を最小限に抑えることを目的としています。今回の放出量は、ロシアによるウクライナ侵攻を受けて実施された2022年の1億8000万バレルを大幅に上回る異例の規模です。エネルギー供給網の要所であるホルムズ海峡の緊張に対し、国際社会が結束して市場の安定化を図る姿勢を鮮明にしました。",
+        "why_it_matters": "世界の原油輸送の要衝における地政学的リスクに対し、国際社会が過去最大の資源投入で供給不安を抑え込もうとする極めて重要な局面です。"
+      }
+    },
+    {
+      "number": 6,
+      "title": "Anthropic、Claude Code向けにマルチエージェント型コードレビュー機能を発表",
+      "source": "thenewstack.io",
+      "description": "*   **Description:** This update covers Anthropic’s new multi-agent code review system for Claude Code Teams.",
+      "url": "https://thenewstack.io/anthropic-launches-a-multi-agent-code-review-tool-for-claude-code/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-03-12",
+      "mode": "deep_dive",
+      "summary": {
+        "article_index": 2,
+        "title_ja": "Anthropic、Claude Code向けにマルチエージェント型コードレビュー機能を発表",
+        "headline": "AIがバグを自動検知、Anthropicが新レビュー機能を公開",
+        "key_points": [
+          "Claude Codeの新機能として、複数のAIエージェントが並列で動く自動レビューを導入。",
+          "スタイルの修正よりも、誤検知が少ない「論理的エラー」の発見に特化した設計。",
+          "AIによるPR作成の急増で負担が増す人間側のボトルネック解消を目指す。"
+        ],
+        "detailed_summary": "Anthropicは、開発ツール「Claude Code」の新機能として、AIエージェントが自動でコードを検査する「Code Review」の提供を開始しました。このシステムは複数のエージェントが並列で動作し、人間の査読者が確認する前にバグや論理的エラーを特定します。特に「スタイリング」よりも「ロジック」の誤りに焦点を当てることで、開発者が嫌う誤検知を最小限に抑える設計となっています。承認自体は人間が行いますが、AIによるプルリクエストの急増で負担が増しているエンジニアの生産性を劇的に向上させることが期待されています。",
+        "why_it_matters": "AIによるコーディングが爆増しレビュー工程が深刻なボトルネックとなる中、その解決に向けた高度な自動化ソリューションとして注目されます。"
+      }
+    },
+    {
+      "number": 7,
+      "title": "AIエージェント開発の本質を学ぶClaude Code実践ガイドがGitHubで公開",
+      "source": "github.com",
+      "description": "*   **Actual Publish Date:** 2026-03-11 *   **Actual Publish Date:** 2026-03-11 *   **Actual Publish Date:** 2026-03-11 *   **Description:** A comprehensive technical guide updated on March 11 focusing on production-grade security for Claude Code. *   **Actual Publish Date:** 2026-03-11 *   **Actual Publish Date:** 2026-03-11",
+      "url": "https://github.com/FlorianBruniaux/claude-code-ultimate-guide",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-03-11",
+      "mode": "deep_dive",
+      "summary": {
+        "article_index": 3,
+        "title_ja": "AIエージェント開発の本質を学ぶClaude Code実践ガイドがGitHubで公開",
+        "headline": "仕組みからセキュリティまで、Claude Codeの包括的ガイド公開",
+        "key_points": [
+          "単なる設定のコピーではなく、エージェント設計の「理由」を理解することに重点。",
+          "24件の脆弱性情報を含むセキュリティ対策や、TDD等の開発手法を詳細に解説。",
+          "41の図解や271問のクイズなど、教育的深度が他のリソースを圧倒。"
+        ],
+        "detailed_summary": "GitHubにて公開された本ガイドは、Claude Codeを用いたエージェント開発において、単なる設定のコピーではなく「なぜその手法を採るのか」という本質的な理解を促す内容となっています。コア概念から商用レベルのセキュリティ対策までを網羅し、41のMermaid図解や16の専門分野別ガイドが含まれています。特に、AI特有の脆弱性（CVE）追跡や悪意のあるスキルのデータベースなど、セキュリティ面の深掘りが特徴です。技術リーダーから初心者まで、立場に応じた学習パスを提供し、実践的なAI開発スキルの習得を支援します。",
+        "why_it_matters": "AI開発が普及する中で、ツールの表面的な利用だけでなく、アーキテクチャやセキュリティといった「設計力」の向上が不可欠となっている現状を反映しています。"
+      }
+    },
+    {
+      "number": 8,
+      "title": "2026年のAIエージェント市場：音声AIの加速と業界再編が主要トレンドに",
+      "source": "fintechnews.ch",
+      "description": "*   **Actual Publish Date:** 2026-03-12 *   **Actual Publish Date:** 2026-03-12",
+      "url": "https://fintechnews.ch/aifintech/top-agent-ai-trends-shaping-2026/80424/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-03-12",
+      "mode": "deep_dive",
+      "summary": {
+        "article_index": 4,
+        "title_ja": "2026年のAIエージェント市場：音声AIの加速と業界再編が主要トレンドに",
+        "headline": "2026年のAI市場は「音声」と「M&A」が鍵。投資額も急増",
+        "key_points": [
+          "AIエージェント系スタートアップへの投資が急増し、2024年は前年比約3倍の38億ドル。",
+          "2026年はテキストから「音声対話」へのシフトが進み、MetaやOpenAIが技術獲得を強化。",
+          "2025年以降、プラットフォームの統合を目指した大規模なM&Aが業界内で加速。"
+        ],
+        "detailed_summary": "AIエージェント市場は急速な成長を遂げており、2024年にはスタートアップが前年の約3倍となる38億ドルを調達しました。大手テック企業も参入を強めており、Lenovoの「Qira」やGoogleの「Project Astra」などの開発が進んでいます。2026年に向けた主要トレンドとして、人間とAIが声でやり取りする「音声AI」の進化と、M&Aによる業界の集約が予測されています。特に2025年第1四半期には大規模な買収が相次いでおり、企業は競争力を高めるために包括的なエージェント・ソリューションの構築を急いでいます。",
+        "why_it_matters": "AIが単なる「チャットボット」から、自律的にタスクをこなし音声で自然に会話する「パーソナル・エージェント」へと進化する未来像を示しています。"
+      }
+    },
+    {
+      "number": 9,
+      "title": "Anthropicが米国防総省を提訴、「供給網のリスク」指定に反論",
+      "source": "jurist.org",
+      "description": "*   **Brief Description:** This article reports on the legal offensive launched by Anthropic against the U.S. Department of Defense (referred to as the Department of War).",
+      "url": "https://www.jurist.org/news/2026/03/anthropic-sues-us-defense-department-over-supply-chain-risk-designation/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-03-12",
+      "mode": "deep_dive",
+      "summary": {
+        "article_index": 1,
+        "title_ja": "Anthropicが米国防総省を提訴、「供給網のリスク」指定に反論",
+        "headline": "Anthropic、米国防総省の不当なリスク指定を提訴",
+        "key_points": [
+          "国防総省がAnthropicを「供給網のリスク」と指定したことに対し、同社が提訴。",
+          "自社AIの軍事利用制限に対する、政府による不当な報復措置であると主張。",
+          "競合のOpenAIは国防総省と新契約を締結しており、競争上の不利益を懸念。"
+        ],
+        "detailed_summary": "AIスタートアップのAnthropicは、米国防総省が同社を「供給網のリスク」および国家安全保障上の脅威に指定したことは不当であるとして、カリフォルニア州連邦地裁などに提訴しました。同社は、この指定が自社AI「Claude」を殺傷兵器や大量監視に利用することを禁止している倫理方針に対する、政府側の報復であると訴えています。訴状では、トランプ大統領やヘグセス国防長官が同社の方針を批判していた点に触れ、行政手続法や憲法に違反すると主張。本件は、AIの平和利用を掲げる企業方針と、技術の全権掌握を目指す国防政策との深刻な対立を浮き彫りにしています。",
+        "why_it_matters": "AIの倫理基準を巡る企業と国家の対立を象徴しており、先端技術の軍事利用の是非と供給網管理の在り方に大きな一石を投じています。"
+      }
+    },
+    {
+      "number": 10,
+      "title": "オックスフォード大学、複雑系経済学のセミナーシリーズを開催",
+      "source": "inet.ox.ac.uk",
+      "description": "**Title:** [Complexity Economics Seminar: César A. Hidalgo](https://www.inet.ox.ac.uk/events/the-infinite-alphabet)  \n**Source:** Institute for New Economic Thinking (INET) Oxford  \n**Actual Publish Date:** 2026-03-11  \n**Description:** A book talk and seminar by César Hidalgo as part of the *Complexity Economics Seminar Series*.",
+      "url": "https://www.inet.ox.ac.uk/events/complexity-economics-seminar-series",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-03-11",
+      "mode": "adjacent",
+      "summary": {
+        "article_index": 2,
+        "title_ja": "オックスフォード大学、複雑系経済学のセミナーシリーズを開催",
+        "headline": "オックスフォード大、AIや経済モデルをテーマにセミナー開催",
+        "key_points": [
+          "オックスフォード大が、経済学の多様な分野を扱う一連のセミナーを実施。",
+          "AIによる生産性向上や、供給網管理へのAIエージェント導入などを議論。",
+          "気候変動対策や都市設計など、社会課題への計算論的アプローチを網羅。"
+        ],
+        "detailed_summary": "オックスフォード大学のINET（新経済思考研究所）は、複雑系経済学をテーマにしたセミナーシリーズを開催しています。講師陣はオックスフォード、ケンブリッジ、OECDなどの第一線で活躍する研究者で構成されています。主なテーマには、AIが世界のマクロ経済の生産性に与える影響や、サプライチェーン管理における大規模言語モデル（LLM）の活用、さらには2050年のネットゼロ社会への移行に向けた経済モデルの分析などが含まれます。また、機械学習を用いた経済モデルの校正や合理的な期待形成の課題など、現代社会の複雑な課題に対して多角的な計算論的視点を提供しています。",
+        "why_it_matters": "最新のAI技術や計算科学が、いかにして現代の経済理論や政策立案、さらには社会課題の解決に応用されようとしているかを把握する上で重要です。"
+      },
+      "adjacent_field": "複雑系経済学 (Complexity Economics)",
+      "adjacent_reasoning": "AIエージェントという自律的個体の行動が、マクロ経済や社会構造（格差や階級の固定化）をいかに創発させるかをシミュレートする枠組みを提供する。個別のAI開発とマクロな社会影響を、エージェントベースモデリングを通じて論理的に橋渡しできる。"
+    },
+    {
+      "number": 11,
+      "title": "スタンフォード大学、AI時代のマーケットデザイン会議を開催",
+      "source": "datascience.stanford.edu",
+      "description": "*   **Actual Publish Date:** 2026-03-11 *   **Actual Publish Date:** 2026-03-12 *   **URL:** [https://www.koreatimes.co.kr/www/tech/2026/03/129_370425.html](https://www.koreatimes.co.kr/www/tech/2026/03/129_370425.html) *   **Actual Publish Date:** 2026-03-11 *   **Actual Publish Date:** 2026-03-12 *   **Source:** Stanford University (Stanford Data Science) *   **Actual Publish Date:** 2026-03-11 *   **Description:** This conference report from a March 11th event features insights from Google Re",
+      "url": "https://datascience.stanford.edu/events/computational-market-design-center/market-design-age-ai",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-03-11",
+      "mode": "adjacent",
+      "summary": {
+        "article_index": 3,
+        "title_ja": "スタンフォード大学、AI時代のマーケットデザイン会議を開催",
+        "headline": "スタンフォード大、AIと市場設計の融合を探る国際会議を開催",
+        "key_points": [
+          "経済学、機械学習、実務家による学際的なコラボレーションを促進。",
+          "生成AIが広告オークションや自律走行車の経済性に与える影響を検討。",
+          "Google、Microsoft、Metaなどの主要メンバーが登壇し理論と実践を議論。"
+        ],
+        "detailed_summary": "スタンフォード大学は、AI技術が市場の設計、分析、規制をどのように再構築しているかを探る「AI時代のマーケットデザイン会議」を開催します。本会議は、アルゴリズム設計と経済学を融合させ、より効率的で公平な市場システムの構築を目指すものです。セッションでは、生成AIを用いた広告オークションのメカニズム、自動運転車によるカープーリングの経済学、さらにAI計算リソースの割り当てといった最先端のトピックが議論されます。GoogleやMicrosoftのチーフエコノミストらも参加し、アカデミアの研究成果を実世界のプラットフォーム革新に繋げるための議論が展開されます。",
+        "why_it_matters": "AIが単なるツールを超えて市場そのものを再設計する存在となる中で、将来の経済システムがどのように変化すべきかを示唆しています。"
+      },
+      "adjacent_field": "メカニズムデザイン (Mechanism Design)",
+      "adjacent_reasoning": "「Will」のような社内通貨制度やAIエージェントのインセンティブ設計を、望ましい社会的・組織的結果を導くための「ルールの逆算」として理論化できる。AIの倫理的行動と経済的合理性を両立させるための設計思想として機能する。"
+    },
+    {
+      "number": 12,
+      "title": "AIによる破壊的変化に強い「実物資産」投資の有用性",
+      "source": "trustnet.com",
+      "description": "### **March 11, 2026** **Title:** [Three Real Assets Trust Picks for Resilience Through AI Disruption](https://www.trustnet.com/news/1234567/three-real-assets-trust-picks-resilience-ai-disruption)  \n**Source:** Trustnet  \n**Actual Publish Date:** 2026-03-11  \n**Description:** This investment analysis argues that as AI agents become more capable of automating digital intermediation, investors are shifting toward \"real assets\" (infrastructure, transport, energy) that are less correlated with techn",
+      "url": "https://www.trustnet.com/news/13471905/three-real-assets-trust-picks-for-resilience-through-ai-disruption",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-03-11",
+      "mode": "adjacent",
+      "summary": {
+        "article_index": 4,
+        "title_ja": "AIによる破壊的変化に強い「実物資産」投資の有用性",
+        "headline": "AI時代の投資戦略：破壊的変化に強い実物資産に注目",
+        "key_points": [
+          "AIはソフトウェアや仲介型ビジネスを脅かす一方、実物資産への影響は限定的。",
+          "ヘルスケア施設やスーパーなど、安定した契約収益を持つ資産が再評価。",
+          "技術的混乱に左右されない、物理的インフラへの投資がリスク回避の鍵。"
+        ],
+        "detailed_summary": "AIの急速な普及により、ソフトウェアや中間搾取型のビジネスモデルが脅かされる中、投資家の間では「実物資産（リアルアセット）」の価値が再評価されています。AIは参入障壁を下げ、知的労働を代替するため、無形資産主体のセクターは利益圧迫のリスクを抱えています。対照的に、ヘルスケア施設を所有するPHPや、大手スーパーの拠点を管理するSupermarket Income REITなどは、長期の賃貸契約やインフレ連動の収益構造を持ち、AIによる破壊的影響を受けにくいとされています。これらはコードで代替できない物理的需要に基づいているため、不確実なAI時代においてポートフォリオを安定させる戦略的役割を果たします。",
+        "why_it_matters": "AIが経済全体を激変させる中で、どのセクターが脆弱で、どのセクターがレジリエンス（回復力）を持つかを判断するための重要な投資視点を提供しています。"
+      },
+      "adjacent_field": "複雑系経済学 (Complexity Economics)",
+      "adjacent_reasoning": "AIエージェントという自律的個体の行動が、マクロ経済や社会構造（格差や階級の固定化）をいかに創発させるかをシミュレートする枠組みを提供する。個別のAI開発とマクロな社会影響を、エージェントベースモデリングを通じて論理的に橋渡しできる。"
+    }
+  ]
+}
