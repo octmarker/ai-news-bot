@@ -1,0 +1,276 @@
+{
+  "date": "2026-03-13",
+  "mode": "multimode",
+  "articles": [
+    {
+      "number": 1,
+      "title": "GumloopがBenchmarkから5000万ドル調達、全社員をAIエージェント開発者に",
+      "source": "TechCrunch",
+      "description": "",
+      "url": "https://techcrunch.com/2026/03/12/gumloop-lands-50m-from-benchmark-to-turn-every-employee-into-an-ai-agent-builder/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-03-12",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 1,
+        "title_ja": "GumloopがBenchmarkから5000万ドル調達、全社員をAIエージェント開発者に",
+        "headline": "非技術者でもAIエージェントが作れるGumloopが5千万ドル調達",
+        "key_points": [
+          "プログラミング不要で複雑な業務を自動化できるプラットフォーム",
+          "ShopifyやInstacartなどの大手企業が既に導入し成果を上げている",
+          "Benchmark主導の資金調達によりエンジニアと営業体制を大幅強化"
+        ],
+        "detailed_summary": "2023年創業のGumloopは、専門知識のない従業員が複雑なマルチステップのタスクを自動化できるAIエージェント構築プラットフォームを提供しています。ShopifyやInstacartなどの企業が導入しており、社内で自動化の文化が広がる「複利効果」を生んでいます。同社は今回、伝説的なVCであるBenchmarkが主導する5000万ドルのシリーズB資金調達を実施しました。競合にはZapierやAnthropicのClaude Coworkが存在しますが、Gumloopは企業需要の急増に応えるため、営業と開発体制を強化し、全ての知識労働者をAI開発者に変えることを目指しています。",
+        "why_it_matters": "AIエージェント開発の民主化が進み、プログラミング不要で業務を自動化するツールが企業の競争力を左右する時代になりつつあります。"
+      }
+    },
+    {
+      "number": 2,
+      "title": "イスラエルのAIエージェント企業Wonderful、評価額20億ドルで1.5億ドル調達",
+      "source": "TechCrunch",
+      "description": "",
+      "url": "https://techcrunch.com/2026/03/12/wonderful-raises-150m-series-b-at-2b-valuation/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-03-12",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 2,
+        "title_ja": "イスラエルのAIエージェント企業Wonderful、評価額20億ドルで1.5億ドル調達",
+        "headline": "イスラエルのWonderfulが評価額20億ドルで1.5億ドルを調達",
+        "key_points": [
+          "非英語圏市場に特化したカスタマーサービス向けAIを提供",
+          "各国の文化や規制に合わせ、現地でのシステム統合を手厚く支援",
+          "従業員数を300人から900人に増強しグローバル展開を加速"
+        ],
+        "detailed_summary": "イスラエル発のAIエージェント・スタートアップ「Wonderful」が、シリーズBで1億5000万ドルを調達し、評価額は20億ドルに達しました。設立からわずか13ヶ月で、通信、金融、ヘルスケア等の大手企業にプラットフォームを提供しています。最大の特徴は非英語圏市場への特化で、各国の言語や文化、規制に合わせて調整を行い、現地のシステム統合のためにエンジニアチームを直接派遣する戦略をとっています。今回の資金を基に、従業員数を現在の3倍となる900人に増員し、2026年に向けて企業のAI実用化パートナーとしての地位確立を狙います。",
+        "why_it_matters": "言語や文化の壁がある非英語圏市場において、深いシステム統合と現地適応を重視するAI導入モデルが有効であることを示しています。"
+      }
+    },
+    {
+      "number": 3,
+      "title": "米国防当局者、標的選定におけるAIチャットボットの活用方法を明かす",
+      "source": "MIT Technology Review",
+      "description": "",
+      "url": "https://www.technologyreview.com/2026/03/12/1134243/defense-official-military-use-ai-chatbots-targeting-decisions/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-03-13",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 3,
+        "title_ja": "米国防当局者、標的選定におけるAIチャットボットの活用方法を明かす",
+        "headline": "米軍が生成AIを標的選定の優先順位付けに活用へ、当局者が公開",
+        "key_points": [
+          "生成AIが標的リストを分析し、攻撃の優先順位を人間に推奨",
+          "ChatGPTやGrokの機密版を軍の意思決定プロセスに導入予定",
+          "AIは分析のみを担当し、最終的な攻撃判断は人間が行う原則"
+        ],
+        "detailed_summary": "米国防省の当局者が、軍の標的選定プロセスにおいて生成AIがどのように活用され得るかを明らかにしました。これまで「Maven」プロジェクト等の画像解析AIが標的の特定を支援してきましたが、新たに生成AIの層を加えることで、機材の配置状況などを考慮した標的の優先順位付けや分析を対話形式で行います。ChatGPTやGrokの機密環境での利用合意が進んでおり、意思決定の迅速化が図られます。一方で、AIはあくまで推奨案を提示するのみで、最終的な確認や実行の判断は人間が行う「ヒューマン・イン・ザ・ループ」の原則が強調されています。",
+        "why_it_matters": "生成AIが戦場での意思決定に直接関与し始めており、軍事運用の効率化と同時に倫理的・人道的な懸念が一段と高まっています。"
+      }
+    },
+    {
+      "number": 4,
+      "title": "GoogleマップにGemini搭載の対話型インターフェース「Ask Maps」が登場",
+      "source": "WIRED",
+      "description": "",
+      "url": "https://www.wired.com/story/google-maps-ask-maps-gemini-powered-tool/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-03-13",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 4,
+        "title_ja": "GoogleマップにGemini搭載の対話型インターフェース「Ask Maps」が登場",
+        "headline": "GoogleマップにGeminiを統合、AIとの対話で旅の計画が可能に",
+        "key_points": [
+          "「Ask Maps」によりチャット形式で旅行プランの作成や検索が可能",
+          "ユーザーの好み（菜食主義など）を反映したパーソナライズ提案",
+          "3D効果で視覚的な分かりやすさを高めた没入型ナビも同時公開"
+        ],
+        "detailed_summary": "Googleは、自社の生成AI「Gemini」を統合した新機能「Ask Maps」をGoogleマップに導入しました。ユーザーはチャット形式で「ベジタリアン向けのレストランを含めたドライブプランを立てて」といった具体的な要望を伝え、パーソナライズされた旅程を作成できます。また、ユーザーの過去の履歴を反映した提案を行うほか、特定の目的地でのアクティビティに対する助言も提供します。併せて、3D効果や詳細な車線表示を行う「没入型ナビゲーション」も米国で公開されました。一連の更新は、Googleが全サービスにAIを組み込む戦略の一環であり、利便性の向上を狙っています。",
+        "why_it_matters": "検索ツールから「パーソナルアシスタント」への進化を加速させており、地図アプリの利用体験が根本的に変わる可能性があります。"
+      }
+    },
+    {
+      "number": 5,
+      "title": "アジア太平洋市場が下落、中東紛争の長期化懸念で投資家が警戒",
+      "source": "CNBC",
+      "description": "",
+      "url": "https://www.cnbc.com/2026/03/13/asia-pacific-markets-today-nikkei-225-kospi-hang-seng-csi300.html",
+      "category": "経済・金融",
+      "published_at": "2026-03-13",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 5,
+        "title_ja": "アジア太平洋市場が下落、中東紛争の長期化懸念で投資家が警戒",
+        "headline": "中東緊張で原油高騰、アジア株急落し日経平均は2%安を記録",
+        "key_points": [
+          "イランのホルムズ海峡封鎖示唆を受け、原油価格が100ドルを突破",
+          "日経平均が2%下落し、ホンダは70年ぶりの通期赤字を予測",
+          "米国の景気後退確率は32%に上昇、世界経済の減速懸念が拡大"
+        ],
+        "detailed_summary": "中東情勢の緊迫化に伴い、アジア太平洋地域の株式市場が大幅に下落しました。イランがホルムズ海峡の封鎖を示唆したことで供給不安が高まり、ブレント原油先物が一時1バレル100ドルを突破しました。これを受け、日経平均株価は2%下落、ホンダは創業以来初の通期赤字予測を発表して6%以上急落しました。米国でも景気後退の確率が今年最高の32%に達するなど、市場は警戒を強めています。ゴールドマン・サックスなどのアナリストは、当面は原油高が続くものの、供給の正常化により年末には価格が落ち着くと予測しています。",
+        "why_it_matters": "地政学的リスクがエネルギー価格を直撃しており、製造業への打撃を通じて世界的な景気後退を引き起こすリスクが現実味を帯びています。"
+      }
+    },
+    {
+      "number": 6,
+      "title": "IM Dominator、7ドルのAIエージェント構築講座「OpenClaw Quickstart」を開始",
+      "source": "openpr.com",
+      "description": "*   **Actual Publish Date:** 2026-03-12 *   **Actual Publish Date:** 2026-03-12 *   **Actual Publish Date:** 2026-03-12 *   **Actual Publish Date:** 2026-03-12 *   **Actual Publish Date:** 2026-03-12",
+      "url": "https://www.openpr.com/news/4422336/im-dominator-launches-openclaw-quickstart-a-7-ai-agent-setup",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-03-12",
+      "mode": "deep_dive",
+      "summary": {
+        "article_index": 6,
+        "title_ja": "IM Dominator、7ドルのAIエージェント構築講座「OpenClaw Quickstart」を開始",
+        "headline": "7ドルでAIエージェントを構築できる初心者向けデジタル講座が登場",
+        "key_points": [
+          "オープンソースのOpenClawを利用した自動化ツール作成講座",
+          "プログラミング経験不要で、WindowsやMac等に導入可能",
+          "メールやSlack等と連携し、自律的に動作する仕組みを学べる"
+        ],
+        "detailed_summary": "「IM Dominator」は、オープンソースのAIエージェント「OpenClaw」を導入・設定するためのデジタル講座を7ドルで発売しました。この講座は、プログラミングやサーバー運用の経験がないマーケターでも、自律型AIエージェントを自身の環境に構築できるように設計されています。OpenClawはメール、カレンダー、各種APIと連携し、ユーザーの指示を待たずにスケジュール通りに動作して通知を行うのが特徴です。低価格で提供することで、高度なAI技術の導入障壁を取り払い、個人のマーケティング業務の効率化と自動化を支援することを目的としています。",
+        "why_it_matters": "高価なエンタープライズ向けツールだけでなく、低価格な教育コンテンツを通じて個人レベルでのAI活用が急速に普及し始めています。"
+      }
+    },
+    {
+      "number": 7,
+      "title": "Razorpayが世界初のAIエージェント・スタジオを構築",
+      "source": "fintechnews.sg",
+      "description": "*   **Title:** Razorpay Debuts AI-Native Agent Studio for Payments, Powered by Claude",
+      "url": "https://fintechnews.sg/127652/fintech-india/razorpay-agent-studio-ai-payments-claude/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-03-13",
+      "mode": "deep_dive",
+      "summary": {
+        "article_index": 1,
+        "title_ja": "Razorpayが世界初のAIエージェント・スタジオを構築",
+        "headline": "決済・銀行業務に特化したAIエージェント市場が誕生",
+        "key_points": [
+          "AnthropicのClaude Agent SDKを活用したB2B向けプラットフォーム",
+          "ノーコードで独自のAIエージェントを構築・デプロイ可能",
+          "未払い回収や紛争対応など、特定の商取引課題を自律的に解決"
+        ],
+        "detailed_summary": "インドの決済大手Razorpayは、AnthropicのClaudeを活用した世界初の「Agent Studio」を発表しました。これは決済やビジネスバンキングに特化したAIエージェントのマーケットプレイス兼構築プラットフォームです。導入されたエージェントは、支払失敗のリカバリや紛争解決、資金繰り予測などを自律的に実行します。特筆すべきは「Build Your Agent」機能で、プログラミング知識がなくても自然言語で指示を出すだけで、特定の業務を自動化するカスタムエージェントを即座に作成できます。これにより、AIは単なる提案役から、実際の取引を完結させる実行役へと進化を遂げました。",
+        "why_it_matters": "決済という信頼性が求められる分野でAIが自律的な実行権限を持つ「エージェント型決済」への移行を象徴する出来事です。"
+      }
+    },
+    {
+      "number": 8,
+      "title": "Claude AI Code Guard：文脈依存型の権限管理システム",
+      "source": "ubos.tech",
+      "description": "*   **Title:** Claude AI Code Guard: Context-Aware Permission System Revolutionizes AI Agents The system evaluates tool calls (like `rm -rf` or `git push --force`) in real-time based on file paths and intent to prevent accidental or adversarial data loss.",
+      "url": "https://ubos.tech/news/claude-ai-code-guard-context%E2%80%91aware-permission-system-revolutionizes-ai-agents/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-03-13",
+      "mode": "deep_dive",
+      "summary": {
+        "article_index": 2,
+        "title_ja": "Claude AI Code Guard：文脈依存型の権限管理システム",
+        "headline": "AIエージェントによる誤操作を防ぐ次世代のセキュリティ",
+        "key_points": [
+          "ファイルパスや意図をミリ秒単位で評価するセキュリティ層を導入",
+          "決定論的なルールとLLMによる推論を組み合わせたハイブリッド型",
+          "機密ディレクトリへのアクセスを自動でブロックしつつ柔軟な開発を維持"
+        ],
+        "detailed_summary": "AI開発スイートを提供するUBOSは、Claude Code向けの新しい「文脈依存型権限ガード」を発表しました。従来のAIエージェントは、権限を「全て許可」か「禁止」の二択でしか設定できず、不適切なコマンド実行のリスクがありました。新システムでは、実行環境の文脈を評価し、プロジェクト外の重要ファイル（SSHキー等）へのアクセスや破壊的なコマンドを自動的に遮断します。判定が曖昧な場合はLLMが介入してリスクを判断し、全ての決定はJSON形式でログ保存されます。これにより、開発者は安全性を確保したまま、AIに高度な自律的コーディングを任せることが可能になります。",
+        "why_it_matters": "AIエージェントがファイル操作やシステムコマンドを扱う際の最大の障壁であった「安全性」と「自律性」の両立を解決する重要な技術です。"
+      }
+    },
+    {
+      "number": 9,
+      "title": "2026年3月12日のAIニュース：SaaSの終焉か？",
+      "source": "note.com",
+      "description": "*   **公開日:** 2026-03-12 *   **公開日:** 2026-03-12 【2026/3/12 AIニュース】SaaSの終焉か？AIエージェントが引き起こす1兆ドルの衝撃『SaaSpocalypse』 *   **出典:** note (川上 将人 / Masato Kawakami) *   **公開日:** 2026-03-12 *   **内容:** シリコンバレーでトレンドとなっている「SaaSpocalypse（SaaSの黙示録）」を詳細に解説。Anthropicの「Claude Code」やOpenAIの「OpenClaw」の台頭により、従来の「ID（アカウント）課金制」が崩壊し、SalesforceやAdobeなどの巨人の時価総額が再評価される中で、投資家が重視すべき「新しいEPS成長のドライバー」について考察しています。 *   **公開日:** 2026-03-12 *   **公開日:** 2026-03-12 *   **公開日:** 2026-03-12",
+      "url": "https://note.com/masatokawakami/n/nd1c23ca5380e",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-03-12",
+      "mode": "deep_dive",
+      "summary": {
+        "article_index": 3,
+        "title_ja": "2026年3月12日のAIニュース：SaaSの終焉か？",
+        "headline": "自律型AIエージェントがSaaS業界と食糧危機を揺さぶる",
+        "key_points": [
+          "AIエージェントの台頭による「SaaSpocalypse」がシリコンバレーで話題",
+          "Google Gemini 3.1が全ワークスペースに統合され自律的な業務代行を開始",
+          "光合成効率を30%向上させる古代植物由来のタンパク質機能の解明"
+        ],
+        "detailed_summary": "2026年3月12日のAIニュースは、AIが「道具」から「自律する同僚」へ進化したことによる多大な影響を報じています。シリコンバレーでは、一人のAIが10人分の作業をこなすことで既存のSaaS課金モデルが崩壊する「SaaSpocalypse（SaaSの黙示録）」への懸念が広がっています。また、Googleは全Workspaceユーザー向けにGemini 3.1を公開し、ファイル横断的な報告書作成が可能になりました。科学分野では、ナノ技術による浸透圧発電の効率化や、光合成を劇的に改善して食糧危機を救う「スーパー作物」への道が開かれるなど、AIと先端技術の融合が社会を根底から変えつつあります。",
+        "why_it_matters": "AIが単なる効率化ツールを超えて、産業構造やエネルギー、食糧問題といった人類規模の課題に直接作用し始めたことを示しています。"
+      }
+    },
+    {
+      "number": 10,
+      "title": "HEAL：推論能力を蒸留するための事後エントロピー支援学習",
+      "source": "arxiv.org",
+      "description": "*   **Source:** arXiv (cs.AI / cs.LG) *   **Publish Date:** 2026-03-12 *   **Description:** This research introduces **HEAL**, an RL-free framework for distilling reasoning from Large Reasoning Models. It utilizes a **Guided Entropy-Assisted Repair (GEAR)** mechanism to detect reasoning breakpoints and inject hindsight hints, effectively aligning smaller models with complex reasoning trajectories without the \"teacher ceiling\" effect. *   **Publish Date:** 2026-03-12 *   **Publish Date:** 2026-03",
+      "url": "https://arxiv.org/abs/2603.10359",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-03-12",
+      "mode": "adjacent",
+      "summary": {
+        "article_index": 4,
+        "title_ja": "HEAL：推論能力を蒸留するための事後エントロピー支援学習",
+        "headline": "大規模推論モデルの知能を効率的に小型モデルへ継承",
+        "key_points": [
+          "「教師の限界（Teacher Ceiling）」を打破する新フレームワーク",
+          "エントロピー動態から推論の失敗箇所を特定し、動的にヒントを注入",
+          "三段階のカリキュラム学習により、推論の飛躍と整合性を両立"
+        ],
+        "detailed_summary": "大規模推論モデル（LRM）の能力を小型モデルに移植する「推論蒸留」の新手法「HEAL」が発表されました。従来の手法は、教師モデルが解けない難問（コーナーケース）を切り捨ててしまうため、生徒モデルの成長に限界がありました。HEALは、教育理論の「発達の最近接領域（ZPD）」を応用し、エントロピーに基づき推論が停滞している箇所を検知。そこに「ヒント」を注入して推論を再開させるGEARなどのモジュールで構成されます。実験では、従来の教師あり微調整（SFT）を大幅に上回る性能を記録し、高性能なAIの能力を軽量な環境で実現する可能性を広げました。",
+        "why_it_matters": "巨大で高コストな推論モデルの知能を、デバイス上で動作するような小型モデルへ効率的に移行させるための画期的な手法です。"
+      },
+      "adjacent_field": "メカニズムデザイン (Mechanism Design)",
+      "adjacent_reasoning": "ディスコの社内通貨制度や中央銀行の政策、AIエージェントの行動定義（CLAUDE.md）に共通する「望ましい結果を得るためのインセンティブ設計」の理論的基盤です。この分野を知ることで、組織・AI・経済を『ルールと誘因の設計』という統一的な視点で捉えられるようになります。"
+    },
+    {
+      "number": 11,
+      "title": "Dego Finance（DEGO）が2026年3月に急騰",
+      "source": "bingx.com",
+      "description": "*   **Publish Date:** 2026-03-12 *   **Publish Date:** 2026-03-12 *   **Publish Date:** 2026-03-12 *   **Publish Date:** 2026-03-12 *   **Publish Date:** 2026-03-12 *   **Publish Date:** 2026-03-12",
+      "url": "https://bingx.com/es-la/learn/article/what-is-dego-finance-modular-lego-of-defi-nfts-ai-how-to-buy",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-03-12",
+      "mode": "adjacent",
+      "summary": {
+        "article_index": 5,
+        "title_ja": "Dego Finance（DEGO）が2026年3月に急騰",
+        "headline": "NFTとDeFi、AIを融合させたWeb3インキュベーターが好調",
+        "key_points": [
+          "取引高が254%急増し、AI生成コンテンツやゲーム分野で注目",
+          "NFTを資産の「器」として扱い、本質的な価値を持たせる独自モデル",
+          "AIプラットフォーム「Defusion」の統合で生成AI市場へ進出"
+        ],
+        "detailed_summary": "NFTとDeFiのハイブリッドプラットフォームであるDego Financeが、2026年3月に市場で爆発的な成長を見せています。DegoはNFTを単なるデジタルアートではなく、トークンを封入できる「金融商品」として扱います。ユーザーはDEGOなどを裏付け資産としてNFTを鋳造し、ステーキングで報酬を得る「NFTマイニング」が可能です。2026年に入り、AI生成プラットフォーム「Defusion」やローンチパッド「Delta」を通じたエコシステムの拡大が功を奏し、モジュラー型Web3経済の要としての地位を確立しました。これにより、トークン価格は一時70%以上上昇しています。",
+        "why_it_matters": "NFTに実質的な資産価値を持たせつつAIと融合させることで、投機を超えた実用的なWeb3エコシステムの形を提示しています。"
+      },
+      "adjacent_field": "メカニズムデザイン (Mechanism Design)",
+      "adjacent_reasoning": "ディスコの社内通貨制度や中央銀行の政策、AIエージェントの行動定義（CLAUDE.md）に共通する「望ましい結果を得るためのインセンティブ設計」の理論的基盤です。この分野を知ることで、組織・AI・経済を『ルールと誘因の設計』という統一的な視点で捉えられるようになります。"
+    },
+    {
+      "number": 12,
+      "title": "LithosphereがAIネイティブ言語「Lithic」と規格群を発表",
+      "source": "newsfilecorp.com",
+      "description": "*   **Publish Date:** 2026-03-12 *   **Publish Date:** 2026-03-12 *   **Publish Date:** 2026-03-12 Lithic Launches with LEP100 Standards Suite for AI Governance** *   **Source:** Newsfile Corp / Lithosphere *   **Publish Date:** 2026-03-12 *   **Description:** Lithosphere announced **Lithic**, an AI-native smart contract language, alongside the **LEP100 Standards Suite**. These tools establish a formal framework for the **decentralized governance** of AI systems on-chain, ensuring that AI-mediat",
+      "url": "https://www.newsfilecorp.com/release/288202/Lithic-Launches-with-LEP100-Standards-Suite-for-AI-Governance-and-Cryptographic-Verification",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-03-12",
+      "mode": "adjacent",
+      "summary": {
+        "article_index": 6,
+        "title_ja": "LithosphereがAIネイティブ言語「Lithic」と規格群を発表",
+        "headline": "ブロックチェーン上でのAI利用を統制する「LEP100」規格",
+        "key_points": [
+          "AIとスマートコントラクトの相互作用を定義する初の公式枠組み",
+          "ゼロ知識証明を活用したAI実行の検証可能性（LEP100-5）を実現",
+          "AIの計算コストを予測・管理するための経済ガバナンスを導入"
+        ],
+        "detailed_summary": "Lithosphereは、AIネイティブなスマートコントラクト言語「Lithic」と、AIシステムのブロックチェーン統合を標準化する「LEP100規格群」をリリースしました。この規格は、AIサービスプロバイダーの登録方法から、計算コストの予算管理、AI出力の出所証明までを網羅しています。特にLEP100-5は、AIの推論が正しく行われたことを暗号学的に証明する「ゼロ知識証明」の枠組みを提供し、分散型アプリ内での自動意思決定に対する信頼性を高めます。これにより、AIはブロックチェーン上で単に動作するだけでなく、検証可能で経済的に統制された存在となります。",
+        "why_it_matters": "「AIがチェーン上で何を根拠にどう動いたか」を検証可能にすることで、信頼性の高い自律型金融・社会インフラの構築に貢献します。"
+      },
+      "adjacent_field": "メカニズムデザイン (Mechanism Design)",
+      "adjacent_reasoning": "ディスコの社内通貨制度や中央銀行の政策、AIエージェントの行動定義（CLAUDE.md）に共通する「望ましい結果を得るためのインセンティブ設計」の理論的基盤です。この分野を知ることで、組織・AI・経済を『ルールと誘因の設計』という統一的な視点で捉えられるようになります。"
+    }
+  ]
+}
