@@ -1,0 +1,254 @@
+{
+  "date": "2026-03-14",
+  "mode": "multimode",
+  "articles": [
+    {
+      "number": 1,
+      "title": "NanoClaw開発者の激動の6週間、Dockerとの提携に至るまで",
+      "source": "TechCrunch",
+      "description": "",
+      "url": "https://techcrunch.com/2026/03/13/the-wild-six-weeks-for-nanoclaws-creator-that-led-to-a-deal-with-docker/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-03-13",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 1,
+        "title_ja": "NanoClaw開発者の激動の6週間、Dockerとの提携に至るまで",
+        "headline": "週末の趣味開発がDocker提携へ",
+        "key_points": [
+          "週末の趣味で開発したAIエージェントツールがSNSで爆発的に拡散",
+          "著名AI研究者カルパシー氏の絶賛を受け、GitHubで2万スター超え",
+          "コンテナ技術の巨人Dockerとの提携により、安全な実行環境を統合"
+        ],
+        "detailed_summary": "開発者のガブリエル・コーエン氏が、わずか週末の48時間で作り上げたオープンソースのAIエージェント構築ツール「NanoClaw」を巡る物語です。Hacker Newsでのバイラル化や、著名なAI研究者アンドレイ・カルパシー氏の称賛を経て、プロジェクトは短期間で22,000件のGitHubスターを獲得。コーエン氏は既存のスタートアップを閉鎖して新会社NanoCoを設立し、現在はDocker社と提携して、数百万人の開発者が利用するDocker Sandboxとの統合を進めています。",
+        "why_it_matters": "個人のオープンソースプロジェクトが短期間で業界標準の企業と提携するまでのプロセスは、現代のAI開発のスピード感と、セキュリティを重視したAIエージェント構築ツールの需要の高さを示しています。"
+      }
+    },
+    {
+      "number": 2,
+      "title": "トランプ氏「イランの『至宝』破壊」 原油輸出9割担う拠点、石油施設は対象外",
+      "source": "日本経済新聞",
+      "description": "",
+      "url": "https://www.nikkei.com/article/DGXZQOGN140AH0U6A310C2000000/",
+      "category": "経済・金融",
+      "published_at": "2026-03-14",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 2,
+        "title_ja": "トランプ氏「イランの『至宝』破壊」 原油輸出9割担う拠点、石油施設は対象外",
+        "headline": "イランの輸出拠点を攻撃、石油は温存",
+        "key_points": [
+          "イラン原油輸出の9割を担うカーグ島の軍事目標を完全に破壊",
+          "原油価格高騰を避けるため、石油インフラへの直接攻撃は回避",
+          "最高指導者ハメネイ師の死亡が報じられ、中東情勢は緊迫化"
+        ],
+        "detailed_summary": "2026年、トランプ米大統領はイランの重要拠点であるカーグ島への軍事攻撃を実行し、島内の全軍事目標を破壊したと発表しました。この拠点はイランの原油輸出の9割を担っていますが、トランプ氏は世界的な石油価格への影響を考慮し、石油インフラ自体の破壊は避ける戦略的な選択をしました。同時に、米イスラエル軍によるテヘラン空爆や、イラン最高指導者ハメネイ師の死亡が報じられており、地域の緊張は極限に達しています。",
+        "why_it_matters": "エネルギー供給への影響を最小限に抑えつつ軍事的な圧力を最大化するトランプ政権の戦略と、イラン指導部の崩壊という地政学的な激震を象徴しています。"
+      }
+    },
+    {
+      "number": 3,
+      "title": "米軍、迎撃ドローン「メロプス」1万機投入 対イランでコスト抑制",
+      "source": "日本経済新聞",
+      "description": "",
+      "url": "https://www.nikkei.com/article/DGXZQOGN13C9T0T10C26A3000000/",
+      "category": "経済・金融",
+      "published_at": "2026-03-14",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 3,
+        "title_ja": "米軍、迎撃ドローン「メロプス」1万機投入 対イランでコスト抑制",
+        "headline": "AI迎撃ドローン1万機でコスト戦へ",
+        "key_points": [
+          "AI搭載の安価な迎撃ドローン「メロプス」を1万機実戦投入",
+          "1機1.6万ドルという低コストでイランの安価なドローンに対抗",
+          "高額なミサイルに頼らない、新しい軍事経済的な防衛戦略"
+        ],
+        "detailed_summary": "2026年、米軍は対イラン軍事作戦において、AIを搭載した新型迎撃ドローン「メロプス」を1万機投入しました。このドローンの最大の特徴は、1機あたり約1万ドル（約160万円）という圧倒的な低コストにあります。イランが多用する安価な攻撃用ドローンに対し、高額な迎撃ミサイルではなく同等以下のコストで対抗することで、米軍は消耗戦における経済的な優位性を確保しようとしています。軍事作戦におけるAIとコスト管理の重要性が浮き彫りになっています。",
+        "why_it_matters": "従来の「高価な兵器で安価なドローンを撃ち落とす」という非効率な戦いを終わらせ、ドローン戦争における新たなコスト構造のパラダイムシフトを示しています。"
+      }
+    },
+    {
+      "number": 4,
+      "title": "xAI共同創業者9人離脱 マスク氏が相次ぎ解任、Grok開発遅れに不満",
+      "source": "日本経済新聞",
+      "description": "",
+      "url": "https://www.nikkei.com/article/DGXZQOGN13C950T10C26A3000000/",
+      "category": "経済・金融",
+      "published_at": "2026-03-14",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 4,
+        "title_ja": "xAI共同創業者9人離脱 マスク氏が相次ぎ解任、Grok開発遅れに不満",
+        "headline": "xAI創業メンバー大半が離脱、組織再編",
+        "key_points": [
+          "共同創業者11人のうち9人が離脱し、組織が解体的に出直しへ",
+          "イーロン・マスク氏が対話型AI「Grok」の開発遅延に激怒",
+          "将来的なIPOを見据え、開発体制の抜本的な刷新を強行"
+        ],
+        "detailed_summary": "イーロン・マスク氏が率いるAI企業「xAI」において、創業メンバーの大多数にあたる9名が離脱したことが明らかになりました。背景には、同社のAIモデル「Grok」の開発進捗に対するマスク氏の強い不満があり、事実上の解任劇とみられています。xAIは現在、スペースX傘下での新規株式公開（IPO）を視野に入れており、今回の組織再編は上場を前にした体制の立て直しという側面も持っていますが、内部の混乱も懸念されます。",
+        "why_it_matters": "マスク氏の強権的なマネジメントスタイルと、競争が激化するAI業界における開発スピードの重要性が、創業組織の崩壊という極端な形で現れています。"
+      }
+    },
+    {
+      "number": 5,
+      "title": "【2026年2月版】Claude Code 完全ガイド",
+      "source": "zenn.dev",
+      "description": "*   **Source:** Anthropic (Claude Code Official Documentation)",
+      "url": "https://zenn.dev/akasara/articles/4fbf28fcfcd836",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-03-14",
+      "mode": "deep_dive",
+      "summary": {
+        "article_index": 5,
+        "title_ja": "【2026年2月版】Claude Code 完全ガイド",
+        "headline": "AIコーディングの決定版ツールを解説",
+        "key_points": [
+          "ターミナルから操作する自律型AIコーディングエージェント",
+          "関連売上が年換算25億ドルに達し、開発効率を劇的に向上",
+          "月額20ドルから200ドルまでの多様な料金プランを展開"
+        ],
+        "detailed_summary": "Anthropicが提供する「Claude Code」は、ターミナル上で自律的にファイルの読み書きやコマンド実行を行うAIエージェントです。2026年2月時点で、Anthropic社内ではコードの70-90%がAIによってアシストされています。本ガイドでは、インストールから料金体系、モデルの使い分け、コンテキスト圧縮などの高度な操作までを解説。個人開発者からエンタープライズまで、エンジニアの生産性を数倍に高めるための必須ツールとしての地位を確立しています。",
+        "why_it_matters": "AIが単なる「チャット」から、実際の開発環境を操作して「自律的にタスクを完遂する」エージェントへと進化したことを示す好例です。"
+      }
+    },
+    {
+      "number": 6,
+      "title": "Claude Codeで会計事務所の業務を革命する完全ガイド",
+      "source": "aquallc.jp",
+      "description": "*   **Description:** This technical guide explains how to configure **CLAUDE.md** and **MCP servers** to build a fully autonomous system.",
+      "url": "https://www.aquallc.jp/claude-code-accounting-firm-guide/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-03-14",
+      "mode": "deep_dive",
+      "summary": {
+        "article_index": 6,
+        "title_ja": "Claude Codeで会計事務所の業務を革命する完全ガイド",
+        "headline": "会計業務を「自律システム」に変革",
+        "key_points": [
+          "単なる仕訳回答ではなく、会計処理を行う「仕組み」を構築",
+          "CLAUDE.mdに事務所のノウハウを蓄積し、同じミスを根絶",
+          "Gitによる監査証跡や無人実行で、圧倒的な精度と効率を実現"
+        ],
+        "detailed_summary": "Claude Codeを会計実務に導入することで、単発の質問への回答ではなく、自動で仕訳、検証、API連携を行う「永続的なシステム」の構築が可能になります。具体的には、事務所共通のルールを「CLAUDE.md」に定義してAIに学習させ、Gitを活用した変更履歴の管理や、ヘッドレスモードによる無人実行を組み合わせます。これにより、属人的なノウハウが明文化され、ミスが自己修正される「自己改善型」の会計事務所へと進化できると説いています。",
+        "why_it_matters": "エンジニア以外の専門職領域において、AIを「便利なツール」としてだけでなく「自律的な業務基盤」として組み込むための具体的なフレームワークを示しています。"
+      }
+    },
+    {
+      "number": 7,
+      "title": "中国でOpenClawブーム、AI企業にとってのゴールドラッシュ",
+      "source": "WIRED",
+      "description": "",
+      "url": "https://www.wired.com/story/china-is-going-all-in-on-openclaw/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-03-14",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 1,
+        "title_ja": "中国でOpenClawブーム、AI企業にとってのゴールドラッシュ",
+        "headline": "中国でAIエージェント「OpenClaw」が大流行",
+        "key_points": [
+          "非エンジニア層による投資や効率化目的の利用が急増",
+          "実装の難易度が高く、初心者ユーザーには失望感も広がる",
+          "大手IT企業がインフラ提供を通じてバブルの恩恵を受ける"
+        ],
+        "detailed_summary": "中国で「OpenClaw」というAIエージェントソフトが爆発的なブームを巻き起こしています。株式投資の自動化やニュース分析を目的として、多くの一般市民がクラウドサーバーを契約し導入を試みていますが、プログラミング知識のないユーザーにとってはAPI設定などの操作が難しく、期待通りの成果が得られないケースも目立ち始めています。しかし、この熱狂の裏で、テンセントやアリババなどの大手テック企業は、クラウドサービスや大規模言語モデルの利用料を通じて確実な収益を上げており、AIバブルにおける「シャベルを売る者」として真の勝者となっています。",
+        "why_it_matters": "AIの民主化が期待される一方で、技術的障壁によるユーザーの選別と、インフラを握る大手プラットフォームへの利益集中という実態を浮き彫りにしています。"
+      }
+    },
+    {
+      "number": 8,
+      "title": "SaaSの終焉：AIエージェント時代の生き残り戦略",
+      "source": "forrester.com",
+      "description": "*   **URL:** [https://www.pakistantoday.com.pk/2026/03/13/software-industry-leaders-push-back-against-concerns-over-ai-driven-automation/](https://www.pakistantoday.com.pk/2026/03/13/software-industry-leaders-push-back-against-concerns-over-ai-driven-automation/) **Summary of Trend (2026-03-13 to 2026-03-14):**\nThe news from the last 48 hours indicates a major market and theoretical shift.",
+      "url": "https://www.forrester.com/blogs/saas-as-we-know-it-is-dead-how-to-survive-the-saas-pocalypse/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-03-13",
+      "mode": "deep_dive",
+      "summary": {
+        "article_index": 2,
+        "title_ja": "SaaSの終焉：AIエージェント時代の生き残り戦略",
+        "headline": "AIの進化でSaaS業界に「終末論」と再編の波",
+        "key_points": [
+          "2026年2月にSaaS株が暴落、時価総額1兆ドルが消失",
+          "AIエージェントにより従来の「ID課金モデル」が無効化の危機",
+          "垂直統合型や特定領域特化型のSaaSは生存の可能性が高い"
+        ],
+        "detailed_summary": "2026年初頭、AIエージェントの急速な進化を背景にSaaS企業の株価が大暴落し、わずか1週間で1兆ドル以上の時価総額が失われました。投資家は、AIが従来のソフトウェアワークフローを置き換え、ユーザー数ベースの課金モデルが崩壊することを懸念しています。フォレスター社の分析によれば、汎用的なSaaSは厳しい状況に追い込まれる一方、医療や製造業といった複雑な業界に特化した垂直型SaaSや、独自のデータを保有するベンダーは、AIネイティブへの転換を通じて生き残る可能性が高いと予測されています。",
+        "why_it_matters": "長年ソフトウェア業界の主流だったビジネスモデルが根本から覆されようとしており、企業のIT戦略や投資判断に劇的な変化を迫っています。"
+      }
+    },
+    {
+      "number": 9,
+      "title": "AIが働く時代、人口減少は本当に危機なのか？",
+      "source": "medium.com",
+      "description": "*   **Description:** This article explores how AI-native business models are transitioning from \"back-office automation\" to foundational operational layers. It highlights the economic shift where agentic workflows enable personalization and decision-making at near-zero marginal cost, fundamentally readjusting market expectations for digital systems and global finance. *   **Source:** The Economic Times It argues that as AI enables \"zero-marginal-cost labor,\" the linear relationship between headc",
+      "url": "https://medium.com/@rjeprof/is-population-really-a-crisis-in-an-age-where-ai-does-the-work-d815d239ba14",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-03-14",
+      "mode": "adjacent",
+      "summary": {
+        "article_index": 3,
+        "title_ja": "AIが働く時代、人口減少は本当に危機なのか？",
+        "headline": "AIと自動化が変える「人口と経済」の相関関係",
+        "key_points": [
+          "世界的な出生率低下により、従来の成長モデルが限界に",
+          "歴史的に人口は労働力＝成長の源泉だったがAIが代替",
+          "経済価値創出における「人間の必要性」が根本から変化"
+        ],
+        "detailed_summary": "日本や韓国、欧州などで深刻化する出生率の低下は、従来の経済学では労働力不足と成長鈍化を招く「危機」と見なされてきました。しかし、AIやロボット、そして将来的な汎用人工知能（AGI）の普及により、人間を介さずに高い生産性を維持できる可能性が浮上しています。製造や物流では既に少ない人員で大きな成果を上げており、今後は「経済価値を生むために人間がどれだけ必要か」という前提が覆されます。人口が国力や福祉を支える唯一の指標だった時代が終わり、テクノロジーが人口動態の影響をデカップリングする未来が示唆されています。",
+        "why_it_matters": "少子高齢化という絶望的な社会課題に対し、AIが「労働力の代替」として新たな解を提供し、経済成長の定義そのものを変える可能性があります。"
+      },
+      "adjacent_field": "Post-Scarcity Economics (ポスト希少性経済学)",
+      "adjacent_reasoning": "AGIによる労働代替や生産コストの極小化が、既存の「利益率」や「市場価値」の概念をどう変容させるかを探究する、インフレ・金利・社会階級の既存知識を拡張する分野です。"
+    },
+    {
+      "number": 10,
+      "title": "特化型AIの台頭：法務と金融における言語モデルの革新",
+      "source": "ittech-pulse.com",
+      "description": "*   **Actual Publish Date:** 2026-03-14 *   **Actual Publish Date:** 2026-03-14",
+      "url": "https://ittech-pulse.com/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-03-14",
+      "mode": "adjacent",
+      "summary": {
+        "article_index": 4,
+        "title_ja": "特化型AIの台頭：法務と金融における言語モデルの革新",
+        "headline": "法律や金融の専門領域で特化型AIモデルが普及",
+        "key_points": [
+          "法務調査や契約分析がドメイン特化型AIで劇的に効率化",
+          "金融業界のリスク管理や不正検知に専用モデルを活用",
+          "汎用AIから、戦略的意思決定を支援する「エージェントAI」へ"
+        ],
+        "detailed_summary": "企業の法務部門や金融機関において、特定の専門領域（ドメイン）に最適化された言語モデルの導入が加速しています。従来の汎用AIでは難しかった、高度な専門知識を要する法的リサーチや複雑な契約書の分析が、専用モデルによって高精度かつ短時間で実行可能になりました。また、金融業界（BFSI）では、膨大な取引データからの不正検知やコンプライアンス遵守において、特化型AIが不可欠なツールとなっています。これらは単なる業務自動化を超え、AIエージェントが専門家の判断を高度に支援する「エージェントAI」時代の幕開けを象徴しています。",
+        "why_it_matters": "AIの活用が「何でもできる汎用型」から「特定の専門業務を完璧にこなす特化型」へシフトし、高度な専門職の働き方を再定義しています。"
+      },
+      "adjacent_field": "Post-Scarcity Economics (ポスト希少性経済学)",
+      "adjacent_reasoning": "AGIによる労働代替や生産コストの極小化が、既存の「利益率」や「市場価値」の概念をどう変容させるかを探究する、インフレ・金利・社会階級の既存知識を拡張する分野です。"
+    },
+    {
+      "number": 11,
+      "title": "LifewardがOramedとの戦略的提携を承認、バイオ銘柄へ",
+      "source": "stocktitan.net",
+      "description": "*   **Description:** Lifeward Ltd. received shareholder approval for a strategic partnership with Oramed, creating a diversified biomedical entity.",
+      "url": "https://www.stocktitan.net/news/LFWD/lifeward-receives-shareholder-approval-to-close-on-strategic-dlrnf0a5rhk6.html",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-03-14",
+      "mode": "adjacent",
+      "summary": {
+        "article_index": 5,
+        "title_ja": "LifewardがOramedとの戦略的提携を承認、バイオ銘柄へ",
+        "headline": "LifewardがOramedと提携、医療・バイオ企業へ",
+        "key_points": [
+          "株主がOramedとの提携を承認し、最大4700万ドルの資金を確保",
+          "経口タンパク質デリバリー技術「POD」を事業ポートフォリオに追加",
+          "メドテックの収益性とバイオテックの成長性を統合する新戦略"
+        ],
+        "detailed_summary": "医療技術企業のLifeward（旧ReWalk Robotics）は、Oramed Pharmaceuticalsとの戦略的パートナーシップ締結について株主の承認を得たと発表しました。この提携により、LifewardはOramed独自の経口タンパク質デリバリー技術「POD」を取り込み、バイオ医薬品分野への進出を図ります。最大4,700万ドルの資金提供を受けることで、既存のメドテック事業（外骨格ロボットなど）のキャッシュを温存しつつ、長期的なバイオ事業の成長という二段構えの戦略を構築します。市場の反応は様々ですが、同社の事業ポートフォリオを多角化する重要な転換点となります。",
+        "why_it_matters": "中堅メドテック企業が、提携を通じて最先端バイオ技術を取り込み、資本増強と事業ドメインの拡大を同時に実現する戦略的モデルケースです。"
+      },
+      "adjacent_field": "Real Options Analysis (リアル・オプション分析)",
+      "adjacent_reasoning": "不確実性の高いAI事業（MVP）や投資において、将来の意思決定の「選択権」を金融理論で評価する手法で、PERの拡大や戦略的な撤退・拡張の論理的根拠を補強します。"
+    }
+  ]
+}
