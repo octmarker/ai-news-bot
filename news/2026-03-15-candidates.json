@@ -1,0 +1,265 @@
+{
+  "date": "2026-03-15",
+  "mode": "multimode",
+  "articles": [
+    {
+      "number": 1,
+      "title": "中国で巻き起こるAIツール「OpenClaw」ブームと商機",
+      "source": "MIT Technology Review",
+      "description": "",
+      "url": "https://www.technologyreview.com/2026/03/11/1134179/china-openclaw-gold-rush/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-03-15",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 1,
+        "title_ja": "中国で巻き起こるAIツール「OpenClaw」ブームと商機",
+        "headline": "中国でAIツール設置代行業が急成長",
+        "key_points": [
+          "デバイス自動操作AI「OpenClaw」が中国で爆発的ブームに",
+          "非技術者向けの設置代行や設定済みハード販売がビジネス化",
+          "セキュリティリスクを顧みない急速なAI普及の現状を反映"
+        ],
+        "detailed_summary": "中国で、デバイスを自律操作してタスクを実行するオープンソースAI「OpenClaw（通称：ザリガニ）」が熱狂的な人気を博している。このブームに乗じ、技術知識のない一般ユーザー向けに設置サポートや設定済みハードウェアを提供する代行業が台頭。元エンジニアの馮慶陽氏は、副業から始めてわずか数ヶ月で100人以上の従業員を抱える事業へと成長させた。この現象は、セキュリティ上の懸念があるにもかかわらず、最先端AIをいち早く生活に取り入れようとする中国の一般大衆の強い意欲と、そこから生まれる草の根レベルの商機を浮き彫りにしている。",
+        "why_it_matters": "AIの実用化が公的機関や大企業だけでなく、草の根レベルのインフォーマルな経済圏でも急速に進んでいる中国市場の特異性を示しています。"
+      },
+      "selection_reason": "中国で加熱するOpenClawブームを報じており、ローカルAI実行に強い関心を持つユーザーに重要な時事です。"
+    },
+    {
+      "number": 2,
+      "title": "不気味の谷：Anthropicの国防総省提訴とAIによるVCの代替",
+      "source": "WIRED",
+      "description": "",
+      "url": "https://www.wired.com/story/uncanny-valley-podcast-anthropic-department-defense-lawsuit-iran-war-memes-artificial-intelligence-venture-capital/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-03-15",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 2,
+        "title_ja": "不気味の谷：Anthropicの国防総省提訴とAIによるVCの代替",
+        "headline": "Anthropicが米国防総省を提訴",
+        "key_points": [
+          "Anthropicがサプライチェーンリスク認定を巡りDODを提訴",
+          "トランプ政権による戦争映画風ミームを用いた政治宣伝",
+          "AIがベンチャーキャピタリストの業務を代替する可能性"
+        ],
+        "detailed_summary": "WIREDのポッドキャスト「Uncanny Valley」では、AIスタートアップのAnthropicが米国防総省（DOD）を提訴したニュースを深掘りしている。同社は「サプライチェーンのリスク」と認定されたことが不当であり、言論の自由の侵害とビジネスへの悪影響を主張。番組では併せて、トランプ政権がSNSで戦意高揚のために過激な戦争ミームを活用している背景や、将来的にAIが投資判断を行うことでベンチャーキャピタリストの仕事が奪われる可能性についても議論されている。テクノロジー、政治、軍事、そして経済が複雑に交差する現状を分析している。",
+        "why_it_matters": "AI企業の国家安全保障上の位置付けや、AIが既存の知的職業の構造をどのように変容させるかという重要課題を扱っています。"
+      },
+      "selection_reason": "Anthropicが米国防総省を提訴したニュース。AIの軍事利用と主要モデル企業の地政学的立場を示しています。"
+    },
+    {
+      "number": 3,
+      "title": "Metaが従業員の20%削減を検討、AI投資のコスト相殺が目的か",
+      "source": "TechCrunch",
+      "description": "",
+      "url": "https://techcrunch.com/2026/03/14/meta-reportedly-considering-layoffs-that-could-affect-20-of-the-company/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-03-14",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 3,
+        "title_ja": "Metaが従業員の20%削減を検討、AI投資のコスト相殺が目的か",
+        "headline": "Metaが2割の大規模人員削減を検討中",
+        "key_points": [
+          "全従業員の20%以上に影響する可能性のあるリストラを検討",
+          "AIインフラや人材確保への巨額支出を相殺するためのコスト削減",
+          "AIを解雇の隠れ蓑にする「AIウォッシング」への懸念と批判"
+        ],
+        "detailed_summary": "Meta（旧Facebook）が、全従業員の約20%にあたる大規模な人員削減を検討していると報じられた。背景には、AIインフラへの野心的な投資や関連企業の買収、高度人材の採用に伴うコスト増がある。テック業界ではAIによる自動化を理由とした解雇が増加しているが、一部ではパンデミック時の過剰採用などの経営問題を隠すためにAIを口実にする「AIウォッシング」ではないかとの指摘も出ている。Metaは2022年後半からすでに2万人以上の人員を削減しており、今回の計画が実行されればさらなる大規模な組織再編となる。",
+        "why_it_matters": "ビッグテックがAI覇権を握るために、莫大な投資コストの皺寄せとして従来型の労働力を切り捨てる構造的な転換期にあることを示唆しています。"
+      },
+      "selection_reason": "Metaによる大規模人員削減案。テック業界の構造変化とAIへのリソース集中を象徴する重大ニュースです。"
+    },
+    {
+      "number": 4,
+      "title": "米陸軍が防衛テックのAndurilと最大200億ドルの契約を締結",
+      "source": "TechCrunch",
+      "description": "",
+      "url": "https://techcrunch.com/2026/03/14/us-army-announces-contract-with-anduril-worth-up-to-20b/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-03-14",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 4,
+        "title_ja": "米陸軍が防衛テックのAndurilと最大200億ドルの契約を締結",
+        "headline": "Andurilが米陸軍から巨額契約を獲得",
+        "key_points": [
+          "10年間で最大200億ドル規模のハード・ソフト包括契約",
+          "ソフトウェア定義の現代戦に向けた軍事能力の迅速な展開を支援",
+          "創業者の政治的背景やトランプ政権との密接な関係が注目"
+        ],
+        "detailed_summary": "米陸軍は、防衛テクノロジーの新興企業Andurilと最大200億ドル規模の10年契約を締結した。同社は自律型ドローンや潜水艦、ソフトウェアを中心とした戦闘システムを提供し、現代の戦場における迅速な機能展開を支援する。創業者のパルマー・ラッキー氏はトランプ政権に近い立場とされ、同社は急速に軍事供給網での存在感を高めている。AnthropicやOpenAIが国防総省との関係構築で苦慮や批判に直面する中、Andurilは新興防衛テックの旗手として巨額の予算を獲得し、米国の軍事近代化の核心を担おうとしている。",
+        "why_it_matters": "軍事の主戦場がハードウェアからソフトウェア・AIへと移行する中で、従来型の防衛産業を脅かす新興企業の台頭と政治的影響力を象徴しています。"
+      },
+      "selection_reason": "米陸軍がAndurilと巨額契約。防衛AIの加速と、物理資産セクターへの資金流入を象徴する動きです。"
+    },
+    {
+      "number": 5,
+      "title": "イランがUAEの石油拠点に報復攻撃、米国によるカーグ島攻撃受け",
+      "source": "日本経済新聞",
+      "description": "",
+      "url": "https://www.nikkei.com/article/DGXZQOGR150BD0V10C26A3000000/",
+      "category": "経済・金融",
+      "published_at": "2026-03-15",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 5,
+        "title_ja": "イランがUAEの石油拠点に報復攻撃、米国によるカーグ島攻撃受け",
+        "headline": "イランがUAE石油拠点をドローン攻撃",
+        "key_points": [
+          "UAEフジャイラ港がドローン攻撃を受け、火災が発生",
+          "米国によるイランの石油拠点攻撃に対する報復とみられる",
+          "イラン最高指導者ハメネイ師の死亡報道など中東情勢が激化"
+        ],
+        "detailed_summary": "UAE南部の石油輸出拠点であるフジャイラ港が14日、ドローン攻撃を受けた。これは、米国がイランの石油積み出し拠点であるカーグ島を攻撃したことへの報復と推測されている。記事（設定は2026年）によれば、米国とイスラエルがイランを空爆し、イラン最高指導者ハメネイ師が死亡したとの報道も流れる中、情勢は極めて緊迫している。日量100万バレルの出荷能力を持つ同港への攻撃は、世界のエネルギー供給網に直接的な脅威を与えており、国際社会に緊張が走っている。",
+        "why_it_matters": "中東における国家間衝突が直接的な武力行使に発展し、世界のエネルギー供給の生命線が攻撃対象となったことの深刻さを伝えています。"
+      },
+      "selection_reason": "ホルムズ海峡周辺の緊張が激化。エネルギー価格高騰と物理資産の価値変動に直結する重要な地政学動向です。"
+    },
+    {
+      "number": 6,
+      "title": "AIエージェント基盤「MCP」の2026年ロードマップが公開",
+      "source": "thenewstack.io",
+      "description": "*   **Actual Publish Date:** 2026-03-14 *   **Actual Publish Date:** 2026-03-14 *   **Actual Publish Date:** 2026-03-14 *   **Actual Publish Date:** 2026-03-14 Andrej Karpathy's 630-line Python script ran 50 experiments overnight without any human input** *   **Actual Publish Date:** 2026-03-14",
+      "url": "https://thenewstack.io/model-context-protocol-roadmap-2026/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-03-14",
+      "mode": "deep_dive",
+      "summary": {
+        "article_index": 6,
+        "title_ja": "AIエージェント基盤「MCP」の2026年ロードマップが公開",
+        "headline": "AI接続プロトコルMCPが本番運用強化へ",
+        "key_points": [
+          "AIと外部ツールを繋ぐ共通規格「MCP」の2026年計画が発表",
+          "大規模な分散環境での運用を可能にする拡張性の改善が最優先",
+          "Anthropicに加えOpenAIやGoogleなども支持する業界標準へ"
+        ],
+        "detailed_summary": "AIモデルが外部ツールやデータとやり取りするための共通言語「Model Context Protocol (MCP)」の2026年ロードマップが公開された。MCPはAnthropicが提唱し、主要なAI各社も支持するAIエージェント構築の核心技術だが、現状ではサーバーのセッション管理が「ステートフル（状態保持型）」であるため、大規模な負荷分散が難しいという課題がある。新ロードマップでは、分散インフラでのスケーラビリティ改善や輸送プロトコルの進化に重点が置かれ、実験的な利用から企業の基幹システムにおける本格的な本番運用への移行を目指す。",
+        "why_it_matters": "AIエージェントが単なる対話アプリを超え、企業の内部システムと高度に連携して自律稼働するための技術的インフラが整いつつあることを示しています。"
+      },
+      "selection_reason": "MCPの最新ロードマップ。コンテキスト管理を重視するユーザーに、AIの性能を引き出す技術進化を共有します。"
+    },
+    {
+      "number": 7,
+      "title": "Claude Code vs. OpenAI Codex：トークン消費と精度のトレードオフ",
+      "source": "morphllm.com",
+      "description": "*   **Actual Publish Date:** 2026-03-14 It highlights the development of new SDK features designed to handle stateless agent sessions across multiple pods and distributed infrastructure, solving critical \"session resume\" issues that previously forced developers to rely on insecure in-memory states. *   **Actual Publish Date:** 2026-03-14 *   **Actual Publish Date:** 2026-03-14 Because LangSmith is often integrated into agent teams to monitor Claude and GPT-5 performance, this flaw posed a signif",
+      "url": "https://www.morphllm.com/comparisons/codex-vs-claude-code",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-03-14",
+      "mode": "deep_dive",
+      "summary": {
+        "article_index": 1,
+        "title_ja": "Claude Code vs. OpenAI Codex：トークン消費と精度のトレードオフ",
+        "headline": "Claude CodeとCodexの性能・コスト比較",
+        "key_points": [
+          "Claude CodeはCodexの約4倍のトークンを消費するが精度で勝る",
+          "Codexは生成速度とクラウドサンドボックスによる隔離環境に強み",
+          "両社ともコーディングエージェントを最大の成長分野と位置づけ"
+        ],
+        "detailed_summary": "2026年2月時点の比較データによると、AnthropicのClaude CodeはOpenAIのCodexに比べ、同一タスクで3.2〜4.2倍のトークンを消費する。しかし、SWE-bench Verifiedで80.8%という高い成功率を記録するなど、徹底した処理により精度で上回っている。一方、CodexはCerebrasのハードウェアを活用した圧倒的な生成速度（1,000トークン/秒以上）と、タスクごとの隔離環境を特徴とする。開発者は、複雑なリファクタリングにはClaudeを、速度とコスト効率にはCodexを選択するといった使い分けが可能になっている。",
+        "why_it_matters": "AIエージェントの進化において「徹底的な推論（高コスト）」か「速度と効率」かという明確な戦略的分断が生じていることを示しています。"
+      },
+      "selection_reason": "Claude Codeの特性をベンチマークで解説。AIの性能を最大限に引き出す実践的な技術選択を深掘りします。"
+    },
+    {
+      "number": 8,
+      "title": "AIが労働市場に与える影響：Anthropicによる2026年調査報告",
+      "source": "opentools.ai",
+      "description": "AI Job Disruption: Anthropic’s Groundbreaking Report on the Most Vulnerable Jobs** *   **Actual Publish Date:** 2026-03-14 *   **Description:** This article details Anthropic’s \"March 2026 Labor Market Report,\" which introduces a metric called \"observed exposure\" to identify jobs at risk from models like Claude. *   **Actual Publish Date:** 2026-03-14 *   **Actual Publish Date:** 2026-03-14",
+      "url": "https://opentools.ai/news/ai-job-disruption-anthropics-groundbreaking-report-on-the-most-vulnerable-jobs",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-03-14",
+      "mode": "deep_dive",
+      "summary": {
+        "article_index": 2,
+        "title_ja": "AIが労働市場に与える影響：Anthropicによる2026年調査報告",
+        "headline": "AIによる雇用への影響：高学歴・高所得層もリスクに",
+        "key_points": [
+          "プログラマーや顧客対応職がAIによる代替の「露出」が最も高い",
+          "従来の予測に反し、高賃金で教育水準の高い労働者ほど脆弱な傾向",
+          "若年層の採用鈍化が始まっており、戦略的な再教育が急務"
+        ],
+        "detailed_summary": "Anthropicの2026年3月のレポートは、AI（特にClaudeのような大規模言語モデル）が労働市場に与える深い影響を分析している。「観察された露出」という新指標を用い、800の職種を調査した結果、プログラマーやデータ入力職が特に影響を受けやすいことが判明した。注目すべきは、高学歴で高所得のホワイトカラー層が、低賃金労働者よりもAIによる代替リスクが高いという点だ。現時点で大規模な失業は発生していないが、若年層の採用抑制などの初期兆候が見られ、政策立案者には積極的な労働力再編戦略が求められている。",
+        "why_it_matters": "AIが「単純作業」だけでなく「高度な知識労働」を代替し始めている現実を浮き彫りにし、社会全体の再教育の必要性を強調しています。"
+      },
+      "selection_reason": "Anthropicによる職の代替分析。AGIがもたらす社会変化の中で、個人が生き残る戦略を練る一助となります。"
+    },
+    {
+      "number": 9,
+      "title": "賢すぎるAIエージェントが全体の成果を悪化させるパラドックス",
+      "source": "co-r-e.com",
+      "description": "*   **Description:** Discussing recent research from George Washington University, this article warns that increasing individual agent intelligence can counterintuitively degrade system-wide performance in resource-constrained environments. It introduces a design parameter called the **\"capacity-to-population ratio\" (C/N)**, providing a concrete framework for orchestrating agents by matching their sophistication to available resources (such as compute or bandwidth) to prevent \"tribal\" sensing fa",
+      "url": "https://co-r-e.com/method/ai-agent-collective-overload",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-03-15",
+      "mode": "adjacent",
+      "summary": {
+        "article_index": 3,
+        "title_ja": "賢すぎるAIエージェントが全体の成果を悪化させるパラドックス",
+        "headline": "AIの知能向上によりシステム全体の効率が低下する可能性",
+        "key_points": [
+          "共有リソースを争う環境では、エージェントを賢くすると効率が落ちる",
+          "リソース容量と個体数の比率が、最適な知能レベルを決定する鍵",
+          "病院の通信や自動運転の充電待ちなど、分散型AI設計に影響"
+        ],
+        "detailed_summary": "ジョージ・ワシントン大学の研究によれば、共有リソース（無線帯域や充電スタンドなど）を巡って競争するAIエージェントの知能を高めると、かえって集団全体の成果が悪化する場合がある。リソースが限られた状況下で、各エージェントが高度な予測に基づいて行動しようとすると、判断が衝突しシステムがオーバーロードする現象が確認された。この「資源競争ゲーム」のフレームワークは、中央管理が難しい分散型システムにおいて、リソースの状況に応じてあえて知能を制限するなどの最適な設計指針を提供している。",
+        "why_it_matters": "「個々の最適化が全体の最適化に繋がらない」というAI設計上の重要な罠を特定しており、複雑なインフラ制御の設計に警鐘を鳴らしています。"
+      },
+      "selection_reason": "単体の高性能化が集団の最適化を阻む構造を知ることで、自律エージェントを用いた組織設計の視野が広がります。",
+      "adjacent_field": "メカニズムデザイン (Mechanism Design)",
+      "adjacent_reasoning": "ディスコの「Will」のような社内インセンティブ設計と、AIエージェントの振る舞いを定義する「憲法AI」やプロンプト制御は、共に「特定の目的を達成するためのルール設計」という共通の構造を持っています。この分野を学ぶことで、自律的なエージェントや社員が全体最適に向かうための制度設計を論理的に強化できます。"
+    },
+    {
+      "number": 10,
+      "title": "AGIが拓く個別化医療：3,000ドルのDIYがんワクチン成功例",
+      "source": "blockchain.news",
+      "description": "*   **Description:** This report analyzes a viral case of AGI-enabled drug discovery, where an Australian technologist utilized a consumer-accessible AI stack to sequence DNA and design a custom vaccine.",
+      "url": "https://blockchain.news/ainews/agi-opportunity-analysis-chatgpt-and-alphafold-enable-3-000-diy-mrna-cancer-vaccine-for-dog-raising-questions-for-human-trials",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-03-15",
+      "mode": "adjacent",
+      "summary": {
+        "article_index": 4,
+        "title_ja": "AGIが拓く個別化医療：3,000ドルのDIYがんワクチン成功例",
+        "headline": "ChatGPTとAlphaFoldで愛犬のがんワクチンを自作",
+        "key_points": [
+          "技術者がAIを駆使し、約3,000ドルで愛犬用のmRNAワクチンを設計",
+          "AlphaFoldによるタンパク質解析とChatGPTによる標的特定を活用",
+          "創薬サイクルを劇的に短縮し、規制や倫理に関する議論を提起"
+        ],
+        "detailed_summary": "ある技術者が、ChatGPTとAlphaFoldを活用して愛犬の腫瘍に対する個別化mRNAワクチンを約3,000ドルで開発した事例が注目されている。腫瘍DNAのシーケンス解析から変異タンパク質の特定、ワクチン設計までをAI主導で行い、投与後に腫瘍が半減したという。この成功は、これまで巨額の費用と数年の歳月を要していた創薬プロセスが、AIによって「民主化」されつつあることを示している。同時に、同様の手法を人間へ適用するための規制経路や、バイオハザードのリスク管理といった倫理的課題を浮き彫りにした。",
+        "why_it_matters": "AIが専門的な医療知識の壁を崩し、個別化医療のコストを数千分の一にする可能性を示した画期的な事例です。"
+      },
+      "selection_reason": "AIによるDIY医療の可能性は、既存産業の破壊と「個人がブランド力で価値を創る」具体例を示唆します。",
+      "adjacent_field": "複雑系経済学 (Complexity Economics)",
+      "adjacent_reasoning": "PERの拡大（マルチプル拡大）やAGIによる急激な社会構造の変化は、均衡を目指す伝統的な経済学よりも、非線形な変化やフィードバックループを重視する複雑系経済学と親和性が高いです。AIによる格差拡大や市場の認識変化を、システム全体の動的な進化として捉える視点が得られます。"
+    },
+    {
+      "number": 11,
+      "title": "エンタープライズAIの主役交代：エージェント経済の到来",
+      "source": "mlq.ai",
+      "description": "Enterprise AI Takes Center Stage: Microsoft's Cowork, NVIDIA's Open Models, and the Race for Agent Dominance** *   **Description:** This article details a major shift in enterprise AI from simple chatbots to \"autonomous coworkers.\" It highlights the launch of Microsoft's **Copilot Cowork** and NVIDIA’s **NemoClaw**, a platform for agent orchestration. It discusses how these tools are becoming the infrastructure backbone of the \"agent economy,\" enabling multi-step workflows where agents act indep",
+      "url": "https://mlq.ai/news/ai-roundup/2026-03-14/enterprise-ai-takes-center-stage-microsofts-cowork-nvidias-open-models-and-the-race-for-agent-dominance/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-03-15",
+      "mode": "adjacent",
+      "summary": {
+        "article_index": 5,
+        "title_ja": "エンタープライズAIの主役交代：エージェント経済の到来",
+        "headline": "AIは「支援」から「実行」へ、エージェント主導の競争が激化",
+        "key_points": [
+          "MicrosoftがClaude搭載の「Copilot Cowork」で業務自動化を推進",
+          "NVIDIAがオープンなエージェント基盤「NemoClaw」等を発表",
+          "AI市場の焦点はモデル単体から「オーケストレーション層」へ移行"
+        ],
+        "detailed_summary": "Microsoftは、Anthropicの技術を活用した自律型エージェント「Copilot Cowork」を発表し、複雑な業務工程を自動実行する段階へと進んだ。これに対抗し、NVIDIAは推論とコーディングに特化した「Nemotron 3 Super」を、Metaはエージェント間の協力ネットワーク「Moltbook」のチームを買収。主要企業の戦略は、モデルの性能競争から、いかに多様なエージェントを連携させて価値あるワークフローを支配するかという「オーケストレーション層」の争いへと移行しており、SaaS業界全体の構造変化を予感させている。",
+        "why_it_matters": "AIが「チャットボット」という形態を脱し、人間の同僚のように自律して働く「エージェント経済」が本格始動したことを示しています。"
+      },
+      "selection_reason": "企業のAI覇権争いを通じ、将来の意思決定エコシステムがどう変化するかをマクロな視点で捉えられます。",
+      "adjacent_field": "メカニズムデザイン (Mechanism Design)",
+      "adjacent_reasoning": "ディスコの「Will」のような社内インセンティブ設計と、AIエージェントの振る舞いを定義する「憲法AI」やプロンプト制御は、共に「特定の目的を達成するためのルール設計」という共通の構造を持っています。この分野を学ぶことで、自律的なエージェントや社員が全体最適に向かうための制度設計を論理的に強化できます。"
+    }
+  ]
+}
