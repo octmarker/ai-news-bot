@@ -1,0 +1,288 @@
+{
+  "date": "2026-03-16",
+  "mode": "multimode",
+  "articles": [
+    {
+      "number": 1,
+      "title": "OpenAIの「Claude Code」追撃戦の舞台裏",
+      "source": "WIRED",
+      "description": "",
+      "url": "https://www.wired.com/story/openai-codex-race-claude-code/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-03-16",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 1,
+        "title_ja": "OpenAIの「Claude Code」追撃戦の舞台裏",
+        "key_points": [
+          "AnthropicのClaude Codeが収益面でOpenAIのCodexを圧倒",
+          "サム・アルトマンはコーディングAIを「数兆ドル規模の市場」と定義",
+          "OpenAIはコーディングをAGI（汎用人工知能）実現への最有力ルートと見なす"
+        ],
+        "detailed_summary": "AIコーディング支援市場において、Anthropicの「Claude Code」が年換算収益25億ドルを達成し、10億ドルに留まるOpenAIの「Codex」を大きくリードしている現状を詳述。サム・アルトマンCEOは、かつてのChatGPTのような先行者利益を失ったことを認めつつも、コーディングAIは数兆ドル規模の市場であり、AGI（汎用人工知能）に至る最も可能性の高い道であると確信している。現在、OpenAIは社内体制を立て直し、ライバルを追いかけるという異例の立場から、次世代のコーディングエージェント開発に巨額の投資を行っている。",
+        "why_it_matters": "AI界のリーダーであるOpenAIが特定の重要分野で後手に回っている現状と、コーディングがAGI実現の鍵を握るという戦略的判断を示しています。",
+        "headline": "OpenAIがClaude Codeに対抗し開発を加速。LLM開発スタイルの覇権争いを象徴する重要記事です。"
+      },
+      "selection_reason": "OpenAIがClaude Codeに対抗し開発を加速。LLM開発スタイルの覇権争いを象徴する重要記事です。"
+    },
+    {
+      "number": 2,
+      "title": "Anthropicが米国防総省を提訴、一方でアプリのダウンロード数は急増",
+      "source": "mashable.com",
+      "description": "Anthropic Sues Pentagon as Claude App Usage Soars** *   **Source:** Mashable *   **Description:** This article reports on Anthropic’s federal lawsuit challenging the Trump administration’s directive to cease all federal use of its technology. Paradoxically, public support has surged, with the Claude app reaching #1 in 16 countries.",
+      "url": "https://mashable.com/article/anthropic-sues-pentagon",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-03-16",
+      "mode": "deep_dive",
+      "summary": {
+        "article_index": 2,
+        "title_ja": "Anthropicが米国防総省を提訴、一方でアプリのダウンロード数は急増",
+        "key_points": [
+          "自律型兵器へのAI転用を拒否した結果、政府から報復を受けたと提訴",
+          "トランプ政権がAnthropic製品の利用停止を全政府機関に命令",
+          "皮肉にも騒動後にClaudeの新規ユーザーが1日100万人ペースで急増"
+        ],
+        "detailed_summary": "Anthropicは、同社のAI「Claude」を自律型兵器や大衆監視に利用することを拒否したため、国防総省（国防省）から不当な報復措置を受けたと主張し、連邦裁判所に提訴した。トランプ政権は同社製品を国家安全保障上のリスクと見なし、政府機関での使用を即時停止させた。しかし、この対立は一般ユーザーの関心を呼び、Claudeのダウンロード数は世界各国でChatGPTを超える勢いで急増。皮肉にも政府との対立が、Anthropicの安全性へのこだわりを強調するブランドプロモーションとして機能する形となっている。",
+        "why_it_matters": "AIの軍事利用を巡る倫理的対立と、政治的論争が皮肉にもテック製品の爆発的な普及を後押ししている現状を浮き彫りにしています。",
+        "headline": "Claudeの開発元が米国防総省を提訴。AIの軍事利用と規制を巡る、業界の命運を分ける法廷闘争です。"
+      },
+      "selection_reason": "Claudeの開発元が米国防総省を提訴。AIの軍事利用と規制を巡る、業界の命運を分ける法廷闘争です。"
+    },
+    {
+      "number": 3,
+      "title": "GoogleによるWizの320億ドル買収を投資家が解説",
+      "source": "TechCrunch",
+      "description": "",
+      "url": "https://techcrunch.com/2026/03/15/wiz-investor-unpacks-googles-32b-acquisition/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-03-15",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 3,
+        "title_ja": "GoogleによるWizの320億ドル買収を投資家が解説",
+        "key_points": [
+          "Google史上最大、かつベンチャー支援企業として過去最大の買収劇",
+          "WizはAI、クラウド、セキュリティの3つの追い風の中心に位置",
+          "初期投資家のIndex Venturesは「10年に一度の取引」と評価"
+        ],
+        "detailed_summary": "Googleがサイバーセキュリティ企業Wizを320億ドルで買収完了した件について、筆頭株主であるIndex Venturesのシャルドゥル・シャー氏が背景を語った。この買収はGoogleにとって過去最大規模であり、スタートアップの出口戦略としても歴史的な記録となった。Wizがこれほど高い評価を得たのは、あらゆるワークロードの安全確保が求められる「AI時代」において、クラウドとセキュリティを統合する不可欠な存在となったためである。投資家は、今回の取引がテック業界全体の勢力図に大きな影響を与える歴史的転換点になると見ている。",
+        "why_it_matters": "AI時代におけるサイバーセキュリティの重要性が、320億ドルという天文学的な買収金額によって証明されたことを意味します。",
+        "headline": "Google史上最大の買収が完了。クラウドとAIセキュリティの統合は開発インフラに多大な影響を与えます。"
+      },
+      "selection_reason": "Google史上最大の買収が完了。クラウドとAIセキュリティの統合は開発インフラに多大な影響を与えます。"
+    },
+    {
+      "number": 4,
+      "title": "国防当局者が明かす、AIチャットボットによる標的決定の活用法",
+      "source": "MIT Technology Review",
+      "description": "",
+      "url": "https://www.technologyreview.com/2026/03/12/1134243/defense-official-military-use-ai-chatbots-targeting-decisions/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-03-16",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 4,
+        "title_ja": "国防当局者が明かす、AIチャットボットによる標的決定の活用法",
+        "key_points": [
+          "生成AIを攻撃標的の分析と優先順位付けの推奨に活用する計画",
+          "既存の画像解析システム「Project Maven」に会話レイヤーを追加",
+          "最終的な判断には人間が関与する「ヒューマン・イン・ザ・ループ」を維持"
+        ],
+        "detailed_summary": "米国防総省が、ChatGPTやGrokなどの生成AIを、軍事攻撃の標的選定や優先順位付けに活用する可能性が明らかになった。これまで「Project Maven」が画像解析を通じて標的を特定してきたが、生成AIはそのデータに基づき、航空機の位置や作戦状況を考慮した最適な攻撃順序を提案する「解釈の層」として機能する。当局者は、AIはあくまで補助的な推奨を行うものであり、最終的な攻撃判断は人間が検証・評価するプロセスを維持すると強調している。一方で、AIによる意思決定の加速がもたらす倫理的懸念も高まっている。",
+        "why_it_matters": "生成AIが単なる文章作成ツールを超え、生死に関わる軍事的な意思決定プロセスに直接統合され始めている実態を示しています。",
+        "headline": "軍事行動の意思決定へのAI投入が判明。AGI社会への懸念と直結する、AIの自律判断の重大な転換点です。"
+      },
+      "selection_reason": "軍事行動の意思決定へのAI投入が判明。AGI社会への懸念と直結する、AIの自律判断の重大な転換点です。"
+    },
+    {
+      "number": 5,
+      "title": "米イラン緊張激化で原油高騰、アジア太平洋市場は下落",
+      "source": "CNBC",
+      "description": "",
+      "url": "https://www.cnbc.com/2026/03/16/asia-pacific-markets-nikkei-225-kospi-hang-seng-index.html",
+      "category": "経済・金融",
+      "published_at": "2026-03-16",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 5,
+        "title_ja": "米イラン緊張激化で原油高騰、アジア太平洋市場は下落",
+        "key_points": [
+          "トランプ政権によるイラン石油拠点への攻撃示唆で原油が100ドル突破",
+          "世界的なインフレ懸念とGDP成長の鈍化が予測される",
+          "日経平均や香港ハンセン指数などアジア市場が軒並み下落"
+        ],
+        "detailed_summary": "トランプ政権がイランの戦略拠点ハルグ島への軍事攻撃を検討していることを受け、原油価格が1バレル100ドルを突破した。この地政学的リスクを受け、週明けのアジア太平洋市場は全面安の展開となった。日経平均株価は1%超下落し、他の主要指数も軒並みマイナス圏で推移。ゴールドマン・サックスは、エネルギー価格の高騰が世界的なGDPを0.3%押し下げ、インフレ率を最大0.6%上昇させると分析している。中国の経済指標に一部改善が見られたものの、戦争への懸念が市場の不確実性を高め、投資家心理を冷え込ませている。",
+        "why_it_matters": "中東の軍事緊張がエネルギー市場を直撃し、世界経済の成長鈍化と物価高騰を招くリスクが現実味を帯びています。",
+        "headline": "地政学リスクによる市場動揺。AIから物理資産への資金移動やビジネスモデル変容を促すマクロの激震です。"
+      },
+      "selection_reason": "地政学リスクによる市場動揺。AIから物理資産への資金移動やビジネスモデル変容を促すマクロの激震です。"
+    },
+    {
+      "number": 6,
+      "title": "VercelのAI開発エージェント「v0」が解決する「プロトタイプから本番へ」の壁",
+      "source": "saastr.com",
+      "description": "*   **Description:** This report compares leading AI-driven **MVP development** platforms, focusing on their integration with **Vercel** and **Next.js**.",
+      "url": "https://www.saastr.com/saastr-ai-app-of-the-week-v0-by-vercel-the-vibe-coding-tool-that-4-million-people-use-to-ship-real-software-not-just-demos/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-03-16",
+      "mode": "deep_dive",
+      "summary": {
+        "article_index": 6,
+        "title_ja": "VercelのAI開発エージェント「v0」が解決する「プロトタイプから本番へ」の壁",
+        "key_points": [
+          "400万人以上が利用する、自然言語からウェブサイトを作るAIツール",
+          "GitHub連携により既存コードの修正や本番環境へのデプロイが可能に",
+          "Vercelは計8.6億ドルの資金を調達し、時価総額93億ドルに到達"
+        ],
+        "detailed_summary": "Vercelが提供する「v0」は、自然言語の指示だけで数分以内に本番品質のウェブサイトを構築できるAIエージェントとして急速に普及している。従来のAIコード生成ツールが「使い捨てのプロトタイプ」に留まっていたのに対し、v0はGitHub連携や実際のランタイム環境を備えることで、既存のコードベースの変更や実際の運用に耐えうる開発フローを実現した。Vercelの強固なインフラを背景に、エンジニアだけでなくPMやマーケターも直接開発に参加できる「バイブ・コーディング」の普及を加速させており、B2B企業の開発効率を劇的に高めている。",
+        "why_it_matters": "AIによる開発が「お遊び」から「実務」へ移行し、企業のソフトウェア開発プロセスを根本から変えようとしている具体例です。",
+        "headline": "自然言語でMVPを構築する最新手法を解説。迅速な開発と市場投入を重視するユーザーの志向と合致。"
+      },
+      "selection_reason": "自然言語でMVPを構築する最新手法を解説。迅速な開発と市場投入を重視するユーザーの志向と合致。"
+    },
+    {
+      "number": 7,
+      "title": "DevContainer内でClaude Codeの /voice を使う — PulseAudio TCP転送でマイクを通す",
+      "source": "zenn.dev",
+      "description": "*   **Publish Date:** 2026-03-15 DevContainerを活用したAIエージェント「Claude Code」のセキュアな環境隔離 *   **Publish Date:** 2026-03-15",
+      "url": "https://zenn.dev/satoukenta/articles/devcontainer-claude-code-voice",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-03-15",
+      "mode": "deep_dive",
+      "summary": {
+        "article_index": 1,
+        "title_ja": "DevContainer内でClaude Codeの /voice を使う — PulseAudio TCP転送でマイクを通す",
+        "key_points": [
+          "Claude Codeを安全に実行するためにDevContainer（Docker）を利用",
+          "Docker for Macでは音声デバイスのパススルーが困難な問題を解決",
+          "PulseAudioのTCP転送機能を利用してホストのマイク入力をコンテナへ送信"
+        ],
+        "detailed_summary": "AIコーディングエージェント「Claude Code」をセキュアに運用するため、ファイル操作などを隔離できるDevContainerの利用が推奨されている。しかし、macOS上のDocker環境では音声入力（/voiceコマンド）に必要なマイクのパススルーが標準でサポートされていない。本記事では、ホスト側にPulseAudioをインストールしてネットワークオーディオサーバーとして起動し、コンテナからTCP経由でアクセスする回避策を提案している。具体的には、設定ファイルの書き換え、devcontainer.jsonへの環境変数追加、およびコンテナ内でのSoX等のパッケージ導入手順を解説し、開発環境の利便性と安全性の両立を実現している。",
+        "why_it_matters": "AIエージェントの強力な権限を隔離しつつ、音声指示などのフル機能を活用するための実践的な環境構築手法を示しているためです。",
+        "headline": "ターミナルUIでのClaude活用を具体化。AIの性能を引き出す実践的な環境構築手法を深掘りします。"
+      },
+      "selection_reason": "ターミナルUIでのClaude活用を具体化。AIの性能を引き出す実践的な環境構築手法を深掘りします。"
+    },
+    {
+      "number": 8,
+      "title": "Claude Code エージェントチームの完全ガイド：マルチエージェントによる開発のパラダイムシフト",
+      "source": "serenitiesai.com",
+      "description": "*   **Actual Publish Date:** 2026-03-16",
+      "url": "https://serenitiesai.com/articles/claude-code-agent-teams-documentation",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-03-16",
+      "mode": "deep_dive",
+      "summary": {
+        "article_index": 2,
+        "title_ja": "Claude Code エージェントチームの完全ガイド：マルチエージェントによる開発のパラダイムシフト",
+        "key_points": [
+          "Claude Opus 4.6を搭載した複数のエージェントが並列稼働する新機能",
+          "チームリーダーとメンバーが直接対話し、タスクリストを共有して自律調整",
+          "単一のサブエージェント構造とは異なり、議論や検証を通じて複雑な課題を解決"
+        ],
+        "detailed_summary": "Claude Codeの「エージェントチーム」機能は、従来の単一AIによる逐次的な作業から、複数のAIインスタンスが協調して動くチーム型開発への転換を意味する。このシステムでは、1つのセッションがリーダーとして全体を統括し、他のメンバーが独立したコンテキストで並行してデバッグや調査を行う。従来のサブエージェントが親に報告するだけだったのに対し、チームメンバーは「メールボックス」を通じて直接情報交換し、互いの結果に異議を唱えるなどの高度な連携が可能。現在はリサーチプレビュー版として提供されており、設定ファイルの変更で有効化できる。コストは増えるが、複雑なアーキテクチャ設計や難解なバグ修正に威力を発揮する。",
+        "why_it_matters": "AIが単なる補助ツールから、自律的に役割分担し協力し合う「仮想開発チーム」へと進化する重要なステップであるためです。",
+        "headline": "自律的な「エージェントチーム」による並列開発を解説。開発プロセスの完全自動化を追求する興味に適合。"
+      },
+      "selection_reason": "自律的な「エージェントチーム」による並列開発を解説。開発プロセスの完全自動化を追求する興味に適合。"
+    },
+    {
+      "number": 9,
+      "title": "AI時代の競争優位性：混沌とした未来における「堀」の再定義",
+      "source": "weex.com",
+      "description": "*   **ソース**: WEEX暗号資産ニュース",
+      "url": "https://www.weex.com/ja/news/detail/what-competitive-advantages-are-still-defensible-in-the-ai-era-373642",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-03-16",
+      "mode": "deep_dive",
+      "summary": {
+        "article_index": 3,
+        "title_ja": "AI時代の競争優位性：混沌とした未来における「堀」の再定義",
+        "key_points": [
+          "AI（o1モデル等）が安定してコードを書くようになり、ソフトウェア開発の論理が激変",
+          "専門知識はモデルに吸収されるため、長期的には参入障壁（堀）になりにくい",
+          "独自のデータ、規制上の摩擦、物理的制約、権威ある承認が新たな優位性となる"
+        ],
+        "detailed_summary": "元ヘッジファンドのマネージャーが、AI技術の飛躍、特にコード生成能力の向上に伴う構造的変化を分析している。著者は、人間よりエラー率が低く高速にコードを書くAIの登場により、従来の「エンジニアの専門知識」という障壁が崩壊すると指摘。その上で、AI時代に生き残る「堀」として4つのカテゴリーを挙げている。それは、外部からアクセスできない「独自データ」、法律や署名が必要な「規制」、弁護士のような「権威の裏付け」、そしてデリバリーなどの「物理世界の遅れ」である。不確実な未来において、正確な予測よりも方向性を特定し、技術のウィンドウが閉じる前に迅速に行動することの重要性を説いている。",
+        "why_it_matters": "技術革新によって従来のスキルやビジネスモデルが陳腐化する中で、真に守るべき価値がどこにあるかを戦略的に示唆しています。",
+        "headline": "AIがコードを書く時代の戦略を考察。ソフトウェア業界の破壊を見据えた個人の生存戦略を深掘りします。"
+      },
+      "selection_reason": "AIがコードを書く時代の戦略を考察。ソフトウェア業界の破壊を見据えた個人の生存戦略を深掘りします。"
+    },
+    {
+      "number": 10,
+      "title": "LLMアクティブ・アライメント：ナッシュ均衡の視点から",
+      "source": "arxiv.org",
+      "description": "### **Published on 2026-03-16**",
+      "url": "https://arxiv.org/html/2602.06836v1",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-03-16",
+      "mode": "adjacent",
+      "summary": {
+        "article_index": 4,
+        "title_ja": "LLMアクティブ・アライメント：ナッシュ均衡の視点から",
+        "key_points": [
+          "ゲーム理論を用いてLLM集団の振る舞いを予測・制御するフレームワークを開発",
+          "ナッシュ均衡（NE）を計算し、エージェントがどの人間集団と提携するかをモデル化",
+          "特定の集団が無視される「政治的排除」を防ぎ、社会的に望ましい調整を実現"
+        ],
+        "detailed_summary": "複数の強力なLLMエージェントが社会に普及する未来を見据え、それらが互いに影響し合う際の動態をナッシュ均衡の観点から研究した論文。自由なテキスト空間での均衡計算は困難だが、本研究では「どの人間サブグループと提携するか」という戦略的な行動としてモデル化することで解析を可能にした。既存のRLHFの上に「アクティブ・アライメント層」を構築し、システム全体の振る舞いを制御する手法を提案している。SNSを模したシミュレーションでは、推論能力の高いモデルほど特定の少数派集団を無視する傾向（政治的排除）が見られたが、本手法によってこの病理を回避し、公平な価値調整が行えることを実証した。",
+        "why_it_matters": "AI同士が相互作用する「マルチエージェント社会」において、安全性や公平性を数学的・構造的に保証するための重要な一歩です。",
+        "headline": "ゲーム理論によるAI制御の設計。エージェントを律する「ルールの設計」を体系化する視座を与えます。"
+      },
+      "selection_reason": "ゲーム理論によるAI制御の設計。エージェントを律する「ルールの設計」を体系化する視座を与えます。",
+      "adjacent_field": "メカニズムデザイン (Mechanism Design)",
+      "adjacent_reasoning": "ディスコの「Will」制度のようなインセンティブ設計への関心と、Anthropicの「憲法AI」のような規範設計への関心が、経済学・ゲーム理論の枠組みで論理的に統合されます。自律的なエージェントや社員が全体の利益に叶うよう振る舞うための「ルールの設計」を体系的に学べます。"
+    },
+    {
+      "number": 11,
+      "title": "MiroFish：数千のAIエージェントによる社会シミュレーション型予測エンジン",
+      "source": "dev.to",
+      "description": "*   **Description:** This article details the release of a new prediction pipeline that combines ontology generation and knowledge graph construction via GraphRAG.",
+      "url": "https://dev.to/arshtechpro/mirofish-the-open-source-ai-engine-that-builds-digital-worlds-to-predict-the-future-ki8",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-03-16",
+      "mode": "adjacent",
+      "summary": {
+        "article_index": 5,
+        "title_ja": "MiroFish：数千のAIエージェントによる社会シミュレーション型予測エンジン",
+        "key_points": [
+          "数値データではなく、ニュースや文書から社会の動的な反応をシミュレートして予測",
+          "GraphRAGで知識グラフを構築し、独自の性格を持つ数千のAIエージェントを生成",
+          "SNSのような環境でエージェントを対話させ、集団行動や意見の変化から結論を導く"
+        ],
+        "detailed_summary": "MiroFishは、現実世界の複雑な社会情勢を予測するためのオープンソースAIエンジンである。統計的な数値モデルとは異なり、数千のユニークな個性と記憶を持つAIエージェントが仮想世界で対話・議論・説得し合うプロセスを通じて、未来のシナリオを予測する。まず、ニュースや報告書からGraphRAGを用いて知識グラフを構築し、それを基に「現実」をシミュレートする環境とエージェントを作成。エージェントはTwitterやRedditに似たプラットフォームで相互作用し、その中で生まれる集団行動や意見の伝播、創発的なパターンを分析して予測レポートを出力する。これにより、伝統的なモデルでは捉えきれない「人の感情」や「社会的力学」を考慮した予測が可能になる。",
+        "why_it_matters": "データ分析に社会学的なアプローチを組み合わせ、人間の複雑な相互作用をAIで再現することで、予測の精度と洞察を深めている点が画期的です。",
+        "headline": "断片的な情報を構造化し予測する試み。AIのコンテキスト管理を「外部脳」へ拡張するヒントになります。"
+      },
+      "selection_reason": "断片的な情報を構造化し予測する試み。AIのコンテキスト管理を「外部脳」へ拡張するヒントになります。",
+      "adjacent_field": "ナレッジグラフ構築 (Knowledge Graph Engineering)",
+      "adjacent_reasoning": "GitHubをライフリポジトリとする管理手法や、LLMのコンテキスト管理・言語化への強いこだわりを、さらに一歩進める技術的・概念的領域です。断片的な思考（言語化）を構造的な知識ネットワークとして構築し、AIエージェントの外部脳として活用する論理を補完します。"
+    },
+    {
+      "number": 12,
+      "title": "OpenFang：Rustで構築された自律型エージェント用オペレーティングシステム",
+      "source": "github.com",
+      "description": "### **March 15, 2026**",
+      "url": "https://github.com/RightNow-AI/openfang",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-03-16",
+      "mode": "adjacent",
+      "summary": {
+        "article_index": 6,
+        "title_ja": "OpenFang：Rustで構築された自律型エージェント用オペレーティングシステム",
+        "key_points": [
+          "Rust言語で書かれた、単一バイナリで動作する高速かつ安全なエージェントOS",
+          "「Hands」と呼ばれる事前定義されたパッケージにより、24時間365日の自律稼働が可能",
+          "動画編集、リード獲得、OSINT情報収集などの実務をスケジュールに従い実行"
+        ],
+        "detailed_summary": "OpenFangは、従来の「ユーザーの入力を待つチャットボット」とは一線を画す、自律稼働を前提としたエージェント専用のオペレーティングシステムである。Rustで記述され、約13.7万行のコードからなる堅牢なシステムは、軽量な単一バイナリとして提供される。最大の特徴は「Hands」という概念で、これは専門的な手順書、ツール、ガードレールをパッケージ化したもの。YouTube動画からのショート動画作成（Clip）、見込み客の自動発掘（Lead）、標的の継続監視（Collector）など、特定の業務をバックグラウンドで自律的に遂行し、結果をダッシュボードやSNSに報告する。Docker等の複雑な環境を必要とせず、即座に「自律的な労働力」を配備できる。",
+        "why_it_matters": "AIを単なる対話相手から、実務を完遂するインフラへと変貌させ、エージェント活用をOSレベルで統合しようとする野心的なプロジェクトです。",
+        "headline": "ローカルでフルアクセス可能なRust製エージェントOS。AIの能力を劇的に拡張する技術基盤を発見。"
+      },
+      "selection_reason": "ローカルでフルアクセス可能なRust製エージェントOS。AIの能力を劇的に拡張する技術基盤を発見。",
+      "adjacent_field": "ナレッジグラフ構築 (Knowledge Graph Engineering)",
+      "adjacent_reasoning": "GitHubをライフリポジトリとする管理手法や、LLMのコンテキスト管理・言語化への強いこだわりを、さらに一歩進める技術的・概念的領域です。断片的な思考（言語化）を構造的な知識ネットワークとして構築し、AIエージェントの外部脳として活用する論理を補完します。"
+    }
+  ]
+}
