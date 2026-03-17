@@ -1,0 +1,288 @@
+{
+  "date": "2026-03-17",
+  "mode": "multimode",
+  "articles": [
+    {
+      "number": 1,
+      "title": "Nvidia版OpenClawが最大の課題であるセキュリティを解決する可能性",
+      "source": "TechCrunch",
+      "description": "",
+      "url": "https://techcrunch.com/2026/03/16/nvidias-version-of-openclaw-could-solve-its-biggest-problem-security/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-03-16",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 1,
+        "title_ja": "Nvidia版OpenClawが最大の課題であるセキュリティを解決する可能性",
+        "key_points": [
+          "企業向けAIエージェント構築プラットフォーム「NemoClaw」を発表",
+          "オープンソースのOpenClawに企業グレードのセキュリティを統合",
+          "ハードウェアを問わず、自社環境でエージェントの挙動とデータを制御可能"
+        ],
+        "detailed_summary": "Nvidiaのジェンセン・ファンCEOは、GTC基調講演で企業向けAIエージェントプラットフォーム「NemoClaw」を発表しました。これは人気のあるオープンソースフレームワーク「OpenClaw」をベースに、企業が求める高度なセキュリティとプライバシー機能を付加したものです。ファン氏は、かつてのインターネットにおけるHTTPやクラウドにおけるKubernetesのように、現代のCEOには「エージェント戦略」が不可欠であると説きました。NemoClawは特定のGPUに依存せず、ローカル環境で多様なAIモデルを実行でき、現在は開発者向けの初期アルファ版として提供されています。",
+        "why_it_matters": "AIエージェントの企業導入における最大の懸念であるセキュリティを解決し、NvidiaがAIソフトウェアの標準化を主導しようとしているためです。",
+        "headline": "ローカル実行に関心が高いユーザーに、OpenClaw戦略の欠点である安全性を補完する実務的ニュースです。"
+      },
+      "selection_reason": "ローカル実行に関心が高いユーザーに、OpenClaw戦略の欠点である安全性を補完する実務的ニュースです。"
+    },
+    {
+      "number": 2,
+      "title": "NVIDIAがAIエージェント必須半導体、性能35倍　受注残は159兆円",
+      "source": "日本経済新聞",
+      "description": "",
+      "url": "https://www.nikkei.com/article/DGXZQOGN150C80V10C26A3000000/",
+      "category": "経済・金融",
+      "published_at": "2026-03-17",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 2,
+        "title_ja": "NVIDIAがAIエージェント必須半導体、性能35倍　受注残は159兆円",
+        "key_points": [
+          "2026年後半に電力効率を最大35倍高めた新型AI半導体を投入",
+          "業務自動化を担う「AIエージェント」向けのラインナップを拡充",
+          "2027年までの受注残が1兆ドル（約159兆円）に達したことを公表"
+        ],
+        "detailed_summary": "米エヌビディアは、サンノゼで開催中のGTC2026にて、2026年後半に次世代AI向け半導体を投入すると発表しました。新製品は従来比で最大35倍の電力効率を実現し、将来の業務自動化の核となる「AIエージェント」の普及を支える基盤となります。好調な需要を背景に、2027年までの受注残が1兆ドル（約159兆円）という天文学的な数字に達したことも明らかにしました。この発表を受けて市場は即座に反応し、同社の株価は一時4%高騰するなど、AIインフラ市場における圧倒的な支配力を改めて示しました。",
+        "why_it_matters": "AIブームが一時的なものではなく、巨大な受注残という具体的な数字に裏打ちされた長期的な成長トレンドであることを示したためです。",
+        "headline": "AIエージェントの自律処理を劇的に加速させる基盤技術。受注規模がAIの指数関数的成長を裏付けています。"
+      },
+      "selection_reason": "AIエージェントの自律処理を劇的に加速させる基盤技術。受注規模がAIの指数関数的成長を裏付けています。"
+    },
+    {
+      "number": 3,
+      "title": "ブリタニカ百科事典とメリアム＝ウェブスターがOpenAIを提訴",
+      "source": "TechCrunch",
+      "description": "",
+      "url": "https://techcrunch.com/2026/03/16/merriam-webster-openai-encyclopedia-brittanica-lawsuit/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-03-16",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 3,
+        "title_ja": "ブリタニカ百科事典とメリアム＝ウェブスターがOpenAIを提訴",
+        "key_points": [
+          "約10万件のオンライン記事を無断でAI学習に使用したと主張",
+          "著作権侵害に加え、商標法違反（ハルシネーションによる虚偽情報の付与）を指摘",
+          "AIの回答が元の出版社から収益と読者を奪っていると非難"
+        ],
+        "detailed_summary": "百科事典の権威であるブリタニカ社とその傘下のメリアム＝ウェブスターは、OpenAIに対し大規模な著作権侵害で訴訟を起こしました。訴状では、OpenAIが許可なく大量の権威ある記事をスクレイピングして学習に使用したほか、RAG（検索拡張生成）機能での無断利用や、AIの誤情報（ハルシネーション）を同社のブランドと結びつけて出力したことが非難されています。ブリタニカ側は、ChatGPTの回答がパブリッシャーのコンテンツと直接競合し、収益を奪っていると主張。ニューヨーク・タイムズなどに続く、メディア対AI企業の法廷闘争がさらに拡大しています。",
+        "why_it_matters": "信頼性の高い知識ベースを持つ伝統的な出版メディアが、AIによる「情報のタダ乗り」と「ブランド毀損」に対して本格的な法的措置を講じたためです。",
+        "headline": "知の源泉である辞書データの著作権訴訟。LLMのトレーニングと事業化における法的リスクを提示します。"
+      },
+      "selection_reason": "知の源泉である辞書データの著作権訴訟。LLMのトレーニングと事業化における法的リスクを提示します。"
+    },
+    {
+      "number": 4,
+      "title": "ジェンセン・ファン氏、NvidiaのBlackwellおよびVera Rubinの売上予測を1兆ドルの大台へ",
+      "source": "TechCrunch",
+      "description": "",
+      "url": "https://techcrunch.com/2026/03/16/jensen-just-put-nvidias-blackwell-and-vera-rubin-sales-projections-into-the-1-trillion-stratosphere/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-03-16",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 4,
+        "title_ja": "ジェンセン・ファン氏、NvidiaのBlackwellおよびVera Rubinの売上予測を1兆ドルの大台へ",
+        "key_points": [
+          "Blackwellと次世代Rubinチップの受注見通しを1兆ドルに引き上げ",
+          "2027年までの需要が前年予測の5,000億ドルから倍増",
+          "新型チップ「Rubin」は学習で3.5倍、推論で5倍の性能向上を実現"
+        ],
+        "detailed_summary": "Nvidiaのジェンセン・ファンCEOは、GTCカンファレンスにて、最新のBlackwellおよび次世代Rubinチップの累計受注が2027年までに1兆ドル（約159兆円）に達するとの見通しを語りました。これは昨年の予測を大幅に上回る驚異的な成長率です。2024年に初公開された「Rubin」アーキテクチャは、推論タスクでBlackwellの5倍の性能を誇り、AIハードウェアの新たな金字塔となります。ファン氏は、AIビジネスの爆発的な加速を強調し、年後半に向けた大幅な増産体制についても言及しました。",
+        "why_it_matters": "Nvidiaが単なる半導体メーカーを超え、世界のAIコンピューティング基盤を独占的に担う巨大プラットフォームへと進化したことを裏付けています。",
+        "headline": "コンピューティング需要の爆発を示唆。ソフトウェアから物理インフラへ資本が移動する予兆としても重要です。"
+      },
+      "selection_reason": "コンピューティング需要の爆発を示唆。ソフトウェアから物理インフラへ資本が移動する予兆としても重要です。"
+    },
+    {
+      "number": 5,
+      "title": "トランプ氏、中国訪問「1カ月延期」要請　対イラン軍事作戦を理由に",
+      "source": "日本経済新聞",
+      "description": "",
+      "url": "https://www.nikkei.com/article/DGXZQOGN16AKS0W6A310C2000000/",
+      "category": "経済・金融",
+      "published_at": "2026-03-17",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 5,
+        "title_ja": "トランプ氏、中国訪問「1カ月延期」要請　対イラン軍事作戦を理由に",
+        "key_points": [
+          "3月末に予定されていた習近平国家主席との会談を延期要請",
+          "進行中の対イラン軍事作戦により、米国内に留まる必要があると説明",
+          "当初の3月31日から4月2日の日程が変更される見込み"
+        ],
+        "detailed_summary": "トランプ米大統領は、3月末に予定していた訪中および習近平国家主席との首脳会談を約1カ月延期するよう中国側に要請しました。延期の理由として、現在進行中の対イラン軍事作戦を挙げ、「戦争が進行中であり、私自身がここ（米国）に留まることが重要だ」と述べました。米中両政府は3月31日から4月2日の日程で合意していましたが、中東情勢の緊迫化が米外交の最優先課題となった形です。トランプ氏は中国側との協議を続け、事態が落ち着き次第訪問したいとの意欲は示しています。",
+        "why_it_matters": "米中関係の安定化に向けた重要な外交機会が、中東での軍事介入を理由に停滞し、国際情勢の不確実性が高まったためです。",
+        "headline": "AGI到来を前にした地政学リスクの顕在化。社会構造の激変を注視するユーザーにとって無視できない動向です。"
+      },
+      "selection_reason": "AGI到来を前にした地政学リスクの顕在化。社会構造の激変を注視するユーザーにとって無視できない動向です。"
+    },
+    {
+      "number": 6,
+      "title": "アンソロピック、国防総省の事実上のブラックリスト登録を巡り提訴",
+      "source": "businessinsider.com",
+      "description": "*   **Title:** Pentagon designates Anthropic a US supply chain risk *   **Description:** An analysis of the political rhetoric surrounding the Anthropic-Pentagon feud.",
+      "url": "https://www.businessinsider.com/anthropic-sues-pentagon-lawsuit-supply-chain-risk-2026-3",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-03-17",
+      "mode": "deep_dive",
+      "summary": {
+        "article_index": 6,
+        "title_ja": "アンソロピック、国防総省の事実上のブラックリスト登録を巡り提訴",
+        "key_points": [
+          "ペンタゴンによる「サプライチェーンのリスク」指定の差し止めを請求",
+          "AIモデルへのフルアクセスを拒否したことが指定の背景にあると示唆",
+          "数億ドルの損失と、言論の自由を含む憲法上の権利侵害を主張"
+        ],
+        "detailed_summary": "AIスタートアップのアンソロピックは、国防総省（ペンタゴン）が同社を「サプライチェーンのリスク」として指定したことを不当とし、その差し止めを求めて提訴しました。ヘグセス国防長官が主導したこの指定により、同社は政府関連の巨額契約や民間パートナーシップが解消の危機にあると主張。背景には、ペンタゴンがAIモデルへの完全なアクセスを求めたのに対し、アンソロピック側が自律型兵器への転用防止などの倫理的観点から拒否した経緯があります。同社は、この措置が経済的損失のみならず、企業の評判や法的権利を著しく損なうと強く訴えています。",
+        "why_it_matters": "先端AI開発の主導権を巡り、企業の倫理的安全性（セーフガード）と国家安全保障上の軍事的要請が真っ向から対立した象徴的な事件であるためです。",
+        "headline": "Claudeを主軸とするユーザーにとって、開発元の政治的排除リスクと訴訟の行方は事業継続に直結します。"
+      },
+      "selection_reason": "Claudeを主軸とするユーザーにとって、開発元の政治的排除リスクと訴訟の行方は事業継続に直結します。"
+    },
+    {
+      "number": 7,
+      "title": "AnthropicがClaudeの利用制限を期間限定で倍増",
+      "source": "xda-developers.com",
+      "description": "From March 13 to March 27, 2026, usage limits for Claude Code and Claude Cowork are doubled during off-peak hours.",
+      "url": "https://www.xda-developers.com/claude-doubled-every-users-usage-limits-for-two-weeks/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-03-17",
+      "mode": "deep_dive",
+      "summary": {
+        "article_index": 1,
+        "title_ja": "AnthropicがClaudeの利用制限を期間限定で倍増",
+        "key_points": [
+          "2026年3月13日から27日までの2週間限定で実施",
+          "オフピーク時間と週末の終日においてメッセージ上限が2倍に",
+          "Free、Pro、Max、Teamプランが対象（Enterpriseは対象外）"
+        ],
+        "detailed_summary": "Anthropicは、AIチャットボット「Claude」のユーザー基盤急拡大を受け、感謝の印として利用制限を一時的に緩和すると発表した。2026年3月13日から27日まで、平日のオフピーク時間（米東部時間午前8時〜午後2時以外）と週末の終日にわたり、メッセージ送信上限が通常の2倍になる。この変更はウェブ、アプリ、Excel/PowerPoint連携など全プラットフォームで自動適用される。最近App Storeで首位を獲得するなど注目が集まる中、ユーザーが不満を感じやすい制限を緩和することで、さらなる利用定着を狙う意図がある。",
+        "why_it_matters": "競合とのシェア争いが激化する中、サービスの欠点だった利用制限を緩和することで、ライトユーザーの囲い込みを強化するためです。",
+        "headline": "開発の並列化や大規模なコンテキスト管理を試行する絶好の機会。実戦的な生産性向上のヒントとなります。"
+      },
+      "selection_reason": "開発の並列化や大規模なコンテキスト管理を試行する絶好の機会。実戦的な生産性向上のヒントとなります。"
+    },
+    {
+      "number": 8,
+      "title": "AIによるSaaSモデルの崩壊と「SaaSポカリプス」の到来",
+      "source": "whalesbook.com",
+      "description": "*   **Actual Publish Date:** 2026-03-17",
+      "url": "https://www.whalesbook.com/news/English/tech/AI-Shatters-SaaS-Playbook-Valuations-Plunge/69a1ab9ffa7d0695d1abea4a",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-03-17",
+      "mode": "deep_dive",
+      "summary": {
+        "article_index": 2,
+        "title_ja": "AIによるSaaSモデルの崩壊と「SaaSポカリプス」の到来",
+        "key_points": [
+          "2026年初頭にソフトウェア株が約2850億ドルの時価総額を喪失",
+          "「記録のシステム」からAIによる「代理のシステム」への転換",
+          "アカウント数単位の課金から成果報酬型モデルへの移行が加速"
+        ],
+        "detailed_summary": "AIの台頭により、20年来続いたSaaSビジネスモデルが根本的な変革を迫られている。2026年初頭には「SaaSポカリプス」と呼ばれる市場調整が発生し、主要企業の株価が急落した。AIエージェントが人間の仕事を代行するようになることで、従来の「ユーザー数（アカウント数）」に基づく課金モデルは妥当性を失いつつある。企業は現在、ビジネスの結果に対して支払いを行う「成果報酬型」への移行を模索しているが、指標の定義や収益の予測可能性など、実装には依然として高いハードルが存在している。",
+        "why_it_matters": "AIが「ツール」から「労働力」へ進化することで、ソフトウェア業界の収益構造と評価基準が劇的に塗り替えられようとしているためです。",
+        "headline": "既存SaaSモデルがAIに破壊される予測は、AIエージェントによる新事業を志すユーザーの戦略を強化します。"
+      },
+      "selection_reason": "既存SaaSモデルがAIに破壊される予測は、AIエージェントによる新事業を志すユーザーの戦略を強化します。"
+    },
+    {
+      "number": 9,
+      "title": "Salesforce「Agentforce」の成功とSaaS市場の実態の乖離",
+      "source": "developmentcorporate.com",
+      "description": "*   **Actual Publish Date:** 2026-03-17",
+      "url": "https://developmentcorporate.com/saas/the-agentforce-illusion-what-the-enterprise-saas-ma-market-2025-data-actually-reveals/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-03-17",
+      "mode": "deep_dive",
+      "summary": {
+        "article_index": 3,
+        "title_ja": "Salesforce「Agentforce」の成功とSaaS市場の実態の乖離",
+        "key_points": [
+          "Agentforceが年間経常収益（ARR）5億ドルを達成し急成長",
+          "一方でSaaS市場全体のM&A取引額やイグジット評価額は低迷",
+          "特定の成功例が市場全体のトレンドと一致しない「錯覚」に警告"
+        ],
+        "detailed_summary": "SalesforceのAIプラットフォーム「Agentforce」がARR5億ドルを達成し、AIエージェントの普及を象徴する成功を収めている。しかし、市場全体のデータを見ると異なる実態が浮かび上がる。PitchBookの2025年第4四半期レポートによれば、SaaS市場全体の取引価値は低下し、CIO（最高情報責任者）の中には自社のAIプロジェクトを断念する動きも見られる。Salesforceの成功は、同社の巨大な顧客基盤と統合力による例外的なものであり、これを市場全体の強気サインと誤認することは、投資や売却の判断を誤らせるリスクがある。",
+        "why_it_matters": "大手1社の成功という「ノイズ」を排除し、現在のソフトウェア市場が直面している構造的な弱さを正しく認識する必要があるためです。",
+        "headline": "AIエージェントの企業導入の現実をデータで解剖。MVP構築から市場適応を狙う戦略的な視座を提供します。"
+      },
+      "selection_reason": "AIエージェントの企業導入の現実をデータで解剖。MVP構築から市場適応を狙う戦略的な視座を提供します。"
+    },
+    {
+      "number": 10,
+      "title": "InfobipがAIエージェント向けOS「AgentOS」を発表",
+      "source": "infobip.com",
+      "description": "*   **URL:** [https://bemiagent.com/news/agentos-operating-system-for-ai/](https://bemiagent.com/news/agentos-operating-system-for-ai/)",
+      "url": "https://www.infobip.com/agentos",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-03-17",
+      "mode": "adjacent",
+      "summary": {
+        "article_index": 4,
+        "title_ja": "InfobipがAIエージェント向けOS「AgentOS」を発表",
+        "key_points": [
+          "自律型AIエージェントを構築・管理するための統合インフラ",
+          "分散した顧客データを集約し、一貫した顧客体験を提供",
+          "WhatsAppや音声など15以上のチャネルで即座に展開可能"
+        ],
+        "detailed_summary": "クラウド通信プラットフォームのInfobipは、自律型AIエージェントによる顧客対応を大規模に展開するための「AgentOS」を発表した。このOSは、マーケティング、営業、サポートの各分野で独立して動作するAIを構築し、複数のチャネルで一貫した対話を可能にする。最大の特徴は、APIやウェブフックを通じて分散した顧客データを一元化し、文脈に応じた高度な対応を24時間体制で実現する点にある。企業は一度の設定で、複雑なワークフローを人間を介さずに完結させるAIシステムをグローバルにスケールさせることができる。",
+        "why_it_matters": "カスタマー体験の主軸が「受動的な自動化」から「能動的に行動する自律型AIエージェント」へと移行する基盤が整ったことを示しています。",
+        "headline": "個人コンテキストを「情報の構造化」で処理する究極形。GitHubを外部脳にする試みに新たな知見を与えます。"
+      },
+      "selection_reason": "個人コンテキストを「情報の構造化」で処理する究極形。GitHubを外部脳にする試みに新たな知見を与えます。",
+      "adjacent_field": "Knowledge Graph Engineering (ナレッジグラフ工学)",
+      "adjacent_reasoning": "GitHubを「ライフリポジトリ」とする試みをさらに進化させ、LLMが個人のコンテキストを正確に処理するための「情報の構造化」の究極形です。単なるドキュメント管理を超え、AIエージェントが高度な推論を行うための「個人用外部脳」の構築に直結します。"
+    },
+    {
+      "number": 11,
+      "title": "AI安全時計が進行、新型モデルの乱立と規制の乖離",
+      "source": "imd.org",
+      "description": "*   **Title**: IMD AI Safety Clock moves closer to midnight as agentic AI goes mainstream and AI is weaponized *   **Actual Publish Date**: 2026-03-16 *   **URL**: https://www.imd.org/ibyimd/artificial-intelligence/imd-ai-safety-clock-moves-closer-to-midnight-as-agentic-ai-goes-mainstream-and-ai-is-weaponized/ It specifically highlights the challenge of \"unresolved tension between rapid capability expansion and meaningful oversight,\" noting new alignment efforts such as Anthropic’s updated AI co",
+      "url": "https://www.imd.org/ibyimd/artificial-intelligence/imd-ai-safety-clock-moves-closer-to-midnight-as-agentic-ai-goes-mainstream-and-ai-is-weaponized/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-03-16",
+      "mode": "adjacent",
+      "summary": {
+        "article_index": 5,
+        "title_ja": "AI安全時計が進行、新型モデルの乱立と規制の乖離",
+        "key_points": [
+          "IMDのAI安全時計が残り18分（23:42）にまで進行",
+          "GPT-5.2やGemini 3、Claude 4.6など新型AIが数ヶ月で相次ぎ登場",
+          "EUの厳格規制と、米国の軍事優先・規制緩和方針が対立"
+        ],
+        "detailed_summary": "IMDが提唱する「AI安全時計」は、2026年3月時点で「真夜中（制御不能なAIによる破滅リスク）」まで残り18分に迫った。2025年末から2026年初頭にかけて、xAI、Google、Anthropic、OpenAIが次々と驚異的な性能を持つ新型モデルを投入し、AIの自律性と推論能力が劇的に向上したことが要因だ。また、包括的な規制を施行する欧州連合と、国防を「AI優先」に転換し安全ガードレールの撤廃を企業に迫るトランプ政権との間で、ガバナンスの足並みが乱れていることがリスクをさらに高めている。",
+        "why_it_matters": "AIの技術進化が加速し続ける一方で、それを管理・抑制するための国際的な枠組みが崩壊しつつある現状に警鐘を鳴らしています。",
+        "headline": "AIの自律制御と組織ルールの設計論。エージェントを業務フローへ安全に組み込むための理論的基盤です。"
+      },
+      "selection_reason": "AIの自律制御と組織ルールの設計論。エージェントを業務フローへ安全に組み込むための理論的基盤です。",
+      "adjacent_field": "Mechanism Design (メカニズムデザイン)",
+      "adjacent_reasoning": "ディスコの社内通貨制度への関心とAIエージェントの自律的制御（Constitutional AI）を繋ぐ、「最適な動機付けとルール設計」の理論的基盤です。AIと人間が混在する組織における、情報の非対称性を解消するためのインセンティブ設計の視点が得られます。"
+    },
+    {
+      "number": 12,
+      "title": "ホルムズ海峡の緊張とエネルギー市場の急騰シナリオ",
+      "source": "discoveryalert.com.au",
+      "description": "It highlights that energy markets do not respond linearly to supply constraints, but rather exhibit dramatic price acceleration as shortages intensify. *   **Description:** An analysis of how localized geopolitical disruptions cascade rapidly through global supply chains.",
+      "url": "https://discoveryalert.com.au/hormuz-crisis-energy-security-2026/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-03-17",
+      "mode": "adjacent",
+      "summary": {
+        "article_index": 6,
+        "title_ja": "ホルムズ海峡の緊張とエネルギー市場の急騰シナリオ",
+        "key_points": [
+          "世界の石油の1/3、天然ガスの1/5が通過する要衝での危機",
+          "供給停止量に応じた非線形な価格上昇（最大75%増）を予測",
+          "IEAが4億バレルの石油備蓄放出という前例のない対策を検討"
+        ],
+        "detailed_summary": "中東のホルムズ海峡における緊張が高まり、世界のエネルギー供給網がかつてない脆弱性に晒されている。世界銀行の分析によると、石油供給の途絶は価格に加速的な影響を与え、1日あたり600万〜800万バレルの大規模な遮断が発生した場合、原油価格は56〜75%急騰して1バレルあたり113ドルから127ドルに達する可能性がある。国際エネルギー機関（IEA）は、過去の放出量を大幅に上回る4億バレルの戦略石油備蓄の放出を提案しているが、地理的なボトルネックに依存する世界経済の構造的リスクが浮き彫りとなっている。",
+        "why_it_matters": "地政学的な一地点の封鎖が、世界的なインフレの再燃や経済活動の停止を招く直接的な引き金となることを示唆しています。",
+        "headline": "地政学リスクが物理資産セクターへ波及する連鎖を構造化。マクロな資本移動の予測精度を高める視点です。"
+      },
+      "selection_reason": "地政学リスクが物理資産セクターへ波及する連鎖を構造化。マクロな資本移動の予測精度を高める視点です。",
+      "adjacent_field": "System Dynamics (システムダイナミクス)",
+      "adjacent_reasoning": "地政学的リスクの偶発的拡大、中央銀行の政策の副作用、株式市場のマルチプル拡大といった、複雑な相互作用がもたらす「非線形な変化」を構造的に捉える手法です。個別の事象をフィードバックループとして理解することで、マクロな動向の予測精度が飛躍的に向上します。"
+    }
+  ]
+}
