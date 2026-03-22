@@ -1,0 +1,265 @@
+{
+  "date": "2026-03-22",
+  "mode": "multimode",
+  "collected_by": "antigravity",
+  "articles": [
+    {
+      "number": 1,
+      "title": "Anthropic vs 国防総省：新たな法廷書面で「合意寸前だった」ことが判明、トランプの関係断絶宣言の1週間後",
+      "source": "TechCrunch",
+      "description": "Anthropicが連邦裁判所に宣誓供述書を提出。国防総省の「安全保障上のリスク」指定に反論し、交渉過程での技術的誤解と、事前に提起されなかった主張に基づくものだと主張。",
+      "url": "https://techcrunch.com/2026/03/20/new-court-filing-reveals-pentagon-told-anthropic-the-two-sides-were-nearly-aligned-a-week-after-trump-declared-the-relationship-kaput/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-03-20",
+      "mode": "breaking",
+      "summary": {
+        "title_ja": "Anthropic vs 国防総省：新たな法廷書面で「合意寸前だった」ことが判明",
+        "key_points": [
+          "Anthropicの政策責任者Sarah Heckとパブリックセクター責任者が宣誓供述書を提出",
+          "国防総省が「Anthropicが戦闘中にClaudeを無効化する恐れ」と主張したのは交渉中に一度も言及されず、法廷書面で初めて登場",
+          "3月24日にサンフランシスコ連邦裁判所で暫定差止め命令の審理が予定"
+        ],
+        "detailed_summary": "Anthropicが金曜遅くにカリフォルニア連邦裁判所へ2通の宣誓供述書を提出した。同社の政策責任者Sarah Heck（元オバマ政権NSCスタッフ）は、2月24日のダリオ・アモデイCEOとヘグセス国防長官の会合に同席しており、「Anthropicが軍事作戦への承認権を求めた」という政府の主張を明確に否定した。特に注目すべきは、国防総省が最大の懸念とした「戦闘作戦中にClaudeを無効化・改変する可能性」について、交渉中に一度も言及されず、法廷書面で初めて登場した点だ。Anthropicはこれを反論する機会を与えられなかったと主張している。火曜日に暫定差止め命令の審理が控えており、AI企業と政府の関係を決定づける判例となりうる。",
+        "why_it_matters": "Anthropicと国防総省の関係悪化の内幕が法的文書で明らかになり、交渉レベルでは合意寸前だった事実がトランプの政治判断で覆されたことを示している。"
+      },
+      "selection_reason": "アンソロピック、ダリオ・アモデイ、AI軍事利用の倫理対立に直結する最新の法廷動向。"
+    },
+    {
+      "number": 2,
+      "title": "Nvidia GTC 2026：1兆ドルの受注見通しでもウォール街が動かなかった理由",
+      "source": "TechCrunch",
+      "description": "Jensen Huang CEOが2.5時間のキーノートでVera Rubin、Groq 3 LPU、NemoClawを発表し1兆ドルの受注見通しを示すも、株価は下落。AIバブル懸念が業界の楽観と乖離。",
+      "url": "https://techcrunch.com/2026/03/21/why-wall-street-wasnt-won-over-by-nvidias-big-conference/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-03-21",
+      "mode": "breaking",
+      "summary": {
+        "title_ja": "Nvidia GTC 2026：ウォール街がJensen Huangの1兆ドル予測に動かされなかった理由",
+        "key_points": [
+          "キーノート開始と同時にNvidia株が下落、AIエージェント市場35兆ドル・物理AI市場50兆ドルの主張も響かず",
+          "Vera Rubin次世代プラットフォーム、Groq 3推論特化LPU、企業向けNemoClawなど多数の新製品を発表",
+          "シリコンバレーの楽観とウォール街の懸念が明確に乖離"
+        ],
+        "detailed_summary": "Nvidia CEO Jensen HuangがGTC 2026のキーノートで2.5時間にわたり新製品群を発表した。Vera Rubin次世代AI処理基盤、Groqとの提携による推論特化チップ、企業向けAIエージェントOS「NemoClaw」などを披露し、2027年末までにBlackwellとVera Rubin合計で1兆ドルの受注を見込むと語った。しかしキーノート開始と同時に株価は下落した。Futurum CEOのDaniel Neumanは「投資家は中東情勢とAIバブルへの不安を織り込んでいる」と指摘。シリコンバレーではAIへの自信が満ちている一方、S&P500は4週連続の下落、Russell 2000も調整局面に入っており、テック株への逆風が続いている。",
+        "why_it_matters": "AIの成長ストーリーと市場のリスク認識が乖離しており、マルチプル縮小の兆候として投資判断に直結する。"
+      },
+      "selection_reason": "マルチプル拡大、ボラティリティ、AI投資バブル懸念というブーストキーワードに合致する速報。"
+    },
+    {
+      "number": 3,
+      "title": "トランプ大統領、ホルムズ海峡「48時間以内に開放を」拒否すれば発電所攻撃",
+      "source": "日本経済新聞",
+      "description": "トランプ氏が3月21日夜にSNSで48時間以内のホルムズ海峡開放を要求。拒否すれば最大の発電所を攻撃すると明言し、中東情勢は新たな段階に突入。",
+      "url": "https://www.nikkei.com/article/DGXZQOGN2206N0S6A320C2000000/",
+      "category": "経済・金融",
+      "published_at": "2026-03-22",
+      "mode": "breaking",
+      "summary": {
+        "title_ja": "トランプ、ホルムズ海峡48時間最後通告：拒否なら発電所攻撃",
+        "key_points": [
+          "米東部時間3月21日午後7時44分にSNSで48時間以内の開放を要求",
+          "拒否すれば「最大の発電所を最初の標的」として各種発電所を壊滅させると明言",
+          "日本への艦船派遣期待も表明しており、日本の安全保障・外交に直接波及"
+        ],
+        "detailed_summary": "トランプ米大統領が21日夜、イランに48時間以内のホルムズ海峡開放を要求し、拒否すればエネルギー施設への攻撃を開始すると表明した。「いかなる脅威もなくホルムズ海峡を開放しない場合、米国は最大の発電所を最初の標的とし、各種の発電所を壊滅させる」とSNSに投稿。同時に日本を含む各国への艦船派遣も求めており、茂木外相は「各国船の通過が重要」としつつ日本船の先行派遣は否定。期限は日本時間23日朝で、エスカレーションすれば原油価格と円相場に即時の影響が出る。",
+        "why_it_matters": "ホルムズ海峡封鎖の短期シナリオが48時間の期限付きで具体化し、原油価格と円安への波及が時間軸で迫っている。"
+      },
+      "selection_reason": "ホルムズ海峡、原油価格、地政学リスクへの強い関心に直結する最新かつ最重要速報。"
+    },
+    {
+      "number": 4,
+      "title": "OpenAI、PythonツールのAstral（uv・Ruff）を買収しCodexに統合",
+      "source": "Ars Technica",
+      "description": "OpenAIがPythonパッケージマネージャuv（月間1.26億DL）やリンターRuffの開発元Astralを買収。AnthropicのBun買収に対抗するCodex強化策。",
+      "url": "https://arstechnica.com/ai/2026/03/openai-is-acquiring-open-source-python-tool-maker-astral/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-03-19",
+      "mode": "breaking",
+      "summary": {
+        "title_ja": "OpenAI、PythonツールのAstral買収でCodex強化：Claude Code対抗を加速",
+        "key_points": [
+          "uv（月間1.26億DL）、Ruff（1.79億DL）、ty（1900万DL）を手がけるAstralを買収",
+          "AnthropicがBun（JavaScript runtime）を買収した動きへの直接的な対抗",
+          "買収後もオープンソースプロジェクトの継続サポートを約束"
+        ],
+        "detailed_summary": "OpenAIがPython開発ツール企業Astralの買収で合意した。Astralはパッケージマネージャuv、リンター/フォーマッターRuff、型チェッカーtyなど、Python開発者の基盤ツールを手がけている。uvだけで月間1.26億ダウンロードを超える。買収はCodexチームに統合され、AIエージェントが開発者が日常的に使うツールとより直接的に連携できるようにする狙い。創業者Charlie Marshはオープンソースとしての継続を約束した。この動きは、AnthropicがJavaScript runtime Bunを買収してClaude Codeに統合したのに対する直接的な対抗策で、AIコーディング市場の争奪戦が開発インフラ層にまで拡大していることを示す。",
+        "why_it_matters": "Claude Code vs Codexの競争が「モデル性能」から「開発ツールチェーンの囲い込み」に移行しており、AIコーディングのエコシステム形成を左右する。"
+      },
+      "selection_reason": "クロードコードスキルズ、LLM、AIエージェント競争に直結するブーストキーワード記事。"
+    },
+    {
+      "number": 5,
+      "title": "トランプ政権がAI立法フレームワーク発表、州法を連邦で上書きし子供の安全は親に委ねる方針",
+      "source": "TechCrunch",
+      "description": "トランプ政権が連邦AI統一規制のフレームワークを発表。州法の連邦上書き、イノベーション優先、子供の安全責任の親への移転を柱とした軽量規制路線。",
+      "url": "https://techcrunch.com/2026/03/20/trumps-ai-framework-targets-state-laws-shifts-child-safety-burden-to-parents/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-03-20",
+      "mode": "breaking",
+      "summary": {
+        "title_ja": "トランプAIフレームワーク：州法を連邦で上書き、軽量規制でイノベーション優先",
+        "key_points": [
+          "7つの主要目標を掲げ、AI開発の連邦一元化を目指す",
+          "州レベルのAI規制を無効化する「連邦先占」を提案。EU AI法との対照的アプローチ",
+          "子供の安全についてはAI企業に明確な義務を課さず、親の責任に重点"
+        ],
+        "detailed_summary": "トランプ政権が金曜日にAI立法フレームワークを発表した。「米国のイノベーションとAI競争力の維持には全米統一基準が不可欠」として、各州のAI規制法を連邦法で上書きする方針を打ち出した。7つの柱ではイノベーション加速とスケーリングを最優先に掲げ、企業への規制は非拘束的なものにとどめている。児童保護についてはAI企業に未成年の搾取リスクを減らす機能の実装を求めるが、具体的な強制力のある要件は示されていない。ホワイトハウスAI担当でVCのDavid Sacksが推進する「アクセラレーショニスト」路線が色濃い。12月の大統領令で商務省に90日以内の「煩雑な」州AI法リスト作成を指示したが、リストはまだ公開されていない。",
+        "why_it_matters": "AI企業の規制環境が大きく変わる可能性があり、スタートアップの立ち上げ戦略やAI倫理のガバナンス設計に直接影響する。"
+      },
+      "selection_reason": "AIエージェント事業の規制環境、SaaSの死後のAI産業の方向性に関わる速報。"
+    },
+    {
+      "number": 6,
+      "title": "OpenClawの「ChatGPTモーメント」：AIモデルがコモディティ化する懸念が浮上",
+      "source": "CNBC",
+      "description": "Nvidia GTC 2026でJensen Huangが大きく取り上げたOpenClaw。半年前には存在しなかった技術が急速に普及し、AIモデルのコモディティ化懸念を加速させている。",
+      "url": "https://www.cnbc.com/2026/03/21/openclaw-chatgpt-moment-sparks-concern-ai-models-becoming-commodities.html",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-03-21",
+      "mode": "deep_dive",
+      "summary": {
+        "title_ja": "OpenClawが引き起こすAIコモディティ化：ChatGPTモーメントの再来か",
+        "key_points": [
+          "開発者Peter SteinbergerがOpenAIに入社し、OpenClawはオープンソース財団に移行",
+          "Sam Altmanが「天才」と呼び、次世代パーソナルエージェントの推進を託す",
+          "AIモデルの差別化が困難になり、価値がインフラ層とアプリケーション層に移行する構造転換が進行"
+        ],
+        "detailed_summary": "CNBCの深掘り記事がOpenClawのAI業界への衝撃を分析している。半年前には存在すらしなかったオープンソースの自律AIエージェントが、WhatsApp・Telegram経由でPC操作からメール管理まで行える能力で爆発的に普及。Nvidia GTC 2026でJensen HuangがキーノートでOpenClawを大きく取り上げたことで「ChatGPTモーメントの再来」と呼ばれている。開発者のPeter SteinbergerはOpenAIに入社し、OpenClawはオープンソース財団として存続する。AIモデル自体の差別化が困難になりコモディティ化が進む中、価値の源泉はハードウェアインフラ（Nvidia）と垂直統合されたアプリケーション（Claude Code、Codex）に移動しつつある。",
+        "why_it_matters": "「サースの死」の次のフェーズとして、AIモデルそのもののコモディティ化が進み、投資先の選別と事業戦略の再構築が迫られている。"
+      },
+      "selection_reason": "サースの死、AIエージェント、市場の認識変化というブーストキーワードに直結する深掘り記事。"
+    },
+    {
+      "number": 7,
+      "title": "国防総省がAI企業に機密データでのモデル訓練を計画、安全保障と情報漏洩のジレンマ",
+      "source": "MIT Technology Review",
+      "description": "国防総省がOpenAI・xAIに機密データでのAIモデル学習を許可する計画。現在は質問応答のみだが、機密データが直接モデルに組み込まれる前例のない展開。",
+      "url": "https://www.technologyreview.com/2026/03/17/1134351/the-pentagon-is-planning-for-ai-companies-to-train-on-classified-data-defense-official-says/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-03-17",
+      "mode": "deep_dive",
+      "summary": {
+        "title_ja": "国防総省、OpenAI・xAIに機密データでのAI訓練を計画：前例のないセキュリティリスク",
+        "key_points": [
+          "現在Claudeが機密環境で唯一運用中だが、学習（訓練）には使われていない。新計画では訓練に拡大",
+          "監視報告や戦場評価などの機密データがモデルに直接組み込まれるリスク",
+          "まず非機密の商用衛星画像で精度検証を行い、段階的に移行する方針"
+        ],
+        "detailed_summary": "MIT Technology Reviewの独占報道で、国防総省がAI企業にLLMを機密データで追加訓練させる計画を進めていることが発覚した。国防関係者がバックグラウンドで語ったところによると、現在はClaudeなどが機密環境で質問に回答するだけだが、新たにモデルの重みそのものに機密データを組み込む形の訓練を検討している。訓練は機密認定を受けたデータセンターで実施され、AI企業の人員がデータにアクセスするには適切な機密資格が必要。CSISのAalok Mehtaは「質問への回答と訓練データへの組み込みは根本的にリスクが異なる」と指摘。防衛官は、まず商用衛星画像などの非機密データで精度を検証してから段階的に移行する方針を示した。",
+        "why_it_matters": "AIの軍事利用がモデル訓練レベルにまで深化し、AI企業の安全保障上の立ち位置が根本的に変わる転換点となりうる。"
+      },
+      "selection_reason": "AIの軍事利用、コンスティチューショナルAI、セキュリティリスクへの関心に直結する深掘り記事。"
+    },
+    {
+      "number": 8,
+      "title": "OpenAI、2026年末までに従業員を約2倍の8000人に拡大、Anthropic対抗で法人AI市場に注力",
+      "source": "日本経済新聞（FT報道）",
+      "description": "FT報道によると、OpenAIが年末までに従業員を現在の4500人から8000人規模に増員。法人向けAI販売でAnthropicに対抗する戦略転換。",
+      "url": "https://www.nikkei.com/article/DGXZQOGN212XG0R20C26A3000000/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-03-21",
+      "mode": "deep_dive",
+      "summary": {
+        "title_ja": "OpenAI、従業員を8000人に倍増計画：Anthropicへの対抗で法人市場に本格参入",
+        "key_points": [
+          "現在の約4500人から2026年末までに8000人規模へ拡大",
+          "製品開発、AI研究、営業の各部門で増員し法人AI市場に注力",
+          "Anthropicの年間売上3兆円が法人市場でのプレッシャー源に"
+        ],
+        "detailed_summary": "FTが21日に報じたところによると、OpenAIは2026年末までに従業員数を現在の約4500人から8000人規模に拡大する計画だ。法人向けAI販売でAnthropicに対抗するのが主な動機で、製品開発・AI研究・営業の各部門で増員する。関連記事によると、Anthropicの年間換算売上高は3兆円に到達し、Claude Codeだけで年間25億ドル超を稼いでいる。OpenAIはCodexの年間売上10億ドルにとどまっており、Astral買収やPromptfoo買収を含めた包括的なキャッチアップ戦略の一環と位置づけられる。",
+        "why_it_matters": "OpenAI vs Anthropicの法人AI市場争奪戦のスケールが数千人単位の人員投入で明らかになり、AI業界の勢力図を左右する。"
+      },
+      "selection_reason": "LLM、AIエージェント、スケーリング則、事業戦略への関心に合致する深掘り記事。"
+    },
+    {
+      "number": 9,
+      "title": "Claude Code vs Codex：AIコーディングの覇権争いが開発インフラ層に拡大",
+      "source": "複数ソース統合（WIRED, Ars Technica, DataCampほか）",
+      "description": "Claude Codeの年間25億ドル超 vs Codex10億ドル。AnthropicのBun買収とOpenAIのAstral買収で、競争がモデル性能から開発ツールチェーンの囲い込みへ移行。",
+      "url": "https://www.wired.com/story/openai-codex-race-claude-code/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-03-21",
+      "mode": "deep_dive",
+      "summary": {
+        "title_ja": "Claude Code vs Codex：開発ツールチェーンの囲い込みでAIコーディング覇権を争う",
+        "key_points": [
+          "Claude Code（年間25億ドル超）vs Codex（10億ドル強）の売上格差が2.5倍に拡大",
+          "Claude Opus 4.6の100万トークンコンテキストでロングセッション対応、Codexはfire-and-forget型のバックグラウンド実行",
+          "Anthropic→Bun買収、OpenAI→Astral買収で、競争が「使うツールごとの囲い込み」に移行"
+        ],
+        "detailed_summary": "AIコーディングアシスタント市場でClaude CodeとCodexの争いが激化している。Claude Codeはインタラクティブな開発者協働型で、Opus 4.6の100万トークンコンテキストを活かした大規模リファクタリングに強い。Codexはクラウドベースの自律実行型で、明確に定義されたタスクをバックグラウンドでこなしPRを返す。売上ではClaude Codeが年間25億ドル超とCodexの10億ドル強を大きく上回り、Sam Altman自身が「コーディングでは後追い」と認めた。今週のAstral買収とAnthropicのBun買収で、競争はモデル性能の比較から開発インフラの囲い込みへとシフト。企業の40%が2026年末までにAIエージェントを組み込む見通しの中、開発者エコシステムの形成が勝敗を分ける。",
+        "why_it_matters": "Claude Codeを主軸とするユーザーにとって、Codexの巻き返し戦略と市場構造の変化を理解することが事業判断に直結する。"
+      },
+      "selection_reason": "クロードコードスキルズ、AIエージェント、コンテキストウィンドウ、LLMへの直接的な関心に合致。"
+    },
+    {
+      "number": 10,
+      "title": "AIが合成生物学を加速：タンパク質設計と創薬の「バイオテック・ルネサンス」",
+      "source": "search_web（BioSpace, Drug Target Review, MIT等の統合）",
+      "description": "NVIDIAとManifold Bioが100万パターンのタンパク質バインダーを一括実験検証。2026年末〜2027年初にAI発見初の新薬承認の可能性。",
+      "url": "https://www.drugtargetreview.com/news/ai-drug-discovery-trends-2026/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-03-20",
+      "mode": "adjacent",
+      "summary": {
+        "title_ja": "AI × 合成生物学：タンパク質設計が創薬を根本的に変えつつある",
+        "key_points": [
+          "NVIDIAとManifold Bioが生成AIモデル「Proteina-Complexa」で100万のタンパク質設計を127ターゲットに対し一括実験検証",
+          "MITが合成生物学×生成AIで抗菌ペプチドを設計、薬剤耐性菌への新アプローチ",
+          "2026年末〜2027年初にAI発見初の新薬承認が見込まれ、AI創薬の実用性が実証される転換点"
+        ],
+        "detailed_summary": "2026年、AIと合成生物学の融合が「バイオテック・ルネサンス」と呼ばれる変革を起こしている。NVIDIAとManifold Bioが開発した生成AIモデル「Proteina-Complexa」は、100万パターンのタンパク質バインダーを設計し127ターゲットに対する結合実験を一括で検証した。MITでは合成生物学と生成AIを組み合わせ、細菌の機能を無効化する小タンパク質を設計し、薬剤耐性菌に対する新たなアプローチを示した。創薬パイプラインではAIが初期発見のタイムラインを30〜40%短縮し、2026年末から2027年初にかけてAI発見初の新薬承認が見込まれている。DNAを「言語」として扱うEvo2モデルなど、遺伝子配列の解析も急速に進んでいる。",
+        "why_it_matters": "AIの適用領域がソフトウェアから「分子レベルの設計」へ拡大しており、物理資産を持つセクターへの投資シフトという既存の関心と直接つながる。"
+      },
+      "selection_reason": "既存のAI関心から論理的に拡張される「AI×バイオ」という隣接分野。投資セクターの移動先として注目。",
+      "adjacent_field": "コンピュテーショナル・バイオロジー（計算生物学）",
+      "adjacent_reasoning": "AIがソフトウェアのビジネスモデルを破壊し投資資金が物理資産セクターに移動するという既存の関心と、AIが分子設計レベルで物質世界を変える新領域が直結する。"
+    },
+    {
+      "number": 11,
+      "title": "AIエージェント時代の組織デザイン：DAO×マルチエージェントで変わる意思決定",
+      "source": "search_web（Forbes Japan, Microsoft, teamz.co.jp等の統合）",
+      "description": "2026年にAIエージェントの企業導入が本格化。DAOの分散型ガバナンスとマルチエージェント協調が融合し、組織の意思決定プロセスが根本的に変わりつつある。",
+      "url": "https://www.forbesjapan.com/articles/detail/ai-agent-organization-design-2026",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-03-20",
+      "mode": "adjacent",
+      "summary": {
+        "title_ja": "AIエージェント時代の組織デザイン：意思決定OSとマルチエージェントの台頭",
+        "key_points": [
+          "Microsoft調査で、AIエージェント先行導入企業は導入スピードが2.5倍。「AI組織革命」が全企業に到来と予測",
+          "DAO（分散型自律組織）の法的枠組みが日本でも整備。合同会社型DAOが可能に",
+          "マルチエージェント型ワークフロー（複数の役割を持つAIが協調）とヒューマン・イン・ザ・ループが2026年の主流に"
+        ],
+        "detailed_summary": "2026年はAIエージェントの企業導入が転換点を迎えている。Microsoftの調査では、先行導入企業はそうでない企業と比べてAIエージェントの展開が2.5倍速く、「意思決定OS」と呼ばれるAI駆動の意思決定基盤の設計が急務となっている。同時に、DAOの法的枠組みも日本で整備が進み、合同会社型DAOの設立が可能になった。分散型ガバナンスとAIエージェントの自律的行動を組み合わせた新しい組織形態が生まれつつある。Forbes Japanはこれを「AIエージェントは同僚として管理する新時代」と表現。複数のAIエージェントが異なる役割で協調する「マルチエージェント」型ワークフローと、重要判断では人間が介入する「ヒューマン・イン・ザ・ループ」の融合が、2026年の主流パターンになると見込まれている。",
+        "why_it_matters": "ディスコの社内通貨Will制度への関心とAIエージェントの自律運用を「組織構造レベル」でつなぐ実践的知見。"
+      },
+      "selection_reason": "ディスコのWill制度、AIエージェントの自律運用、インセンティブ設計への関心を橋渡しする隣接分野。",
+      "adjacent_field": "エージェンティック・オーガニゼーション・デザイン",
+      "adjacent_reasoning": "AIエージェントの自律運用とディスコの社内通貨制度（インセンティブ設計）、DAOの分散型ガバナンスという3つの関心が交差する新領域。"
+    },
+    {
+      "number": 12,
+      "title": "地政学の霧が株式市場を覆う：投資家がとるべき3つのアクション",
+      "source": "CNBC",
+      "description": "イラン戦争が不確実性を増幅させ経済見通しを曇らせる中、ボラティリティ・供給リスク・政策不透明性がセルオフの確率を高めている。リスク削減・現金確保・慎重な姿勢の3戦略。",
+      "url": "https://www.cnbc.com/2026/03/21/a-geopolitical-fog-has-enveloped-the-stock-market-three-things-investors-should-do-now.html",
+      "category": "経済・金融",
+      "published_at": "2026-03-21",
+      "mode": "adjacent",
+      "summary": {
+        "title_ja": "地政学リスクが株式市場を覆う霧——投資家がとるべき3つの行動",
+        "key_points": [
+          "S&P500が4週連続下落、Russell 2000が調整局面入り",
+          "原油100ドル超、関税、FRBの利下げ困難という三重のリスクが重なる",
+          "専門家の推奨は「リスクポジション削減」「現金比率引き上げ」「霧が晴れるまで慎重維持」の3点"
+        ],
+        "detailed_summary": "CNBCの分析記事がイラン紛争を起点とする市場の地政学リスクを整理している。S&P500は4週連続で下落し、小型株中心のRussell 2000は調整局面（高値から10%超の下落）に入った。原油価格は100ドルを超え、トランプの関税政策とFRBの利下げ困難が重なり、市場を覆う不確実性は「霧」に例えられる。Justin Zacksは3つの行動を推奨する。第一にリスクポジションの削減、第二に現金比率の引き上げ、第三に視界が回復するまでの慎重姿勢の維持。48時間のホルムズ海峡最後通告が加わった今、短期的な市場変動リスクはさらに高まっている。",
+        "why_it_matters": "地政学リスク×原油価格×中央銀行政策という三重の不確実性下での具体的な投資行動指針として実用性が高い。"
+      },
+      "selection_reason": "ボラティリティ、地政学リスク、マクロ経済イベントを活用した投資戦略への直接的な関心に合致。",
+      "adjacent_field": "地政学リスクプレミアム分析",
+      "adjacent_reasoning": "ホルムズ海峡、原油価格、FRB政策金利という既存の関心事の相互作用を、投資のリスク管理フレームワークに統合する分析視点。"
+    }
+  ]
+}
