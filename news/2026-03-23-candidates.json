@@ -1,0 +1,265 @@
+{
+  "date": "2026-03-23",
+  "mode": "multimode",
+  "collected_by": "antigravity",
+  "articles": [
+    {
+      "number": 1,
+      "title": "Cursorの新コーディングモデル、中国Moonshot AIのKimiベースだったことが判明",
+      "source": "TechCrunch",
+      "description": "29.3億ドル評価のCursorが新モデルComposer 2を発表したが、ベースが中国Moonshot AIのオープンソースモデルKimi 2.5だったことが発覚。地政学的緊張下での中国モデル依存が議論に。",
+      "url": "https://techcrunch.com/2026/03/22/cursor-admits-its-new-coding-model-was-built-on-top-of-moonshot-ais-kimi/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-03-22",
+      "mode": "breaking",
+      "summary": {
+        "title_ja": "Cursorの新コーディングモデルComposer 2、実は中国Kimi 2.5がベースだった",
+        "key_points": [
+          "Xユーザーがコード内にKimiのモデルIDを発見し、Cursor VP Lee Robinsonが認めた",
+          "最終モデルの計算の約3/4はCursor独自の訓練によるもので、ベンチマーク性能はKimiと大幅に異なると主張",
+          "Moonshot AIはKimiの利用がFireworks AI経由の正規商用パートナーシップであると確認"
+        ],
+        "detailed_summary": "年間売上20億ドル超、評価額293億ドルのAIコーディング企業Cursorが新モデルComposer 2を「フロンティアレベルのコーディング知能」として発表した。ところがXユーザーのFynnがコード内にKimiのモデルIDを発見。Cursorの開発者教育VP Lee Robinsonは即座にオープンソースベースであることを認めたが、最終モデルの計算量の75%はCursor独自の訓練だと説明した。Moonshot AIはアリババとHongShanが出資する中国企業で、Kimiとの提携はFireworks AI経由の正規契約だとポストで確認している。米中テック対立の中で米国AIスタートアップが中国モデルに依存する構図は、サプライチェーンの複雑さを改めて浮き彫りにした。",
+        "why_it_matters": "AIコーディング市場のリーダー企業が中国モデルをベースにしていたという事実は、AI開発ツールのサプライチェーンリスクと透明性の問題を突きつけている。"
+      },
+      "selection_reason": "LLM、AIエージェント、コーディングツール市場の透明性問題に直結する速報。"
+    },
+    {
+      "number": 2,
+      "title": "Amazon Trainiumチップラボ独占取材：Anthropic・OpenAI・Appleが採用するNvidia対抗の全貌",
+      "source": "TechCrunch",
+      "description": "Amazon 500億ドルOpenAI投資の中核であるTrainiumチップ開発ラボを独占取材。Nvidia比50%のコスト削減、PyTorch対応、Anthropic向けProject Rainier 50万チップ稼働中。",
+      "url": "https://techcrunch.com/2026/03/22/an-exclusive-tour-of-amazons-trainium-lab-the-chip-thats-won-over-anthropic-openai-even-apple/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-03-22",
+      "mode": "breaking",
+      "summary": {
+        "title_ja": "Amazon Trainiumチップラボ独占取材：Nvidia独占に挑む低コストAI推論チップの全貌",
+        "key_points": [
+          "Trainium3搭載のTrn3 UltraServerは同等性能でNvidia比最大50%のコスト削減を実現",
+          "Anthropic向けProject Rainierが50万チップで稼働中、OpenAIには2GWの処理能力を供給予定",
+          "PyTorchをサポートし、移行は「1行の変更と再コンパイルだけ」とNvidiaの乗り換えコストを下げる"
+        ],
+        "detailed_summary": "TechCrunchがAmazon 500億ドルOpenAI投資の中核施設であるTrainiumチップ開発ラボを独占取材した。ラボのディレクターKristopher Kingとエンジニアリングディレクター Mark Carrollが案内役を務め、Trainium3とNeuronスイッチの組み合わせが全チップ間のメッシュ通信を可能にし、レイテンシの大幅削減につながっていると説明した。AnthropicはProject Rainierとして50万チップを運用中で、OpenAIには2GWの処理能力供給が約束されている。Appleも2024年にGravitonとInferentiaを公に評価した。PyTorch対応により「1行の変更と再コンパイルでNvidiaからの移行が可能」とし、Nvidiaの独占に風穴を開けようとしている。ただしMicrosoftがOpenAIとの契約違反を主張しているとFTが報じており、法的波乱の可能性もある。",
+        "why_it_matters": "AIインフラのコスト構造を変えうるTrainiumの実態が明らかになり、Nvidia独占の崩れ方を見極める材料になる。"
+      },
+      "selection_reason": "AIインフラ層のコスト競争と投資セクター移動への関心に直結する速報。"
+    },
+    {
+      "number": 3,
+      "title": "AIトークンは新しいサインアップボーナスか、それとも業務コストか",
+      "source": "TechCrunch",
+      "description": "Jensen HuangがGTC 2026でエンジニアの報酬にAIトークン25万ドル分を上乗せすべきと提唱。NYTimesが「tokenmaxxing」トレンドを報道、Meta・OpenAIでトークン消費量の社内ランキングが存在。",
+      "url": "https://techcrunch.com/2026/03/21/are-ai-tokens-the-new-signing-bonus-or-just-a-cost-of-doing-business/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-03-21",
+      "mode": "breaking",
+      "summary": {
+        "title_ja": "AIトークンは新しいサインアップボーナスか：エンジニア報酬の第4の柱が浮上",
+        "key_points": [
+          "Jensen Huangがエンジニアに基本給の約半分にあたる25万ドル分のAIトークンを上乗せすべきと発言",
+          "Theory VenturesのTomasz Tunguzが2月時点でトークンを報酬の第4要素と分析、Levels.fyiデータで上位SEの報酬は47.5万ドルに",
+          "NYTimesが報じた「tokenmaxxing」トレンドでは、Meta・OpenAI社内にトークン消費量ランキングが存在"
+        ],
+        "detailed_summary": "Nvidia CEOのJensen HuangがGTC 2026で、トップエンジニアには年間25万ドル分のAIトークンを支給すべきだと発言し、シリコンバレー全体で広がりつつあった議論に火をつけた。Theory VenturesのTomasz Tunguzは2月の時点で「推論コストが報酬の第4要素になっている」と分析していた。OpenClawの登場がこの流れを加速させている。従来のプロンプト利用では1回1万トークン程度だったが、エージェントの群れを走らせると1日に数百万トークンを消費する。NYTimesの取材では、Meta・OpenAI社内にトークン消費量の社内ランキングが存在し、エリクソンのストックホルム勤務エンジニアは「Claudeへの支出が給与を超えている」と語った。歯科保険や無料ランチに代わる新しい福利厚生として定着しつつある。",
+        "why_it_matters": "AIエージェントのコスト管理に直結する話題で、トークン消費の爆発がエンジニア報酬体系そのものを書き換えようとしている。"
+      },
+      "selection_reason": "トークン消費量、AIエージェントのコスト管理、LLMの活用法への関心に直結。"
+    },
+    {
+      "number": 4,
+      "title": "日経平均一時2500円超安、原油供給停滞の長期化懸念で5万1000円割れ",
+      "source": "日本経済新聞",
+      "description": "中東情勢のさらなる緊迫を受け、23日の日経平均は前営業日比2500円超の下落。下落率は4.5%超で2カ月半ぶりの安値水準に。",
+      "url": "https://www.nikkei.com/article/DGXZQOUB230FF0T20C26A3000000/",
+      "category": "経済・金融",
+      "published_at": "2026-03-23",
+      "mode": "breaking",
+      "summary": {
+        "title_ja": "日経平均一時2500円超安：原油供給停滞の長期化懸念で5万1000円を割る",
+        "key_points": [
+          "23日の東京株式市場で日経平均は一時2500円超の下落、下落率4.5%超",
+          "心理的節目の5万1000円を割り、2カ月半ぶりの安値水準を更新",
+          "アドバンテスト・東京エレクトロンの半導体関連株やファーストリテイリングなど主力株が軒並み下落"
+        ],
+        "detailed_summary": "23日の東京株式市場で日経平均株価が大幅続落し、前営業日比の下げ幅は一時2500円を超えた。下落率は4.5%超に達し、心理的節目だった5万1000円を割り込んで2カ月半ぶりの安値水準に沈んだ。原油供給の停滞が長期化するとの見方が市場を圧迫しており、アドバンテストや東京エレクトロンなど半導体関連株、ファーストリテイリングなど主力株がそろって売られた。トランプの48時間最後通告の期限が日本時間23日朝に迫り、イランが「攻撃なら完全封鎖」と応じたことでエスカレーションリスクが一段と高まっている。",
+        "why_it_matters": "ホルムズ海峡の緊張がリアルタイムで日本市場を直撃しており、投資ポジションの緊急見直しが必要な局面に入っている。"
+      },
+      "selection_reason": "ボラティリティ、ホルムズ海峡、原油価格への強い関心に直結する当日の速報。"
+    },
+    {
+      "number": 5,
+      "title": "イラン、イスラエルの原子力施設にミサイル攻撃か",
+      "source": "日本経済新聞",
+      "description": "中東情勢がさらにエスカレート。イランがイスラエルの原子力施設を標的としたミサイル攻撃を行ったとの報道。",
+      "url": "https://www.nikkei.com/article/DGXZQOCB221WN0S6A320C2000000/",
+      "category": "経済・金融",
+      "published_at": "2026-03-22",
+      "mode": "breaking",
+      "summary": {
+        "title_ja": "イラン、イスラエルの原子力施設にミサイル攻撃か：中東紛争がさらにエスカレート",
+        "key_points": [
+          "イランがイスラエルの原子力施設を標的としたミサイル攻撃を実施したとの報道",
+          "米軍とイスラエル軍の攻撃への報復として中東全域で紛争が拡大中",
+          "ドバイでも空港火災やF1中止など、湾岸諸国の安全神話が崩壊"
+        ],
+        "detailed_summary": "中東情勢が新たなフェーズに突入している。イランがイスラエルの原子力施設に対してミサイル攻撃を行ったとの報道が出た。これは米軍とイスラエル軍のイランへの軍事攻撃に対する報復措置の一環と見られる。同時にイランはUAEドバイなどアラブ商業都市も標的にしており、ドバイ国際空港付近での火災やF1レースの中止など、「安全神話」に依拠してきた湾岸発展モデルが深刻な打撃を受けている。2025年に過去最多の9500万人の旅客を扱ったドバイ国際空港の機能停止は、グローバルな航空輸送と物流にも波及する。原子力施設への攻撃というエスカレーションは、紛争が核関連リスクを含む段階に入ったことを示唆している。",
+        "why_it_matters": "原子力施設への攻撃は紛争の質を根本的に変え、エネルギー供給と金融市場への影響が数ヶ月単位で長期化する可能性を示す。"
+      },
+      "selection_reason": "ホルムズ海峡、地政学リスク、原油価格への関心に直結する重大速報。"
+    },
+    {
+      "number": 6,
+      "title": "Anthropic vs 国防総省：明日3/24に暫定差止め命令の審理、判例を作る法廷闘争",
+      "source": "複数ソース（TechCrunch, WIRED, Business Insider等）",
+      "description": "Anthropicが国防総省のサプライチェーンリスク指定に対して起こした訴訟の暫定差止め命令審理が3月24日に予定。CTO「ConstitutionをモデルにEmbedする企業とは契約できない」と発言。",
+      "url": "https://techcrunch.com/2026/03/20/new-court-filing-reveals-pentagon-told-anthropic-the-two-sides-were-nearly-aligned-a-week-after-trump-declared-the-relationship-kaput/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-03-22",
+      "mode": "deep_dive",
+      "summary": {
+        "title_ja": "Anthropic vs 国防総省：3月24日の審理がAI企業と政府の関係を決定づける",
+        "key_points": [
+          "3月24日にサンフランシスコ連邦裁判所で暫定差止め命令の審理が予定",
+          "国防総省CTOが「Constitutionをモデルに埋め込む企業とは契約不可能」と発言、安全ポリシーそのものを拒否",
+          "Anthropicは修正第1条と適正手続き違反を主張、技術的にClaudeを遠隔無効化する能力はないと否定"
+        ],
+        "detailed_summary": "Anthropicと国防総省の法廷闘争が明日3月24日の審理で重大な節目を迎える。Anthropicは3月9日に連邦訴訟を提起し、サプライチェーンリスク指定の暫定差止めを求めている。最新の展開として、国防総省CTOが「Anthropicのように自社の『Constitution（憲法）』やポリシーの好みをモデルに埋め込む企業とは合意できない」と発言し、Anthropicの安全性アプローチそのものを拒否する姿勢を示した。3月20日の法廷書面ではAnthropicの政策責任者Sarah Heckが、交渉中に国防総省が主張する「戦闘中のClaude無効化リスク」は一度も言及されなかったと宣誓供述した。Anthropicは技術的にも展開済みのClaudeを遠隔で無効化・変更する能力を持たないと主張している。Google、OpenAI、xAIがClaudeの代替として展開中。",
+        "why_it_matters": "AI企業の安全ポリシーが政府契約の障壁となる前例が生まれれば、Constitutional AIの理念そのものが事業リスクに転化する。"
+      },
+      "selection_reason": "アンソロピック、ダリオ・アモデイ、コンスティチューショナルAI、AI軍事利用の倫理対立の最新動向。"
+    },
+    {
+      "number": 7,
+      "title": "Google、ブラウザエージェントProject Marinerチームを再編：OpenClawの波でコーディングエージェントに注力",
+      "source": "WIRED",
+      "description": "Google LabsのProject Mariner（ブラウザ自動操作AI）のスタッフが高優先度プロジェクトに移動。ブラウザエージェントからコーディングエージェントへのAI業界全体のシフトが鮮明に。",
+      "url": "https://www.wired.com/story/google-shakes-up-project-mariner-team-web-browsing-agents/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-03-22",
+      "mode": "deep_dive",
+      "summary": {
+        "title_ja": "Google、ブラウザエージェントからコーディングエージェントへ軸足を移す：Project Mariner再編の背景",
+        "key_points": [
+          "Google LabsのProject Marinerスタッフが高優先度プロジェクトに異動、技術はGemini Agentに統合",
+          "PerplexityのCometブラウザエージェントは週280万MAU、OpenAIのChatGPTエージェントは100万MAU未満で低迷",
+          "スタンフォード講師「ターミナルはテキストベースでLLMと相性が良く、同じ結果を10-100倍少ないステップで達成できる」"
+        ],
+        "detailed_summary": "WIREDの独占報道で、GoogleがProject Marinerチームを再編し、一部スタッフを高優先度プロジェクトに移動させたことが判明した。Project Marinerはブラウザを自動操作するAIエージェントで、2025年のI/OでSundar Picaiが注目の的として紹介していた。しかしPerplexityのCometが週280万MAU、OpenAIのChatGPT Agentが100万MAU未満にとどまるなど、ブラウザエージェントの普及は業界の期待を大きく下回っている。スタンフォードのKian Katanforoosh教授は「ターミナルはテキストベースでLLMと親和性が高く、ブラウザのスクリーンショット処理と比べて10-100倍効率的」と分析した。Claude Code、OpenClaw、Codexといったコーディングエージェントの成功を受け、Anthropicはターミナル不要版のClaude Cowork、Perplexityは汎用版Personal Computerを展開するなど、「コーディングエージェントを汎用化する」方向に業界全体がシフトしている。",
+        "why_it_matters": "AIエージェントの主戦場がブラウザ操作からターミナル/コーディングベースに確定的にシフトしており、AIエージェント事業の方向性を読む上で不可欠な情報。"
+      },
+      "selection_reason": "AIエージェント、クロードコードスキルズ、エージェント市場のアーキテクチャ変遷に直結。"
+    },
+    {
+      "number": 8,
+      "title": "イラン戦争がエネルギー市場を最悪のシナリオの瀬戸際に追い込む",
+      "source": "WIRED",
+      "description": "IEA長官が「歴史上最大のエネルギー供給への脅威」と発言。専門家は「これは景気後退ではなく恐慌的」と警告。ホルムズ海峡封鎖がCovid並みの需要喪失を引き起こす可能性。",
+      "url": "https://www.wired.com/story/iran-war-puts-global-energy-markets-on-the-brink-of-a-worst-case-scenario/",
+      "category": "経済・金融",
+      "published_at": "2026-03-22",
+      "mode": "deep_dive",
+      "summary": {
+        "title_ja": "イラン戦争とエネルギー市場：専門家「景気後退ではなく恐慌レベル」の警告",
+        "key_points": [
+          "IEA長官が「歴史上最大のエネルギー供給への脅威」とFTに発言、金融市場は影響を過小評価",
+          "専門家Johnston「海峡が再開しなければ、これは景気後退ではなく恐慌。車も飛行機もなくなるCovid並みの需要消失」",
+          "石油化学製品から半導体材料、肥料まで商品供給が遮断され、ガソリン・食料品価格に直接波及"
+        ],
+        "detailed_summary": "WIREDの詳報がイラン戦争によるエネルギー市場への影響を専門家の分析を交えて報じた。IEA長官はFTに「歴史上最大のエネルギー供給への脅威」と語り、金融市場が影響を過小評価していると指摘した。エネルギー分析家のJohnstonは「海峡が再開しなければ、これは景気後退レベルではない。恐慌だ。パンデミック期のように車も飛行機もなくなるが、今回はパンデミックがない」と警告した。影響はエネルギーだけにとどまらず、石油化学製品や半導体製造に使われるヘリウム・臭素・硫黄などの原材料供給も遮断されている。米国でも春の種まきシーズンに肥料価格が急騰し、航空会社が燃料費高騰で運賃値上げと減便を始めている。トランプ政権はJones Actの一時停止やイラン制裁の一部解除を検討しているが、メッセージの一貫性のなさが市場の不確実性を増幅させている。",
+        "why_it_matters": "ホルムズ海峡の事態が「恐慌レベル」と評価されており、投資ポジションのリスク管理と資金配分の根本的な見直しが迫られている。"
+      },
+      "selection_reason": "ホルムズ海峡、原油価格、ボラティリティ、地政学リスクへの関心に直結する深掘り分析。"
+    },
+    {
+      "number": 9,
+      "title": "「AIが人件費を奪い始めた」──「SaaSの死」をシバタナオキ氏が日経ビジネスで分析",
+      "source": "日本経済新聞（日経ビジネス）",
+      "description": "日系メディアでもSaaSの死が本格的に取り上げられ始めた。AIエージェントがシート課金モデルを破壊し、人件費そのものを代替するフェーズに入ったという分析。",
+      "url": "https://www.nikkei.com/article/DGXZQOUC0927L0Z00C26A3000000/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-03-23",
+      "mode": "deep_dive",
+      "summary": {
+        "title_ja": "「AIが人件費を奪い始めた」：日経ビジネスがSaaSの死を日本語圏で本格分析",
+        "key_points": [
+          "テック分析家シバタナオキ氏が日経ビジネスでSaaSビジネスモデルの構造的崩壊を解説",
+          "AIエージェントがシート課金型SaaSの価値提案を破壊し、人件費そのものを代替するフェーズに",
+          "日本語圏でSaaSの死が本格的に報じられ始めた転換点"
+        ],
+        "detailed_summary": "日経ビジネスにシバタナオキ氏の分析記事「AIが人件費を奪い始めた」が掲載された。AIエージェントの普及がSaaSのシート課金モデルを構造的に破壊しつつある状況を、日本語圏の読者に向けて体系的に解説している。英語圏では2025年後半からSaaSpokalypseやBlack Februaryの2兆ドル時価総額消失が報じられてきたが、日本のビジネスメディアでこのテーマが本格的に取り上げられたのはこれが転換点になりうる。AIエージェントが既存のソフトウェアの機能を代替するだけでなく、その操作に必要だった人件費そのものを奪い始めているという分析は、日本企業のIT投資戦略にも影響を与える。",
+        "why_it_matters": "サースの死が日本語圏で本格的に報じられ始めた転換点であり、日本企業のAI投資判断に直結する分析。"
+      },
+      "selection_reason": "サースの死、AIエージェント、市場の認識変化というブーストキーワードに直結。"
+    },
+    {
+      "number": 10,
+      "title": "中東紛争が半導体サプライチェーンを直撃：ヘリウム・臭素・硫黄の供給途絶リスク",
+      "source": "複数ソース（Sourceability, EE Times, Deloitte等）",
+      "description": "ホルムズ海峡の封鎖が原油だけでなく、半導体製造に不可欠な希少材料の供給を遮断。AI半導体の供給網が地政学リスクの新たなチョークポイントに。",
+      "url": "https://www.sourceability.com/semiconductor-supply-chain-geopolitics-2026",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-03-21",
+      "mode": "adjacent",
+      "summary": {
+        "title_ja": "中東紛争が半導体サプライチェーンを直撃：AI半導体の地政学リスクが顕在化",
+        "key_points": [
+          "ホルムズ海峡封鎖でヘリウム・臭素・硫黄など半導体製造に不可欠な材料の供給が途絶するリスク",
+          "中東のデータセンターも被害を受け、AIインフラの地理的脆弱性が露呈",
+          "台湾TSMCが世界の先端半導体の90-95%を製造する集中リスクと、エネルギー依存が二重の脆弱性"
+        ],
+        "detailed_summary": "中東紛争の影響が原油市場を超えて半導体サプライチェーンにまで波及している。Sourceabilityの分析によると、ホルムズ海峡の事実上の封鎖により、半導体製造に不可欠なヘリウム（リソグラフィのプロセスガス）、臭素（難燃剤）、硫黄（特殊工程）といった希少材料の供給が脅かされている。中東に設置されたデータセンターへの実害も報告された。台湾TSMCは世界の先端半導体の90-95%を製造しており、その電力は中東からの輸入エネルギーに一部依存している。Deloitteの分析では2026年のチョークポイントとしてEUVリソグラフィ装置、高帯域幅メモリの共パッケージングツール、EDAソフトウェアを挙げており、地政学リスクが半導体の複数レイヤーに同時に波及する構造が明らかになっている。",
+        "why_it_matters": "AIチップのサプライチェーンが地政学リスクの交差点に立っており、AI投資とテック株の評価に直接影響する隣接分野の知識。"
+      },
+      "selection_reason": "AI投資、半導体、地政学リスクの交差点という既存の関心カテゴリを物理的に橋渡しする隣接分野。",
+      "adjacent_field": "半導体サプライチェーン地政学",
+      "adjacent_reasoning": "原油価格への関心とAI/半導体投資への関心を、サプライチェーンの物理的脆弱性という新たなレンズでつなぐ分析視点。"
+    },
+    {
+      "number": 11,
+      "title": "NIST、自律AIエージェント専用の安全基準策定に着手：ID認証・行動ログ・封じ込め境界",
+      "source": "複数ソース（NIST, EU AI Act, International AI Safety Report等）",
+      "description": "2026年2月にNISTがAIエージェント専用の標準策定イニシアチブを立ち上げ。エージェントのID、行動ログ、自律操作の封じ込め境界に焦点。EU AI法の高リスク義務は8月に完全施行。",
+      "url": "https://www.nist.gov/artificial-intelligence/ai-risk-management-framework",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-03-20",
+      "mode": "adjacent",
+      "summary": {
+        "title_ja": "NIST、自律AIエージェント専用の安全基準策定に着手：既存の枠組みでは足りない",
+        "key_points": [
+          "2026年2月にNISTがAIエージェント専用の標準策定イニシアチブを開始、ID認証・行動監査ログ・封じ込め境界に焦点",
+          "EU AI法の高リスクAIシステム義務が2026年8月2日に完全施行、適合性評価・人的監督・品質管理が義務化",
+          "International AI Safety Report 2026が「AI能力の進歩速度とガバナンスの速度の乖離が拡大」と警告"
+        ],
+        "detailed_summary": "自律AIエージェントの急速な普及を受け、世界各地でガバナンス体制の整備が加速している。NISTは2026年2月にAIエージェント専用の標準策定イニシアチブを立ち上げ、エージェントのアイデンティティ認証、アクション別の監査ログ記録、自律操作の封じ込め境界の設定に重点を置いている。EU AI法は高リスクAIシステムに対する義務を8月2日に完全施行予定で、適合性評価・人的監督・品質管理システムの構築を求める。2月公開のInternational AI Safety Report 2026は、AI能力の進歩速度とガバナンスの速度の乖離が拡大していると警告した。米国ではカリフォルニアSB 53がフロンティアAIモデルへの壊滅的リスク評価を義務化、コロラドSB 24-205が6月30日施行で高リスクAIのバイアス軽減文書化を求める。既存のフレームワークは独立して意思決定するシステムを想定しておらず、「Shadow AI」リスクへの対応が急務になっている。",
+        "why_it_matters": "AIエージェントのセキュリティリスクとコスト管理への関心に、規制・ガバナンスの実装面から新たな視点を加える。"
+      },
+      "selection_reason": "AIエージェントのセキュリティ、プロンプトインジェクション対策、Constitutional AIの実装に橋をかける隣接分野。",
+      "adjacent_field": "AIエージェント・ガバナンス・エンジニアリング",
+      "adjacent_reasoning": "AIエージェントのセキュリティリスク（権限管理・情報漏洩）への既存の関心を、規制遵守・標準策定という「制度設計」の視点から補強する。"
+    },
+    {
+      "number": 12,
+      "title": "デジタルツインとAIが製造業を根本変革：2026年は実験段階から日常操業へ",
+      "source": "複数ソース（Plataine, Forbes, EE Times等）",
+      "description": "デジタルツインが実験段階から日常的な操業ツールに移行。AIエージェントがルーティン生産判断を担い、エッジAIが工場のリアルタイム自律運転を実現しつつある。",
+      "url": "https://www.plataine.com/digital-twin-ai-manufacturing-2026",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-03-20",
+      "mode": "adjacent",
+      "summary": {
+        "title_ja": "デジタルツインとAI製造：2026年に実験から日常操業への移行が加速",
+        "key_points": [
+          "デジタルツインが視覚化ツールから高度シミュレーション・what-if分析基盤に進化、「コンポジットデジタルツイン」で工場全体をモデル化",
+          "エッジAIが工場フロアに直接知能を配置し、クラウド依存を減らしてリアルタイム自律運転を実現",
+          "AIエージェントがリスケジュール・在庫管理・ルーティングなどの日常的な生産判断を担い始めている"
+        ],
+        "detailed_summary": "2026年、デジタルツインとAIの融合が製造業を実験段階から日常操業レベルへ引き上げている。Plataine社の分析では、デジタルツインは単なる視覚化から、製品ライフサイクル全体にわたるシミュレーションとwhat-if分析の基盤に進化した。個別コンポーネントのデジタルツインを組み合わせた「コンポジットデジタルツイン」で工場全体をモデル化する動きも広がっている。EE Timesの報道によると、エッジAIが工場フロアに直接知能を配置することで、中央クラウドへの依存を減らしリアルタイムの意思決定ループを閉じている。Siemensは電化・自動化・デジタル化をNVIDIAのAIコンピューティングと統合した知能駆動型エコシステムを構築中。サプライチェーンもAIエージェントにより自律的・適応的になり、センサーデータやサプライヤーの可用性変化にリアルタイムで応答するようになっている。",
+        "why_it_matters": "AIの適用先がソフトウェアから物理世界の製造に本格的に広がっており、物理資産セクターへの投資シフトという既存の関心に新たな具体事例を提供する。"
+      },
+      "selection_reason": "AIが物理資産セクターを変革する具体事例として、投資セクター移動とAIエージェントの自律運用への関心を橋渡しする隣接分野。",
+      "adjacent_field": "インダストリアルAI（産業用AI）",
+      "adjacent_reasoning": "ソフトウェアSaaSの破壊と物理資産セクターへの投資移動という既存関心に、デジタルツイン×AIエージェントという製造業の具体的変革を接続する。"
+    }
+  ]
+}
