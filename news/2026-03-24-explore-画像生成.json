@@ -31,6 +31,7 @@
       "title": "Luma AIのUni-1がNano Banana 2とGPT Image 1.5を論理ベンチマークで上回る",
       "source": "The Decoder",
       "url": "https://the-decoder.com/luma-ais-uni-1-could-be-the-first-real-challenger-to-googles-nano-banana-image-dominance/",
+      "content_verified": "full_article_read",
       "explore_angle": "画像生成モデルの競争とコモディティ化",
       "summary": {
         "title_ja": "Luma AI、画像生成と理解を単一アーキテクチャで統合するUni-1を発表",
@@ -67,6 +68,7 @@
       "title": "Ollamaがローカル画像生成に実験対応、macOSでZ-Image TurboとFlux 2 Kleinが動作",
       "source": "Ollama Blog",
       "url": "https://ollama.com/blog/image-generation",
+      "content_verified": "full_article_read",
       "explore_angle": "ローカル画像生成・エッジAI推論",
       "summary": {
         "title_ja": "Ollama、macOSでローカル画像生成を実験サポート開始",
@@ -101,8 +103,10 @@
     {
       "number": 5,
       "title": "Apple M5チップのNeural Accelerator：AI画像生成性能が前世代比4倍に",
-      "source": "Apple Newsroom / 複数レビュー",
+      "source": "Apple Newsroom / Macworld / All About Circuits",
       "url": "https://www.apple.com/newsroom/2025/10/apple-introduces-m5-chip/",
+      "content_verified": "search_web_multi_source",
+      "content_sources": ["apple.com/newsroom", "macworld.com", "allaboutcircuits.com", "cnet.com", "investingnews.com"],
       "explore_angle": "ローカル画像生成・エッジAI推論",
       "summary": {
         "title_ja": "M5チップがローカルAI画像生成を高速化、GPUにNeural Acceleratorを統合",
@@ -119,8 +123,10 @@
     {
       "number": 6,
       "title": "画像生成AI市場が2034年に17.5億ドル規模へ、年平均17.4%で成長",
-      "source": "Fortune Business Insights",
+      "source": "Fortune Business Insights / SNS Insider / MarketsandMarkets",
       "url": "https://www.fortunebusinessinsights.com/ai-image-generator-market-110870",
+      "content_verified": "search_web_multi_source",
+      "content_sources": ["fortunebusinessinsights.com", "snsinsider.com", "marketsandmarkets.com", "grandviewresearch.com", "skyquestt.com"],
       "explore_angle": "画像生成モデルの競争とコモディティ化",
       "summary": {
         "title_ja": "AI画像生成市場は2026年に4.8億ドル、2034年に17.5億ドル規模へ成長",
@@ -137,17 +143,18 @@
     {
       "number": 7,
       "title": "ComfyUI-MCP-Server：AIエージェントが自然言語で画像生成ワークフローを操る",
-      "source": "MCPMarket / GitHub",
-      "url": "https://github.com/comfyui-mcp/comfyui-mcp-server",
+      "source": "GitHub (joenorton/comfyui-mcp-server)",
+      "url": "https://github.com/joenorton/comfyui-mcp-server",
+      "content_verified": "full_article_read",
       "explore_angle": "画像生成AI × コーディングエージェント統合",
       "summary": {
         "title_ja": "ComfyUI × MCP：AIエージェントが画像生成パイプラインを自然言語で制御する時代へ",
         "key_points": [
-          "ComfyUI-MCP-Serverにより、Claude CodeなどのAIエージェントが自然言語コマンドでComfyUIワークフローを駆動可能に",
-          "ComfyUIのノードグラフをツールとして公開し、エージェントがパラメータ調整・実行・出力チェーンを自動化",
-          "ComfyUI-CrewAIは複数エージェントの協調フレームワークを統合し、役割分担型の画像生成ワークフローを実現"
+          "軽量PythonベースのMCPサーバーで、Cursor/Claude/n8n等のAIエージェントがComfyUIを自然言語で操作可能に",
+          "generate_image、regenerate、view_image、list_assets等のツールを公開。反復的な画像リファインメントとpublish_assetによるWeb公開まで自動化",
+          "カスタムワークフローJSONをインポート可能。プレースホルダーでパラメータをエージェントに公開し、既存のComfyUIワークフローをそのままエージェント対応に"
         ],
-        "detailed_summary": "ComfyUIのエコシステムにMCP（Model Context Protocol）サーバーが登場し、AIエージェントとの統合が進んでいる。ComfyUI-MCP-Serverは、ComfyUIの複雑なノードグラフを設定可能なツールとしてエージェントに公開する仕組みで、Claude CodeやgeminiのようなAIエージェントが自然言語の指示だけで画像生成パイプラインを操作できるようになる。ComfyUIのコアを変更せずに機能するため、既存のワークフローをそのままエージェント対応にできる。さらにComfyUI-CrewAIは、複数のAIエージェントに特定の役割（プロンプト設計、品質チェック、後処理など）を割り当てて協調させるマルチエージェントフレームワークをComfyUIに持ち込んだ。Seline（オープンソースAIエージェントプラットフォーム）はComfyUIのワークフローJSONをインポートし、入出力とパラメータを自動検出してエージェントが操作できるようにする。画像生成の「App Mode」やComfyHubの登場で、プロが構築したワークフローを簡素化して配布する仕組みも整いつつある。",
+        "detailed_summary": "joenorton/comfyui-mcp-serverは、ローカルComfyUIインスタンスをAIエージェントから操作するための軽量PythonベースMCPサーバーだ。MCPプロトコルに準拠し、Cursor、Claude、n8nなどのAIクライアントから自然言語の会話を通じて画像・音声・動画を生成・リファインできる。主なツールはgenerate_image（プロンプトから画像生成）、regenerate（既存アセットのパラメータ変更による再生成）、view_image（生成画像をAIのコンテキストに注入）、get_job（ジョブ完了のポーリング）、list_assets（生成済みアセットの一覧閲覧）、publish_asset（Webプロジェクトへの公開）など多岐にわたる。カスタムワークフローはComfyUIのJSON形式でインポートでき、プレースホルダーを使ってパラメータをエージェント側に公開する仕組み。Quick Start例では、ユーザーが『Webサイトのヒーロー画像を生成してhero.webpとして公開して』と指示するだけで、エージェントがget_publish_info→generate_image→publish_assetと自律的にツールチェーンを実行する。ComfyUI-Copilot（LLMプラグイン）やComfyGPT（自己最適化マルチエージェント）も並行して開発されており、自然言語からワークフロー自体を自動生成する方向にも進化している。",
         "why_it_matters": "MCP対応により画像生成がAIエージェントの操作対象になったことで、コーディングエージェントが設計からアセット生成まで自律的に完結する道が開けた。"
       },
       "selection_reason": "MCPサーバー、AIエージェント、コーディングエージェント統合という直接的な関心に合致。"
@@ -209,8 +216,10 @@
     {
       "number": 11,
       "title": "エッジAI推論市場が2026年に1,538億ドル規模、2034年に6,355億ドルへ成長",
-      "source": "Global Information / 複数ソース",
-      "url": "https://www.gii.co.jp/report/edge-ai-inference-market/",
+      "source": "RD World Online / 複数市場レポート",
+      "url": "https://rdworldonline.com/the-ai-inference-pivot-a-crucial-turning-point-in-2026/",
+      "content_verified": "search_web_multi_source",
+      "content_sources": ["rdworldonline.com", "precedenceresearch.com", "grandviewresearch.com"],
       "explore_angle": "ローカル画像生成・エッジAI推論",
       "summary": {
         "title_ja": "エッジAI推論市場が1,538億ドル規模に、画像生成を含むオンデバイスAI処理が急拡大",
@@ -227,17 +236,19 @@
     {
       "number": 12,
       "title": "2026年の画像生成AI価格比較：Midjourney・DALL-E・Gemini・Stable Diffusionのコスト構造",
-      "source": "AI Creators Hub / 複数比較サイト",
-      "url": "https://ai-creators-hub.com/image-ai-pricing-comparison-2026",
+      "source": "複数比較サイト統合（pxlpeak.com, midjourney.com, stability.ai, laozhang.ai）",
+      "url": "https://midjourney.com/account",
+      "content_verified": "search_web_multi_source",
+      "content_sources": ["midjourney.com", "stability.ai", "openai.com", "google.dev", "laozhang.ai", "aifreeapi.com"],
       "explore_angle": "画像生成モデルの競争とコモディティ化",
       "summary": {
         "title_ja": "画像生成AIの価格競争が激化、月額0円から200ドルまで幅広い選択肢が並立",
         "key_points": [
-          "Midjourney: Basic $10/月〜Mega $120/月。Proプランでのステルスモードが機密プロジェクトに有用",
-          "ChatGPT Plus: $20/月でGPT Image統合。APIは$0.005〜0.20/枚。バッチ処理でさらに半額",
-          "Stable Diffusion: ローカル実行なら無料・無制限。高性能GPUが前提だが、M5 MacでもComfyUI経由で実用的に"
+          "Midjourney: Basic $10/月〜Mega $120/月（年間契約で20%割引）。商用利用権は全プランに含まれるが年商100万ドル超企業はPro以上が必要",
+          "ChatGPT Plus $20/月でGPT Image統合。API: GPT Image 1.5は$0.011〜0.167/枚、Mini $0.005/枚。DALL-E 3 APIは$0.04〜0.12/枚だが2026年5月廃止",
+          "Stability AI: SD 3.5 Large API $0.065/枚、Flash $0.025/枚。Google Gemini: Imagen 4 Fast $0.02/枚〜Ultra $0.06/枚、Nano Banana Pro 1K $0.067/枚〜4K $0.24/枚"
         ],
-        "detailed_summary": "2026年の画像生成AIは、無料のローカル実行から月額200ドルの高性能プランまで、用途と予算に応じた選択肢が出揃った。Midjourneyは月額10〜120ドルの4プランで商用利用権を付与し、Proプランのステルスモードが機密プロジェクトで重宝される。ChatGPT Plusは月額20ドルでGPT Image 1.5が使え、APIは1枚0.005ドルからという低価格設定。Adobe Fireflyは著作権安全性に優れ月額9.99ドルから。Google AIはPlus（月額1,200円）からUltra（月額36,400円）まで幅広い。Stable DiffusionやFlux 2はローカル実行なら無料で無制限に使え、Apple Siliconが16GB以上あれば実用的だ。Canva AI（月額12.99ドル）のようなデザインプラットフォーム統合型も台頭している。用途別の最適解は、プロのアート制作ならMidjourney、汎用的な業務利用ならChatGPT Plus、大量生成・カスタマイズならSD4/Flux 2ローカル、著作権安全性ならAdobe Fireflyだ。",
+        "detailed_summary": "2026年の画像生成AIは、無料のローカル実行から月額120ドルのプロプランまで、細かく差別化された選択肢が出揃った。Midjourneyは月額10〜120ドルの4プラン（Basic/Standard/Pro/Mega）でGPU時間ベースの料金体系を採用。StandardプランだとGPU15時間で約900枚生成可能、1枚あたり約3〜5セント。年間契約で20%割引。OpenAIはGPT Imageファミリーに移行中で、GPT Image 1が低品質$0.011/枚、高品質$0.167/枚、Miniが$0.005/枚から。DALL-E 3 APIはHD 1024x1024で$0.08/枚だが2026年5月廃止予定。Stability AIのDeveloper Platformではクレジット制（1クレジット=$0.01）で、SD 3.5 Large $0.065/枚、Flash $0.025/枚、SDXL $0.009/枚。GoogleはImagen 4 Fast $0.02/枚、Gemini 3.1 Flash Image 1024pxで$0.067/枚、Nano Banana Pro 1Kで$0.067/枚〜4Kで$0.24/枚。バッチ処理で半額になるモデルも多い。ローカル実行ならSD4やFlux 2 kleinは無料無制限で、Apple Silicon 16GB以上あれば実用的だ。",
         "why_it_matters": "モデルの使い分けはコスト構造の理解から始まる。無料のオープンソースから高額プロプランまでの価格差が100倍以上あり、用途を間違えると不必要なコストを払うことになる。"
       },
       "selection_reason": "画像生成AIのモデル使い分けとコスト感覚に直結する実用的な比較情報。"
