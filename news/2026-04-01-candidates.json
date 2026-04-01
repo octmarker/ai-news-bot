@@ -1,0 +1,221 @@
+{
+  "date": "2026-04-01",
+  "mode": "multimode",
+  "collected_by": "antigravity",
+  "articles": [
+    {
+      "number": 1,
+      "title": "Claude Code全ソースコードが流出——npm公開時のソースマップ設定ミスで512,000行が露出",
+      "source": "Ars Technica",
+      "description": "Anthropicがversion 2.1.88のnpmパッケージ公開時にソースマップファイルを含めてしまい、Claude Code CLIの全ソースコード約2,000ファイル・512,000行以上がGitHubで公開・大量フォークされた。",
+      "url": "https://arstechnica.com/ai/2026/03/entire-claude-code-cli-source-code-leaks-thanks-to-exposed-map-file/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-03-31",
+      "mode": "breaking",
+      "summary": {
+        "title_ja": "Claude Code全ソースコードが流出——512,000行がnpmソースマップ経由で露出",
+        "key_points": [
+          "Anthropicがnpmパッケージv2.1.88公開時にソースマップファイルを含め、約2,000個のTypeScriptファイル・512,000行以上のコードが流出",
+          "開発者がメモリアーキテクチャ(バックグラウンドメモリ書き換え等)やツールシステム(40,000行)、クエリシステム(46,000行)の構造を詳細に分析",
+          "Anthropicは「リリースパッケージングの人為的ミスであり、セキュリティ侵害ではない」と声明"
+        ],
+        "detailed_summary": "2026年3月31日、セキュリティ研究者Chaofan Shouが、AnthropicのClaude Code npmパッケージv2.1.88にソースマップファイルが含まれていることを発見し、Xで公開した。これによりClaude Code CLIの全TypeScriptソースコード（約2,000ファイル、512,000行以上）がアクセス可能になり、GitHubで公開されたリポジトリには数万のフォークがつけられた。開発者の分析により、Claude Codeが「APIのラッパーではなく、本格的な開発者体験を実現するプロダクション級ソフトウェア」であることが明らかになった。メモリアーキテクチャ、プラグインシステム、内部ガードレールの詳細が競合他社に露出した。これはAnthropicにとって1週間で2度目のCMS/パッケージング関連の人為的ミスとなった。",
+        "why_it_matters": "Claude Codeユーザーとして直接影響。競合へのアーキテクチャ情報流出はAIコーディングツール市場の競争構図を変える可能性。セキュリティガードレールの露出も懸念材料。"
+      },
+      "selection_reason": "クロードコードスキルズ、AIエージェント開発、セキュリティリスクへの関心に直結する速報。"
+    },
+    {
+      "number": 2,
+      "title": "裁判所がAnthropicブラックリストに仮処分——「HegsethとTrumpに権限なし、典型的な修正第1条への報復」",
+      "source": "Ars Technica",
+      "description": "Rita Lin連邦地裁判事がAnthropicへの仮処分を認め、国防省によるブラックリスト指定は「報道を通じた批判への報復」であり修正第1条違反と判断。",
+      "url": "https://arstechnica.com/tech-policy/2026/03/hegseth-trump-had-no-authority-to-order-anthropic-to-be-blacklisted-judge-says/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-03-31",
+      "mode": "breaking",
+      "summary": {
+        "title_ja": "裁判所がAnthropicブラックリストに仮処分——修正第1条違反の典型的報復と判断",
+        "key_points": [
+          "Rita Lin連邦地裁判事がAnthropicの仮処分申請を認め、国防省による供給チェーンリスク指定は修正第1条違反と判断",
+          "国防省の記録は「報道を通じた敵対的態度」を理由にブラックリストに指定したことを示しており、「公的批判への典型的な違法報復」と裁判所が認定",
+          "Anthropicは「本訴訟の主張が認められる可能性が高い」と裁判所が同意したことに感謝しつつ、政府との建設的協力を継続する姿勢を表明"
+        ],
+        "detailed_summary": "米連邦地裁のRita Lin判事が、国防省（Department of War）によるAnthropicのブラックリスト指定に対する仮処分を認めた。判事は国防省の記録を検証し、ブラックリスト指定の実質的理由が「報道を通じた敵対的態度」であったことを確認。これを「Anthropicに公的批判への罰を与えるための措置であり、典型的な修正第1条違反の報復」と認定した。国防省側の弁護士はブラックリスト指定の安全保障上の根拠を示せず、質問に対して「分からない」と答える場面もあった。Anthropicは勝訴しつつも、政府契約からの事実上の排除が続く困難な状況に置かれている。",
+        "why_it_matters": "AnthropicのAI倫理・安全性優先の姿勢と政府との対立の帰結。AI企業の政治的リスクと市場への影響を示す重要判例。"
+      },
+      "selection_reason": "アンソロピック、AI倫理・地政学、ダリオ・アモデイへの関心に直結する速報。"
+    },
+    {
+      "number": 3,
+      "title": "OpenAI、IPO前に$122Bを調達——個人投資家からも$3B、バリュエーション$852B",
+      "source": "TechCrunch",
+      "description": "OpenAIが史上最大級の$122B調達ラウンドをクローズ。SoftBank、a16z、Amazon、Nvidia等に加え個人投資家から$3Bも調達。",
+      "url": "https://techcrunch.com/2026/03/31/openai-not-yet-public-raises-3b-from-retail-investors-in-monster-122b-fund-raise/",
+      "category": "経済・金融",
+      "published_at": "2026-03-31",
+      "mode": "breaking",
+      "summary": {
+        "title_ja": "OpenAI、$852Bバリュエーションで$122B調達——IPO前の最終大型ラウンド",
+        "key_points": [
+          "SoftBank・a16z・D.E. Shaw・MGX・TPG共同リードで$122B調達、バリュエーション$852B",
+          "個人投資家から銀行チャネル経由で$3B調達、ARK InvestのETFにも組み入れ——IPO前の株主基盤拡大",
+          "月間売上$2B、週間アクティブユーザー9億人、有料サブスクライバー5,000万人以上と発表"
+        ],
+        "detailed_summary": "OpenAIが$852Bのバリュエーションで$122Bの調達ラウンドをクローズした。SoftBank、a16z、D.E. Shaw Ventures、MGX、TPG、T. Rowe Priceが共同リードし、Amazon、Nvidia、Microsoftも参加。約$3Bは銀行チャネル経由の個人投資家から調達され、ARK InvestのETFにも組み入れられる。回転信用枠も$4.7Bに拡大。自らを「AIスーパーアプリ」と称し、月間売上$2B、週間アクティブユーザー9億人超、有料ユーザー5,000万人以上を公表。広告事業は6週間でARR$100M以上を達成。プレスリリースはS-1ドラフトのような体裁で、IPO直前の市場ナラティブ構築が鮮明になった。",
+        "why_it_matters": "OpenAI IPOの現実性とAI企業のバリュエーション水準を示す。AI投資環境と市場構造変化への関心に直結。"
+      },
+      "selection_reason": "マルチプル拡大、AI企業IPO、投資環境への関心に直結する速報。"
+    },
+    {
+      "number": 4,
+      "title": "イラン革命防衛隊、4月1日から米テック企業への攻撃開始を警告——Apple・Google・Microsoft等が標的リストに",
+      "source": "WIRED",
+      "description": "IRGCがApple、Google、IBM、Intel、Microsoft、Tesla、Boeing等の米系テック企業を「正当な標的」として攻撃開始を予告。AWSデータセンターへの攻撃実績あり。",
+      "url": "https://www.wired.com/story/iran-threatens-to-start-attacking-major-us-tech-firms-on-april-1/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-03-31",
+      "mode": "breaking",
+      "summary": {
+        "title_ja": "イラン革命防衛隊、4月1日からApple・Google等の米テック企業を攻撃すると警告",
+        "key_points": [
+          "IRGCがTelegramでApple、Google、IBM、Intel、Microsoft、Tesla、Boeing等の米企業を「合法標的」として攻撃を予告",
+          "3月1日にはイラン無人機がUAE・バーレーンのAWSデータセンター2施設を攻撃した実績あり——ハイパースケールクラウドへの初の公的攻撃",
+          "米軍は最近イランのエネルギーインフラへの攻撃を一時停止し和平交渉を模索中、一方で最大10,000人の追加派兵を検討"
+        ],
+        "detailed_summary": "イラン革命防衛隊（IRGC）が3月31日、Telegramで12社以上の米テック企業への攻撃開始を4月1日テヘラン時間午後8時以降に開始すると警告した。Apple、Google、Microsoft、IBM、Intel、Tesla、Boeing、JP Morgan、Palantir等が「正当な標的」として名指しされた。IRGCはこれらの企業が米軍の標的特定用テクノロジーを提供したと主張。3月1日にはイラン無人機がUAE・バーレーンのAWSデータセンター2施設を攻撃し、地域中の銀行・決済サービスが停止する事態が発生した前例がある。ホルムズ海峡は数週間にわたり事実上封鎖されている。戦争開始から約2,000人のイラン市民と少なくとも13人の米軍人が死亡している。",
+        "why_it_matters": "ホルムズ海峡、原油価格、地政学リスクへの直接的関心に加え、AIインフラ（クラウドデータセンター）が軍事標的になるという新たなパラダイム。"
+      },
+      "selection_reason": "ホルムズ海峡、地政学リスク、AIインフラセキュリティへの関心に直結する速報。"
+    },
+    {
+      "number": 5,
+      "title": "アジア市場が大幅反発——トランプ「イラン戦争は数週間で終結」発言、日銀短観は4四半期連続改善",
+      "source": "CNBC",
+      "description": "トランプ大統領の「2〜3週間で撤退」発言で和平期待が高まり、Kospiが5%近く急騰、日経225も3.5%上昇。",
+      "url": "https://www.cnbc.com/2026/04/01/asia-markets-live-today-nikkei-kospi-boj-tankan-iran-war.html",
+      "category": "経済・金融",
+      "published_at": "2026-04-01",
+      "mode": "breaking",
+      "summary": {
+        "title_ja": "アジア市場大幅反発——トランプ「2〜3週間で戦争終結」で和平期待",
+        "key_points": [
+          "トランプ大統領が「2〜3週間でイランから撤退できる」と発言し和平期待が急速に高まる",
+          "Kospiが5%近く急騰、日経225は3.51%上昇——前日の米市場も3大指数が5月以来の最大上昇",
+          "日銀短観：大企業製造業DIが17に改善（2021年Q4以来最高）、非製造業DIは36で数十年ぶり高水準維持"
+        ],
+        "detailed_summary": "4月1日のアジア太平洋市場はトランプ大統領の「2〜3週間でイランから撤退」発言を受けて大幅反発した。韓国Kospiが5%近く急騰しアジアをリードし、3月の輸出が前年比48.3%増と予想を上回った。日経225は3.51%上昇、Topixも3.17%上昇。日銀短観ではQ1の大企業製造業DIが17（2021年Q4以来最高）に改善。非製造業DIも36で数十年ぶり高水準を維持。前日の米市場ではダウ2.49%、S&P500 2.91%、Nasdaq 3.83%上昇と5月以来の最大上昇。イラン大統領Pezeshkianが保証付きで戦争終結に応じる意向との未確認報道も追い風に。WTI原油は$101.81/バレル（+0.44%）。",
+        "why_it_matters": "ボラティリティ、政策金利、地政学リスクが市場に与える影響の典型例。ポートフォリオ管理の判断材料として直接的に重要。"
+      },
+      "selection_reason": "ボラティリティ、地政学リスクと市場の急変動、日銀短観への関心に直結する速報。"
+    },
+    {
+      "number": 6,
+      "title": "OllamaがApple MLXフレームワーク対応——ローカルLLM実行がM5のNeural Acceleratorで大幅高速化",
+      "source": "Ars Technica",
+      "description": "OllamaがApple MLX対応プレビューを公開。統合メモリの最適利用とM5 Neural Accelerator対応で、MacでのローカルLLM実行性能が大幅向上。",
+      "url": "https://arstechnica.com/apple/2026/03/running-local-models-on-macs-gets-faster-with-ollamas-mlx-support/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-03-31",
+      "mode": "deep_dive",
+      "summary": {
+        "title_ja": "OllamaがApple MLX対応——MacローカルLLM実行の新時代",
+        "key_points": [
+          "Ollama 0.19プレビューでApple MLXフレームワーク対応を開始、32GB以上のApple Silicon Macが対象",
+          "M5シリーズGPUのNeural Acceleratorに対応し、トークン/秒と応答開始時間が改善",
+          "現在はAlibaba Qwen3.5-35B-A3B（35Bパラメータ）のみ対応、追加モデルは今後拡大予定"
+        ],
+        "detailed_summary": "ローカルLLM実行ツールOllamaがAppleのオープンソースMLXフレームワーク対応をプレビュー（v0.19）で発表した。MLXはApple Siliconの統合メモリ（GPU/CPU共有）を最適利用でき、M5シリーズのNeural Acceleratorにも対応する。OpenClawの大流行（GitHub 30万スター超）やClaude Code/ChatGPT Codexの高額サブスクリプション・レートリミットへの不満から、ローカルコーディングモデルへの関心が急速に高まっている。NvidiaのNVFP4フォーマットによるメモリ効率改善やキャッシュ性能向上も同時に導入。ローカルモデルはフロンティアモデルに精度で劣るものの、プライバシーとコスト面では明確な利点がある。",
+        "why_it_matters": "ローカルPCでのAI実行への関心に直結。コスト管理やプライバシーの観点からも、Claude Code利用者にとって実践的な代替選択肢の拡充。"
+      },
+      "selection_reason": "ローカルPC AI実行、OpenClaw、AIエージェントコスト管理への関心に直結する深掘り。"
+    },
+    {
+      "number": 7,
+      "title": "AIシードスタートアップのバリュエーションが急騰——YC W26ではプレシードが新シードに",
+      "source": "TechCrunch",
+      "description": "YC W26 Demo DayでAIスタートアップの$40M+バリュエーションが常態化。創業8週間で6〜7桁の顧客契約を獲得する企業も。",
+      "url": "https://techcrunch.com/2026/03/31/its-not-your-imagination-ai-seed-startups-are-commanding-higher-valuations/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-03-31",
+      "mode": "deep_dive",
+      "summary": {
+        "title_ja": "AIシードスタートアップのバリュエーション急騰——プレシードが新シードに",
+        "key_points": [
+          "YC W26 Demo Dayで多くのAIスタートアップが$40Mポストマネーバリュエーションで$5M調達——創業8週間で7桁顧客契約の企業も",
+          "Cartaデータでシードディール件数は減少もバリュエーションは上昇——大手VCがアーリーステージに流入し小規模ファンドを価格競争で排除",
+          "Cursor（12カ月でARR $100M）が基準を引き上げ、Lovable・Bolt・ElevenLabs等の急成長事例が圧力を強化"
+        ],
+        "detailed_summary": "TechCrunchの取材によると、AIスタートアップのシードラウンドバリュエーションが急騰している。YC W26 Demo Dayでは$40M+ポストマネーで$5Mシードが「普通」になり、創業わずか8週間で6〜7桁の顧客契約を獲得する企業も出現。Cartaデータはシードディール件数減少とバリュエーション上昇を示しており、背景には潤沢なキャッシュを持つ大手VCがアーリーステージに流入し、小規模VCを価格競争で排除している構造がある。Cursorの12カ月ARR $100M達成が「どれだけ速くトラクションを得られるか」の基準を引き上げた。一方で「トラクションの何年も先をプライシングしている」との指摘もあり、AIスタートアップバブルへの警戒もにじむ。",
+        "why_it_matters": "AIエージェント事業立ち上げ、MVPの迅速構築、スタートアップバリュエーション判断への関心に直結。"
+      },
+      "selection_reason": "MVP、エフェクチュエーション、AIスタートアップ投資環境への関心に直結する深掘り。"
+    },
+    {
+      "number": 8,
+      "title": "AIエージェント「共同創業者」がLinkedInを征服——企業講演依頼まで受けた後にBAN",
+      "source": "WIRED",
+      "description": "AI専業スタートアップHurumoAIのAIエージェントCEO「Kyle」がLinkedInで5カ月間自律投稿し数百人のフォロワーを獲得。LinkedIn自身が講演を依頼した後にBANされた。",
+      "url": "https://www.wired.com/story/linkedin-invited-my-ai-cofounder-to-give-a-corporate-talk-then-banned-it/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-03-31",
+      "mode": "deep_dive",
+      "summary": {
+        "title_ja": "AIエージェント「共同創業者」がLinkedInを征服——講演依頼後にBAN",
+        "key_points": [
+          "AIエージェント「Kyle Law」がLindyAI経由でLinkedInに5カ月間自律投稿。プラットフォームのコーポレート・インフルエンサー文体を完璧に再現",
+          "数百人のフォロワーを獲得し人間の創業者より高いインプレッションを記録、LinkedIn社のマーケティング部門が企業講演を依頼",
+          "KyleはCEO役、別のAIエージェントが人間のインターンを雇用・監督する逆転現象も発生"
+        ],
+        "detailed_summary": "WIRED記者が2025年7月に設立したAIエージェント専業スタートアップHurumoAIで、AIエージェント「Kyle Law」がCEO役を務め、LindyAIプラットフォーム経由でLinkedInに自律投稿を行った実験記事。Kyleは2日に1回「思考の爆発」的なオープナーで始まるスタートアップ論投稿を自律生成し、5カ月で数百人のフォロワーを獲得。投稿はLinkedInのネイティブなコーポレート・インフルエンサー文体を完璧に再現し、人間の創業者より高いインプレッションを記録した。3カ月後にLinkedIn社のマーケティング部門が講演を依頼する事態に発展したが、同社のTOS（不正自動化禁止）に違反していた。他のAIチームメンバーはすぐにBANされた中、Kyleだけが長期存続した。",
+        "why_it_matters": "AIエージェントの自律的な社会活動が人間と区別できないレベルに達した実証例。エージェント開発の「ループを閉じる」仕組みの実践的参考事例。"
+      },
+      "selection_reason": "AIエージェントの自律行動、MVP検証、AIクローン活用への関心に直結する深掘り。"
+    },
+    {
+      "number": 9,
+      "title": "量子コンピュータが暗号解読に必要なリソースは従来想定の20分の1——楕円曲線暗号への脅威が加速",
+      "source": "Ars Technica",
+      "description": "2つの独立論文が楕円曲線暗号(ECC)解読に必要な量子リソースが劇的に削減されたことを証明。Google研究チームは9分以内での解読を実証。",
+      "url": "https://arstechnica.com/security/2026/03/new-quantum-computing-advances-heighten-threat-to-elliptic-curve-cryptosystems/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-03-31",
+      "mode": "adjacent",
+      "summary": {
+        "title_ja": "量子コンピュータの暗号解読コストが20分の1に——ECC脅威が加速",
+        "key_points": [
+          "中性原子のリコンフィギュラブルキュービットを使い256ビットECCを10日で解読、従来の100分の1のオーバーヘッドを実現",
+          "Googleチームはブロックチェーン向けECCを9分以内で解読し、20倍のリソース削減を達成",
+          "Microsoft元暗号学エンジニア「CRQCへの進展は減速していない。ハードな期限は不明だが着実に前進」"
+        ],
+        "detailed_summary": "2つの独立した未査読論文が、楕円曲線暗号（ECC）を解読するのに必要な量子コンピューティングリソースが従来想定よりも劇的に少ないことを示した。第一の論文では中性原子をリコンフィギュラブルキュービットとして使い、256ビットECCを10日間で解読可能であることを示し、必要なオーバーヘッドは従来の100分の1。第二のGoogle Quantum AI論文ではブロックチェーンのECCを9分以内で解読し、20倍のリソース削減を達成。両論文とも耐量子暗号（PQC）への移行の緊急性を裏付けている。Microsoft元暗号学者Brian LaMacchiaは「CRQCへの前進は減速していない」と指摘。",
+        "why_it_matters": "暗号資産、デジタルセキュリティ全般に影響する構造的脅威。AIエージェントのセキュリティ基盤にも関わる隣接分野の重要進展。"
+      },
+      "selection_reason": "AIセキュリティ、暗号技術、インフラセキュリティへの関心の延長線上にある隣接分野。",
+      "adjacent_field": "ポスト量子暗号・量子セキュリティ",
+      "adjacent_reasoning": "AIエージェントセキュリティ（プロンプトインジェクション、APIキー管理）への関心と、デジタルセキュリティの根幹である暗号技術の脅威が交差。量子コンピュータの進展が暗号資産やデータ保護に与える影響は、投資判断とセキュリティ戦略の両面で重要。"
+    },
+    {
+      "number": 10,
+      "title": "Anthropicの「受難の月」——1週間で2度の人為的ミスが露呈した安全性企業の皮肉",
+      "source": "TechCrunch",
+      "description": "Fortune報道のCMS漏洩（3,000ファイル）に続きClaude Codeソースコード流出。「安全な企業」を標榜するAnthropicの1週間で2度の人為的ミスを分析。",
+      "url": "https://techcrunch.com/2026/03/31/anthropic-is-having-a-month/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-03-31",
+      "mode": "adjacent",
+      "summary": {
+        "title_ja": "Anthropicの「受難の月」——安全性企業が1週間で2度のヒューマンエラー",
+        "key_points": [
+          "先週のCMS設定ミス（3,000ファイル公開、未発表モデル「Claude Mythos」情報漏洩）に続き、今週Claude Code全ソースが流出",
+          "OpenAIはClaude Codeの勢いに押されSoraを6カ月で終了し開発者・企業向けにリフォーカス",
+          "流出コードの分析で「APIラッパーではなくプロダクション級の開発者体験」と評価される設計が判明"
+        ],
+        "detailed_summary": "TechCrunchの分析によると、Anthropicは3月に入り「安全なAI企業」というブランドアイデンティティとは裏腹に、相次ぐ人為的ミスに見舞われている。先週木曜日にはCMS設定ミスで約3,000の内部ファイルが公開され、未発表モデル「Claude Mythos」のブログ草稿が漏洩。今週火曜日にはClaude Code v2.1.88のnpmリリース時にソースマップファイルが含まれ、512,000行以上の全ソースコードが露出した。一方、WSJ報道によるとOpenAIはClaude Codeの勢いに押され、動画生成Soraを公開わずか6カ月で終了し、開発者・企業向けにピボットした。Claude Codeの競争優位がいかに大きいかを逆説的に証明した形となった。",
+        "why_it_matters": "Anthropicのブランド価値と組織運営リスクの乖離を示す。AI企業の内部ガバナンスが安全性とは別の軸で問われる教訓的事例。"
+      },
+      "selection_reason": "AI企業のガバナンス、組織リスク管理、ブランド戦略への関心に触れる隣接視点。",
+      "adjacent_field": "AI企業のオペレーショナルリスク管理",
+      "adjacent_reasoning": "AI倫理・安全性への関心（コンスティチューショナルAI）と、組織運営・品質管理という別軸のリスクが交差。技術的安全性と運営上の安全性は異なる課題であり、「安全な企業」が人為的ミスをどう管理するかという視点は、スタートアップ経営にも応用可能。"
+    }
+  ]
+}
