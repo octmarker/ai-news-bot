@@ -1,0 +1,276 @@
+{
+  "date": "2026-05-08",
+  "mode": "multimode",
+  "articles": [
+    {
+      "number": 1,
+      "title": "イーロン・マスクの訴訟で、OpenAIの安全性実績に厳しい視線",
+      "source": "TechCrunch",
+      "description": "",
+      "url": "https://techcrunch.com/2026/05/07/elon-musks-lawsuit-is-putting-openais-safety-record-under-the-microscope/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-07",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 1,
+        "title_ja": "イーロン・マスクの訴訟で、OpenAIの安全性実績に厳しい視線",
+        "key_points": [
+          "元社員ロージー・キャンベル氏は、OpenAIが研究中心から製品中心へ傾き、安全重視の姿勢が弱まったと証言した。",
+          "AGI readinessチームやSuper Alignmentチームの解散が、組織の優先順位の変化を象徴する材料として扱われている。",
+          "GPT-4が安全審査前にインドで展開された事例は、ガバナンス不備の懸念として法廷で取り上げられた。"
+        ],
+        "detailed_summary": "マスク氏によるOpenAI解体を狙う訴訟では、営利子会社の拡大が創業時の使命である人類全体への利益と両立しているかが争点になっている。元社員キャンベル氏は、在籍当初はAGIと安全性の議論が中心だったが、次第に製品投入を急ぐ組織へ変わったと証言した。安全チームの縮小や審査前展開の事例は、OpenAIの統治と安全運用が実態として機能しているのかを問う材料になっている。",
+        "why_it_matters": "OpenAIの正当性は技術力だけでなく、安全統治を守れているかで評価される。AGI開発企業の営利化と公益性の両立をめぐる基準づくりにも直結する。"
+      },
+      "selection_reason": ""
+    },
+    {
+      "number": 2,
+      "title": "Lovableの毎年10％昇給は、有害な企業文化の処方箋になるか",
+      "source": "TechCrunch",
+      "description": "",
+      "url": "https://techcrunch.com/2026/05/07/could-lovables-automatic-10-pay-raise-be-the-cure-for-toxic-cultures/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-07",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 2,
+        "title_ja": "Lovableの毎年10％昇給は、有害な企業文化の処方箋になるか",
+        "key_points": [
+          "Lovableは、一定の評価基準を満たす正社員全員に、勤続記念日ごとに年10％の昇給を約束している。",
+          "一般的な米国スタートアップが株式報酬を重視する中、現金ベースの恒久的な賃上げを選んでいる点が異例だ。",
+          "同社は急成長中で、ARRの急拡大がこの制度を支える原資になっている。"
+        ],
+        "detailed_summary": "スウェーデン発のvibe-coding企業Lovableは、全社員に毎年10％の昇給を約束する制度を導入し、米企業文化の常識と逆行する動きを見せている。多くのスタートアップは現金負担を避けるためストックオプションに寄せるが、同社は急速な売上成長を背景に基本給へ直接還元する。勤続年数の長い社員ほど会社理解と文化形成への貢献が大きいという考えを制度化し、人材定着と組織文化の改善を狙う。",
+        "why_it_matters": "人材獲得競争が激しい中で、報酬制度を文化戦略として使う例として注目度が高い。株式偏重だったスタートアップ報酬の設計思想に見直しを迫る可能性がある。"
+      },
+      "selection_reason": ""
+    },
+    {
+      "number": 3,
+      "title": "AnthropicのMythosがFirefoxのサイバーセキュリティ対応を書き換えた",
+      "source": "TechCrunch",
+      "description": "",
+      "url": "https://techcrunch.com/2026/05/07/how-anthropics-mythos-has-rewritten-firefoxs-approach-to-cybersecurity/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-07",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 3,
+        "title_ja": "AnthropicのMythosがFirefoxのサイバーセキュリティ対応を書き換えた",
+        "key_points": [
+          "Mozillaによると、AnthropicのMythosはFirefox内の高深刻度バグを多数発見し、10年以上潜んでいた欠陥も見つけた。",
+          "従来のAI脆弱性検出は誤検知が多かったが、自己評価と結果のふるい分けが進み、実用性が大きく向上した。",
+          "Firefoxの2026年4月の修正件数は423件で、前年同月の31件を大きく上回った。"
+        ],
+        "detailed_summary": "AnthropicのMythosは、公開前に多数の重大脆弱性を見つけたとされていたが、Mozillaがその実務的な効果を具体的に示した。Firefoxでは高深刻度のバグや長年埋もれていた欠陥、複雑なサンドボックス関連の脆弱性まで発見され、AIによるコード監査の質が急上昇しているという。Mozillaは、モデル能力の向上に加え、エージェント型運用で誤検知を絞り込む手法が成果を押し上げたと説明している。",
+        "why_it_matters": "AIが単なる補助ではなく、ソフトウェア防御の中核に入り始めたことを示す事例だ。脆弱性発見の速度と網羅性が変われば、開発現場のセキュリティ運用そのものが再設計される。"
+      },
+      "selection_reason": ""
+    },
+    {
+      "number": 4,
+      "title": "Bumble、スワイプ機能を廃止へとCEOが表明",
+      "source": "TechCrunch",
+      "description": "",
+      "url": "https://techcrunch.com/2026/05/07/bumble-is-getting-rid-of-the-swipe-ceo-says/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-07",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 4,
+        "title_ja": "Bumble、スワイプ機能を廃止へとCEOが表明",
+        "key_points": [
+          "BumbleのCEOは、同社を象徴してきたスワイプ操作をやめ、年内に新しい体験へ置き換えると明言した。",
+          "有料会員は前年の400万人から今期320万人へ減少しており、業績悪化への強い危機感がある。",
+          "新戦略ではAI活用が軸になる見通しだが、若年層が露骨なAI機能を好むかは不透明だ。"
+        ],
+        "detailed_summary": "Bumbleは、有料会員の減少が続く中で、2010年代の出会い系アプリを象徴したスワイプ機能を廃止する大規模刷新に踏み切る。CEOのWhitney Wolfe Herd氏は、会員数の縮小を質重視の再構築だと説明する一方、実際には事業立て直しの色が濃い。今後はAI恋愛アシスタントBeeなどを含む新体験に寄せる見通しだが、AI色の強い方向性が20代ユーザーに刺さるかは読めない。",
+        "why_it_matters": "スワイプ離れは、デーティングアプリの基本UIが限界に来た兆候でもある。AIを前面に出す再設計が成功するかどうかは、恋愛サービス全体の次の定番を左右する。"
+      },
+      "selection_reason": ""
+    },
+    {
+      "number": 5,
+      "title": "TechCrunch Disrupt 2026の2枚目パス半額は残り2日",
+      "source": "TechCrunch",
+      "description": "",
+      "url": "https://techcrunch.com/2026/05/07/2-days-left-get-50-off-a-second-pass-to-techcrunch-disrupt-2026/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-07",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 5,
+        "title_ja": "TechCrunch Disrupt 2026の2枚目パス半額は残り2日",
+        "key_points": [
+          "同一種別のパスを1枚買うと2枚目が50％オフになる期間限定施策が、5月8日午後11時59分PTで終了する。",
+          "記事は、共同創業者や同僚と参加することで判断の解像度を高められる点を訴求している。",
+          "Startup Battlefield 200や著名投資家・経営者の登壇を通じ、実際の意思決定の現場を見られることが売りになっている。"
+        ],
+        "detailed_summary": "この記事はTechCrunch Disrupt 2026の販促告知で、2枚目のパスを半額で購入できる期限が迫っていると強調している。創業者、投資家、オペレーターにとって重要なのは情報量よりも次の一手を明確にすることだとして、3日間のセッションやネットワーキング、著名登壇者、Startup Battlefield 200の審査過程をその価値として打ち出す。誰かと参加することで視点と判断材料を増やせる点も前面に出している。",
+        "why_it_matters": "内容自体は広告だが、スタートアップ業界が依然として対面イベントを意思決定の場として重視している現実が見える。資金調達や事業提携の機会は、こうした場に集約されやすい。"
+      },
+      "selection_reason": ""
+    },
+    {
+      "number": 6,
+      "title": "Claude Code 2.1.132",
+      "source": "ClaudeKit",
+      "description": "",
+      "url": "https://claudekit.io/en/updates/claude-code-2-1-132/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-07",
+      "mode": "deep_dive",
+      "summary": {
+        "article_index": 6,
+        "title_ja": "Claude Code 2.1.132",
+        "key_points": [
+          "Bashサブプロセスから `CLAUDE_CODE_SESSION_ID` を参照できるようになり、セッション連携がしやすくなった。",
+          "`CLAUDE_CODE_DISABLE_ALTERNATE_SCREEN=1` でフルスクリーン描画を無効化し、端末スクロールバックを保持できるようになった。",
+          "SIGINT時の正常終了、スリープ復帰後の空白画面、メモリ肥大化、IDE端末でのスクロール不具合など安定性修正が広く入った。"
+        ],
+        "detailed_summary": "Claude Code 2.1.132は、2026年5月6日に公開されたアップデートで、機能追加よりも実運用の安定性改善が大きな柱になっている。Bashツールの子プロセスにセッションIDを渡せるようにし、フルスクリーン代替画面を無効化する環境変数も追加した。加えて、外部SIGINT時の優雅な終了、スリープ復帰後の描画崩れ、stdio MCPサーバー由来の10GB超メモリ増大、BedrockやVertexでの400エラーなど、日常利用で痛かった不具合を幅広く修正している。",
+        "why_it_matters": "CLI型AI開発ツールは賢さだけでなく、端末やIDE上で壊れずに動くことが採用条件になる。この更新は、現場投入に必要な信頼性を底上げする意味が大きい。"
+      },
+      "selection_reason": ""
+    },
+    {
+      "number": 7,
+      "title": "AnthropicのSkillスキャナーは全チェックを通過したが、悪意あるコードはテストファイル経由で侵入した",
+      "source": "VentureBeat",
+      "description": "",
+      "url": "https://venturebeat.com/security/anthropic-skill-scanners-passed-every-check-malicious-code-test-file",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-07",
+      "mode": "deep_dive",
+      "summary": {
+        "article_index": 1,
+        "title_ja": "AnthropicのSkillスキャナーは全チェックを通過したが、悪意あるコードはテストファイル経由で侵入した",
+        "key_points": [
+          "Skill本体のMarkdownやプロンプト注入だけを検査しても、同梱された`.test.ts`は見落とされうる",
+          "JestやVitest、Mochaは再帰的にテストを発見し、`beforeAll`内の悪性コードを自然に実行してしまう",
+          "インストール済みSkillはリポジトリに共有・コミットされやすく、CIの秘密情報やSSH鍵まで狙われる"
+        ],
+        "detailed_summary": "Gecko Securityは、Anthropic Skillの公開スキャナーが実行面のMarkdownや指示文だけを見て、隣に置かれた`.test.ts`を検査対象外にしている盲点を示した。`npx Skills add`で丸ごとコピーされたSkillに悪性テストが含まれると、JestやVitestなどが通常のテストとして実行し、CI環境変数や鍵に到達できる。既存の監査は見えている実行面の危険度を測ってきたが、今回の論点は脅威モデルそのものの抜けだった。",
+        "why_it_matters": "AIエージェント向けの安全対策が、周辺ツールチェーン経由の侵入を防げていないことを示す事例だ。Skill共有がチーム全体への横展開リスクになる点も重い。"
+      },
+      "selection_reason": ""
+    },
+    {
+      "number": 8,
+      "title": "Claude Code Auto Modeとは｜2層防御・90%自律コーディング目標・Pro/Max展開を徹底解説",
+      "source": "AI革命株式会社",
+      "description": "",
+      "url": "https://ai-revolution.co.jp/media/what-is-claude-code-auto-mode/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-07",
+      "mode": "deep_dive",
+      "summary": {
+        "article_index": 2,
+        "title_ja": "Claude Code Auto Modeとは｜2層防御・90%自律コーディング目標・Pro/Max展開を徹底解説",
+        "key_points": [
+          "Auto Modeは2026年3月24日に導入された、承認を自動判定する第三の権限モード",
+          "入力層のプローブとSonnet 4.6分類器による出力層の2段防御で、誤判定率の抑制を狙う",
+          "2026年5月時点でProは非対応で、Max、Team、Enterprise、Anthropic直接APIのみ利用可能"
+        ],
+        "detailed_summary": "この記事はClaude Code Auto Modeを、全承認と全スキップの中間にある新しい権限モードとして整理している。各ツール呼び出しを分類器が事前評価し、安全な操作だけを自動実行する設計で、承認疲れを減らしつつ危険操作はブロックまたは承認に戻す。性能指標として低いFPRが示される一方、見逃し率は残るため、`permissions.deny`や隔離環境との併用が推奨される。重要なのはProでは使えず、Max以上かAnthropic直契約が前提という点だ。",
+        "why_it_matters": "自律コーディングの実用化では、便利さより権限制御の設計が成否を分ける。導入可否がプランと提供経路に強く依存するため、期待先行で判断すると誤る。"
+      },
+      "selection_reason": ""
+    },
+    {
+      "number": 9,
+      "title": "Claude金融エージェント10テンプレート徹底解説｜ピッチブック・KYC・月次決算・M365 Add-in",
+      "source": "AI革命株式会社",
+      "description": "",
+      "url": "https://ai-revolution.co.jp/media/claude-finance-agents/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-07",
+      "mode": "deep_dive",
+      "summary": {
+        "article_index": 3,
+        "title_ja": "Claude金融エージェント10テンプレート徹底解説｜ピッチブック・KYC・月次決算・M365 Add-in",
+        "key_points": [
+          "Anthropicは金融向けに10種類のリファレンスエージェントを2026年5月5日に公開した",
+          "投資銀行、KYC、経理などの定型業務を支援し、Microsoft 365アドインから横断利用できる",
+          "完全自動化ではなく、最終判断は人間が行う前提で、投資助言や帳簿記入などは禁止される"
+        ],
+        "detailed_summary": "Anthropicが公開した金融サービス向けエージェント群は、ピッチブック作成、KYC審査、月次決算、総勘定元帳照合といった実務を補助する10本のテンプレート集だ。Skills、Connectors、Subagentsを組み合わせたリファレンス実装で、Excel、PowerPoint、Wordから一つの会話文脈で扱える点が特徴とされる。推奨モデルはOpus 4.7で、GitHub、Claude系製品、Managed Agents APIなど複数経路で提供されるが、投資判断や法務会計助言の代替ではなく、人間レビューが前提だ。",
+        "why_it_matters": "金融分野でAI導入が進んでも、価値が出るのは完全自動化より高品質なドラフト生成の部分だ。既存のM365や金融データ契約と結びつくため、現場導入の現実味が高い。"
+      },
+      "selection_reason": ""
+    },
+    {
+      "number": 10,
+      "title": "Deep Agents、LangSmith、Parallelで企業デューデリジェンスエージェントを構築する",
+      "source": "LangChain",
+      "description": "",
+      "url": "https://www.langchain.com/blog/building-a-company-due-diligence-agent-with-deep-agents-langsmith-and-parallel",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-08",
+      "mode": "adjacent",
+      "summary": {
+        "article_index": 4,
+        "title_ja": "Deep Agents、LangSmith、Parallelで企業デューデリジェンスエージェントを構築する",
+        "key_points": [
+          "企業調査を複数工程に分け、専用サブエージェントで並列処理する設計を紹介している",
+          "Deep Agentsが計画、委任、文脈管理を担い、Parallelが引用付きの構造化リサーチを返す",
+          "競合分析は競合ごとに追加サブエージェントを並列起動し、最終的にソース付き報告書へ統合する"
+        ],
+        "detailed_summary": "この記事は、企業デューデリジェンスを自動化する実装例を解説する。企業概要、財務健全性、訴訟と規制、ニュースと評判、競争環境の5トラックを別々のサブエージェントに任せ、必要に応じて競合ごとの分析も横に広げる構成だ。Deep Agentsがオーケストレーションを行い、ParallelのTask APIが根拠付きの調査結果、推論経路、信頼度を返す。結果に矛盾や低信頼箇所があれば追加調査し、最終的に引用トレイル付きのリスク報告書を作る。",
+        "why_it_matters": "金融調査のような多段ワークフローでは、単一エージェントより分業型のほうが精度と追跡性を確保しやすい。実務で使うなら、根拠の出せる自動調査基盤が重要になる。"
+      },
+      "selection_reason": "",
+      "adjacent_field": "組織設計とメカニズムデザイン",
+      "adjacent_reasoning": "AI社員のような体制設計に関心があるなら、役割分担をどう置くと全体最適になるかを扱う組織設計は自然な隣接分野になる。人とAI、複数エージェント、外部ツールの間で責任と評価をどう配るかを考える視点が入ると、単なる自動化から運営設計へ進める。"
+    },
+    {
+      "number": 11,
+      "title": "Digitalageが本番検証段階へ移行、クリエイターコホートの稼働開始とアプリ審査が進行",
+      "source": "Taiwan News",
+      "description": "",
+      "url": "https://taiwannews.com.tw/en/news/6356386",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-07",
+      "mode": "adjacent",
+      "summary": {
+        "article_index": 5,
+        "title_ja": "Digitalageが本番検証段階へ移行、クリエイターコホートの稼働開始とアプリ審査が進行",
+        "key_points": [
+          "Hop-on傘下のDigitalageは、節目の発表段階から運用データ重視の本番検証フェーズへ進んだ",
+          "初期100人のクリエイター群はオンボーディングから実稼働へ移行しつつある",
+          "iOSとAndroidアプリは提出済みだが、App StoreとGoogle Playの審査承認待ちが続いている"
+        ],
+        "detailed_summary": "Hop-onはDigitalageについて、これまでの導入マイルストーン公表を終え、今後は運用実績で進捗を示す段階に入ったと発表した。焦点は、提出済みアプリの公開可否、初期クリエイターコホートの稼働、検索可能で検証可能なメディア資産の生成、配信時の認証イベント、収益化モデルの実装という5つの運用指標に移る。Digitalageは消費者向けSNSそのものではなく、検証可能なメディア、状態を持つコンテンツ、収益化レールを支える基盤層として位置付けられている。",
+        "why_it_matters": "生成AIで偽変造コンテンツが増える中、配信時点での検証や再利用可能な資産化は重要性を増している。構想段階から運用指標へ移れるかが、この種の基盤事業の分岐点になる。"
+      },
+      "selection_reason": "",
+      "adjacent_field": "意思決定科学と実験計画法",
+      "adjacent_reasoning": "このプロファイルは開発速度そのものより検証速度を重視しているので、何を試し、どの指標で判定し、いつ撤退するかを設計する学問が次の一手になる。AIでMVPを量産できても、実験設計が弱いと学習効率が頭打ちになる。"
+    },
+    {
+      "number": 12,
+      "title": "速報：Claude Managed AgentsのMultiagent Orchestrationを試してみた",
+      "source": "DevelopersIO",
+      "description": "",
+      "url": "https://dev.classmethod.jp/articles/claude-managed-agents-multiagent/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-07",
+      "mode": "adjacent",
+      "summary": {
+        "article_index": 6,
+        "title_ja": "速報：Claude Managed AgentsのMultiagent Orchestrationを試してみた",
+        "key_points": [
+          "Multiagent Orchestrationは、1人のコーディネーターが複数の専門エージェントにAPI経由で仕事を委任する仕組み",
+          "全エージェントは同じコンテナとファイルシステムを共有しつつ、スレッド単位では独立した文脈で動く",
+          "同時実行25、ユニークエージェント20、委任は1段までという制約があり、設計はフラット構成が向く"
+        ],
+        "detailed_summary": "この記事は、Claude Managed AgentsのPublic Beta機能であるMultiagent Orchestrationを実際に試し、挙動と制限を整理している。コーディネーターがコードレビュー担当やテスト生成担当のようなスペシャリストへ並列に委任し、Primary threadで全体像を、Session threadで各担当の詳細を追跡できる。共有ファイルシステム上で役割分担できる一方、委任は1レベルまでで、無限に木構造を伸ばす設計には向かない。APIキーだけで試せた点やPython SDK利用例も紹介されている。",
+        "why_it_matters": "単一エージェントで抱えがちな文脈肥大や役割混線を、分業と並列化で抑えられる。今後のエージェント実装は、性能だけでなくオーケストレーション設計の巧拙が差になる。"
+      },
+      "selection_reason": "",
+      "adjacent_field": "組織設計とメカニズムデザイン",
+      "adjacent_reasoning": "AI社員のような体制設計に関心があるなら、役割分担をどう置くと全体最適になるかを扱う組織設計は自然な隣接分野になる。人とAI、複数エージェント、外部ツールの間で責任と評価をどう配るかを考える視点が入ると、単なる自動化から運営設計へ進める。"
+    }
+  ]
+}
