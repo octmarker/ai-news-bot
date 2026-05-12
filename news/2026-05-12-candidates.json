@@ -1,0 +1,311 @@
+{
+  "date": "2026-05-12",
+  "mode": "multimode",
+  "articles": [
+    {
+      "number": 1,
+      "title": "イリヤ・サツケバー、サム・アルトマン解任への関与を正当化　OpenAIを壊したくなかった",
+      "source": "WIRED",
+      "description": "",
+      "url": "https://www.wired.com/story/ilya-sutskever-testifies-musk-v-altman-trial/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-12",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 1,
+        "title_ja": "イリヤ・サツケバー、サム・アルトマン解任への関与を正当化　OpenAIを壊したくなかった",
+        "key_points": [
+          "イリヤ・サツケバーは法廷で、2023年のサム・アルトマン解任劇への関与について、OpenAIを守るためだったと証言した。",
+          "同氏はOpenAIの営利部門で約70億ドル相当の持ち分を持つことが明らかになり、主要株主の一人であることが判明した。",
+          "一方で、OpenAIが巨額資金を必要として営利化に進んだ判断には合理性があったとも述べ、マスク側主張の一部は補強しつつ一部は否定した。"
+        ],
+        "detailed_summary": "イーロン・マスクがOpenAIとMicrosoftを訴える裁判で、元主任科学者イリヤ・サツケバーが証言し、自身が2023年のサム・アルトマン解任に関与したのはOpenAIを守るためだったと説明した。法廷では、同氏がOpenAI営利部門で約70億ドル相当の株式を持つことも判明。安全性研究を担ったスーパーアライメントチームの重要性を強調する一方、巨大計算資源の確保には営利化が必要だったとも認め、訴訟の争点に複雑な含意を与えた。",
+        "why_it_matters": "OpenAIの統治危機と営利化の経緯を、内部中枢にいた人物が公に語った点が大きい。AI安全性、経営権、資本構造がどう衝突してきたかを示す重要証言になっている。",
+        "headline": "OpenAI統治の核心証言で、主要AI企業の力学変化を一気に追える"
+      },
+      "selection_reason": "OpenAI統治の核心証言で、主要AI企業の力学変化を一気に追える"
+    },
+    {
+      "number": 2,
+      "title": "宇宙データセンター向けロケットが足りない　Cowboy Spaceが建設へ2億7500万ドル調達",
+      "source": "TechCrunch",
+      "description": "",
+      "url": "https://techcrunch.com/2026/05/11/there-arent-enough-rockets-for-space-data-centers-cowboy-space-raised-275-million-to-build-them/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-11",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 2,
+        "title_ja": "宇宙データセンター向けロケットが足りない　Cowboy Spaceが建設へ2億7500万ドル調達",
+        "key_points": [
+          "AI向け計算需要の拡大を受け、宇宙データセンター構想が注目される一方、打ち上げ能力の不足が最大の障害になっている。",
+          "Cowboy Spaceは2億7500万ドルのシリーズBを調達し、自前のロケット開発に乗り出す方針を示した。",
+          "SpaceXやBlue Originへの依存では商用化時期や価格競争力が不透明で、打ち上げ能力の内製化が差別化手段になると判断した。"
+        ],
+        "detailed_summary": "宇宙空間でAI計算を行うデータセンター構想が広がるなか、最大のボトルネックは衛星ではなくロケットだとTechCrunchは報じた。Robinhood共同創業者バイジュ・バットのCowboy Spaceは、十分な打ち上げ枠を外部から確保できないとして、自社ロケット開発に進路変更。シリーズBで2億7500万ドルを調達し、2028年末までの初打ち上げを目指す。宇宙発電から宇宙計算へ、さらに輸送まで抱え込む大胆な垂直統合が試される。",
+        "why_it_matters": "AIインフラ競争が地上の電力や半導体だけでなく、宇宙輸送能力にまで広がり始めた。成功すれば新市場を開くが、失敗すれば資本集約型事業の典型例にもなり得る。",
+        "headline": "AI計算資源の次戦場が宇宙まで広がり、供給制約の重さが見える"
+      },
+      "selection_reason": "AI計算資源の次戦場が宇宙まで広がり、供給制約の重さが見える"
+    },
+    {
+      "number": 3,
+      "title": "Alphabet株が急騰　AI期待で時価総額が一時Nvidia超え",
+      "source": "CNBC",
+      "description": "",
+      "url": "https://www.cnbc.com/2026/05/10/alphabet-160percent-rally-in-year-reflects-value-of-owning-most-of-ai-stack.html",
+      "category": "経済・金融",
+      "published_at": "2026-05-10",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 3,
+        "title_ja": "Alphabet株が急騰　AI期待で時価総額が一時Nvidia超え",
+        "key_points": [
+          "Alphabet株は過去1年で約160％上昇し、時間外取引では一時Nvidiaを時価総額で上回った。",
+          "投資家はGemini、DeepMind、Google Cloud、TPU、検索やYouTubeへのAI実装など、GoogleのAI全方位の強みを評価している。",
+          "ただし、急増したクラウド受注残の大部分がAnthropic依存ではないかという懸念もあり、持続性には疑問が残る。"
+        ],
+        "detailed_summary": "AlphabetはAI競争で出遅れを懸念された時期から一転し、株価がこの1年で約160％上昇した。市場では、モデル、半導体、インフラ、配信面まで自前で持つ統合力が再評価され、Google Cloudの受注残拡大も追い風となっている。時間外では一時Nvidiaを時価総額で逆転した。ただ、クラウド成長の一部がAnthropicの大型契約に偏っている可能性が指摘され、見かけ以上に顧客集中リスクを抱えるとの慎重論も出ている。",
+        "why_it_matters": "AI時代の勝者が半導体企業だけとは限らず、フルスタックで収益化できる企業が再評価されていることを示す。もっとも、その成長が特定顧客頼みなら評価の前提は崩れやすい。",
+        "headline": "除外。2026-05-10公開のため、条件7により選定対象外"
+      },
+      "selection_reason": "除外。2026-05-10公開のため、条件7により選定対象外"
+    },
+    {
+      "number": 4,
+      "title": "Diggが再始動　今度はAIニュース集約サービスとして再挑戦",
+      "source": "TechCrunch",
+      "description": "",
+      "url": "https://techcrunch.com/2026/05/11/digg-tries-again-this-time-as-an-ai-news-aggregator/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-11",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 4,
+        "title_ja": "Diggが再始動　今度はAIニュース集約サービスとして再挑戦",
+        "key_points": [
+          "Reddit対抗を狙った再建版Diggはボット流入や差別化不足で失速し、わずか数カ月で方向転換した。",
+          "新しいDiggはAI分野に絞ったニュースランキングサービスとなり、X上の議論や反応をリアルタイム解析して注目度を可視化する。",
+          "トップ人物や企業、政治家の影響力も追跡できるが、一般ユーザーが日常的に使う必然性はまだ不透明だ。"
+        ],
+        "detailed_summary": "Kevin Rose率いるDiggが再び再起を図っている。Reddit風コミュニティとして再設計した前回版は、ボット対策の難しさと独自性不足から頓挫。新バージョンでは原点回帰し、まずはAIニュースの集約と順位付けに集中する。X上の投稿を取り込み、感情分析やクラスタリング、シグナル検出で話題の重要度を算出する仕組みだ。データ好きには魅力がある一方、コメント機能も薄く、既存のニュースアプリやXを置き換えるほどかはまだ見えていない。",
+        "why_it_matters": "ニュース消費が単なる記事閲覧から、誰が反応しどう拡散したかを見る時代に移っている。Diggの挑戦は、AI時代のニュース発見体験そのものを再定義できるかを試している。",
+        "headline": "AI要約と配信の再編が見え、情報取得体験の変化を先に掴める"
+      },
+      "selection_reason": "AI要約と配信の再編が見え、情報取得体験の変化を先に掴める"
+    },
+    {
+      "number": 5,
+      "title": "トランプ・習首脳会談",
+      "source": "CNBC",
+      "description": "",
+      "url": "https://www.cnbc.com/2026/05/11/trump-xi-summit-beijing-global-leaders-iran-war-taiwan-strait-of-hormuz-.html",
+      "category": "経済・金融",
+      "published_at": "2026-05-11",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 5,
+        "title_ja": "トランプ・習首脳会談",
+        "key_points": [
+          "北京で予定されるトランプ米大統領と習近平国家主席の会談では、貿易、技術、レアアース、台湾、イラン、AIまで幅広い議題が扱われる見通しだ。",
+          "中国のレアアース輸出停止や半導体規制、米国のAI技術流出非難と対イラン制裁が圧力を強め、会談前から緊張が高まっている。",
+          "会談が対立を深めれば、世界の供給網、貿易、成長、ルールベース秩序にまで大きな悪影響が及ぶと専門家は警告する。"
+        ],
+        "detailed_summary": "北京で開かれるトランプ大統領と習近平主席の首脳会談は、米中関係の今後を左右する重要局面になる。議題は貿易や先端技術だけでなく、レアアース輸出規制、台湾、イラン情勢、AIまで広範囲に及ぶ。中国の輸出停止措置は自動車など世界の供給網を揺らし、米国も中国によるAI技術窃取を強く批判している。交渉が部分的な妥協に向かうか、対立がさらに激化するかで、世界経済と地政学の安定性は大きく変わる。",
+        "why_it_matters": "米中が同時に経済と安全保障の中枢を握っている以上、首脳会談の結果は二国間にとどまらない。サプライチェーン、資源、AI覇権、地域安全保障が一度に動く可能性がある。",
+        "headline": "米中首脳会談はAI供給網と地政学リスクの両面で影響が大きい"
+      },
+      "selection_reason": "米中首脳会談はAI供給網と地政学リスクの両面で影響が大きい"
+    },
+    {
+      "number": 6,
+      "title": "トランプの停戦警告を受け流し、アジア市場は上昇",
+      "source": "CNBC",
+      "description": "",
+      "url": "https://www.cnbc.com/2026/05/12/asia-markets-today-live-updates-kospi-hang-seng-index-nikkei-225-sensex-csi-300.html",
+      "category": "経済・金融",
+      "published_at": "2026-05-12",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 6,
+        "title_ja": "トランプの停戦警告を受け流し、アジア市場は上昇",
+        "key_points": [
+          "トランプ大統領が米イラン停戦を瀕死状態と表現したにもかかわらず、アジア太平洋市場は総じて上昇して始まった。",
+          "韓国株は前日の高値更新に続いて大きく上昇し、日本株も堅調で、投資家は地政学リスクより企業業績や経済実態を重視している。",
+          "市場では、押し目買いに慣れた投資家行動やレバレッジETF、オプション、ヘッジ戦略の構造的需要が相場を支えている。"
+        ],
+        "detailed_summary": "トランプ大統領が米イラン停戦の先行きに強い疑念を示したものの、12日のアジア市場は日本、韓国、香港先物を中心に底堅く始まった。原油高やインフレ懸念が残るなかでも、投資家は地政学リスクが企業業績や景気を実際に傷つけるまでは大きく反応しない姿勢を強めている。米国でもS&P500とナスダックが最高値を更新。市場では、個人資金の流入やデリバティブ絡みの買い需要が上昇基調を後押ししているとの見方が出ている。",
+        "why_it_matters": "市場が悪材料に鈍感になっているのは、強気相場の持続を示す半面、リスクの織り込み不足も意味する。地政学ショックが実体経済に波及した瞬間、反応は逆に急激になりやすい。",
+        "headline": "地政学ショック下でも市場がどう織り込むかを即日で確認できる"
+      },
+      "selection_reason": "地政学ショック下でも市場がどう織り込むかを即日で確認できる"
+    },
+    {
+      "number": 7,
+      "title": "ノーベル賞経済学者が注目するAIの3つの論点",
+      "source": "MIT Technology Review",
+      "description": "",
+      "url": "https://www.technologyreview.com/2026/05/11/1137090/three-things-in-ai-to-watch-according-to-a-nobel-winning-economist/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-12",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 1,
+        "title_ja": "ノーベル賞経済学者が注目するAIの3つの論点",
+        "key_points": [
+          "ダロン・アセモグルは、AIがすぐに大規模な雇用破壊を起こすという見方に依然として懐疑的だ。",
+          "最新のAIエージェントも、人間の仕事全体を置き換えるより、個別業務を補助する道具として見るべきだと指摘する。",
+          "本当の焦点は、複数の作業をまたいで自然に段取りする人間の能力をAIが再現できるかにある。"
+        ],
+        "detailed_summary": "2024年にノーベル賞を受けた経済学者ダロン・アセモグルは、AIが米国の生産性を劇的に押し上げ、ホワイトカラー職を広く不要にするという見方に慎重だ。雇用や解雇への影響を示す実証データはなお限定的で、最近注目されるAIエージェントについても、仕事全体の代替ではなく一部業務の補完にとどまる可能性が高いとみる。鍵になるのは、人間が自然にこなすタスク間の調整や切り替えをAIがどこまで担えるかであり、企業の売り文句と現場の実装力の差が問われている。",
+        "why_it_matters": "AIの雇用影響を巡る議論が過熱する中で、誇張ではなく実証と職務構造に基づいて考える視点を与える。投資判断や労働政策を決めるうえでも、何が自動化され何が残るのかを見極める材料になる。",
+        "headline": "AI導入の経済的な見方が強く、投資対効果重視の関心と噛み合う"
+      },
+      "selection_reason": "AI導入の経済的な見方が強く、投資対効果重視の関心と噛み合う"
+    },
+    {
+      "number": 8,
+      "title": "ハリウッドで働く私が見た、テレビ制作者たちの密かなAI訓練労働",
+      "source": "WIRED",
+      "description": "",
+      "url": "https://www.wired.com/story/i-work-in-hollywood-everyone-who-used-to-make-tv-now-training-ai/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-12",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 2,
+        "title_ja": "ハリウッドで働く私が見た、テレビ制作者たちの密かなAI訓練労働",
+        "key_points": [
+          "脚本家やショーランナーなど、ハリウッドの制作者が生活費を得るためにAI訓練の仕事へ流れている。",
+          "業務内容はチャットボット評価から危険出力のレッドチームまで幅広く、精神的にも負荷が高い。",
+          "2023年のスト後も映像業界の仕事は回復せず、AIに仕事を奪われる側がAIを育てる皮肉な構図が生まれている。"
+        ],
+        "detailed_summary": "筆者はテレビ業界で働く脚本家兼ショーランナーである一方、2025年からAIトレーナーとしても生計を立てている。ハリウッドでは2023年のストライキ後も仕事の回復が鈍く、未払いなどで生活が不安定になった制作者たちが、MercorやOutlierなどのAI訓練業務へ流入しているという。実際の仕事は、文章や画像の評価、危険出力の検証、動画注釈など細かく過酷で、採用前の無償テストも多い。クリエイターが自分たちの代替候補になるAIを訓練している現実を、当事者の視点から描いた記事だ。",
+        "why_it_matters": "AIが雇用を変えると言うとき、抽象論ではなく実際に誰がどんな条件で移行しているかを示している。クリエイティブ産業の収益悪化とAI労働市場の脆さが同時に見える点が重要だ。",
+        "headline": "AI運用の裏側にある人手依存が見え、役割設計の現実感が増す"
+      },
+      "selection_reason": "AI運用の裏側にある人手依存が見え、役割設計の現実感が増す"
+    },
+    {
+      "number": 9,
+      "title": "BravoがPeacock向けにノンスクリプトのマイクロドラマを制作へ",
+      "source": "TechCrunch",
+      "description": "",
+      "url": "https://techcrunch.com/2026/05/11/bravo-is-creating-unscripted-microdramas-for-the-peacock-app/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-11",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 3,
+        "title_ja": "BravoがPeacock向けにノンスクリプトのマイクロドラマを制作へ",
+        "key_points": [
+          "Peacockは、60〜90秒の縦型動画から成るBravo発のマイクロドラマ2作品を配信すると発表した。",
+          "米大手配信サービスが自前でマイクロドラマを制作するのは初めてとされる。",
+          "ReelShortやDramaBoxの急成長を受け、短尺ドラマ市場が本流メディアに取り込まれ始めた。"
+        ],
+        "detailed_summary": "Peacockは、Bravoブランドを使ったノンスクリプトのマイクロドラマ2本をアプリ上で展開する。1話60〜90秒の縦型シリーズで、TikTok的な視聴習慣に合わせた設計だ。背景には、ReelShortが2025年に約12億ドル、DramaBoxも2.76億ドルの消費支出を記録するなど、マイクロドラマ市場の急拡大がある。従来の作品群は低品質でも中毒性と課金力で伸びてきたが、Peacockは既存のBravoファンを抱える強みを生かし、短尺動画を視聴導線に組み込もうとしている。",
+        "why_it_matters": "短尺ドラマがニッチなアプリ市場から、主流ストリーミングの編成戦略に移った転換点だからだ。既存IPと短尺課金モデルの融合が進めば、映像配信の競争軸が変わる可能性がある。",
+        "headline": "短尺フォーマットの量産と配信実験が、検証速度重視の発想に近い"
+      },
+      "selection_reason": "短尺フォーマットの量産と配信実験が、検証速度重視の発想に近い"
+    },
+    {
+      "number": 10,
+      "title": "OpenAI裁判でナデラ氏、マスク氏からMicrosoft出資への懸念表明はなかったと証言",
+      "source": "CNBC",
+      "description": "",
+      "url": "https://www.cnbc.com/2026/05/11/microsoft-ceo-satya-nadella-musk-altman-trial.html",
+      "category": "経済・金融",
+      "published_at": "2026-05-11",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 4,
+        "title_ja": "OpenAI裁判でナデラ氏、マスク氏からMicrosoft出資への懸念表明はなかったと証言",
+        "key_points": [
+          "Microsoftのサティア・ナデラCEOは、Elon MuskからOpenAI投資が問題だと直接懸念を伝えられたことはないと証言した。",
+          "MuskはOpenAIの非営利使命がMicrosoftの巨額出資で損なわれたと主張している。",
+          "Microsoft側は、提携当初から商業的要素が明確で、既に約95億ドルの収益を計上していると示した。"
+        ],
+        "detailed_summary": "カリフォルニア州オークランドの連邦地裁で開かれた Musk v. Altman 裁判で、Microsoftのサティア・ナデラCEOが証言し、Elon Muskから同社のOpenAI投資が特別な約束や条件に反するとの懸念を受けたことは一度もないと述べた。Muskは2024年の提訴で、OpenAIが非営利の慈善目的を裏切ったと主張し、Microsoftもその違反を助けたと訴えている。これに対しナデラ氏は、提携は当初から商業性を伴っており、Microsoftは計算資源の値引きと引き換えに事業上の利益を見込んでいたと説明した。",
+        "why_it_matters": "OpenAIの統治構造と営利化を巡る争点が、AI業界最大級の提携関係にどう波及するかを左右する。判決次第では、AI企業の資本政策や非営利看板の扱いに大きな影響が出る。",
+        "headline": "資本提携と統治の実務が見え、AI基盤依存の読み筋を深められる"
+      },
+      "selection_reason": "資本提携と統治の実務が見え、AI基盤依存の読み筋を深められる"
+    },
+    {
+      "number": 11,
+      "title": "FinanceBenchが示す、実際の金融文書でベクターストアRAGが失敗する理由",
+      "source": "Beancount.io",
+      "description": "",
+      "url": "https://beancount.io/bean-labs/research-logs/2026/05/12/financebench-open-book-financial-qa-benchmark",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-12",
+      "mode": "adjacent",
+      "summary": {
+        "article_index": 5,
+        "title_ja": "FinanceBenchが示す、実際の金融文書でベクターストアRAGが失敗する理由",
+        "key_points": [
+          "FinanceBenchはSEC提出書類を使った1万231件の質問で、金融文書QAの実運用性能を測るベンチマークだ。",
+          "共有ベクターストア型RAGではGPT-4-Turboでも正答率19％にとどまり、拒否回答が68％に達した。",
+          "問題の本質は検索だけでなく数値推論にもあり、正しいページを与えても精度の上限は85％だった。"
+        ],
+        "detailed_summary": "Patronus AIの論文 FinanceBench は、10-Kや10-Qなど実際のSEC文書から作成した1万231件の質問で、企業向け金融QAの性能を検証した。結論は厳しく、企業デモで多い共有ベクターストア型RAGは大きく崩れ、GPT-4-Turboでも正答率19％、失敗率81％という結果になった。文書ごとのベクターストアでも50％にとどまり、正しいページを丸ごと与える長文脈投入のほうがはるかに高精度だった。質問の66％が数値推論を要し、検索より計算や単位の取り違えが深刻なボトルネックだと示している。",
+        "why_it_matters": "金融分野でRAGをそのまま導入すれば危険だと、具体的な数値で突きつけた点が大きい。企業向けAIの評価軸は、検索の見栄えではなく文書単位の入力設計と数値推論の堅牢性へ移る。",
+        "headline": "RAGの弱点を実務文書で測る視点が、エージェント評価設計に直結する"
+      },
+      "selection_reason": "RAGの弱点を実務文書で測る視点が、エージェント評価設計に直結する",
+      "adjacent_field": "LLM evaluation and experimental design",
+      "adjacent_reasoning": "AIエージェントを事業運用に組み込むなら、どの役割設計が本当に成果を出しているかを測る評価系が必要になる。市場検証の速さを重視する人ほど、プロダクト実験とモデル実験を同じ枠組みで回せるこの分野が効く。"
+    },
+    {
+      "number": 12,
+      "title": "SocialReasoning-Bench: AIエージェントが利用者の利益のために行動できるかを測る",
+      "source": "Microsoft Research",
+      "description": "",
+      "url": "https://www.microsoft.com/en-us/research/blog/socialreasoning-bench-measuring-whether-ai-agents-act-in-users-best-interests/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-11",
+      "mode": "adjacent",
+      "summary": {
+        "article_index": 6,
+        "title_ja": "SocialReasoning-Bench: AIエージェントが利用者の利益のために行動できるかを測る",
+        "key_points": [
+          "AIエージェントが予定調整や価格交渉など社会的な場面で使われる以上、単なる作業能力ではなく社会的推論が必要になる。",
+          "SocialReasoning-Benchは、予定調整とマーケット交渉の2領域で、結果の良さと意思決定プロセスの両面を評価する。",
+          "最先端モデルはタスク自体はこなしても、利用者の利益を十分に守れず、安易に妥協する傾向が強い。"
+        ],
+        "detailed_summary": "SocialReasoning-Bench は、AIエージェントがユーザーの代理として他者とやり取りする場面で、どれだけ利益を守って交渉できるかを測る新しい評価基準だ。対象はカレンダー調整と売買交渉で、得られた結果の最適性だけでなく、必要な確認や情報管理をしたかというデューデリジェンスも採点する。研究では、最先端モデルは多くの課題を完了できても、相手の提示を早々に受け入れたり、より良い条件を引き出せなかったりして、ユーザー価値を取りこぼす傾向が確認された。明示的なプロンプト改善だけでは十分ではない。",
+        "why_it_matters": "AIが秘書や代理人として実務に入るなら、速く返すだけでは足りず、誰の利益を守るのかが中心課題になる。信頼できるエージェントを作るには、性能評価も社会的判断を含む形へ進化させる必要がある。",
+        "headline": "代理行動の善し悪しを測る発想が、AI社員運用の監督設計を広げる"
+      },
+      "selection_reason": "代理行動の善し悪しを測る発想が、AI社員運用の監督設計を広げる",
+      "adjacent_field": "LLM evaluation and experimental design",
+      "adjacent_reasoning": "AIエージェントを事業運用に組み込むなら、どの役割設計が本当に成果を出しているかを測る評価系が必要になる。市場検証の速さを重視する人ほど、プロダクト実験とモデル実験を同じ枠組みで回せるこの分野が効く。"
+    },
+    {
+      "number": 13,
+      "title": "マイクロソフト、AI投資の費用対効果をCFOが厳しく精査すべきだと訴える",
+      "source": "Startup Fortune",
+      "description": "",
+      "url": "https://startupfortune.com/microsoft-wants-cfos-to-put-ai-roi-under-the-microscope/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-11",
+      "mode": "adjacent",
+      "summary": {
+        "article_index": 1,
+        "title_ja": "マイクロソフト、AI投資の費用対効果をCFOが厳しく精査すべきだと訴える",
+        "key_points": [
+          "企業向けAIの評価軸が、実験段階の使いやすさからCFOが納得できる投資対効果へ移っている。",
+          "Microsoft支援のIDC調査では、AI投資1ドル当たり平均3.5〜3.7ドルのリターンが示され、一部企業では8ドル近い成果も報告された。",
+          "今後は売上増、コスト削減、離職率低下、回収改善など財務指標に結びつく説明ができる製品だけが大企業予算を獲得しやすくなる。"
+        ],
+        "detailed_summary": "マイクロソフトは、生成AIを単なる実証実験ではなく、財務部門が評価できる投資案件として位置づけ直そうとしている。IDC調査では、AI投資1ドル当たり平均3.5〜3.7ドルの回収が示され、導入期間も多くが12カ月以内だった。ただし重要なのは高い数字そのものではなく、時間短縮や要約精度ではなく、売上、コスト、リスク、運転資本への影響として説明する枠組みが整い始めた点にある。AI導入の主導権は現場からCFOへ移りつつあり、企業向けAIベンダーには財務言語で成果を示す力が求められる。",
+        "why_it_matters": "企業向けAI市場は、派手なデモよりも予算承認を通せる説明力が勝敗を分ける段階に入った。AIスタートアップにとっては、機能競争だけでなく財務インパクトの証明が生存条件になる。",
+        "headline": "AI投資を財務基準で見る視点が、事業検証の続行判断を鋭くする"
+      },
+      "selection_reason": "AI投資を財務基準で見る視点が、事業検証の続行判断を鋭くする",
+      "adjacent_field": "Bayesian decision theory and real options",
+      "adjacent_reasoning": "複数のマイクロ事業を試しつつ最終的に一点集中するなら、撤退・継続・追加投資の判断をどう更新するかが中核になる。これは起業の勘を、学習速度と不確実性の管理として扱う分野につながる。"
+    }
+  ]
+}
