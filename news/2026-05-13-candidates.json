@@ -4,7 +4,7 @@
   "articles": [
     {
       "number": 1,
-      "title": "AI法務サービス業界が過熱、Anthropicも参入",
+      "title": "AI法務サービス業界が過熱、Anthropicも参入強化",
       "source": "TechCrunch",
       "description": "",
       "url": "https://techcrunch.com/2026/05/12/the-ai-legal-services-industry-is-heating-up-anthropic-is-getting-in-on-the-action/",
@@ -13,21 +13,21 @@
       "mode": "breaking",
       "summary": {
         "article_index": 1,
-        "title_ja": "AI法務サービス業界が過熱、Anthropicも参入",
+        "title_ja": "AI法務サービス業界が過熱、Anthropicも参入強化",
         "key_points": [
-          "Anthropicが法律事務所向けにClaude for Legalの新機能を拡充し、法務特化プラグインとMCPコネクタを提供開始",
-          "文書検索、レビュー、判例調査、証言準備、ドラフト作成などの事務作業を自動化し、商事、プライバシー、雇用、AIガバナンスなど幅広い分野を対象とする",
-          "HarveyやLegoraが大型調達を進める中で競争が激化する一方、誤情報を含む法的文書の生成などAI活用のリスクも顕在化している"
+          "Anthropicが法律事務所向けにClaude for Legalの新機能、専用プラグイン、MCPコネクターを追加した。",
+          "文書検索、レビュー、判例調査、供述準備、文書ドラフト作成などの定型業務の自動化を狙う。",
+          "HarveyやLegoraなど競合が資金調達を進める一方、AI生成の誤った法務文書が裁判実務で問題化している。"
         ],
-        "detailed_summary": "Anthropicは法律事務所向けにClaude for Legalを強化し、法務業務に特化した新しいプラグイン群とMCPコネクタを発表した。Docusign、Box、Westlaw系サービスなど既存の業務基盤と接続し、文書レビューや判例調査、証言準備、契約書作成を効率化する狙いだ。HarveyやLegoraが急成長する法務AI市場に本格参入する形だが、AIが虚偽の引用や粗雑な訴状を生み、司法現場に混乱を招く懸念も改めて示された。",
-        "why_it_matters": "法務は高単価で反復作業も多く、生成AIの導入効果が大きい領域だ。競争が加速するほど、効率化だけでなく正確性と説明責任の確保が勝敗を分ける。",
-        "headline": "AIが業界特化型へ進む流れを示し、実務導入の収益化が一段進んだ"
+        "detailed_summary": "Anthropicは法律事務所向けAI支援を強化し、Claude for Legalに法分野別プラグインとMCPコネクターを追加した。対象は商事、プライバシー、雇用、企業法務、AIガバナンスなどで、Docusign、Box、Westlaw系サービスとも連携する。法務AI市場ではHarveyやLegoraが急拡大しており競争は激しい。一方で、AIが誤情報を含む訴状や判決文案を生み、裁判所や弁護士実務で混乱を招いている現実もあり、導入拡大と信頼性確保が同時に問われている。",
+        "why_it_matters": "法務は高単価で定型業務も多く、生成AIの有力な収益領域になりつつある。だが誤引用や虚偽判例の問題があるため、普及の鍵は利便性よりも実務精度とガバナンスに移っている。",
+        "headline": "Anthropicが法律実務向け機能を投入。MCP連携の業務特化が一段進んだ"
       },
-      "selection_reason": "AIが業界特化型へ進む流れを示し、実務導入の収益化が一段進んだ"
+      "selection_reason": "Anthropicが法律実務向け機能を投入。MCP連携の業務特化が一段進んだ"
     },
     {
       "number": 2,
-      "title": "マスクはOpenAIを自分の子どもに引き継がせる案を考えていたと、アルトマンが証言",
+      "title": "マスクはOpenAIを自分の子どもに継がせる案を考えていたと、アルトマンが証言",
       "source": "TechCrunch",
       "description": "",
       "url": "https://techcrunch.com/2026/05/12/musk-mulled-handing-openai-to-his-children-altman-testifies/",
@@ -36,21 +36,44 @@
       "mode": "breaking",
       "summary": {
         "article_index": 2,
-        "title_ja": "マスクはOpenAIを自分の子どもに引き継がせる案を考えていたと、アルトマンが証言",
+        "title_ja": "マスクはOpenAIを自分の子どもに継がせる案を考えていたと、アルトマンが証言",
         "key_points": [
-          "OpenAIの企業構造を争う訴訟で、CEOサム・アルトマンが法廷でイーロン・マスクに反論した",
-          "アルトマンは、営利部門を誰が支配するかを巡る議論で、マスクが死亡時には子どもに承継させる案を口にしたと証言した",
-          "研究者の序列化や削減を求めるマスクの手法がOpenAIの研究文化を傷つけ、安全性と統治を巡る対立が決裂につながったと主張した"
+          "OpenAIの企業構造を争う訴訟で、サム・アルトマンCEOがイーロン・マスクの関与を法廷で証言した。",
+          "アルトマンは、マスクがOpenAIの営利部門を強く支配しようとし、安全性への考え方にも不安を覚えたと述べた。",
+          "研究者の格付けや人員整理を迫るようなマスクの手法が、OpenAIの研究文化を傷つけたとも主張した。"
         ],
-        "detailed_summary": "OpenAIを巡るマスクの訴訟で、サム・アルトマンは営利化が慈善目的の逸脱だという批判に反論し、むしろ巨大な公益基盤を築いたと述べた。そのうえで、2017年ごろの資金調達と統治の議論では、マスクが営利部門の支配を強く求め、死亡時には子どもへ引き継ぐ案まで示したと証言した。研究者の格付けや削減圧力も組織文化を損ねたとされ、OpenAIの安全性と支配権を巡る対立の深さが浮き彫りになった。",
-        "why_it_matters": "この裁判はOpenAIの統治正当性だけでなく、強力なAIを誰がどう管理すべきかという根本問題を映している。創業期の思想と現在の商業化のずれが、業界全体の規範にも影響する。",
-        "headline": "OpenAIの統治と支配権を巡る証言で、業界全体の構図理解に直結する"
+        "detailed_summary": "OpenAIの法人形態を巡る訴訟で、アルトマンCEOはマスクの主張に反論し、OpenAIは巨大な公益財団として機能していると述べた。資金調達と安全性を両立する営利化の議論が続く中、マスクは支配権への関心が強く、死亡時には子どもに引き継がせる可能性まで口にしたと証言した。さらに、研究者を序列化して削減するよう求めたことが組織文化を損ねたと批判。OpenAIの独立性と研究組織としての運営原理が、訴訟の核心として浮かび上がっている。",
+        "why_it_matters": "この裁判はOpenAIだけの争いではなく、強力なAIを誰が支配するのかという根本問題に直結する。営利化、安全性、創業者支配の線引きが今後のAI企業全体の前例になりうる。",
+        "headline": "OpenAIの支配構造を巡る証言が続き、AI業界の権力図に直結する材料"
       },
-      "selection_reason": "OpenAIの統治と支配権を巡る証言で、業界全体の構図理解に直結する"
+      "selection_reason": "OpenAIの支配構造を巡る証言が続き、AI業界の権力図に直結する材料"
     },
     {
       "number": 3,
-      "title": "今夏登場するGoogleのAndroid 17とGemini Intelligenceの主要新機能",
+      "title": "Anthropic、同社株へのアクセスをうたう流通市場プラットフォームに警告",
+      "source": "TechCrunch",
+      "description": "",
+      "url": "https://techcrunch.com/2026/05/12/anthropic-warns-investors-against-secondary-platforms-offering-access-to-its-shares/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-12",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 3,
+        "title_ja": "Anthropic、同社株へのアクセスをうたう流通市場プラットフォームに警告",
+        "key_points": [
+          "Anthropicは、自社株の売買アクセスを提供するとする複数の私募・流通市場プラットフォームを未承認だと警告した。",
+          "無許可の持分売買や持分権益は無効であり、株主名簿上も認めないと明言した。",
+          "AI企業株への需要急増を背景に、SPV、トークン化証券、デリバティブ型商品などが拡大している。"
+        ],
+        "detailed_summary": "Anthropicは、自社株の取得機会を提供すると宣伝する複数の二次流通・投資プラットフォームを名指しし、承認していない取引は無効だと警告した。ForgeやSydecarなど一部は誤掲載や自社の役割限定を主張しているが、背景には未上場AI企業株への過熱した需要がある。Anthropicは9000億ドル評価で資金調達との観測もあり、流通市場での調達需要や詐欺的勧誘が膨らみやすい。未上場株の流動化が進む一方、発行体の承認と法令順守の重要性が改めて示された。",
+        "why_it_matters": "未上場AI企業への投資熱は強いが、実際の株式取得と値動き連動商品はまったく別物だ。投資家にとっては、権利の実在性と発行体承認の確認がこれまで以上に重要になっている。",
+        "headline": "未上場AI株の過熱を示す動きで、資本市場の期待値と歪みが見えやすい"
+      },
+      "selection_reason": "未上場AI株の過熱を示す動きで、資本市場の期待値と歪みが見えやすい"
+    },
+    {
+      "number": 4,
+      "title": "この夏登場するAndroid 17とGemini Intelligenceの主要新機能",
       "source": "WIRED",
       "description": "",
       "url": "https://www.wired.com/story/android-17-gemini-top-new-features/",
@@ -58,68 +81,68 @@
       "published_at": "2026-05-13",
       "mode": "breaking",
       "summary": {
-        "article_index": 3,
-        "title_ja": "今夏登場するGoogleのAndroid 17とGemini Intelligenceの主要新機能",
-        "key_points": [
-          "GoogleはI/Oに先立つAndroid Showで、今夏提供予定のAndroid 17とGemini関連機能を先行発表した",
-          "Gemini Intelligenceとして、視覚的な動作表示、UberやDoorDashなどをまたぐタスク実行、ブラウザ経由の操作などを高度端末向けに展開する",
-          "AIを使ったウィジェット作成や音声入力の改善など、Androidを知能型OSに近づける施策を進める一方、ユーザーがAI機能を無効化できる選択肢も用意する"
-        ],
-        "detailed_summary": "GoogleはAndroid Showで、Android 17とGeminiの新機能群を発表した。柱になるのはGemini Intelligenceで、スマホ上で思考中を示す表示や、配車、注文、検索をまたいでこなすタスク実行機能を、まずPixelやGalaxyなど上位端末に広げる。加えて、生成AIによるウィジェット作成や、言いよどみを減らす高精度音声入力など、OSそのものをAI前提で再設計する流れが鮮明だ。一方でGoogleは、AI利用はユーザーが選べると強調している。",
-        "why_it_matters": "スマホの競争軸が、スペックよりOSレベルのAI体験へ移りつつある。GoogleがAIをAndroid全体の標準機能に組み込めば、検索、アプリ、端末の主導権構造まで変わり得る。",
-        "headline": "GeminiがOSレイヤーに深く入る兆しで、配布面の競争力に影響が大きい"
-      },
-      "selection_reason": "GeminiがOSレイヤーに深く入る兆しで、配布面の競争力に影響が大きい"
-    },
-    {
-      "number": 4,
-      "title": "Amazon、米国全土で30分配送を開始",
-      "source": "TechCrunch",
-      "description": "",
-      "url": "https://techcrunch.com/2026/05/12/amazon-expands-30-minute-delivery-across-the-u-s/",
-      "category": "AI・テクノロジー",
-      "published_at": "2026-05-12",
-      "mode": "breaking",
-      "summary": {
         "article_index": 4,
-        "title_ja": "Amazon、米国全土で30分配送を開始",
+        "title_ja": "この夏登場するAndroid 17とGemini Intelligenceの主要新機能",
         "key_points": [
-          "Amazonが「Amazon Now」として30分配送を米国の複数都市で開始し、年内に対象地域をさらに拡大する計画を示した",
-          "対象は生鮮食品、日用品、電子機器、酒類など数千品目で、多くの地域では24時間利用できる",
-          "Prime会員向けの料金は1回3.99ドルで、DoorDashやUber Eats、Instacartなど即時配送サービスと速度と価格の両面で競合する"
+          "GoogleはI/Oに先立ち、Android 17とGemini関連の新機能をAndroid Showで先行発表した。",
+          "AIでウィジェット作成を補助する機能や、口癖を抑える高精度音声入力など、OS全体の知能化を進める。",
+          "Gemini IntelligenceはPixelやGalaxyを皮切りに、スマートウォッチ、車、スマートグラス、ノートPCにも広がる。"
         ],
-        "detailed_summary": "Amazonは30分以内で商品を届ける新サービスAmazon Nowを発表し、アトランタ、シアトル、フィラデルフィアなどで本格展開を始めた。近隣の小規模拠点を活用し、生鮮食品、日用品、ベビー用品、電子機器まで数千品目を超高速で配送する。Prime会員には比較的安い定額手数料を提示し、配達料やサービス料、チップが積み上がる競合より分かりやすい料金を打ち出した。Amazonの即時配送戦略が一段深く日常需要に入り込む形だ。",
-        "why_it_matters": "AmazonはEC企業の枠を超え、日常のラストワンマイル需要を奪いにきている。配送時間が30分まで縮むと、食料品や生活必需品でもアプリ間の主導権が再編される。",
-        "headline": "物流速度の再定義で、即時性を軸にした新規事業設計にも示唆がある"
+        "detailed_summary": "GoogleはAndroid 17とGeminiの新機能群を、5月19日のI/Oを待たずに公開した。狙いはAndroidを知能化したOSへ進化させることで、生成AIによるウィジェット作成や、不要な言いよどみを除去する音声入力改善などを盛り込む。Gemini Intelligenceとしてブランド化し、スマホだけでなくウェアラブルや車載、PCへ展開する方針も示した。アプリ操作代行機能はUberやDoorDash以外にも拡張され、アプリ未導入でもChrome経由で処理できる可能性がある。ユーザーがAI機能をオフにする選択肢も維持する。",
+        "why_it_matters": "スマホOSの競争軸が見た目や性能だけでなく、AIがどこまで実作業を肩代わりできるかに移っている。GoogleはGeminiをAndroid全体の操作基盤に押し上げようとしている。",
+        "headline": "GeminiがOS体験の前面に出る流れで、配布面の強さが改めて際立つ"
       },
-      "selection_reason": "物流速度の再定義で、即時性を軸にした新規事業設計にも示唆がある"
+      "selection_reason": "GeminiがOS体験の前面に出る流れで、配布面の強さが改めて際立つ"
     },
     {
       "number": 5,
-      "title": "TikTokは、TikTokで見た旅行をそのまま予約する場所になろうとしている",
-      "source": "TechCrunch",
+      "title": "経常黒字最大の34.5兆円　25年度、半導体輸出拡大で5年ぶり貿易黒字",
+      "source": "日本経済新聞",
       "description": "",
-      "url": "https://techcrunch.com/2026/05/12/tiktok-now-wants-to-be-the-place-you-book-the-trip-you-just-saw-on-tiktok/",
-      "category": "AI・テクノロジー",
-      "published_at": "2026-05-12",
+      "url": "https://www.nikkei.com/article/DGXZQOUA12BEB0S6A510C2000000/",
+      "category": "経済・金融",
+      "published_at": "2026-05-13",
       "mode": "breaking",
       "summary": {
         "article_index": 5,
-        "title_ja": "TikTokは、TikTokで見た旅行をそのまま予約する場所になろうとしている",
+        "title_ja": "経常黒字最大の34.5兆円　25年度、半導体輸出拡大で5年ぶり貿易黒字",
         "key_points": [
-          "TikTokが米国で18歳以上向けにTikTok GOを開始し、ホテル、観光地、体験をアプリ内で予約できるようにした",
-          "Booking.com、Expedia、Viator、GetYourGuideなどと提携し、動画、検索、位置情報ページから予約へ直接つなげる",
-          "旅行発見の導線を取引レイヤーに変えることで収益化を強化し、Googleや提携先そのものとも競合する構図が生まれている"
+          "2025年度の日本の経常収支は34兆5218億円の黒字となり、前年度比15％増で過去最大を更新した。",
+          "半導体などの輸出拡大が寄与し、貿易収支は5年ぶりに黒字へ転換した。",
+          "経常収支は貿易、サービス、第一次所得で構成され、日本の対外収益力の強さを示した。"
         ],
-        "detailed_summary": "TikTokは新機能TikTok GOを米国で導入し、ユーザーが動画で見つけたホテルや観光体験をアプリ内でそのまま予約できるようにした。Booking.comやExpediaなどの在庫を使い、検索、位置情報、動画視聴から決済直前までをTikTok内で完結させる。旅行系クリエイターには送客や成果報酬の機会も用意される。TikTok Shopに続き、発見の場を購買の場へ変える戦略で、検索と旅行導線でGoogleへの圧力も強まる。",
-        "why_it_matters": "TikTokは広告や物販に続き、旅行でも発見から購入までを握ろうとしている。若年層の検索起点が変われば、Googleや旅行OTAの集客モデルに直接効いてくる。",
-        "headline": "発見から購入までを一気通貫にし、発信と検証の回し方に直結する"
+        "detailed_summary": "財務省が2026年5月13日に発表した2025年度の国際収支統計速報によると、日本の経常収支は34兆5218億円の黒字となり、3年連続で過去最大を更新した。黒字額は前年度比15％増。背景には半導体を中心とする輸出の伸びがあり、貿易収支が5年ぶりに黒字へ戻ったことが大きい。経常収支はモノの輸出入だけでなく、旅行を含むサービス収支や、海外投資の収益を示す第一次所得収支も含む。輸出競争力の回復と対外資産からの収益が、日本経済の下支えになっている。",
+        "why_it_matters": "日本経済は内需の弱さを抱える一方、外需と海外投資収益で稼ぐ構造を強めている。半導体輸出の回復が続くなら、成長と円相場の両面に影響する。",
+        "headline": "半導体輸出主導で日本の外需が改善。AI供給網の追い風として重要"
       },
-      "selection_reason": "発見から購入までを一気通貫にし、発信と検証の回し方に直結する"
+      "selection_reason": "半導体輸出主導で日本の外需が改善。AI供給網の追い風として重要"
     },
     {
       "number": 6,
-      "title": "Anthropic: Claude Code v2.1.139 — 全セッションを表示するAgent Viewと、自律完了向けの/goalコマンド",
+      "title": "MCPのトークン肥大を12分の1に圧縮、31ツールを1パッケージ化した実測",
+      "source": "Zenn",
+      "description": "",
+      "url": "https://zenn.dev/zoetaka38/articles/cb6982bf5e8b59",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-12",
+      "mode": "deep_dive",
+      "summary": {
+        "article_index": 6,
+        "title_ja": "MCPのトークン肥大を12分の1に圧縮、31ツールを1パッケージ化した実測",
+        "key_points": [
+          "複数MCPサーバーを分けて配ると大きなトークン負荷が発生するが、統合設計で大幅に削減できると主張している。",
+          "著者のunified MCP serverでは、5製品・31ツールをまとめても定義量は約4720トークンに収まった。",
+          "問題はMCPそのものではなく、ツール分割の設計戦略にあるというのが記事の中心仮説だ。"
+        ],
+        "detailed_summary": "記事は、MCP導入時のトークン肥大はプロトコル自体の欠点ではなく、サーバーやツールの分け方に原因があると論じる。著者は5つの製品、計31ツールを1つのunified MCP serverに統合し、ソース総量は約1万8883文字、概算で4720トークンだったと報告した。これはPlaywright MCP単体より小さい水準で、5サーバー構成なら5万5000トークン前後になりうる負荷を大幅に抑えた計算になる。冗長なdocstringを避け、prefix namespacingやre-exportを使った設計判断が効いたという。",
+        "why_it_matters": "AIエージェント開発では、機能数よりコンテキスト消費量が性能とコストを左右する。MCP活用の勝ち筋が、ツール追加ではなく設計の集約と記述の節約にあることを示す実務的な知見だ。",
+        "headline": "MCP運用の実コストに踏み込み、トークン効率重視の関心と強く合う"
+      },
+      "selection_reason": "MCP運用の実コストに踏み込み、トークン効率重視の関心と強く合う"
+    },
+    {
+      "number": 7,
+      "title": "Anthropic: Claude Code v2.1.139、全セッションを表示するAgent Viewと自律完了用の/goalコマンドを追加",
       "source": "24 AI",
       "description": "",
       "url": "https://24-ai.news/en/news/2026-05-12/anthropic-claude-code-v2-1-139-agent-view/",
@@ -127,162 +150,139 @@
       "published_at": "2026-05-12",
       "mode": "deep_dive",
       "summary": {
-        "article_index": 6,
-        "title_ja": "Anthropic: Claude Code v2.1.139 — 全セッションを表示するAgent Viewと、自律完了向けの/goalコマンド",
-        "key_points": [
-          "Claude Code v2.1.139では、実行中、停止中、完了済みの全セッションを一覧できるAgent ViewがResearch Previewとして追加された",
-          "/goalコマンドにより、達成条件を与えるとClaudeが複数ターンにわたって自律的に作業を継続し、時間、手順数、トークン消費も可視化される",
-          "プラグイン詳細表示、MCP環境変数、フックの引数対応、トランスクリプト操作改善、SSEフレーム上限など、運用性と安全性を高める更新も含まれる"
-        ],
-        "detailed_summary": "AnthropicはClaude Code v2.1.139を公開し、複数エージェント運用と自律実行の管理機能を強化した。新しいAgent Viewでは、進行中、ブロック中、完了済みの全セッションを一元表示できる。加えて/goalコマンドを使うと、指定した完了条件に向けてClaudeが複数ターン自走し、経過時間、手順数、総トークン量を表示する。プラグイン構成の可視化やMCP保護策の追加も進み、CLIエージェントの実務投入を後押しする内容になっている。",
-        "why_it_matters": "CLIエージェントは単発支援から、監視しながら任せる運用段階へ進み始めた。可視化と安全策が整うほど、開発現場での自律実行の採用ハードルは下がる。",
-        "headline": "複数エージェントの可視化と完了条件駆動は、AI社員運用そのものに近い"
-      },
-      "selection_reason": "複数エージェントの可視化と完了条件駆動は、AI社員運用そのものに近い"
-    },
-    {
-      "number": 7,
-      "title": "UiPathがあらゆるコーディングエージェントに自社プラットフォームを開放、まずClaude CodeとCodexに対応",
-      "source": "diginomica",
-      "description": "",
-      "url": "https://diginomica.com/uipath-opens-its-platform-every-coding-agent-heres-why-claude-code-and-codex-go-first",
-      "category": "AI・テクノロジー",
-      "published_at": "2026-05-12",
-      "mode": "deep_dive",
-      "summary": {
         "article_index": 1,
-        "title_ja": "UiPathがあらゆるコーディングエージェントに自社プラットフォームを開放、まずClaude CodeとCodexに対応",
+        "title_ja": "Anthropic: Claude Code v2.1.139、全セッションを表示するAgent Viewと自律完了用の/goalコマンドを追加",
         "key_points": [
-          "UiPathはClaude CodeとOpenAI Codexを皮切りに、企業向け基盤へコーディングエージェントを統合する新製品を発表した。",
-          "中核はMaestroによるオーケストレーションで、実行状態の保持、監査、再開、ガバナンスを一元化する。",
-          "特定ベンダーに依存せず、今後のモデル追加でも企業の実行基盤を変えずに運用できる点を訴求している。"
+          "Research PreviewとしてAgent Viewが追加され、実行中・停止中・完了済みの全セッションを一覧表示できるようになった。",
+          "/goalコマンドにより、指定した完了条件に達するまでClaudeが複数ターンにわたって自律実行できる。",
+          "プラグイン詳細表示、MCP関連の環境変数拡張、トランスクリプト操作改善、SSEフレーム上限など運用面も強化された。"
         ],
-        "detailed_summary": "UiPathは、企業が複数のコーディングエージェントを既存の業務自動化基盤に載せて使えるUiPath for Coding Agentsを発表した。開始時点ではAnthropicのClaude CodeとOpenAI Codexに対応し、2026年を通じて他のエージェントも追加する計画だ。狙いは、開発現場で孤立しがちなエージェントをCI/CD、コードレビュー、セキュリティ統制の中に組み込み、実験段階の生産性向上を全社運用へ広げることにある。Maestroが実行管理と監査証跡を担い、RBACや資格情報管理も標準で備える。",
-        "why_it_matters": "生成AIの価値をモデルそのものではなく運用レイヤーで取り込もうとする動きが鮮明になった。企業導入では、賢いエージェントよりも統制された実行基盤を誰が握るかが競争軸になる。",
-        "headline": "コーディングAIを実運用基盤へ接続し、役割分担を事業実装に近づける"
+        "detailed_summary": "AnthropicはCLIエージェントClaude Code v2.1.139を公開した。中心機能は、全セッションを一元表示するAgent Viewと、条件達成まで自律的に処理を続ける/goalコマンドだ。/goal実行中は経過時間、ステップ数、総トークン数を確認でき、長時間の自律実行の可視性が増した。加えて、プラグイン構成の可視化、MCPサーバー連携の改善、キーボード操作の拡充、SSE保護や認証混在防止なども入り、並列運用と安全性の両面が強化された。",
+        "why_it_matters": "CLI型コーディングエージェントが、単発の補助から複数セッション管理と条件付き自律実行へ進んだことを示す更新だ。開発現場では、生産性だけでなくコスト管理やガバナンスの重要性も同時に高まる。",
+        "headline": "役割分担したエージェントの監督と自律完了をどう回すかに直結する"
       },
-      "selection_reason": "コーディングAIを実運用基盤へ接続し、役割分担を事業実装に近づける"
+      "selection_reason": "役割分担したエージェントの監督と自律完了をどう回すかに直結する"
     },
     {
       "number": 8,
-      "title": "MCPサーバーを守るには何が必要か：OAuth、スコープ、最小権限",
-      "source": "PADISO Blog",
+      "title": "Vercelの請求額が想定より高い理由、犯人はAIボット",
+      "source": "DEV Community",
       "description": "",
-      "url": "https://www.padiso.co/blog/securing-mcp-servers-oauth-scopes-least-privilege/",
+      "url": "https://dev.to/plaintos_app_fd54e75a054e/why-your-vercel-bill-is-higher-than-expected-hint-ai-bots-40b4",
       "category": "AI・テクノロジー",
       "published_at": "2026-05-12",
       "mode": "deep_dive",
       "summary": {
         "article_index": 2,
-        "title_ja": "MCPサーバーを守るには何が必要か：OAuth、スコープ、最小権限",
+        "title_ja": "Vercelの請求額が想定より高い理由、犯人はAIボット",
         "key_points": [
-          "MCPサーバーはAIエージェントと業務システムの接点であり、侵害されると広範な権限漏えいにつながる。",
-          "REST APIの延長では不十分で、プロンプトインジェクションやトークン流出を前提に設計すべきだと説く。",
-          "OAuth 2.0、細かなスコープ設計、監査ログ、最小権限がMCPセキュリティの基本になる。"
+          "GPTBotやClaudeBot、BytespiderなどのAIクローラが頻繁にサイトを巡回し、Vercelの帯域コストを押し上げるケースが増えている。",
+          "原因特定には総リクエスト数ではなく、VercelログのUser-Agentを確認する必要がある。",
+          "対策としてrobots.txt、Next.jsミドルウェア、Cloudflare WAFによる遮断が提案されている。"
         ],
-        "detailed_summary": "この記事は、MCPサーバーをAI時代の新しいセキュリティ境界として捉え、従来のAPI防御だけでは足りないと説明する。MCPではエージェント自体を信頼せず、侵害済み、誤誘導済みである可能性まで含めて脅威モデルを組む必要がある。特に危険なのは過剰な権限付与、曖昧なスコープ検証、トークン管理の甘さ、監査ログ不足だ。対策としてはOAuth 2.0の正しい実装、ツール単位の粒度での権限制御、プロンプトインジェクション耐性を持つサーバー設計、SOC 2を見据えた監視体制の整備が重要だと整理している。",
-        "why_it_matters": "MCPはAIエージェント活用の土台になりつつあり、ここが甘いと単一の侵害が社内システム全体へ波及する。今後のエンタープライズAIでは、機能追加の速さより安全な権限制御の設計が先に問われる。",
-        "headline": "MCP連携を広げるほど権限制御が要る。安全な運用設計の芯になる記事"
+        "detailed_summary": "筆者は小規模なVercel運用サイトで帯域請求が前月比3倍に増えた原因を調査し、AIボットの過剰クロールに行き着いた。近年のAIクローラはトップページだけでなく動的ルートやJSON、静的アセットまで高頻度で取得するため、Vercelのegress課金と相性が悪い。記事では、ログのUser-AgentからGPTBotやBytespiderなどを特定する方法と、robots.txt、Next.js middleware、Cloudflare WAFでエッジ側から遮断する実践策を紹介している。",
+        "why_it_matters": "生成AI時代のインフラコストは、人間の利用者ではなくボット流入で急増し得る。小規模運営ほど、帯域課金とボット制御をセットで考える必要がある。",
+        "headline": "MVP公開後の見落としやすいコスト漏れを扱い、検証速度の実務に効く"
       },
-      "selection_reason": "MCP連携を広げるほど権限制御が要る。安全な運用設計の芯になる記事"
+      "selection_reason": "MVP公開後の見落としやすいコスト漏れを扱い、検証速度の実務に効く"
     },
     {
       "number": 9,
-      "title": "MCPオブザーバビリティ：エージェントループをまたぐツール呼び出し追跡",
-      "source": "PADISO Blog",
+      "title": "UiPath、コーディングエージェント向けネイティブ統合を備えた初の業務オーケストレーション・自動化基盤を発表",
+      "source": "UiPath",
       "description": "",
-      "url": "https://www.padiso.co/blog/mcp-observability-tracing-tool-calls-agent-loop/",
+      "url": "https://www.uipath.com/newsroom/uipath-for-coding-agents-launch",
       "category": "AI・テクノロジー",
-      "published_at": "2026-05-13",
+      "published_at": "2026-05-12",
       "mode": "deep_dive",
       "summary": {
         "article_index": 3,
-        "title_ja": "MCPオブザーバビリティ：エージェントループをまたぐツール呼び出し追跡",
+        "title_ja": "UiPath、コーディングエージェント向けネイティブ統合を備えた初の業務オーケストレーション・自動化基盤を発表",
         "key_points": [
-          "自律型エージェントは実行経路が読みにくく、本番運用では可観測性が欠かせない。",
-          "OpenTelemetryをMCP基盤に組み込むことで、ツール呼び出しやLLM判断をトレースできる。",
-          "ループ暴走や高額な推論コストを早期に検知し、PostHogなどで運用監視する構成を提案している。"
+          "UiPath for Coding Agentsは、任意のコーディングエージェントを企業向け自動化の構築・テスト・配備・運用・統制に接続する新機能だ。",
+          "Claude CodeやCodexなど特定ベンダーに依存せず、オーケストレーション層を共通基盤として扱う設計を打ち出した。",
+          "ポリシー適用、監査証跡、認証情報管理、RBAC、実行時制御などのガバナンスを標準搭載する。"
         ],
-        "detailed_summary": "記事は、エージェント型AIが従来ソフトウェアと異なり、固定されたコード経路ではなく推論とツール選択を繰り返すため、観測基盤なしでは本番運用が危険だと指摘する。実例として、顧客対応エージェントが同じデータベース照会を繰り返し、48時間で4.7万ドルのLLM費用を生んだケースを紹介。解決策として、MCPサーバーとオーケストレーション層にOpenTelemetryを配線し、ツール呼び出し、遅延、失敗、データフロー、ループ回数をトレースとメトリクスで可視化する方法を解説する。ログではなく、原因と影響まで追える観測設計が中心テーマだ。",
-        "why_it_matters": "エージェントの本番導入では、性能より先に暴走検知と原因追跡の仕組みが必要になる。可観測性が弱いままでは、障害調査もコスト管理も成立しない。",
-        "headline": "エージェント運用の詰まりを可視化でき、改善速度とコスト管理に効く"
+        "detailed_summary": "UiPathはUiPath for Coding Agentsを発表し、コーディングエージェントを企業の開発・運用基盤へ本格接続する構想を示した。従来、コーディングエージェントはCI/CD、セキュリティ、レビュー、デプロイと分断され、成果物の本番投入に人手が必要だった。UiPathはその断絶を、ベンダー非依存のオーケストレーション層と組み込みガバナンスで埋める。モデルや担当者が変わっても自動化資産を継続運用できる点を強調し、エンタープライズ導入の現実解として位置づけている。",
+        "why_it_matters": "企業では、優秀なエージェント単体より、それを安全に本番運用へ載せる仕組みの方が差になる。UiPathはその管理レイヤーを押さえにきており、コーディングエージェントの導入競争を次の段階へ進める。",
+        "headline": "コーディングAIを業務フローに埋め込む設計で、AI社員化の文脈に近い"
       },
-      "selection_reason": "エージェント運用の詰まりを可視化でき、改善速度とコスト管理に効く"
+      "selection_reason": "コーディングAIを業務フローに埋め込む設計で、AI社員化の文脈に近い"
     },
     {
       "number": 10,
-      "title": "Fanaticsはいかに実験を戦略的成長ドライバーに変えたか",
-      "source": "GrowthBook Blog",
+      "title": "Xurrent、AI Fabricを自律エージェントとオープンMCPサーバーで拡張",
+      "source": "PR Newswire",
       "description": "",
-      "url": "https://www.growthbook.io/blog/how-fanatics-made-experimentation-a-strategic-growth-driver",
+      "url": "https://www.prnewswire.com/news-releases/xurrent-extends-its-ai-fabric-with-autonomous-agents-and-an-open-mcp-server-302768923.html",
       "category": "AI・テクノロジー",
       "published_at": "2026-05-12",
       "mode": "adjacent",
       "summary": {
         "article_index": 4,
-        "title_ja": "Fanaticsはいかに実験を戦略的成長ドライバーに変えたか",
+        "title_ja": "Xurrent、AI Fabricを自律エージェントとオープンMCPサーバーで拡張",
         "key_points": [
-          "Fanaticsは月10件規模のテスト運用から、月100件近い実験を回す全社的な成長エンジンへ進化した。",
-          "実験は年間成長の約8％を支えるまで拡大し、数億ドル規模の価値を生んでいる。",
-          "成功要因はツールよりも、経営陣のデータ文化と学習を蓄積する実験wikiの整備にある。"
+          "XurrentはIT運用向けに、自律型AIエージェントと外部モデル接続用のオープンMCPサーバーを発表した。",
+          "新エージェントは補助役ではなく、チケットの仕分け、解決、文書化、クローズまでを end-to-end で担う設計だ。",
+          "共有ポリシー層、監査証跡、セキュリティ、ガバナンスを土台に、安全なエージェント運用を訴求している。"
         ],
-        "detailed_summary": "Fanaticsでは10年前、実験は小規模なCROチームの仕事に過ぎなかったが、今では月間6000万人が訪れる巨大EC群で月100件近い施策検証を回している。年間成長の約8％を実験が生み出しており、事業規模を踏まえるとインパクトは数億ドルに及ぶ。背景には、CEOを含む経営陣が直感よりデータを優先し、自ら判断を覆す文化を示してきたことがある。加えて、各テスト結果を因果解釈、画面記録、次の打ち手まで含めて蓄積するwikiを整え、その知見をJIRAのバックログへつなぐ仕組みを作った。学習が再利用される構造が成長を加速させた。",
-        "why_it_matters": "実験文化の拡大は分析ツールの導入ではなく、意思決定の習慣と知識の蓄積設計で決まると示している。大規模事業でも、検証を組織能力に変えれば成長の一部を継続的に再現できる。",
-        "headline": "MVPを出した後の学習効率を上げる視点で、検証速度重視と相性がいい"
+        "detailed_summary": "Xurrentは、企業ITとMSP向けのサービス運用基盤に自律型AIエージェントとオープンMCPサーバーを追加した。既存のSera AIが分類や下書き支援を担っていたのに対し、新エージェントは人の監督下でチケット処理を完了まで進める“デジタルチームメンバー”として位置づけられる。さらにMCPサーバーにより、OpenAIやAnthropic、Google、自社モデルなど任意の外部AIを接続可能にした。統一データ層と監査可能な実行基盤を武器に、AI生産性と統制の両立を前面に出している。",
+        "why_it_matters": "ITSM分野でも、単なるAIアシスタントから実行主体としてのエージェントへ軸足が移っている。鍵になるのは能力そのものではなく、既存業務と統制の中で安全に動かせる基盤だ。",
+        "headline": "エージェント連携を統制設計として捉え直せる。監督範囲の発想が広がる"
       },
-      "selection_reason": "MVPを出した後の学習効率を上げる視点で、検証速度重視と相性がいい",
-      "adjacent_field": "Causal Inference and Experiment Design",
-      "adjacent_reasoning": "この人はMVPを高速に出すこと自体より、検証速度と学習速度を重視しているので、何が本当に効いたのかを見分ける実験設計が次のボトルネックになる。AIエージェントに市場調査や改善提案を任せるほど、相関ではなく因果で判断する枠組みが効いてくる。"
+      "selection_reason": "エージェント連携を統制設計として捉え直せる。監督範囲の発想が広がる",
+      "adjacent_field": "組織サイバネティクス",
+      "adjacent_reasoning": "AIエージェントを役割分担させて事業を前に進めたい発想は、実質的にフィードバックループと統制設計の問題です。ここを学ぶと、単なるツール連携ではなく、監督範囲・例外処理・自己修正をどう設計するかまで見えるようになります。"
     },
     {
       "number": 11,
-      "title": "Google Workspace StudioのフローでNotebookLMが利用可能に",
-      "source": "Google Workspace Updates",
+      "title": "SAP、Sapphire 2026でベンダー横断のAI Agent Hubを発表し、エージェント乱立の統制を狙う",
+      "source": "The New Stack",
       "description": "",
-      "url": "http://workspaceupdates.googleblog.com/2026/05/notebooklm-in-workspace-studio.html",
+      "url": "https://thenewstack.io/sap-ai-agent-hub/",
       "category": "AI・テクノロジー",
       "published_at": "2026-05-12",
       "mode": "adjacent",
       "summary": {
         "article_index": 5,
-        "title_ja": "Google Workspace StudioのフローでNotebookLMが利用可能に",
+        "title_ja": "SAP、Sapphire 2026でベンダー横断のAI Agent Hubを発表し、エージェント乱立の統制を狙う",
         "key_points": [
-          "Googleは2026年5月12日、Workspace Studioのフロー内でNotebookLMを使える新機能を公開した。",
-          "管理者側ではGemini for Google Workspaceのステップを許可していれば標準で利用できる。",
-          "Business、Enterprise、Education各プランの一部と関連アドオンで提供され、数日で全面展開される。"
+          "SAPはAI Agent HubをJoule Studio経由でより広い顧客に開放し、企業内のAIエージェント、LLM、MCPサーバーを一元管理できるようにした。",
+          "自動検出とAIレジストリ機能はすでに一般提供されており、残る機能の一部は2026年第3四半期に提供予定だ。",
+          "各エージェントへの固有ID付与、リスク評価、コンプライアンス記録、アクセス制御、監査性の確保を重視している。"
         ],
-        "detailed_summary": "Googleは2026年5月12日、Workspace StudioのフローにNotebookLMを組み込めるAsk NotebookLMステップの提供を開始した。管理者はGemini for Google Workspaceのステップ利用を許可していれば追加設定なしで使え、エンドユーザーはStudio上で直接試せる。展開はRapid ReleaseとScheduled Releaseの両ドメイン向けに始まり、機能表示までは1〜3日を見込む。対象はBusiness Starter、Standard、Plus、Enterprise StandardとPlus、Education系プランやAI関連アドオンまで広い。NotebookLMを業務フローに自然に組み込む導線を、GoogleがWorkspace内部で強化した形だ。",
-        "why_it_matters": "NotebookLMが単体ツールから業務フローの部品へ進んだことで、要約や調査支援が日常業務に埋め込まれやすくなる。Googleは生成AI機能をアプリ単位ではなくWorkspace全体の自動化文脈で広げ始めている。",
-        "headline": "知識資産を業務フローへ埋め込む発想が、個人コンテキスト運用を広げる"
+        "detailed_summary": "SAPはSapphire 2026で、企業内に乱立するAIエージェント群を統制するためのSAP AI Agent Hubを発表した。従来はSAP LeanIX利用者向けだったが、Joule Studioを通じて対象を拡大し、SAP製か他社製かを問わずエージェント、LLM、MCPサーバーを棚卸しできる。中核は自動検出付きのAIレジストリで、あわせてリスク評価、コンプライアンス確認、ID管理、アクセス制御、監査性の仕組みも整備する。狙いは、AI資産の無秩序な増殖を防ぐ企業向けの記録台帳を握ることにある。",
+        "why_it_matters": "今後の大企業では、AIエージェントの数が増えるほど統制コストが膨らむ。SAPはERPの外側でも“管理の中枢”を握ろうとしており、エージェント運用の標準レイヤー争いが鮮明になっている。",
+        "headline": "エージェント乱立をどう束ねるかが主題で、運用設計の視点を補強する"
       },
-      "selection_reason": "知識資産を業務フローへ埋め込む発想が、個人コンテキスト運用を広げる",
-      "adjacent_field": "Knowledge Management and Personal Intelligence Systems",
-      "adjacent_reasoning": "AIに仕事を任せるほど、性能差はモデルそのものより、どんな知識をどう蓄積し再利用できるかに移る。個人のコンテキストを資産化して、事業開発・調査・発信を横断して効かせる発想は、この人の関心の上位概念になりやすい。"
+      "selection_reason": "エージェント乱立をどう束ねるかが主題で、運用設計の視点を補強する",
+      "adjacent_field": "組織サイバネティクス",
+      "adjacent_reasoning": "AIエージェントを役割分担させて事業を前に進めたい発想は、実質的にフィードバックループと統制設計の問題です。ここを学ぶと、単なるツール連携ではなく、監督範囲・例外処理・自己修正をどう設計するかまで見えるようになります。"
     },
     {
       "number": 12,
-      "title": "CelonisがContext Modelを発表、Ikigai Labsを買収",
-      "source": "Techzine Global",
+      "title": "Appian、プロセスに組み込むAIを強化し、大規模な企業成果を実現する新機能を発表",
+      "source": "PR Newswire",
       "description": "",
-      "url": "https://www.techzine.eu/news/analytics/141221/celonis-launches-context-model-and-acquires-ikigai-labs/",
+      "url": "https://www.prnewswire.com/apac/news-releases/appian-advances-ai-in-process-to-deliver-enterprise-outcomes-at-scale-302766677.html",
       "category": "AI・テクノロジー",
-      "published_at": "2026-05-12",
+      "published_at": "2026-05-13",
       "mode": "adjacent",
       "summary": {
         "article_index": 6,
-        "title_ja": "CelonisがContext Modelを発表、Ikigai Labsを買収",
+        "title_ja": "Appian、プロセスに組み込むAIを強化し、大規模な企業成果を実現する新機能を発表",
         "key_points": [
-          "Celonisは企業業務のリアルタイムなデジタルツインとなるCelonis Context Modelを発表した。",
-          "同時にDecision Intelligenceに強いIkigai Labsを買収し、計画、シミュレーション、予測機能を強化する。",
-          "Microsoft Copilot、Amazon Bedrock、Oracle OCI、Claudeなど複数のAI基盤との統合を進めている。"
+          "AppianはAI支援の仕様駆動開発と、エージェント向けMCP統合を含むプラットフォーム強化を発表した。",
+          "外部エージェントや外部システムとの安全な接続、エージェント性能追跡、メモリ活用による判断改善を進める。",
+          "Snowflakeとの提携により、AppianのAIオーケストレーションとSnowflakeのAI Data Cloudを接続する。"
         ],
-        "detailed_summary": "Celonisは、企業内のプロセスデータ、業務知識、運用情報を統合し、AIが実際の業務の流れを理解できるようにするCelonis Context Modelを発表した。これは業務運営のリアルタイムなデジタルツインとして機能し、AI投資が期待外れに終わる原因は文脈不足にあるという同社の問題意識を反映している。さらに、MIT由来の研究を基盤に持つIkigai Labsを買収し、計画立案、シミュレーション、需要予測などDecision Intelligenceの能力を取り込む。CCMはMicrosoft CopilotやOracle OCI Enterprise AI、Amazon Bedrock、IBM watsonx Orchestrate、Anthropic Claudeなどから利用可能で、主要データ基盤ともゼロコピー連携する。",
-        "why_it_matters": "企業向けAIの成否はモデル性能より、業務文脈をどれだけ正確に渡せるかに移っている。Celonisはその文脈レイヤーを押さえることで、AI活用の基盤企業としての位置を強めようとしている。",
-        "headline": "実験結果を業務全体の文脈に接続する発想で、改善判断の精度が上がる"
+        "detailed_summary": "Appianは、AIを単独機能としてではなく業務プロセスの中に埋め込む方針をさらに進め、AI支援のspec-driven developmentとMCP統合を打ち出した。Appianは、信頼性や制御不足の原因をデータ分断と文脈不足と捉え、プロセスモデルを安全な実行枠として使う。今後はエージェントの性能追跡、記憶のプロセス横断利用、最適化目標の指定も可能にする計画だ。加えてSnowflakeと連携し、データ統合、学習、業務実行をつなぐ企業向け基盤を強化する。",
+        "why_it_matters": "AIの価値はモデル単体より、業務プロセスと企業データにどう埋め込むかで決まる。Appianはその運用文脈を押さえにいき、エージェントを実務で使える形へ近づけている。",
+        "headline": "spec-driven開発と業務プロセス接続が、一人運営の型化にも応用しやすい"
       },
-      "selection_reason": "実験結果を業務全体の文脈に接続する発想で、改善判断の精度が上がる",
-      "adjacent_field": "Causal Inference and Experiment Design",
-      "adjacent_reasoning": "この人はMVPを高速に出すこと自体より、検証速度と学習速度を重視しているので、何が本当に効いたのかを見分ける実験設計が次のボトルネックになる。AIエージェントに市場調査や改善提案を任せるほど、相関ではなく因果で判断する枠組みが効いてくる。"
+      "selection_reason": "spec-driven開発と業務プロセス接続が、一人運営の型化にも応用しやすい",
+      "adjacent_field": "組織サイバネティクス",
+      "adjacent_reasoning": "AIエージェントを役割分担させて事業を前に進めたい発想は、実質的にフィードバックループと統制設計の問題です。ここを学ぶと、単なるツール連携ではなく、監督範囲・例外処理・自己修正をどう設計するかまで見えるようになります。"
     }
   ]
 }
