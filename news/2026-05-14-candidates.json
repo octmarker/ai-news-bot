@@ -1,0 +1,288 @@
+{
+  "date": "2026-05-14",
+  "mode": "multimode",
+  "articles": [
+    {
+      "number": 1,
+      "title": "Anthropic、中小企業オーナーという新たな顧客層を開拓",
+      "source": "TechCrunch",
+      "description": "",
+      "url": "https://techcrunch.com/2026/05/13/anthropic-courts-a-new-kind-of-customer-small-business-owners/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-13",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 1,
+        "title_ja": "Anthropic、中小企業オーナーという新たな顧客層を開拓",
+        "key_points": [
+          "Anthropicが中小企業向け新サービス群「Claude for Small Business」を発表した。",
+          "会計、経営分析、広告生成に加え、QuickBooksやCanva、PayPalなど主要業務ツールとの連携を提供する。",
+          "AI導入競争が大企業中心から、中小企業市場へ本格的に広がり始めたことを示している。"
+        ],
+        "detailed_summary": "Anthropicは、地元の小売店や飲食店のような中小企業を主対象にした「Claude for Small Business」を発表した。Claude Cowork内の新しい切り替え機能を通じて、記帳、経営インサイト、広告制作などの自動化を提供し、QuickBooks、Canva、Docusign、HubSpot、PayPalとも連携する。これまでAIの本格導入は予算の大きい大企業が中心だったが、中小企業でも活用が広がりつつある流れを受けた動きだ。Anthropicは全米10都市を巡る無料研修ツアーも計画しており、獲得競争の主戦場が中小企業市場へ移る兆しが鮮明になった。",
+        "why_it_matters": "米国経済を支える中小企業向けにAI提供が本格化すると、導入裾野が一気に広がる。AI競争が大企業向け機能の勝負から、実務に密着した現場浸透の勝負へ移る転換点でもある。",
+        "headline": "Claudeが中小企業向けに本格展開。AI社員運用が個人事業レベルまで下りてくる節目。"
+      },
+      "selection_reason": "Claudeが中小企業向けに本格展開。AI社員運用が個人事業レベルまで下りてくる節目。"
+    },
+    {
+      "number": 2,
+      "title": "AIチャットボットが実在する個人の電話番号を漏らしている",
+      "source": "MIT Technology Review",
+      "description": "",
+      "url": "https://www.technologyreview.com/2026/05/13/1137203/ai-chatbots-are-giving-out-peoples-real-phone-numbers/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-14",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 2,
+        "title_ja": "AIチャットボットが実在する個人の電話番号を漏らしている",
+        "key_points": [
+          "GoogleのGeminiなどが、無関係な個人の実在する電話番号を回答に含めた事例が報告されている。",
+          "研究者は、学習データ内の個人情報や誤った連想生成が原因の可能性を指摘している。",
+          "被害を受けた本人が止める有効な手段が乏しく、AI時代の新たなプライバシー問題として懸念が広がっている。"
+        ],
+        "detailed_summary": "Googleの生成AIが、問い合わせ先として無関係な個人の携帯番号を返したとみられる事例が相次いでいる。弁護士や鍵屋を探した利用者が誤誘導され、本人に迷惑電話が集中したケースや、研究者が他人の個人番号を引き出した例も報告された。DeleteMeによると、生成AI関連の個人情報相談は直近7カ月で400％増え、ChatGPT、Gemini、Claudeが中心だという。原因は学習データ中の個人情報や、もっともらしい誤情報生成とみられるが、削除や再発防止の仕組みは十分ではない。AIが公開情報を再構成するだけでなく、現実の被害を生む局面に入った。",
+        "why_it_matters": "生成AIのリスクが抽象的な誤情報問題にとどまらず、実在個人への直接被害に発展している。規制、学習データ管理、削除請求の仕組みを急いで整えないと、利用拡大とともに被害も増える。",
+        "headline": "エージェント活用の普及に対し、個人情報漏えいが現実の運用リスクとして顕在化した。"
+      },
+      "selection_reason": "エージェント活用の普及に対し、個人情報漏えいが現実の運用リスクとして顕在化した。"
+    },
+    {
+      "number": 3,
+      "title": "Cisco株、AI受注急増で17％上昇　一方で約4,000人削減へ",
+      "source": "CNBC",
+      "description": "",
+      "url": "https://www.cnbc.com/2026/05/13/cisco-csco-q3-earnings-report-2026.html",
+      "category": "経済・金融",
+      "published_at": "2026-05-13",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 3,
+        "title_ja": "Cisco株、AI受注急増で17％上昇　一方で約4,000人削減へ",
+        "key_points": [
+          "Ciscoは市場予想を上回る決算と強い業績見通しを示し、時間外取引で株価が17％上昇した。",
+          "AIインフラ関連の受注が今年累計53億ドルに達し、通期見通しも50億ドルから90億ドルへ引き上げた。",
+          "成長投資を優先するため、従業員の5％未満に当たる約4,000人弱の削減を進める。"
+        ],
+        "detailed_summary": "Ciscoは4月25日までの四半期で、売上高158.4億ドル、調整後EPS1.06ドルと市場予想を上回り、次四半期見通しも大幅に強気だった。とくにAIインフラとハイパースケーラー向け受注が急増し、今年の累計受注は53億ドル、通期見通しは90億ドルへ引き上げられた。ネットワーク部門売上も25％増と好調で、AI需要を背景に投資家評価が一段と高まった。一方で、経営陣は成長分野へ資源を振り向けるため、今四半期に4,000人未満の人員削減を実施し、関連費用として10億ドルの税引前費用を計上する。",
+        "why_it_matters": "AI関連需要が旧来のネットワーク企業にも本格的な追い風をもたらしていることを示す決算だ。同時に、AI投資の裏では人員再配置とコスト削減が進み、業界構造の変化が雇用にも波及している。",
+        "headline": "AI需要が企業IT支出を押し上げる一方、人員再編も進む構図がはっきり見える材料。"
+      },
+      "selection_reason": "AI需要が企業IT支出を押し上げる一方、人員再編も進む構図がはっきり見える材料。"
+    },
+    {
+      "number": 4,
+      "title": "Cerebras、想定超えの価格でIPO実施　AI上場ラッシュの先陣に",
+      "source": "CNBC",
+      "description": "",
+      "url": "https://www.cnbc.com/2026/05/13/cerebras-prices-ipo-above-expected-range-wall-street-expects-ai-flood.html",
+      "category": "経済・金融",
+      "published_at": "2026-05-13",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 4,
+        "title_ja": "Cerebras、想定超えの価格でIPO実施　AI上場ラッシュの先陣に",
+        "key_points": [
+          "AIチップ企業CerebrasはIPO価格を想定レンジ上限より高い1株185ドルに設定した。",
+          "調達額は少なくとも55.5億ドルで、近年でも最大級のテックIPOの一つとなった。",
+          "G42依存への懸念を抱えつつも、OpenAIとの大型契約などを背景に投資家の期待を集めている。"
+        ],
+        "detailed_summary": "AI向け半導体を手がけるCerebras Systemsは、IPO価格を想定レンジ超えの185ドルで決定し、少なくとも55.5億ドルを調達した。完全希薄化後の企業価値は564億ドルに達し、近年の米テックIPOでも最大級となる。2024年にはUAEのG42への高い売上依存が精査され上場申請を取り下げたが、最新目論見書では依存度低下を示した。一方で、別のUAE機関への集中は残る。OpenAIと200億ドル超の計算資源契約を結んだことも追い風で、NVIDIA以外へ資金が広がるAI半導体相場の象徴的案件になっている。",
+        "why_it_matters": "AIブームが未上場企業の資金調達環境まで大きく押し上げている実例だ。半導体覇権争いでNVIDIA以外の選択肢に市場がどこまで賭けるかを測る試金石にもなる。",
+        "headline": "AIインフラ銘柄への期待が極端に強い。開発基盤コストの先高観を読むうえで重要。"
+      },
+      "selection_reason": "AIインフラ銘柄への期待が極端に強い。開発基盤コストの先高観を読むうえで重要。"
+    },
+    {
+      "number": 5,
+      "title": "AIを持続可能にするには何が必要か",
+      "source": "WIRED",
+      "description": "",
+      "url": "https://www.wired.com/story/what-it-will-take-to-make-ai-sustainable/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-14",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 5,
+        "title_ja": "AIを持続可能にするには何が必要か",
+        "key_points": [
+          "AI拡張でデータセンター建設と化石燃料依存が進み、環境負荷の増大が問題になっている。",
+          "研究者サーシャ・ルッチョーニは、企業や従業員からAIの排出量可視化を求める圧力が強まっていると指摘する。",
+          "新組織Sustainable AI Groupは、モデル選定や電源構成の見直しを通じて企業の環境負荷低減を支援する。"
+        ],
+        "detailed_summary": "AI開発競争が加速する中、巨大データセンター建設と化石燃料利用が広がり、テック企業の脱炭素公約との矛盾が鮮明になっている。Hugging FaceでAIの電力効率可視化を進めてきたサーシャ・ルッチョーニは、企業側でも従業員や取締役会からESGとの整合性を問う声が強まっていると語る。そこで彼女は元Salesforce幹部と新たにSustainable AI Groupを設立し、モデル選択、電源、サプライチェーン排出などを測定しながら、AI活用を少しでも環境負荷の低い形へ寄せる支援に乗り出す。焦点はAIを止めることではなく、見えない負荷を数字で示すことにある。",
+        "why_it_matters": "AIの成長が続くほど、環境コストの開示と管理は避けて通れない経営課題になる。持続可能性の指標が整えば、将来はモデル選定やクラウド契約の競争条件そのものが変わる。",
+        "headline": "AI拡大の裏で電力と排出の制約が重くなる。実装速度だけでは済まない論点。"
+      },
+      "selection_reason": "AI拡大の裏で電力と排出の制約が重くなる。実装速度だけでは済まない論点。"
+    },
+    {
+      "number": 6,
+      "title": "Anthropic、Claude契約でOpenClawなど外部エージェント利用を再開　ただし条件付き",
+      "source": "VentureBeat",
+      "description": "",
+      "url": "https://venturebeat.com/technology/anthropic-reinstates-openclaw-and-third-party-agent-usage-on-claude-subscriptions-with-a-catch",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-13",
+      "mode": "deep_dive",
+      "summary": {
+        "article_index": 6,
+        "title_ja": "Anthropic、Claude契約でOpenClawなど外部エージェント利用を再開　ただし条件付き",
+        "key_points": [
+          "Anthropicは有料Claude契約者向けに、新たな「Agent SDK」クレジットを導入し、外部エージェントでの利用を再び認めた。",
+          "ただし利用は月額固定クレジットの範囲内に限定され、未使用分の繰り越しはなく、超過分は別途購入が必要となる。",
+          "背景には、月額契約を大きく超えるトークン消費が発生し、採算と計算資源を圧迫していた事情がある。"
+        ],
+        "detailed_summary": "Anthropicは、OpenClawのような外部の自律型AIエージェントでClaudeサブスクリプションを使える仕組みを条件付きで復活させた。新設された「Agent SDK」クレジットは、Claude ProやMaxの契約額に応じた固定月額分だけがプログラム利用に充てられ、API料金ベースで消費される。使わなかった分は失効し、使い切っても通常の契約枠から補填はできず、追加クレジット購入が必要だ。4月に外部エージェント利用を制限したのは、低額契約で高額相当のトークン消費が起き、計算資源と収益性を損ねていたためで、今回はその歪みを抑えつつ需要を取り戻す妥協策といえる。",
+        "why_it_matters": "AI各社がサブスクリプションとAPI課金をどう切り分けるかは、今後のエージェント市場の成長を左右する。便利さだけでなく、推論コストを誰が負担するかがサービス設計の核心になっている。",
+        "headline": "Claude契約を外部エージェントにどう繋ぐかという実運用の核心に直結する話。"
+      },
+      "selection_reason": "Claude契約を外部エージェントにどう繋ぐかという実運用の核心に直結する話。"
+    },
+    {
+      "number": 7,
+      "title": "NotionがワークスペースをAIエージェントのハブへ進化",
+      "source": "TechCrunch",
+      "description": "",
+      "url": "https://techcrunch.com/2026/05/13/notion-just-turned-its-workspace-into-a-hub-for-ai-agents/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-13",
+      "mode": "deep_dive",
+      "summary": {
+        "article_index": 1,
+        "title_ja": "NotionがワークスペースをAIエージェントのハブへ進化",
+        "key_points": [
+          "Notionが新たな開発者向け基盤を発表し、独自AIエージェントの拡張や外部エージェント連携を可能にした",
+          "クラウド実行環境「Workers」により、顧客は自前インフラなしでカスタムコード、Webhook、データ同期を動かせる",
+          "SalesforceやZendesk、Postgresなど外部データをNotion DBへ同期し、業務フローとエージェントの中核に据える狙いだ"
+        ],
+        "detailed_summary": "Notionはライブ配信で、AIエージェント時代を見据えた新しい開発者向けプラットフォームを公開した。2月に始めたCustom Agentsは100万件超が作られた一方、外部データ接続や独自ロジックに弱く、現場では外部自動化ツールや自前スクリプトに頼っていた。今回のWorkersは安全なサンドボックス上で任意コードを動かし、Webhook起点の処理やDB同期、独自ツール構築を可能にする。Notionは単なるノートアプリから、人とAIエージェントが複数ツールをまたいで協働する基盤へ軸足を移し始めた。",
+        "why_it_matters": "AIを使った業務自動化の主戦場が、単体アプリの補助機能からワークスペース全体のオーケストレーションへ移っていると分かる。Notionがそこを握れば、日常業務の中心により深く入り込める。",
+        "headline": "知識ベースをエージェント実行面に変える流れで、個人の外脳運用と相性がかなり良い。"
+      },
+      "selection_reason": "知識ベースをエージェント実行面に変える流れで、個人の外脳運用と相性がかなり良い。"
+    },
+    {
+      "number": 8,
+      "title": "Red Hatのスキルパックは、大規模モデルでは得られない20年分の組織知をAIエージェントに与える",
+      "source": "The New Stack",
+      "description": "",
+      "url": "https://thenewstack.io/red-hat-agentic-skills-repository/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-13",
+      "mode": "deep_dive",
+      "summary": {
+        "article_index": 2,
+        "title_ja": "Red Hatのスキルパックは、大規模モデルでは得られない20年分の組織知をAIエージェントに与える",
+        "key_points": [
+          "Red HatはAIエージェント向けの専用スキルリポジトリを発表し、次の差別化要因をモデル規模ではなくスキル層に置いた",
+          "サポート情報やナレッジベースなど20年以上の蓄積を活用し、Ask Red Hatのような実務型AIを強化している",
+          "RHEL、OpenShift、Ansible上で使うスキルパックは、手順理解、計画、実行、ガードレールをまとめた再利用可能な部品になる"
+        ],
+        "detailed_summary": "Red HatはRed Hat Summitで、AIエージェント向けの専用スキル基盤を打ち出した。狙いはモデルを巨大化することではなく、RHELやOpenShift、Ansible、社内外の運用知識をスキルとして製品化し、企業環境で安全に動く実務エージェントへ変えることにある。Ask Red Hatは20年以上のサポート情報を土台にしており、その発想を一段進めて、RAGで補強したLLMに推論、計画、実行、既存ポリシー準拠まで持たせる。代表例のRHEL管理者向けスキルパックでは、CVEや製品ライフサイクル、サポート規約を踏まえた判断が可能になる。",
+        "why_it_matters": "企業向けAIの価値は汎用モデルの大きさより、現場固有の知識と運用ルールをどう埋め込むかで決まる。Red Hatはその実装方法をスキルとして商品化しようとしている。",
+        "headline": "モデル性能よりスキルと蓄積知識が効くという視点で、運用設計の優先順位を補強する。"
+      },
+      "selection_reason": "モデル性能よりスキルと蓄積知識が効くという視点で、運用設計の優先順位を補強する。"
+    },
+    {
+      "number": 9,
+      "title": "MCP可観測性: エージェントループ全体でツール呼び出しを追跡する",
+      "source": "PADISO Blog",
+      "description": "",
+      "url": "https://www.padiso.co/blog/mcp-observability-tracing-tool-calls-agent-loop/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-13",
+      "mode": "deep_dive",
+      "summary": {
+        "article_index": 3,
+        "title_ja": "MCP可観測性: エージェントループ全体でツール呼び出しを追跡する",
+        "key_points": [
+          "自律的にツールを選んで反復するAIエージェントでは、通常のログだけでは原因追跡やコスト管理が不十分だと指摘する",
+          "OpenTelemetryをMCP基盤に組み込み、各ツール呼び出し、LLM判断、データフローをトレース可能にする手法を解説する",
+          "無限ループや異常なツール再実行を早期に検知し、PostHogダッシュボードで運用監視する重要性を具体例で示した"
+        ],
+        "detailed_summary": "この記事は、MCPを使うエージェント型AIを本番運用するうえで可観測性が不可欠だと論じる。エージェントは決め打ちのコード経路を進まず、推論しながらツールを呼ぶため、どの順で何を実行し、どこで失敗や遅延が起きたか見えにくい。実例では、サポート自動化エージェントが同じDBクエリを微妙に条件を変えながら繰り返し、48時間で4.7万ドルのLLM費用を発生させた。対策としてOpenTelemetryでトレース、メトリクス、ダッシュボードを整え、ツール実行経路とループ異常を即座に把握する設計を勧めている。",
+        "why_it_matters": "エージェント導入の失敗は精度不足だけでなく、見えない暴走コストでも起きる。運用監視を先に設計しないと、AIは便利な自動化ではなく高額なブラックボックスになる。",
+        "headline": "複数エージェントと外部連携を回すなら、可観測性は必須。実装後の詰まりを減らせる。"
+      },
+      "selection_reason": "複数エージェントと外部連携を回すなら、可観測性は必須。実装後の詰まりを減らせる。"
+    },
+    {
+      "number": 10,
+      "title": "Palo Alto、自律型AI向けのIDセキュリティでIdiraを投入",
+      "source": "CSO Online",
+      "description": "",
+      "url": "https://www.csoonline.com/article/4170761/palo-alto-bets-on-identity-security-for-autonomous-ai-with-idira-launch.html",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-13",
+      "mode": "adjacent",
+      "summary": {
+        "article_index": 4,
+        "title_ja": "Palo Alto、自律型AI向けのIDセキュリティでIdiraを投入",
+        "key_points": [
+          "Palo Alto Networksは、人間、マシン、AIエージェントを一つの制御面で扱う新しいIDセキュリティ基盤「Idira」を発表した",
+          "従来のIAMやPAMでは、APIを呼び、機密データに触れ、自律的に権限昇格し得るAIエージェントを十分に統制できないと見る",
+          "Idiraは全IDを特権対象として扱い、継続的な発見、利用権限の文脈化、動的な権限昇格管理で盲点を埋める"
+        ],
+        "detailed_summary": "Palo Alto Networksは、AIエージェントの普及で既存のID管理の前提が崩れたとして、次世代IDセキュリティ基盤Idiraを発表した。企業ではすでにAIエージェントが認証し、APIを実行し、機密情報へ到達し、タスク完了のために権限を広げる場面が増えているが、従来のIAMやPAMはそこを十分に可視化も制御もできない。Idiraは人、マシン、エージェントの全IDを一元的に扱い、SaaSやクラウド、開発環境を継続監視して所有者、到達可能資産、実際の権限利用状況まで把握する。静的トークン配布ではなく、実行時に必要最小限の権限を与える発想が核だ。",
+        "why_it_matters": "AIエージェントが業務に入るほど、IDセキュリティは人間中心の設計では足りなくなる。アクセス権の管理は、AI導入の成否を左右する基盤課題に変わりつつある。",
+        "headline": "AI社員化を進めるほど権限設計がボトルネックになる。役割分担の安全面を学べる。"
+      },
+      "selection_reason": "AI社員化を進めるほど権限設計がボトルネックになる。役割分担の安全面を学べる。",
+      "adjacent_field": "メカニズムデザインと組織設計",
+      "adjacent_reasoning": "AIエージェントを役割分担させて事業を進めたい関心は、結局のところ誰にどの権限を与え、どう衝突を防ぎ、どう評価するかという設計問題に行き着く。ここを学ぶと、単なるツール連携ではなく人間とAIを混ぜた運営モデルそのものを設計できるようになる。"
+    },
+    {
+      "number": 11,
+      "title": "Microsoft Research、AIエージェントは依然として業務文書を壊すと警告",
+      "source": "WinBuzzer",
+      "description": "",
+      "url": "https://winbuzzer.com/2026/05/13/microsoft-researchers-find-ai-models-and-agents-ca-xcxwbn/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-13",
+      "mode": "adjacent",
+      "summary": {
+        "article_index": 5,
+        "title_ja": "Microsoft Research、AIエージェントは依然として業務文書を壊すと警告",
+        "key_points": [
+          "Microsoft Researchのプレプリントは、長い委任編集の連鎖でAIエージェントが文書内容を劣化・欠落させると警告した",
+          "DELEGATE-52ベンチマークでは、最先端モデルでも20回の引き継ぎ後に25%の文書損失、全体平均では最大50%の劣化が出た",
+          "企業はAI自動化投資を増やしても、人間のレビュー、監査、承認を簡単には減らせない可能性が高い"
+        ],
+        "detailed_summary": "Microsoft Researchは、AIエージェントが長いワークフローの中で同じ文書を繰り返し編集すると、意図、構造、事実が徐々に失われると報告した。DELEGATE-52はコーディングや結晶学、音楽記譜を含む52領域で、1つの成果物を20回にわたり引き継いで改訂させる試験だ。単発の高品質な初稿が作れても、長い委任チェーンでは指示文、数値、但し書きが抜け落ち、最先端モデルでも25%の損失、全体平均では50%近い劣化に達した。契約書や方針文書のような現場業務では、AIはまだ信頼できる代理人というより高速な下書き要員にとどまる。",
+        "why_it_matters": "企業が期待するのは一発回答ではなく、長い業務工程を壊さず回せることだ。そこが弱い限り、AI導入が進んでも人間の確認コストは残り続ける。",
+        "headline": "委譲を増やすほど品質破壊も増える。人間レビューの置きどころを考え直す材料になる。"
+      },
+      "selection_reason": "委譲を増やすほど品質破壊も増える。人間レビューの置きどころを考え直す材料になる。",
+      "adjacent_field": "メカニズムデザインと組織設計",
+      "adjacent_reasoning": "AIエージェントを役割分担させて事業を進めたい関心は、結局のところ誰にどの権限を与え、どう衝突を防ぎ、どう評価するかという設計問題に行き着く。ここを学ぶと、単なるツール連携ではなく人間とAIを混ぜた運営モデルそのものを設計できるようになる。"
+    },
+    {
+      "number": 12,
+      "title": "Boomi、企業向けAIの制御基盤を自称",
+      "source": "iTWire",
+      "description": "",
+      "url": "https://itwire.com/business-it-news/data/boomi-pitches-itself-as-the-control-plane-for-enterprise-ai",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-14",
+      "mode": "adjacent",
+      "summary": {
+        "article_index": 6,
+        "title_ja": "Boomi、企業向けAIの制御基盤を自称",
+        "key_points": [
+          "BoomiはBoomiWorld 2026で、AIの成功には接続されたリアルタイムかつ統制済みのデータが不可欠だと訴えた",
+          "CEOのSteve Lucasは、AIがSaaSを終わらせるのではなく、むしろ管理すべきソフトウェア、API、オーケストレーションを増やすと主張した",
+          "Boomi Orchestrateやエージェント統制機能、モデルルーティング、lunar.dev買収計画などを通じ、企業AIの接続層を狙う"
+        ],
+        "detailed_summary": "Boomiは年次イベントBoomiWorldで、AIの本質的な課題はモデル性能よりも、信頼できるデータ接続、統制、ROIにあると打ち出した。Steve Lucas CEOは、企業データのうちAI活用可能な状態にあるのは7%にすぎず、多くは分断されたシステムに閉じ込められていると説明する。そのため必要なのは保存されたデータではなく、リアルタイムで文脈付きに流れるアクティブデータだという。この考え方を軸に、Boomi Orchestrate、エージェントガバナンス、AIオーケストレーション、モデルルーティング、新たなパートナー連携を発表し、自社をモデル企業ではなく企業AIの制御面として位置付けた。",
+        "why_it_matters": "企業AIの競争はモデル選びだけでは決まらず、データと業務システムをどう安全につなぐかで決まる。Boomiはその接続層を押さえることで、AI時代の中核インフラを狙っている。",
+        "headline": "複数エージェント運用を制御面から捉え直せる。コストと実行管理の視点が広がる。"
+      },
+      "selection_reason": "複数エージェント運用を制御面から捉え直せる。コストと実行管理の視点が広がる。",
+      "adjacent_field": "オペレーションズリサーチと制約最適化",
+      "adjacent_reasoning": "複数エージェント、APIコスト、トークン上限、実行時間、レビュー頻度を同時に扱う運用は、小さな開発問題というより資源配分の最適化問題に近い。ここを知ると、どのタスクを自動化し、どこに人間を残し、どこでコストを削るべきかを感覚ではなく構造で決められる。"
+    }
+  ]
+}
