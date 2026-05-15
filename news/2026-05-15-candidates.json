@@ -1,0 +1,288 @@
+{
+  "date": "2026-05-15",
+  "mode": "multimode",
+  "articles": [
+    {
+      "number": 1,
+      "title": "どこからでもCodexと働く",
+      "source": "OpenAI",
+      "description": "",
+      "url": "https://openai.com/index/work-with-codex-from-anywhere/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-14",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 1,
+        "title_ja": "どこからでもCodexと働く",
+        "key_points": [
+          "CodexがChatGPTモバイルアプリのプレビュー機能として提供され、スマホから進行中の作業を確認・指示できるようになった。",
+          "ノートPCやリモート環境上で動くCodexの状態をそのまま読み込み、承認、出力確認、モデル変更、新規タスク開始まで行える。",
+          "ファイルや認証情報は実行中のマシン側に残しつつ、安全な中継レイヤーでセッション状態と更新内容を端末間同期する。"
+        ],
+        "detailed_summary": "OpenAIはCodexをChatGPTモバイルアプリに載せ、外出先でも進行中の開発作業へ介入できる体験を打ち出した。スマホから確認できるのは単なる遠隔操作ではなく、複数スレッドの閲覧、コマンド承認、出力レビュー、モデル切り替え、新規依頼までを含む。スクリーンショット、ターミナル出力、差分、テスト結果もリアルタイムで返り、長時間動くAIエージェントに人が適切なタイミングで判断を差し込む運用を前提にした設計になっている。",
+        "why_it_matters": "AIエージェントが長時間自律的に動く時代では、細かい確認や承認をどこで差し込めるかが生産性を左右する。Codexをモバイル化したことで、開発フローはデスク前に縛られにくくなる。",
+        "headline": "Codexがモバイル対応し、外出先でも開発ループを回せる実運用の幅が一気に広がる"
+      },
+      "selection_reason": "Codexがモバイル対応し、外出先でも開発ループを回せる実運用の幅が一気に広がる"
+    },
+    {
+      "number": 2,
+      "title": "AIが自分自身を作り始めたら何が起きるのか？",
+      "source": "TechCrunch",
+      "description": "",
+      "url": "https://techcrunch.com/2026/05/14/what-happens-when-ai-starts-building-itself/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-14",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 2,
+        "title_ja": "AIが自分自身を作り始めたら何が起きるのか？",
+        "key_points": [
+          "Richard Socherが新興企業Recursive Superintelligenceを立ち上げ、6億5000万ドルを調達した。",
+          "同社はAIが自分の弱点を見つけ、研究の発想から実装、検証まで自動で回す再帰的自己改善の実現を目指す。",
+          "中核の考え方はオープンエンデッドネスで、生物進化のように終わりのない適応過程をAI研究へ持ち込もうとしている。"
+        ],
+        "detailed_summary": "元You.com創業者のRichard Socherは、Peter Norvigら著名研究者とともにRecursive Superintelligenceを始動させた。狙いは、単発の改善ではなく、AI自身が欠点を認識し、研究アイデアの生成から実装、検証までを自律的に回しながら自分を改良し続ける仕組みだ。Socherはこれを既存の自動研究とは別物と位置づけ、DeepMind出身者の知見を生かしたオープンエンデッドな探索で、自己改善が止まらないAI研究基盤を作ろうとしている。",
+        "why_it_matters": "再帰的自己改善が実現すれば、AIの進歩速度そのものが加速しかねない。これは単なる新興企業の資金調達ではなく、次のAI競争が研究の自動化に移りつつある兆候でもある。",
+        "headline": "AIが自前で能力拡張する流れは、エージェント設計の前提を変える重要論点になりうる"
+      },
+      "selection_reason": "AIが自前で能力拡張する流れは、エージェント設計の前提を変える重要論点になりうる"
+    },
+    {
+      "number": 3,
+      "title": "ClawdmeterがClaude Codeの利用状況を小さなデスクトップダッシュボードに変える",
+      "source": "TechCrunch",
+      "description": "",
+      "url": "https://techcrunch.com/2026/05/14/clawdmeter-turns-your-claude-code-usage-stats-into-a-tiny-desktop-dashboard/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-14",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 3,
+        "title_ja": "ClawdmeterがClaude Codeの利用状況を小さなデスクトップダッシュボードに変える",
+        "key_points": [
+          "オープンソースの小型端末Clawdmeterは、Claude Codeの利用量をピクセルアート付きで机上表示する。",
+          "アイスランドの開発者Hermann HaraldssonがClaudeの支援を受け、数日で試作した。",
+          "Bluetooth接続で利用状況の表示に加え、音声モードやモード切り替え用ショートカット送信にも対応する。"
+        ],
+        "detailed_summary": "Clawdmeterは、Claude Codeのセッションや週間利用量を小型ディスプレイで可視化する遊び心の強いハードウェアだ。利用率が上がるほどClawdのアニメーションがにぎやかになり、ボタン操作でチャート表示やBluetooth状態確認にも切り替えられる。開発者のHermann Haraldssonは組み込みの専門家ではないが、Claudeの助けで短期間に完成させたという。AIがソフト開発だけでなく電子工作の敷居まで下げ始めていることを象徴する事例としても読める。",
+        "why_it_matters": "AIコーディング支援が一部のツールではなく、開発者文化そのものに深く入り込んでいることが見える。利用量の可視化や専用デバイス化は、AIが作業環境の常設インフラになりつつある証拠だ。",
+        "headline": "Claude Codeの使用量を可視化し、トークン管理と運用改善を直結させる題材として強い"
+      },
+      "selection_reason": "Claude Codeの使用量を可視化し、トークン管理と運用改善を直結させる題材として強い"
+    },
+    {
+      "number": 4,
+      "title": "YouTube視聴者は毎月20億時間分のShortsをテレビで見ている",
+      "source": "TechCrunch",
+      "description": "",
+      "url": "https://techcrunch.com/2026/05/14/youtube-viewers-watch-2-billion-hours-of-shorts-on-tvs-each-month/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-14",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 4,
+        "title_ja": "YouTube視聴者は毎月20億時間分のShortsをテレビで見ている",
+        "key_points": [
+          "YouTubeによると、Shortsはテレビ画面で毎月20億時間以上視聴されている。",
+          "リビングルームはYouTubeで最も成長が速い視聴画面で、検索結果やGoogle TV経由でShorts視聴が広がっている。",
+          "テレビ向けには縦動画の余白を活用し、コメントを横表示するなど視聴体験の最適化も進めている。"
+        ],
+        "detailed_summary": "本来はスマホ向けと見られてきた縦型短尺動画が、テレビでも大きな視聴時間を生み出している。YouTubeはShortsの月間テレビ視聴が20億時間を超えたと公表し、リビングルームを重要な成長領域として位置づけた。Google TVでの露出拡大や、テレビ向けUIの調整も後押しになっている。あわせてポッドキャストのテレビ視聴も増えており、長尺、短尺、音声系コンテンツの境界が家庭の大画面で曖昧になってきた。",
+        "why_it_matters": "動画フォーマットは端末ごとに分かれるという前提が崩れ始めている。クリエイターや広告主にとっては、Shortsをモバイル専用と見なす戦略がもう通用しない。",
+        "headline": "短尺動画の視聴文脈が変わり、SNS発信とデモ配信の設計を見直す価値が高い"
+      },
+      "selection_reason": "短尺動画の視聴文脈が変わり、SNS発信とデモ配信の設計を見直す価値が高い"
+    },
+    {
+      "number": 5,
+      "title": "自分の身体がディープフェイクポルノに使われる衝撃",
+      "source": "MIT Technology Review",
+      "description": "",
+      "url": "https://www.technologyreview.com/2026/05/14/1137161/ai-porn-nonconsensual-deepfakes-takedown-piracy-copyright/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-15",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 5,
+        "title_ja": "自分の身体がディープフェイクポルノに使われる衝撃",
+        "key_points": [
+          "性的ディープフェイクの議論では顔を使われた被害者に注目が集まりがちだが、身体を無断利用される成人向け出演者の権利侵害も深刻だ。",
+          "成人向け出演者の映像や身体表現は、個別の流用だけでなく生成AIの学習データとしても使われ、将来の仕事を奪う危険がある。",
+          "AIの進化により、出演者の身体や演技の特徴が見えにくい形で再利用されるようになり、被害の把握も補償も難しくなっている。"
+        ],
+        "detailed_summary": "この記事は、性的ディープフェイク被害を顔のすげ替えだけで語る限界を突く。過去に成人向け作品へ出演していたJenniferは、自分の身体に別人の顔が重ねられた映像を見つけ、身体の無断使用という別の被害を自覚した。さらに問題は、出演者の身体が生成AIの学習素材として取り込まれ、今後は特定困難なかたちで模倣される点に広がっている。権利侵害だけでなく、出演者の将来的な収入や職業的立場まで脅かす構造的な問題になりつつある。",
+        "why_it_matters": "生成AIの被害は顔認識しやすい有名人だけの話ではない。見えにくい労働と身体が裏側で使われている問題に目を向けないと、法整備も補償設計も不十分なままになる。",
+        "headline": "生成AI活用の拡大と同時に、悪用リスクと対策コストも無視できない現実を突く"
+      },
+      "selection_reason": "生成AI活用の拡大と同時に、悪用リスクと対策コストも無視できない現実を突く"
+    },
+    {
+      "number": 6,
+      "title": "Claude Codeの「/goals」は、作業するエージェントと完了判定するエージェントを分ける",
+      "source": "VentureBeat",
+      "description": "",
+      "url": "https://venturebeat.com/orchestration/claude-codes-goals-separates-the-agent-that-works-from-the-one-that-decides-its-done",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-14",
+      "mode": "deep_dive",
+      "summary": {
+        "article_index": 6,
+        "title_ja": "Claude Codeの「/goals」は、作業するエージェントと完了判定するエージェントを分ける",
+        "key_points": [
+          "AIエージェントの失敗は能力不足より、タスクを早く終わったと誤判定することに起因しやすい。",
+          "Anthropicの`/goals`は、実行担当モデルとは別に評価担当モデルを置き、各ステップ後に目標達成を判定させる。",
+          "小型モデルHaikuでも、テスト通過やビルド成功のような明確な終了条件を監視する役割なら十分機能するとされる。"
+        ],
+        "detailed_summary": "Claude Codeの`/goals`は、コード編集やコマンド実行を進める主エージェントとは別に、完了条件だけを監視する評価モデルを常時挟む仕組みだ。これにより、実装自体は進んでいても未コンパイルや未達成の項目を残したまま終了する事故を減らせる。OpenAIやGoogle、LangChain系にも類似の考え方はあるが、Anthropicはこれをデフォルト機能として組み込み、外部の観測基盤や独自の終了ロジックを用意しなくても運用しやすい形にした。",
+        "why_it_matters": "企業でAIエージェントを本番投入する際のボトルネックは、賢さより止まり方の制御だ。実行と完了判定を分離する設計は、長時間タスクを安全に任せる標準パターンになり得る。",
+        "headline": "実行役と完了判定役を分ける発想が、AI社員の役割設計そのものに直結する"
+      },
+      "selection_reason": "実行役と完了判定役を分ける発想が、AI社員の役割設計そのものに直結する"
+    },
+    {
+      "number": 7,
+      "title": "開発者はRaindropのオープンソースツールWorkshopでAIエージェントをローカルにデバッグ・評価可能に",
+      "source": "VentureBeat",
+      "description": "",
+      "url": "https://venturebeat.com/technology/developers-can-now-debug-and-evaluate-ai-agents-locally-with-raindrops-open-source-tool-workshop",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-14",
+      "mode": "deep_dive",
+      "summary": {
+        "article_index": 1,
+        "title_ja": "開発者はRaindropのオープンソースツールWorkshopでAIエージェントをローカルにデバッグ・評価可能に",
+        "key_points": [
+          "Raindrop AIがAIエージェント向けローカルデバッガ兼評価ツール「Workshop」をMITライセンスで公開",
+          "トークン、ツール呼び出し、判断履歴を単一のSQLデータベースに保存し、ローカルUIでリアルタイム可視化",
+          "Claude Codeなどのコーディングエージェントと組み合わせ、自動で評価を書いて修正する自己修復ループを実現"
+        ],
+        "detailed_summary": "Raindrop AIは、AIエージェントの挙動をローカルで追跡・検証できるオープンソースツールWorkshopを公開した。各トークン、ツール呼び出し、判断の流れを軽量な.dbファイルにまとめ、localhost上のUIで即時確認できるため、外部サーバーへトレースを送らずに不具合の原因を追える。TypeScript、Python、Rust、GoやOpenAI、Anthropic、LangChainなど幅広い環境に対応し、Claude Codeを使った評価生成と修正の自動反復まで視野に入る。AIエージェント開発の観測性を手元で完結させる基盤として位置づけられる。",
+        "why_it_matters": "AIエージェント開発では、どこで誤判断したか追えないことが最大のボトルネックになりやすい。ローカル完結の可観測性と自動評価ループが整えば、品質改善の速度とデータ主権の両方を確保しやすくなる。",
+        "headline": "開発速度より検証速度を重視する志向に合い、ローカル評価基盤の参考度が高い"
+      },
+      "selection_reason": "開発速度より検証速度を重視する志向に合い、ローカル評価基盤の参考度が高い"
+    },
+    {
+      "number": 8,
+      "title": "skill-creator とは？— AI エージェント向けの「スキル」を作ってみよう",
+      "source": "サーバーワークスエンジニアブログ",
+      "description": "",
+      "url": "https://blog.serverworks.co.jp/claude-code-skill-creator-guide",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-14",
+      "mode": "deep_dive",
+      "summary": {
+        "article_index": 2,
+        "title_ja": "skill-creator とは？— AI エージェント向けの「スキル」を作ってみよう",
+        "key_points": [
+          "Anthropic公式のskill-creatorは、Claude Code向けスキル開発を自動化するメタスキル",
+          "SKILL.mdの生成、テストケース作成、ベースライン比較、レビュー、description最適化まで一連の開発ループを支援",
+          "特にdescriptionの書き方とトリガー精度の改善がスキル品質を大きく左右する"
+        ],
+        "detailed_summary": "この記事は、Claude Codeのスキルを作るための公式メタスキルskill-creatorを解説している。SKILL.mdの下書き生成だけでなく、要件ヒアリング、evals.jsonによる定量評価、スキルありとなしの並列比較、ブラウザ上のレビュー画面、descriptionの自動チューニングまで支援するのが特徴だ。Claudeがどの発話でスキルを呼ぶかはdescriptionの一文に強く依存するため、作成後のトリガー最適化が重要になる。手作業で回していた試行錯誤を仕組みに置き換え、スキル改善の管理コストを下げる実践的な枠組みとして紹介されている。",
+        "why_it_matters": "AIエージェント活用が進むほど、個別ワークフローをどう再利用可能な形で資産化するかが重要になる。skill-creatorはその作業を属人的な勘から評価ループへ移し、スキル開発を継続的な改善対象に変える。",
+        "headline": "専用スキルで反復業務を固める関心と一致し、運用資産化のヒントが得やすい"
+      },
+      "selection_reason": "専用スキルで反復業務を固める関心と一致し、運用資産化のヒントが得やすい"
+    },
+    {
+      "number": 9,
+      "title": "Anthropic、Claude Codeへの6週間の品質苦情は重なった3つの製品変更が原因だったと説明",
+      "source": "InfoQ",
+      "description": "",
+      "url": "https://www.infoq.com/news/2026/05/anthropic-claude-code-postmortem/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-14",
+      "mode": "deep_dive",
+      "summary": {
+        "article_index": 3,
+        "title_ja": "Anthropic、Claude Codeへの6週間の品質苦情は重なった3つの製品変更が原因だったと説明",
+        "key_points": [
+          "Claude Codeの品質低下 complaints はモデル自体ではなく、3つの製品レイヤー変更が重なったことが原因",
+          "推論努力の既定値引き下げ、推論履歴を消すキャッシュ不具合、簡潔すぎるシステムプロンプトが別々に悪影響を与えた",
+          "Anthropicは4月20日までに修正を完了し、加入者の利用枠をリセットした"
+        ],
+        "detailed_summary": "Anthropicは、Claude Codeの品質低下に関する6週間分の苦情を調査し、原因はAPIやモデル重みではなく、3つの独立した製品変更の重なりだったと公表した。3月4日の既定推論努力のhighからmediumへの引き下げ、3月26日のキャッシュ最適化に伴うバグで推論履歴が毎ターン削られる問題、4月16日に導入した25語制限などの簡潔化プロンプトが、それぞれ別の利用者層に影響した。Anthropicは4月7日、10日、20日に順次修正し、内部のコードレビュー体制も見直すとしている。透明性あるポストモーテムとして注目を集めた。",
+        "why_it_matters": "AI製品の品質低下はモデル性能だけでなく、周辺の既定設定やセッション管理でも起きることを示した。ユーザー体験を左右するのは基盤モデル以上にプロダクト実装である、という教訓がはっきり出ている。",
+        "headline": "AI出力を人が逐次レビューする前提に合い、品質変動への備え方を学べる"
+      },
+      "selection_reason": "AI出力を人が逐次レビューする前提に合い、品質変動への備え方を学べる"
+    },
+    {
+      "number": 10,
+      "title": "Notion、AIエージェントとワークフロー自動化向けの開発者プラットフォームで開発者を取り込む",
+      "source": "InfoWorld",
+      "description": "",
+      "url": "https://www.infoworld.com/article/4171166/notion-courts-developers-with-platform-for-ai-agents-and-workflow-automation.html",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-14",
+      "mode": "adjacent",
+      "summary": {
+        "article_index": 4,
+        "title_ja": "Notion、AIエージェントとワークフロー自動化向けの開発者プラットフォームで開発者を取り込む",
+        "key_points": [
+          "Notionがカスタムコード実行、データ同期、外部エージェント連携、トリガー機能を備えた開発者基盤を発表",
+          "中心機能のNotion Workersは、サーバー管理なしでロジック実行やWebhook処理を担うホステッド実行環境",
+          "企業導入の成否は、機能性よりもガバナンス、権限管理、本番運用への耐性にかかると見られている"
+        ],
+        "detailed_summary": "Notionは、従来の共同作業ツールから一歩進み、AI対応ワークフローを構築するための開発者プラットフォームを公開した。Notion Workersによるホステッド実行環境を軸に、外部APIからのデータ同期、独自ロジックの追加、Webhook応答、外部エージェントの組み込みを可能にする。ベータ版のDatabase Syncやアルファ版のExternal Agents APIにより、SalesforceやZendeskなどに散在する業務文脈をNotion内に取り込む狙いがある。一方で、企業で本格採用されるには、権限制御や監査性、運用管理まで含めた統治面の整備が不可欠だと分析されている。",
+        "why_it_matters": "AIエージェントが実務で役立つかどうかは、社内データと業務フローにどれだけ深く接続できるかで決まる。Notionはその接続面を押さえにいっており、単なる文書ツールから業務基盤へ広がる可能性がある。",
+        "headline": "個別エージェント運用から、権限管理と業務編成を含む体制設計へ視点を広げられる"
+      },
+      "selection_reason": "個別エージェント運用から、権限管理と業務編成を含む体制設計へ視点を広げられる",
+      "adjacent_field": "AI-native organizational design",
+      "adjacent_reasoning": "AIエージェントを役割分担させて事業を前に進めたい関心は、個別ツールの話より先に、権限委譲・監督・評価をどう設計するかという組織設計の問題にぶつかる。ここを学ぶと、単発の自動化から再現性のあるAI運用体制へ視点が上がる。"
+    },
+    {
+      "number": 11,
+      "title": "より速く、より安く、同じくらい賢く：投機的デコーディングでLLM推論の経済性を改善する",
+      "source": "Red Hat",
+      "description": "",
+      "url": "https://www.redhat.com/en/blog/solving-economics-llm-inference-speculative-decoding",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-14",
+      "mode": "adjacent",
+      "summary": {
+        "article_index": 5,
+        "title_ja": "より速く、より安く、同じくらい賢く：投機的デコーディングでLLM推論の経済性を改善する",
+        "key_points": [
+          "LLMの本当のコスト問題は学習ではなく、日々積み上がる推論コストにある",
+          "投機的デコーディングは小型モデルが下書きし、大型モデルが検証することで速度と費用を改善する手法",
+          "オープンソースライブラリSpeculatorsは、この研究手法を実運用に持ち込むことを狙っている"
+        ],
+        "detailed_summary": "この記事は、巨大LLMの導入で最も重くなるのは学習費用ではなく、継続的に発生する推論コストだと整理する。問題は高価なGPU需要、自己回帰生成による遅延、利用回数に比例して膨らむ運用費の3点に集約される。そこで紹介されるのが投機的デコーディングで、小型のドラフトモデルが候補トークンを先に出し、大型モデルがそれを高速に検証することで、品質をほぼ保ったまま2〜3倍の高速化を狙う。Speculatorsはこの仕組みを研究段階から実務へ移すためのオープンソース実装として位置づけられている。",
+        "why_it_matters": "生成AIの普及を阻む最大要因の一つは推論コストであり、性能だけ高くても事業として回らなければ広がらない。投機的デコーディングは、モデルを変えずに採算性を改善できる現実的な打ち手として重要だ。",
+        "headline": "トークン消費を気にする関心を、推論速度と原価の設計判断まで引き上げてくれる"
+      },
+      "selection_reason": "トークン消費を気にする関心を、推論速度と原価の設計判断まで引き上げてくれる",
+      "adjacent_field": "AI FinOps and inference economics",
+      "adjacent_reasoning": "トークン消費や運用コストを気にする姿勢は、単なる節約ではなく、推論コスト・待ち時間・品質をどう配分するかという経済設計に直結する。ここを押さえると、AI事業の採算性を機能ではなく単位経済で判断できるようになる。"
+    },
+    {
+      "number": 12,
+      "title": "FigmaはAIをデザインへの脅威ではなく新たな収益源に変えつつある",
+      "source": "Startup Fortune",
+      "description": "",
+      "url": "https://startupfortune.com/figma-is-turning-ai-from-a-design-threat-into-new-revenue/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-15",
+      "mode": "adjacent",
+      "summary": {
+        "article_index": 6,
+        "title_ja": "FigmaはAIをデザインへの脅威ではなく新たな収益源に変えつつある",
+        "key_points": [
+          "Figmaの2026年第1四半期売上高は3億3340万ドルで前年同期比46%増、成長が再加速した",
+          "Figma MakeやMCP、WeaveなどAI関連製品の利用拡大が通期見通し引き上げの材料になった",
+          "AIクレジット制限後も多くの企業ユーザーが追加利用を続け、AIがサブスクに上乗せされる消費レイヤーになり始めている"
+        ],
+        "detailed_summary": "Figmaの最新決算は、AIがデザインツールを陳腐化させるどころか、利用拡大と収益押し上げにつながっていることを示した。2026年第1四半期の売上高は3億3340万ドルで前年同期比46％増となり、通期見通しも引き上げた。背景にはFigma Make、Figma MCP、Figma Weaveの採用拡大がある。高額顧客の6割がFigma Makeを毎週利用し、AIクレジット上限を超えた利用者の多くが継続課金した点も大きい。さらにClaude CodeやCodexなどと連携するCode to Canvasを広げ、AI生成UIの編集と意思決定の場としてFigmaを中核に据えようとしている。",
+        "why_it_matters": "AIが既存SaaSを侵食するのではなく、利用量課金を重ねる新しい成長源になりうることを示す好例だ。Figmaは生成と編集の両方を押さえることで、AI時代でもデザインの主導権を維持しようとしている。",
+        "headline": "AI機能の有無ではなく、何が売上に効いたかを見る発想が事業検証の精度を上げる"
+      },
+      "selection_reason": "AI機能の有無ではなく、何が売上に効いたかを見る発想が事業検証の精度を上げる",
+      "adjacent_field": "Causal inference and experiment design",
+      "adjacent_reasoning": "MVPを高速に出して市場検証を回すなら、反応が良かった理由を見誤らないための実験設計が次の論点になる。検証速度を本当に武器にするには、施策の当たり外れを見るだけでなく、何が効いたかを因果で切り分ける視点が必要になる。"
+    }
+  ]
+}
