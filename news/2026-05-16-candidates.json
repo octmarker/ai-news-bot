@@ -1,0 +1,288 @@
+{
+  "date": "2026-05-16",
+  "mode": "multimode",
+  "articles": [
+    {
+      "number": 1,
+      "title": "最新の組織再編でグレッグ・ブロックマンがOpenAI製品部門を正式統括",
+      "source": "WIRED",
+      "description": "",
+      "url": "https://www.wired.com/story/openai-reorg-greg-brockman-product/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-16",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 1,
+        "title_ja": "最新の組織再編でグレッグ・ブロックマンがOpenAI製品部門を正式統括",
+        "key_points": [
+          "OpenAIは製品群を統合する再編を実施し、Greg Brockmanが製品戦略を正式に統括する体制に移行した",
+          "ChatGPT、Codex、開発者向けAPIを中核プロダクトチームへ集約し、将来的には単一体験へ統合する方針を示した",
+          "Nick Turleyはエンタープライズ担当へ異動し、消費者向けはAshley Alexander、基盤とコア製品はThibault Sottiauxの役割が拡大した"
+        ],
+        "detailed_summary": "OpenAIは製品の焦点を絞るための組織再編を進め、共同創業者のGreg BrockmanがAIインフラに加えて製品戦略を正式に担うことになった。ChatGPT、Codex、開発者向けAPIを一つのコア製品体制にまとめ、将来的には統合デスクトップ体験やスーパーアプリ構想につなげる。競争が激化するなか、消費者向けと企業向けの役割分担も見直し、限られた重要領域に経営資源を集中させる狙いがある。",
+        "why_it_matters": "OpenAIがモデル競争だけでなく製品統合と収益化の実行体制を優先し始めたことを示す。ChatGPTとCodexの融合が進めば、一般利用者と企業の双方でAI利用の入口が大きく変わる可能性がある。",
+        "headline": "OpenAIの製品統括再編。今後のエージェント機能統合と提供面の変化を読む材料になる"
+      },
+      "selection_reason": "OpenAIの製品統括再編。今後のエージェント機能統合と提供面の変化を読む材料になる"
+    },
+    {
+      "number": 2,
+      "title": "OpenAI、個人向け金融機能をChatGPTに追加 銀行口座連携に対応へ",
+      "source": "TechCrunch",
+      "description": "",
+      "url": "https://techcrunch.com/2026/05/15/openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-15",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 2,
+        "title_ja": "OpenAI、個人向け金融機能をChatGPTに追加 銀行口座連携に対応へ",
+        "key_points": [
+          "米国のChatGPT Proユーザー向けに、Plaid経由で金融口座を接続できる個人向け金融機能のプレビュー提供を開始した",
+          "支出分析、保有資産の把握、定期購読や今後の支払い確認、将来の資金計画などをChatGPT上で質問できる",
+          "まずはWeb版とiOS版で展開し、フィードバックを踏まえて改善後にPlusユーザーへの拡大を検討している"
+        ],
+        "detailed_summary": "OpenAIは米国のChatGPT Pro向けに個人金融ツールを公開し、Plaidを通じて1万2000超の金融機関の口座を接続できるようにした。接続後はポートフォリオ、支出、サブスク、支払い予定をダッシュボード化し、住宅購入計画や支出増加の要因分析などを自然言語で相談できる。Hiro買収チームの知見も活用しつつ、まずは限定公開で品質を磨き、後にPlusへ広げる構えだ。",
+        "why_it_matters": "生成AIが最も機微な個人データ領域に踏み込み始めた象徴的な動きだ。便利さの一方で、金融データの信頼性やプライバシー管理が競争力とリスク管理の両面で重要になる。",
+        "headline": "ChatGPTが外部口座接続へ進み、実務代行型AIの権限設計が一段深くなる動き"
+      },
+      "selection_reason": "ChatGPTが外部口座接続へ進み、実務代行型AIの権限設計が一段深くなる動き"
+    },
+    {
+      "number": 3,
+      "title": "映画制作者支援から出発したRunway、いまはGoogleに挑むAI企業を目指す",
+      "source": "TechCrunch",
+      "description": "",
+      "url": "https://techcrunch.com/2026/05/15/runway-started-by-helping-filmmakers-now-it-wants-to-beat-google-at-ai/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-15",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 3,
+        "title_ja": "映画制作者支援から出発したRunway、いまはGoogleに挑むAI企業を目指す",
+        "key_points": [
+          "Runwayは映像生成で成長してきたが、次の勝負どころを動画から世界モデルへ広げようとしている",
+          "創業陣は言語ではなく観測データから世界の仕組みを学ぶAIこそ次の知能基盤になると見ている",
+          "既に映画や広告の現場で採用が進み、企業価値53億ドル、2026年Q2にARRを4000万ドル積み増したとされる"
+        ],
+        "detailed_summary": "ニューヨーク発のRunwayは、テキスト中心の大規模言語モデルとは異なる道として、動画生成と世界モデルを次世代AIの核に据えている。創業者は、人間の言語で整理された知識だけでは限界があり、現実世界の観測データから物理や環境変化を学ぶ必要があると主張する。すでに映画制作や広告で実績を持ち、今後はゲーム、ロボティクス、創薬まで視野に入れつつ、資金力で勝るGoogleなどと正面から競う局面に入った。",
+        "why_it_matters": "AI競争の軸が文章生成から世界理解へ移るなら、Runwayのような映像起点の企業が主役になる余地がある。動画生成企業ではなく基盤AI企業として評価されるかが今後の焦点だ。",
+        "headline": "生成AIの勝ち筋が特化支援から基盤競争へ拡大。プロダクト戦略の転換として重い"
+      },
+      "selection_reason": "生成AIの勝ち筋が特化支援から基盤競争へ拡大。プロダクト戦略の転換として重い"
+    },
+    {
+      "number": 4,
+      "title": "ミラ・ムラティ、人間をループに残すAIを目指す",
+      "source": "WIRED",
+      "description": "",
+      "url": "https://www.wired.com/story/mira-murati-humans-in-the-loop-ai-models-thinking-machines/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-16",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 4,
+        "title_ja": "ミラ・ムラティ、人間をループに残すAIを目指す",
+        "key_points": [
+          "元OpenAI CTOのMira Muratiは、超知能の実現を目指しつつも人間を意思決定の輪から外さない設計を重視している",
+          "Thinking Machines Labは、カメラとマイクを通じて人の間や割り込み、声の調子まで理解する新しい対話モデルを披露した",
+          "同社は大規模自動化よりも、利用者ごとにAIを調整し協働する未来像を打ち出している"
+        ],
+        "detailed_summary": "Mira Murati率いるThinking Machines Labは、超知能を否定せず、その実装の仕方を変えようとしている。新たに示した対話モデルは、音声を単に文字化して処理するのではなく、映像と音声を通じて人間の会話の流れを連続的に理解し、途中の修正や話題転換にも柔軟に反応する。OpenAIやGoogleが自律実行を強めるなか、同社は人間が自分向けにAIを調整し、共同で成果を出す方向に賭けている。",
+        "why_it_matters": "AIの進化が雇用代替に向かうのか、人間の能力拡張に向かうのかを分ける重要な思想的対立が表れている。対話インターフェースの設計次第で、AIの社会受容や実用領域は大きく変わる。",
+        "headline": "人間の逐次レビューを残す思想が明確で、AI社員運用の設計論とかなり噛み合う"
+      },
+      "selection_reason": "人間の逐次レビューを残す思想が明確で、AI社員運用の設計論とかなり噛み合う"
+    },
+    {
+      "number": 5,
+      "title": "中国のショートドラマはいかにしてAIコンテンツ工場になったのか",
+      "source": "MIT Technology Review",
+      "description": "",
+      "url": "https://www.technologyreview.com/2026/05/15/1137326/chinese-short-dramas-ai/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-16",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 5,
+        "title_ja": "中国のショートドラマはいかにしてAIコンテンツ工場になったのか",
+        "key_points": [
+          "中国の短尺ドラマ業界では、俳優や撮影スタッフを使わずAIだけで番組を量産する動きが急速に拡大している",
+          "2024年の中国ショートドラマ市場は約69億ドルに達し、映画興行収入を初めて上回った",
+          "2026年1月には1日平均470本のAI生成ショートドラマが公開され、制作期間とコストが大幅に圧縮されている"
+        ],
+        "detailed_summary": "中国発のショートドラマ産業は、もともと低予算かつアルゴリズム最適化された大量生産型の娯楽だったが、生成AIの導入でその性格をさらに強めている。AIだけで俳優、撮影、編集、CGの役割を置き換える作品が増え、制作期間は大幅に短縮。国内市場の拡大に加え、米国を中心に海外展開も進み、各アプリの累計ダウンロードは10億件近くに達した。AIは補助ではなく、制作パイプラインの中核へ移りつつある。",
+        "why_it_matters": "映像制作の参入障壁が下がり、娯楽産業が本格的なコンテンツ工場化へ向かっている。制作現場の雇用構造だけでなく、グローバルな動画消費の質と量のバランスにも影響が及ぶ。",
+        "headline": "AIで制作本数を量産し配信で回す実例。検証速度を武器にする発想と直結しやすい"
+      },
+      "selection_reason": "AIで制作本数を量産し配信で回す実例。検証速度を武器にする発想と直結しやすい"
+    },
+    {
+      "number": 6,
+      "title": "Claudeの次の企業向け戦いはモデル性能ではなくエージェント制御プレーンだ",
+      "source": "VentureBeat",
+      "description": "",
+      "url": "https://venturebeat.com/orchestration/claudes-next-enterprise-battle-is-not-models-its-the-agent-control-plane",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-15",
+      "mode": "deep_dive",
+      "summary": {
+        "article_index": 6,
+        "title_ja": "Claudeの次の企業向け戦いはモデル性能ではなくエージェント制御プレーンだ",
+        "key_points": [
+          "企業のAI競争はモデル性能そのものより、エージェントを統制する実行基盤の主導権争いへ移りつつある",
+          "VB Pulse調査では2026年2月時点でMicrosoft Copilot StudioとAzure AI Studioが38.6%で首位、OpenAIが25.7%で続いた",
+          "Anthropicはまだ5.7%と小さいが、モデル利用にとどまらずネイティブなオーケストレーション層で初の足場を築いた"
+        ],
+        "detailed_summary": "VentureBeatの企業向け調査は、AIエージェント市場の主戦場がモデル比較から実行基盤へ移り始めたことを示している。焦点は、エージェントがどこで計画し、ツールを呼び、社内データに触れ、監査証跡を残すかという制御プレーンだ。現時点ではMicrosoftとOpenAIが優勢だが、Anthropicも2月に初めて存在感を示した。企業にとっては、単なるチャット導入ではなく、AI業務の運用インフラを誰に握らせるかという判断になってきている。",
+        "why_it_matters": "企業のAI導入で本当に強いのは、賢いモデルだけでなく安全に運用できる基盤を押さえた企業になる。今後の勝敗はモデル品質以上に、統制、監査、ワークフロー接続の実装力で決まる可能性が高い。",
+        "headline": "モデル性能より統制基盤が争点という整理が、AI社員体制づくりの関心にそのまま刺さる"
+      },
+      "selection_reason": "モデル性能より統制基盤が争点という整理が、AI社員体制づくりの関心にそのまま刺さる"
+    },
+    {
+      "number": 7,
+      "title": "Anthropic、Claude Code自動化向けのRoutinesを導入",
+      "source": "InfoQ",
+      "description": "",
+      "url": "https://www.infoq.com/news/2026/05/anthropic-routines-claude/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-15",
+      "mode": "deep_dive",
+      "summary": {
+        "article_index": 1,
+        "title_ja": "Anthropic、Claude Code自動化向けのRoutinesを導入",
+        "key_points": [
+          "Claude Codeで定期実行、API起動、外部イベント連動の自動ワークフローを設定できるRoutinesを発表",
+          "GitHubのWebhookにも対応し、条件に合うPRの監視、コメント対応、CI失敗追跡を継続実行できる",
+          "課題管理、デプロイ確認、アラート解析、SDK同期などの用途が想定される一方、信頼性や利用上限への懸念も出ている"
+        ],
+        "detailed_summary": "AnthropicはClaude Code向けにRoutinesを導入し、開発者が定期実行、API呼び出し、外部イベントを起点に自動コーディング処理を走らせられるようにした。クラウド側で動くため、ローカルのcronや独自自動化基盤の維持が不要になる。GitHubイベント連動ではPRの条件判定後にセッションを起動し、コメント対応やCI監視まで継続可能。SDKの言語間同期や監視アラート起点の自動デバッグなど、非同期で回り続けるAI開発運用の流れを強める機能だ。",
+        "why_it_matters": "AIコーディング支援が対話型補助から、継続稼働する運用レイヤーへ移っていることを示す。開発フロー自動化の幅が広がる一方、信頼性やクォータ制約が導入判断の焦点になる。",
+        "headline": "定期実行と自動ワークフロー化は、個人で複数事業を回す運用設計に直結する"
+      },
+      "selection_reason": "定期実行と自動ワークフロー化は、個人で複数事業を回す運用設計に直結する"
+    },
+    {
+      "number": 8,
+      "title": "Claude Codeのプロダクト責任者が語る利用制限、透明性、リーンハーネス",
+      "source": "Ars Technica",
+      "description": "",
+      "url": "https://arstechnica.com/ai/2026/05/claude-codes-product-lead-talks-usage-limits-transparency-and-the-lean-harness/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-15",
+      "mode": "deep_dive",
+      "summary": {
+        "article_index": 2,
+        "title_ja": "Claude Codeのプロダクト責任者が語る利用制限、透明性、リーンハーネス",
+        "key_points": [
+          "AnthropicはClaude Codeの長期ロードマップを固定せず、モデル進化と開発者の使い方を見ながら方向を決める姿勢を示した",
+          "需要急増と計算資源不足を受け、ProとMaxプランの利用上限を倍増した",
+          "利用者の伸びは想定の年10倍を大きく超え、複雑なマルチエージェント利用が負荷を押し上げている"
+        ],
+        "detailed_summary": "AnthropicのClaude Code責任者Cat Wuは、同製品に固定的な長期ロードマップはなく、モデル能力の進化と開発者の実運用から学びながら調整していく考えを示した。背景には利用者の急増と計算資源の逼迫があり、CEOのDario Amodeiによれば年10倍成長を想定していたが実際は80倍規模に達したという。負荷増大を受け、ProとMaxの利用上限を倍増。CLIからIDE、デスクトップ、複数エージェント管理へと急拡張してきた一方、需要抑制策や透明性の確保も課題になっている。",
+        "why_it_matters": "生成AI開発ツールの成長ボトルネックがモデル性能だけでなく計算資源配分にあることが見える。ユーザー体験は新機能競争と同時に、利用制限や安定運用の設計で大きく左右される。",
+        "headline": "トークン制約と透明性の話が中心で、コスト効率を重視する運用判断に役立つ"
+      },
+      "selection_reason": "トークン制約と透明性の話が中心で、コスト効率を重視する運用判断に役立つ"
+    },
+    {
+      "number": 9,
+      "title": "Keycard、限定権限で自律AIエージェントを保護するマルチエージェント向け機能を発表",
+      "source": "Help Net Security",
+      "description": "",
+      "url": "https://www.helpnetsecurity.com/2026/05/15/keycard-for-multi-agent-apps/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-15",
+      "mode": "deep_dive",
+      "summary": {
+        "article_index": 3,
+        "title_ja": "Keycard、限定権限で自律AIエージェントを保護するマルチエージェント向け機能を発表",
+        "key_points": [
+          "Keycardはマルチエージェントアプリ向けに、各エージェントへ個別IDとタスク単位の限定権限を与える仕組みを提供する",
+          "共有APIキーや永続資格情報に依存せず、実行時アテステーションでIDを付与し、操作の起点を追跡可能にする",
+          "人間代理、エージェント間委任、制約付きなりすましを同一SDKとポリシー基盤で扱える"
+        ],
+        "detailed_summary": "KeycardはMulti-Agent Apps向け機能を発表し、自律エージェント群に対してセッション単位の委任アクセスと検証可能なIDを与えられるようにした。従来の共有APIキーや継承資格情報では、必要以上の権限付与や監査不能が起きやすい。新機能ではPythonとTypeScript向けSDKを通じ、起動時に実行環境のアテステーションでIDを発行し、各タスクの操作を元ユーザーや上流エージェントまでひも付ける。自律性を保ちながら最小権限と監査性を両立する設計が核になっている。",
+        "why_it_matters": "マルチエージェント化が進むほど、セキュリティは単なる認証の話ではなく権限委任の設計問題になる。AI導入の本番化には、便利さより先に誰が何をしたかを証明できる基盤が必要だ。",
+        "headline": "権限を細かく絞る設計は、外部連携を増やすAIエージェント運用の実務論そのもの"
+      },
+      "selection_reason": "権限を細かく絞る設計は、外部連携を増やすAIエージェント運用の実務論そのもの"
+    },
+    {
+      "number": 10,
+      "title": "Experian、Akamaiとの提携で信頼できるAI主導コマース向けAgent Trustエコシステムを拡大",
+      "source": "VentureBeat",
+      "description": "",
+      "url": "https://venturebeat.com/business/experian-expands-agent-trust-partner-ecosystem-with-akamai-to-advance-trusted-ai-driven-commerce",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-15",
+      "mode": "adjacent",
+      "summary": {
+        "article_index": 4,
+        "title_ja": "Experian、Akamaiとの提携で信頼できるAI主導コマース向けAgent Trustエコシステムを拡大",
+        "key_points": [
+          "ExperianはAkamaiをAgent Trustのパートナーに加え、AIエージェント主導の商取引における信頼基盤を強化する",
+          "人間とAIエージェントの関係性や意図を検証し、不正、誤認、無断取引のリスクを抑える狙いがある",
+          "KYAPayとKnow Your Agentの標準化活動にも参加し、意図表明と決済資格情報の標準整備を進める"
+        ],
+        "detailed_summary": "ExperianはAkamaiをAgent Trustのパートナーエコシステムに迎え、AIエージェントが検索、判断、決済まで担う商取引で必要となる本人性と責任追跡の基盤を強化すると発表した。Akamaiのサイバーセキュリティとエッジ機能を組み合わせ、エージェントやボットの活動制御、リアルタイムの取引保護を支える。加えてSkyfireとともにKYAPayにも関与し、Know Your Agentを拡張する形で、エージェントの意図宣言やトークン化決済資格情報の標準化を後押しする。",
+        "why_it_matters": "AIが人の代わりに取引する時代では、認証と決済の標準を誰が握るかが大きな競争軸になる。商取引の自動化を普及させるには、性能より先に信頼の共通基盤が欠かせない。",
+        "headline": "エージェント間の信頼と認証をどう制度化するかが見え、一人運営の拡張先として効く"
+      },
+      "selection_reason": "エージェント間の信頼と認証をどう制度化するかが見え、一人運営の拡張先として効く",
+      "adjacent_field": "組織サイバネティクス",
+      "adjacent_reasoning": "AIエージェントを単なる自動化部品ではなく、権限移譲とフィードバックを持つ組織として設計したい関心と直結する。複数エージェントをどう監督し、どこに意思決定権を置くかを扱うので、一人で事業を回す発想を一段上に引き上げる。"
+    },
+    {
+      "number": 11,
+      "title": "Airia、企業向けに人手確認付きAI文書抽出を実現するForm Review Stepを発表",
+      "source": "GlobeNewswire",
+      "description": "",
+      "url": "https://www.globenewswire.com/news-release/2026/05/15/3295963/0/en/airia-launches-form-review-step-giving-enterprises-human-verified-ai-document-extraction.html",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-15",
+      "mode": "adjacent",
+      "summary": {
+        "article_index": 5,
+        "title_ja": "Airia、企業向けに人手確認付きAI文書抽出を実現するForm Review Stepを発表",
+        "key_points": [
+          "AiriaはAI抽出データを下流システムへ送る前に人が確認できるForm Review Stepを追加した",
+          "原文書とAIが埋めたフォームを左右表示し、修正、追記、承認、却下を一画面で行える",
+          "規制業界で求められる監査証跡、人間責任、例外ルーティングを維持しつつ文書処理を高速化する"
+        ],
+        "detailed_summary": "AiriaはForm Review Stepを投入し、不動産証書、住宅ローン、保険請求、契約書などの複雑文書からAIが抽出したデータを、人が確認してから正式記録として後続システムへ流せるようにした。ワークフローはレビュアーに回され、左に元文書、右にAI事前入力済みフォームを表示。誤り修正や欠損補完、承認や却下をその場で行える。誰がいつ何を変更したかも残るため、コンプライアンスや監査への説明責任を保ちながら、文書自動化の速度を落とさない構成になっている。",
+        "why_it_matters": "高精度な抽出だけでは、規制業務では足りない。AI導入を本番化するには、人手確認と監査証跡を標準機能として組み込む流れがさらに強まる。",
+        "headline": "人間承認を工程に埋め込む発想が、逐次レビュー重視の運用を具体化してくれる"
+      },
+      "selection_reason": "人間承認を工程に埋め込む発想が、逐次レビュー重視の運用を具体化してくれる",
+      "adjacent_field": "組織サイバネティクス",
+      "adjacent_reasoning": "AIエージェントを単なる自動化部品ではなく、権限移譲とフィードバックを持つ組織として設計したい関心と直結する。複数エージェントをどう監督し、どこに意思決定権を置くかを扱うので、一人で事業を回す発想を一段上に引き上げる。"
+    },
+    {
+      "number": 12,
+      "title": "AI分析は自信満々になった。TableauのQ&A Calibrationはそれを正しくしたい",
+      "source": "CMSWire",
+      "description": "",
+      "url": "https://www.cmswire.com/customer-experience/ai-analytics-got-confident-tableaus-qa-calibration-wants-to-make-it-correct/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-15",
+      "mode": "adjacent",
+      "summary": {
+        "article_index": 6,
+        "title_ja": "AI分析は自信満々になった。TableauのQ&A Calibrationはそれを正しくしたい",
+        "key_points": [
+          "Tableau Nextのベータ機能Q&A Calibrationは、AI生成の分析回答を本番判断前に検証、採点、修正する仕組みを提供する",
+          "CXやマーケティング領域では、もっとも危険なのはもっともらしく誤った回答であり、精度はガバナンス課題になっている",
+          "導入準備として、既にアナリストが信用していないAI回答を監査し、校正対象を特定することが推奨される"
+        ],
+        "detailed_summary": "TableauのQ&A Calibrationは、AIが分析質問に返す回答を本番意思決定の前にテストし、点数化し、修正できるベータ機能として紹介された。顧客体験やマーケティングでは、誤った分析結果でも自信ありげに提示されると予算配分や施策変更が誤方向へ加速するため、問題は単なる機能品質ではなく運用統治に直結する。Gartnerが2026年末までに企業アプリの40％へタスク特化AIエージェントが組み込まれると予測する中、AI分析の正確性を継続的に校正する工程が実務の前提になりつつある。",
+        "why_it_matters": "分析AIの価値は回答速度ではなく、誤答をどれだけ抑え込めるかで決まる。企業はAI導入の次の段階として、精度監査と校正プロセスを運用設計に組み込む必要がある。",
+        "headline": "反応の大きさではなく判断の正しさを測る話で、MVP検証の精度を一段引き上げる"
+      },
+      "selection_reason": "反応の大きさではなく判断の正しさを測る話で、MVP検証の精度を一段引き上げる",
+      "adjacent_field": "因果推論と実験計画法",
+      "adjacent_reasoning": "MVPを速く出して反応を見る発想の次に必要なのは、何が本当に効いたのかを見抜く技術だからだ。SNSの反応や初期ユーザーの声をそのまま学習に使うと判断を誤りやすく、その隠れた前提を補完できる。"
+    }
+  ]
+}
