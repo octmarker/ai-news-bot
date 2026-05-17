@@ -1,0 +1,234 @@
+{
+  "date": "2026-05-17",
+  "mode": "multimode",
+  "articles": [
+    {
+      "number": 1,
+      "title": "研究リポジトリArXiv、AIに論文作成を丸投げした著者を1年間投稿禁止へ",
+      "source": "TechCrunch",
+      "description": "",
+      "url": "https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-16",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 1,
+        "title_ja": "研究リポジトリArXiv、AIに論文作成を丸投げした著者を1年間投稿禁止へ",
+        "key_points": [
+          "arXivは、LLMの不用意な利用で生まれた低品質論文への対策を強化した。",
+          "幻覚の参考文献やLLMとのやり取りが残るなど、著者が内容を検証していない明白な証拠があれば1年間の投稿禁止となる。",
+          "LLM利用自体は禁止せず、生成方法にかかわらず著者が内容に全面的な責任を負う立場を明確にした。"
+        ],
+        "detailed_summary": "プレプリント公開の中核基盤であるarXivが、LLM任せで作られた論文への取り締まりを一段と厳格化した。計算機科学部門の責任者は、幻覚の参考文献やAIへの指示文が残るなど、著者が生成結果を確認していない決定的証拠がある場合、1年間の投稿禁止と、その後は査読付き採択を経た論文しか受け付けない措置を示した。AI使用そのものを禁じるのではなく、盗用や誤り、偏りを含め著者責任を徹底するのが狙いだ。",
+        "why_it_matters": "研究流通の入口にあるarXivが基準を厳しくすることで、AI時代の学術品質管理の線引きが具体化した。研究者にとっては、AI活用より検証責任の重さが前面に出た。",
+        "headline": "AI活用の許容線が明文化され、代理実行の品質管理と人間レビューの重要性が一気に増した"
+      },
+      "selection_reason": "AI活用の許容線が明文化され、代理実行の品質管理と人間レビューの重要性が一気に増した"
+    },
+    {
+      "number": 2,
+      "title": "AIチャットボットが実在する個人の電話番号を答えてしまっている",
+      "source": "MIT Technology Review",
+      "description": "",
+      "url": "https://www.technologyreview.com/2026/05/13/1137203/ai-chatbots-are-giving-out-peoples-real-phone-numbers/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-17",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 2,
+        "title_ja": "AIチャットボットが実在する個人の電話番号を答えてしまっている",
+        "key_points": [
+          "Geminiなどの生成AIが、誤案内の中で実在する個人の電話番号を返した事例が報告されている。",
+          "被害者には無関係な問い合わせ電話やWhatsApp連絡が集中し、日常生活に実害が出ている。",
+          "専門家は学習データに含まれる個人情報が原因の可能性を指摘する一方、公開後に止める手段が乏しい点を問題視している。"
+        ],
+        "detailed_summary": "記事は、Googleの生成AIが人違いの連絡先として実在の個人番号を表示し、見知らぬ人から大量の電話やメッセージが届く被害を追う。イスラエルの開発者や米大学院関係者の事例では、Geminiが誤った顧客対応情報や個人携帯番号を返した。削除代行企業DeleteMeには生成AI関連のプライバシー相談が7カ月で400％増え、特にChatGPT、Gemini、Claudeへの懸念が多いという。仕組みの特定は難しく、被害を未然に防ぐ有効策も乏しい。",
+        "why_it_matters": "生成AIのリスクが抽象論ではなく、個人情報の露出と迷惑連絡という直接被害として表面化している。企業にとっては安全性だけでなく、訂正不能な誤情報への責任が問われる。",
+        "headline": "AI導入の実務で見落としやすい個人情報漏えいリスクが、かなり生々しい形で表面化した"
+      },
+      "selection_reason": "AI導入の実務で見落としやすい個人情報漏えいリスクが、かなり生々しい形で表面化した"
+    },
+    {
+      "number": 3,
+      "title": "中国のショートドラマはいかにしてAIコンテンツ量産機になったのか",
+      "source": "MIT Technology Review",
+      "description": "",
+      "url": "https://www.technologyreview.com/2026/05/15/1137326/chinese-short-dramas-ai/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-17",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 3,
+        "title_ja": "中国のショートドラマはいかにしてAIコンテンツ量産機になったのか",
+        "key_points": [
+          "中国の短尺ドラマ業界では、俳優や撮影班を使わずAIだけで制作する作品が急増している。",
+          "2024年の中国ショートドラマ市場は約69億ドル規模となり、年間映画興行収入を初めて上回った。",
+          "2025年1月には1日平均470本のAI生成ショートドラマが公開され、制作体制そのものが再編されている。"
+        ],
+        "detailed_summary": "スマホ向けの超短尺メロドラマで急成長した中国ショートドラマ産業が、生成AIを全面導入して新段階に入った。1〜2分のエピソードを大量供給するこの市場は、2024年に約69億ドルへ拡大し、海外では米国が中国外売上の半分を占める。現在は脚本、キャスティング、撮影、編集までAIで代替する作品が増え、DataEyeによれば2025年1月だけで1日平均470本のAI生成作品が公開された。低予算とアルゴリズム最適化で強かった業界が、さらに高速・低コスト化している。",
+        "why_it_matters": "AIが映像制作の補助ではなく、生産ラインの中核になり始めたことを示す事例だ。娯楽産業の雇用構造や、コンテンツの質より供給速度を重視する流れを加速させる。",
+        "headline": "AIで制作から配信まで量産する実例として、検証速度重視の事業運営に直結する示唆が多い"
+      },
+      "selection_reason": "AIで制作から配信まで量産する実例として、検証速度重視の事業運営に直結する示唆が多い"
+    },
+    {
+      "number": 4,
+      "title": "私はハリウッドで働いている。かつてテレビを作っていた人たちは今、ひそかにAIを訓練している",
+      "source": "WIRED",
+      "description": "",
+      "url": "https://www.wired.com/story/i-work-in-hollywood-everyone-who-used-to-make-tv-now-training-ai/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-17",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 4,
+        "title_ja": "私はハリウッドで働いている。かつてテレビを作っていた人たちは今、ひそかにAIを訓練している",
+        "key_points": [
+          "ハリウッドの脚本家やショーランナーが、収入減を埋めるためAI学習用の評価・アノテーション業務に流れている。",
+          "AI訓練の仕事は高単価に見えても、応募や試験に無償労働が多く、安定した稼ぎにはなりにくい。",
+          "生成AIに職を奪われないよう戦ったクリエイター自身が、皮肉にもAIの性能向上を支える側に回っている。"
+        ],
+        "detailed_summary": "筆者はハリウッドの脚本家である一方、AIトレーナーとしてチャットボットの文体評価、画像・動画アノテーション、安全性検証まで請け負っている。2023年のスト後もテレビ業界の仕事は回復せず、2025年には未払いなどで生活が不安定になり、作家仲間の紹介でMercorなどのAI訓練業務へ入った。だが実態は、採用前に長時間の無償テストを課されるなど搾取的な面が強い。創作者が生計維持のため、自分たちを代替しかねないAIを鍛えている現実が描かれる。",
+        "why_it_matters": "AIによる雇用代替の議論が、創作業界で既に生活問題として進行していることを示す。高スキル労働者が不安定なAI下請けに吸収される構図は、他業種にも広がりうる。",
+        "headline": "AIの裏側を支える人手運用の実態が見え、AI社員化の限界とオペ設計の重さがよく分かる"
+      },
+      "selection_reason": "AIの裏側を支える人手運用の実態が見え、AI社員化の限界とオペ設計の重さがよく分かる"
+    },
+    {
+      "number": 5,
+      "title": "AIゴールドラッシュの勝ち組と負け組",
+      "source": "TechCrunch",
+      "description": "",
+      "url": "https://techcrunch.com/2026/05/16/the-haves-and-have-nots-of-the-ai-gold-rush/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-16",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 5,
+        "title_ja": "AIゴールドラッシュの勝ち組と負け組",
+        "key_points": [
+          "Menlo VenturesのDeedy Dasは、現在のAIブームで富の偏在が極端になっていると指摘した。",
+          "OpenAI、Anthropic、Nvidiaなどの一部企業の創業者・従業員約1万人が、2000万ドル超の資産規模に達した可能性があるという。",
+          "一方でレイオフや将来不安が広がり、ソフトウェアエンジニアの間では自分の技能の価値低下への動揺が強い。"
+        ],
+        "detailed_summary": "投資家Deedy Dasは、サンフランシスコのAI景気を熱狂的だが不穏なものとして描き、恩恵がごく一部に集中していると論じた。OpenAI、Anthropic、Nvidia周辺の約1万人は早期リタイア級の資産を得る一方、多くの高給技術者は一生働いてもそこへ届かないとみる。加えてレイオフが進み、ソフトウェアエンジニアは自らの中核技能が陳腐化する不安に直面している。SNSでは、恵まれた層の悩みに過ぎないとの反発と、AIが成功の切符であると同時に逃げ道を壊すとの共感が交錯した。",
+        "why_it_matters": "AIブームが全員を豊かにするという物語が崩れ、富と不安の両極化が鮮明になっている。技術の進歩がそのまま社会の安定につながらない現実を示す。",
+        "headline": "AI市場で誰が優位を握るかの構図を掴める。個人が狙うべき立ち位置の再確認になる"
+      },
+      "selection_reason": "AI市場で誰が優位を握るかの構図を掴める。個人が狙うべき立ち位置の再確認になる"
+    },
+    {
+      "number": 6,
+      "title": "Intercom改めFin、別のAIエージェントを管理することだけを仕事にするAIエージェントを発表",
+      "source": "VentureBeat",
+      "description": "",
+      "url": "https://venturebeat.com/technology/intercom-now-called-fin-launches-an-ai-agent-whose-only-job-is-managing-another-ai-agent",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-15",
+      "mode": "deep_dive",
+      "summary": {
+        "article_index": 6,
+        "title_ja": "Intercom改めFin、別のAIエージェントを管理することだけを仕事にするAIエージェントを発表",
+        "key_points": [
+          "Fin Operatorは、顧客対応AIのFinを設定・監視・改善する支援業務を担うバックオフィス向けAIとして登場した。",
+          "社名もIntercomからFinへ変更され、AIエージェント事業が会社の中心になったことを印象づけた。",
+          "Finは年商換算1億ドルを突破し、全社ARR4億ドルの約4分の1を占めるまで成長している。"
+        ],
+        "detailed_summary": "Fin Operatorは、顧客と対話するAIそのものではなく、そのAIを運用するサポートオペレーション部門を支援する新製品だ。知識ベース更新、会話失敗の原因分析、設定修正、性能監視といった地味で継続的な仕事を肩代わりし、増え続けるAI運用負荷に対応する。Finはすでに週200万件超の問い合わせを処理しており、8,000社で利用される規模になった。社名変更と同時にこの管理用AIを出したことで、同社がAIエージェント運用基盤へ大きく舵を切ったことが分かる。",
+        "why_it_matters": "AI導入の本当の負担が、導入後の運用と改善にあることを可視化した。今後は人を置き換えるAIだけでなく、AIを管理するAIが新たな競争領域になる。",
+        "headline": "エージェントをさらに監督する役割設計が中心テーマで、AI社員体制の具体像にかなり近い"
+      },
+      "selection_reason": "エージェントをさらに監督する役割設計が中心テーマで、AI社員体制の具体像にかなり近い"
+    },
+    {
+      "number": 7,
+      "title": "Claude’s next enterprise battle is not models: it’s the agent control plane",
+      "source": "VentureBeat",
+      "description": "",
+      "url": "https://venturebeat.com/orchestration/claudes-next-enterprise-battle-is-not-models-its-the-agent-control-plane",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-15",
+      "mode": "deep_dive",
+      "summary": {
+        "headline": "モデル性能より統制基盤が勝負になる流れを示し、MCPや役割分担志向と強く噛み合う"
+      },
+      "selection_reason": "モデル性能より統制基盤が勝負になる流れを示し、MCPや役割分担志向と強く噛み合う"
+    },
+    {
+      "number": 8,
+      "title": "Sort providers by cost, latency, or throughput on AI Gateway",
+      "source": "Vercel",
+      "description": "",
+      "url": "https://vercel.com/changelog/sort-providers-by-cost-latency-or-throughput-on-ai-gateway",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-15",
+      "mode": "deep_dive",
+      "summary": {
+        "headline": "コストと応答速度で推論先を選べる機能は、試作公開を速く回す実装基盤そのものに効く"
+      },
+      "selection_reason": "コストと応答速度で推論先を選べる機能は、試作公開を速く回す実装基盤そのものに効く"
+    },
+    {
+      "number": 9,
+      "title": "Claude Code's product lead talks usage limits, transparency, and the \"lean harness\"",
+      "source": "Ars Technica",
+      "description": "",
+      "url": "https://arstechnica.com/ai/2026/05/claude-codes-product-lead-talks-usage-limits-transparency-and-the-lean-harness/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-15",
+      "mode": "deep_dive",
+      "summary": {
+        "headline": "利用上限や透明性の話は、実運用時の制約管理とトークン効率を詰める材料として有用"
+      },
+      "selection_reason": "利用上限や透明性の話は、実運用時の制約管理とトークン効率を詰める材料として有用"
+    },
+    {
+      "number": 10,
+      "title": "Tesla reveals two Robotaxi crashes involving teleoperators",
+      "source": "TechCrunch",
+      "description": "",
+      "url": "https://techcrunch.com/2026/05/15/tesla-reveals-two-robotaxi-crashes-involving-teleoperators/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-15",
+      "mode": "adjacent",
+      "summary": {
+        "headline": "自律運用でも人が介入する設計が残る点は、AI業務フローの監督設計とそのまま重なる"
+      },
+      "selection_reason": "自律運用でも人が介入する設計が残る点は、AI業務フローの監督設計とそのまま重なる",
+      "adjacent_field": "サイバネティクスと制御理論",
+      "adjacent_reasoning": "MVPを出して反応を見ながら修正する流れも、AIエージェントに業務を持たせる構想も、本質はフィードバックループをどう安定運用するかにある。開発や起業の話に見えて、実は観測・制御・目標追従の設計問題でもあると気づくと、事業運営の見え方がかなり変わる。"
+    },
+    {
+      "number": 11,
+      "title": "Ondas unveils Iron-Wave modular ground robotic system",
+      "source": "Defence Blog",
+      "description": "",
+      "url": "https://defence-blog.com/ondas-unveils-iron-wave-modular-ground-robotic-system/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-16",
+      "mode": "adjacent",
+      "summary": {
+        "headline": "複数無人機を中央制御する発想は、複数エージェントを束ねる実装感覚を広げてくれる"
+      },
+      "selection_reason": "複数無人機を中央制御する発想は、複数エージェントを束ねる実装感覚を広げてくれる",
+      "adjacent_field": "サイバネティクスと制御理論",
+      "adjacent_reasoning": "MVPを出して反応を見ながら修正する流れも、AIエージェントに業務を持たせる構想も、本質はフィードバックループをどう安定運用するかにある。開発や起業の話に見えて、実は観測・制御・目標追従の設計問題でもあると気づくと、事業運営の見え方がかなり変わる。"
+    },
+    {
+      "number": 12,
+      "title": "Figure Humanoid Robots Sort Packages Non-Stop in 24/7 Demo",
+      "source": "TechRepublic",
+      "description": "",
+      "url": "https://www.techrepublic.com/article/news-figure-robot-demo-tests-24-7-humanoid-fleet-work/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-15",
+      "mode": "adjacent",
+      "summary": {
+        "headline": "24時間連続稼働の視点は、AIエージェントでも重要な監視、復旧、劣化検知を考えさせる"
+      },
+      "selection_reason": "24時間連続稼働の視点は、AIエージェントでも重要な監視、復旧、劣化検知を考えさせる",
+      "adjacent_field": "サイバネティクスと制御理論",
+      "adjacent_reasoning": "MVPを出して反応を見ながら修正する流れも、AIエージェントに業務を持たせる構想も、本質はフィードバックループをどう安定運用するかにある。開発や起業の話に見えて、実は観測・制御・目標追従の設計問題でもあると気づくと、事業運営の見え方がかなり変わる。"
+    }
+  ]
+}
