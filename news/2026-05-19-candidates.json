@@ -1,0 +1,194 @@
+{
+  "date": "2026-05-19",
+  "mode": "multimode",
+  "articles": [
+    {
+      "number": 1,
+      "title": "SandboxAQ、博士号なしでも使える創薬モデルをClaudeに統合",
+      "source": "TechCrunch",
+      "description": "",
+      "url": "https://techcrunch.com/2026/05/18/sandboxaq-brings-its-drug-discovery-models-to-claude-no-phd-in-computing-required/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-18",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 1,
+        "title_ja": "SandboxAQ、博士号なしでも使える創薬モデルをClaudeに統合",
+        "key_points": [
+          "SandboxAQがAnthropicと提携し、創薬・材料科学向けの定量モデルをClaude上で自然言語から使えるようにした。",
+          "同社のLQMは物理法則や実験データに基づくモデルで、量子化学計算や分子動力学シミュレーションを行える。",
+          "従来は専門インフラや高度な計算環境が必要だったが、会話UIにより利用者層の拡大を狙う。"
+        ],
+        "detailed_summary": "創薬は一つの有望分子を見つけるだけでも長い年月と巨額資金を要する領域で、AI企業はその効率化を競ってきた。SandboxAQはモデル性能そのものよりも、使い手の制約が普及の壁だと見て、物理ベースの独自LQMをClaudeに統合した。これにより、量子化学計算や分子挙動の予測を自然言語で扱えるようになり、専用の計算基盤を自前で持たない研究者でも高度な解析に触れやすくなる。焦点は科学の精度だけでなく、実運用の入口を広げる点にある。",
+        "why_it_matters": "科学AIの競争軸がモデル性能から利用可能性へ移りつつあることを示す動きだ。創薬や新素材開発の現場で、専門家しか使えないツールから業務に入り込むインターフェースへの転換が進む可能性がある。",
+        "headline": "Claude経由で専門AIを使う流れが進み、AI役割分担の実務像が見える"
+      },
+      "selection_reason": "Claude経由で専門AIを使う流れが進み、AI役割分担の実務像が見える"
+    },
+    {
+      "number": 2,
+      "title": "オープンソース企業Grafana Labs、コード窃取被害を認めるも身代金支払いを拒否",
+      "source": "TechCrunch",
+      "description": "",
+      "url": "https://techcrunch.com/2026/05/18/open-source-tool-maker-grafana-labs-says-hackers-stole-its-code-refuses-to-pay-ransom/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-18",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 2,
+        "title_ja": "オープンソース企業Grafana Labs、コード窃取被害を認めるも身代金支払いを拒否",
+        "key_points": [
+          "Grafana Labsは盗まれたトークンを悪用され、GitHub環境への不正アクセスを受けたと公表した。",
+          "顧客記録や財務データへのアクセスは確認されておらず、無効化と追加防御策を実施した。",
+          "攻撃者はコード公開を盾に恐喝したが、同社はFBIの方針も踏まえ支払いを拒否した。"
+        ],
+        "detailed_summary": "Grafana Labsは、ソースコード管理に使うGitHub環境が盗難トークン経由で侵害されたと明らかにした。攻撃者はコードベースの公開を防ぐ見返りとして支払いを要求したが、同社は応じなかった。Grafanaの主力製品はオープンソースで公開済みのため、流出の実害範囲は限定的に見える一方、独自情報の有無はなお不明だ。会社側は顧客データや財務情報にはアクセスされていないと説明し、資格情報の失効と再発防止策を進めている。調査は継続中で、後日結果を共有するという。",
+        "why_it_matters": "ランサム要求への対応方針と、開発基盤そのものの防御の重要性を改めて示した。オープンソース企業でも、公開コード以外の開発資産や運用環境は十分に攻撃対象になり得る。",
+        "headline": "AI運用基盤でも避けられない供給網と監視基盤のセキュリティ現実を示す"
+      },
+      "selection_reason": "AI運用基盤でも避けられない供給網と監視基盤のセキュリティ現実を示す"
+    },
+    {
+      "number": 3,
+      "title": "イーロン・マスク、OpenAIに対する歴史的訴訟で敗訴",
+      "source": "WIRED",
+      "description": "",
+      "url": "https://www.wired.com/story/musk-v-altman-jury-verdict/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-19",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 3,
+        "title_ja": "イーロン・マスク、OpenAIに対する歴史的訴訟で敗訴",
+        "key_points": [
+          "連邦陪審と判事は、マスク氏の訴えは提起が遅すぎたとして退けた。",
+          "判決は時効を理由とするもので、OpenAI側は競争相手による後付けの訴訟だと主張した。",
+          "マスク氏側は即座に控訴の意向を示し、争いは続く姿勢を見せている。"
+        ],
+        "detailed_summary": "イーロン・マスク氏がOpenAIとサム・アルトマン氏、グレッグ・ブロックマン氏らを相手取って起こした訴訟は、提訴時期が遅すぎたとして連邦陪審と判事の双方に退けられた。判事は陪審の勧告をその場で採用し、時効成立を理由に即時却下したため、慈善信託違反や不当利得といった中身の争点には踏み込まれなかった。マスク氏は、OpenAIが当初の非営利理念から逸脱したと訴えていたが、OpenAI側は競争上の武器として持ち出した訴えにすぎないと反論し、勝訴を強調した。",
+        "why_it_matters": "OpenAIの統治や営利化を巡る象徴的な訴訟が、まず手続き面で大きく決着した。AI企業の設立理念と資本の関係をどう問うかという議論は、控訴の有無にかかわらず残り続ける。",
+        "headline": "OpenAIの支配構造と営利化を巡る争点に一区切りつき、業界影響が大きい"
+      },
+      "selection_reason": "OpenAIの支配構造と営利化を巡る争点に一区切りつき、業界影響が大きい"
+    },
+    {
+      "number": 4,
+      "title": "Metaのレイオフ",
+      "source": "CNBC",
+      "description": "",
+      "url": "https://www.cnbc.com/2026/05/18/metas-layoffs-starting-this-week-underscore-zuckerbergs-ai-reality-.html",
+      "category": "経済・金融",
+      "published_at": "2026-05-18",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 4,
+        "title_ja": "Metaのレイオフ",
+        "key_points": [
+          "Metaは今週から従業員の約10％にあたる約8,000人を削減し、6,000件の採用計画も取りやめる。",
+          "背景には効率化の継続と、AI向け設備投資を最大1,450億ドルまで引き上げる方針がある。",
+          "社内では年内に追加削減が続くとの不安が広がっており、業界全体でもAI投資と人員削減が同時進行している。"
+        ],
+        "detailed_summary": "Metaは2022年から続く大規模人員削減をさらに進め、今週から全社員の約10％にあたる約8,000人を削減する。加えて6,000の未充足ポストも埋めない方針だ。以前の削減時にはザッカーバーグ氏が過剰採用の責任を認めたが、今回は謝罪よりも効率化と資源再配分が前面に出ている。会社はAI投資を急拡大しており、設備投資見通しも大幅に引き上げた。社内では追加レイオフ観測が強く、テック業界全体でもAIブームの裏で雇用圧縮が進んでいる。",
+        "why_it_matters": "AIへの巨額投資が、成長の象徴であると同時に人員削減の口実にもなっている現実を映している。Metaの動きは、大手テック企業の経営判断が人より計算資源へ傾いていることを端的に示す。",
+        "headline": "AI集中投資の裏で組織再編が進み、AI主導企業の体制設計を考える材料になる"
+      },
+      "selection_reason": "AI集中投資の裏で組織再編が進み、AI主導企業の体制設計を考える材料になる"
+    },
+    {
+      "number": 5,
+      "title": "AndurilとMetaが進める戦場向けスマートグラス開発の内幕",
+      "source": "MIT Technology Review",
+      "description": "",
+      "url": "https://www.technologyreview.com/2026/05/18/1137412/inside-anduril-and-metas-quest-to-make-smart-glasses-for-warfare/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-19",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 5,
+        "title_ja": "AndurilとMetaが進める戦場向けスマートグラス開発の内幕",
+        "key_points": [
+          "AndurilはMetaと組み、米陸軍向け拡張現実グラスの試作を進めている。",
+          "視線追跡や音声命令でドローン偵察や攻撃指示を行う構想があり、兵士と無人機の統合を目指す。",
+          "陸軍案件とは別に自社資金による独自ヘルメットEagleEyeも開発しているが、量産判断は早くても2028年以降になる見通しだ。"
+        ],
+        "detailed_summary": "防衛テック企業AndurilはMetaと連携し、兵士の視界に地図や方位、周辺ドローン情報、AIによる目標認識を重ねて表示する軍用ARグラスを試作している。音声入力を大規模言語モデルが解釈し、避難要請や経路設計、ドローン運用まで多段の命令を処理する構想で、中核には同社のLattice基盤が据えられる。陸軍のSBMC計画向けだけでなく、独自仕様のEagleEyeも並行開発中だが、いずれも実戦配備までは数年単位の時間が必要で、Microsoft主導の前計画が頓挫した経緯も重い。",
+        "why_it_matters": "消費者向けスマートグラス技術と生成AIが、防衛分野で本格的に結びつき始めている。人間の判断と兵器システムの接続が密になるほど、軍事優位だけでなく倫理や統制の問題も大きくなる。",
+        "headline": "AIと現場実装を結ぶハード統合事例で、実行力あるAIの出口戦略として重要"
+      },
+      "selection_reason": "AIと現場実装を結ぶハード統合事例で、実行力あるAIの出口戦略として重要"
+    },
+    {
+      "number": 6,
+      "title": "AnthropicのCode With Claude 2026、Managed Agentsや自律ワークフローを発表",
+      "source": "InfoQ",
+      "description": "",
+      "url": "https://www.infoq.com/news/2026/05/code-with-claude/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-18",
+      "mode": "deep_dive",
+      "summary": {
+        "article_index": 6,
+        "title_ja": "AnthropicのCode With Claude 2026、Managed Agentsや自律ワークフローを発表",
+        "key_points": [
+          "AnthropicはClaude Codeの新機能として、リモート継続作業、刷新されたGUI、自動権限判定、worktree、定期実行ルーチンを紹介した。",
+          "GitHubは高いキャッシュヒット率を大規模運用の重要指標と位置づけ、小型モデルと大型モデルを組み合わせる構成も共有した。",
+          "AnthropicはManaged Agentsで、今後の課題は知能よりインフラだとし、サンドボックス実行やチェックポイント、認証情報のスコープ管理を前面に出した。"
+        ],
+        "detailed_summary": "Anthropicは2026年5月6日にサンフランシスコでCode with Claude 2026を開催し、Claude Codeと開発者向け基盤の最新方針を示した。実演では、端末をまたいで作業を継続できる操作性改善に加え、危険操作やプロンプト注入を分類器で判定する自動モード、独立ブランチを自律生成するworktree、cronやWebhookで走るroutine機能が紹介された。GitHubはキャッシュ効率の重要性と、小型実行モデルが難所だけ大型助言モデルを呼ぶ設計を共有。Anthropic自身はManaged Agentsで、今後のボトルネックはモデル性能より本番運用インフラだと強調した。",
+        "why_it_matters": "生成AIの競争がモデル単体の賢さから、運用基盤と経済性の設計へ移っていることがよく分かる。開発現場では、どのモデルを使うか以上に、どう安全に回し続けるかが差になる段階に入っている。",
+        "headline": "Managed AgentsとProactive Workflowsは、AI社員体制の設計に直結する"
+      },
+      "selection_reason": "Managed AgentsとProactive Workflowsは、AI社員体制の設計に直結する"
+    },
+    {
+      "number": 7,
+      "title": "エージェント型AIの拡大で、企業向け検索基盤はRAGからコンテキストアーキテクチャへ移行しつつある",
+      "source": "VentureBeat",
+      "description": "",
+      "url": "https://venturebeat.com/data/context-architecture-is-replacing-rag-as-agentic-ai-pushes-enterprise-retrieval-to-its-limits",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-18",
+      "mode": "adjacent",
+      "summary": {
+        "article_index": 1,
+        "title_ja": "エージェント型AIの拡大で、企業向け検索基盤はRAGからコンテキストアーキテクチャへ移行しつつある",
+        "key_points": [
+          "Redisは、AIエージェント向けの新基盤Redis Irisを発表し、分散・陳腐化した企業データを扱う問題を狙う",
+          "エージェントは人間より桁違いに多くのデータ要求を出すため、従来の単発検索向けRAG基盤では負荷と鮮度に限界がある",
+          "企業ではハイブリッド検索や内製リトリーバル基盤への関心が急増しており、市場全体が再編局面に入っている"
+        ],
+        "detailed_summary": "Redisは、AIエージェントが誤る原因はモデル精度よりも、背後にある企業データが散在し、古く、機械向けに整っていない点にあると捉える。新サービスRedis Irisは、リアルタイム取り込み、業務データモデルからMCPツールを自動生成する意味層、低コストなエージェント記憶基盤を組み合わせ、エージェントとデータの間を埋める構成だ。企業側でもRAG最適化や独自検索基盤への投資が加速しており、検索は単なる取得機能から実行可能なコンテキスト供給基盤へ移りつつある。",
+        "why_it_matters": "企業AIのボトルネックがモデルそのものから、データ接続と記憶の設計へ移ったことを示すニュースです。今後の差はLLMの選定より、エージェントに必要な文脈をどう供給するかで決まりやすくなります。",
+        "headline": "スキル設計、MCP、トークン効率を記憶基盤の問題として統合して見られる"
+      },
+      "selection_reason": "スキル設計、MCP、トークン効率を記憶基盤の問題として統合して見られる",
+      "adjacent_field": "知識表現・来歴管理・エージェント記憶基盤",
+      "adjacent_reasoning": "AI活用で差が出るのはモデル性能そのものより、どの知識を、どの粒度で、どの根拠付きで渡せるかという記憶基盤の設計にある。これを押さえると、スキル、MCP、外部連携、トークン効率が一つの問題としてつながって見えてくる。"
+    },
+    {
+      "number": 8,
+      "title": "Aurora DSQLとAmazon Bedrock AgentCoreでAI駆動の送電網調査エージェントを構築する",
+      "source": "AWS Database Blog",
+      "description": "",
+      "url": "https://aws.amazon.com/blogs/database/building-an-ai-powered-grid-investigation-agent-with-aurora-dsql-and-amazon-bedrock-agentcore/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-18",
+      "mode": "adjacent",
+      "summary": {
+        "article_index": 2,
+        "title_ja": "Aurora DSQLとAmazon Bedrock AgentCoreでAI駆動の送電網調査エージェントを構築する",
+        "key_points": [
+          "AWSは、A2Aプロトコルを使って他のAIエージェントから自然言語で照会できるAurora DSQLデータベースエージェントの構築方法を示した",
+          "従来のデータベース連携はアプリごとの密結合で再利用性や保守性に乏しかったが、AgentCoreとMCPで共通化を狙う",
+          "ユーティリティ企業の停電調査を例に、6つのリレーショナルテーブルを横断して原因分析を行う実装を紹介している"
+        ],
+        "detailed_summary": "この記事は、AWSがAurora DSQLとAmazon Bedrock AgentCoreを使い、電力網の障害調査を支援するAIエージェントを構築する手順を解説したものだ。A2Aプロトコルにより、異なるフレームワークのエージェント同士でもタスクと結果をやり取りでき、データベース機能を再利用しやすくする。Aurora DSQLはサーバレス分散SQLとして、資産情報、障害記録、作業員配置、作業指示などを永続的に保持し、自然言語からの横断調査を支える基盤として位置付けられている。",
+        "why_it_matters": "AIエージェントが単独で動く段階から、相互接続された業務エージェント群へ進む流れを具体化しています。データベースをA2A対応のエージェントとして公開する発想は、企業システムの統合方法を大きく変える可能性があります。",
+        "headline": "監督、権限委譲、例外処理まで含む運用設計としてAIエージェントを捉え直せる"
+      },
+      "selection_reason": "監督、権限委譲、例外処理まで含む運用設計としてAIエージェントを捉え直せる",
+      "adjacent_field": "組織サイバネティクスと人間-AI協調設計",
+      "adjacent_reasoning": "AIに役割を持たせて事業を進めたい関心は、実はプロンプト設計よりも先に、監督・権限委譲・例外処理をどう回すかという組織設計の問題にぶつかる。ここを掘ると、AI社員体制を単発自動化ではなく持続運用できる仕組みとして見られるようになる。"
+    }
+  ]
+}
