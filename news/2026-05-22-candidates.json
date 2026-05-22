@@ -1,0 +1,282 @@
+{
+  "date": "2026-05-22",
+  "mode": "multimode",
+  "articles": [
+    {
+      "number": 1,
+      "title": "Anthropicの「Code with Claude」が、好むと好まざるとにかかわらずコーディングの未来を示した",
+      "source": "MIT Technology Review",
+      "description": "",
+      "url": "https://www.technologyreview.com/2026/05/21/1137735/anthropics-code-with-claude-showed-off-codings-future-whether-you-like-it-or-not/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-22",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 1,
+        "title_ja": "Anthropicの「Code with Claude」が、好むと好まざるとにかかわらずコーディングの未来を示した",
+        "key_points": [
+          "Anthropicの開発者イベントでは、Claudeが全面的に書いたPRをそのまま出した参加者が多数いた",
+          "Claude Codeは人が修正する前提ではなく、AIが自らテストと修正を繰り返す方向へ進んでいる",
+          "ソフトウェア開発は人間が直接コードを書く仕事から、AIに任せて監督する仕事へ急速に変わりつつある"
+        ],
+        "detailed_summary": "ロンドンで開かれたAnthropicの開発者イベントでは、Claudeが完全に書いたプルリクエストを実運用に載せた開発者が大量にいる実態が示された。Anthropicは、AIがコード生成後に人間が手直しする流れではなく、Claude自身がエラー検知、テスト、修正まで回す自律化を本命に据えている。最新アップデートでその精度が上がり、開発者の役割は実装者から監督者へ移り始めたことが、会場の空気そのものから伝わる内容だった。",
+        "why_it_matters": "生成AIが補助ツールではなく、実装の主役になり始めたことを示す象徴的な場面だ。開発現場の分業、責任範囲、レビューのあり方が根本から変わる。",
+        "headline": "AIコーディングの実務転換点を示し、役割分担設計の更新が必要になるため"
+      },
+      "selection_reason": "AIコーディングの実務転換点を示し、役割分担設計の更新が必要になるため"
+    },
+    {
+      "number": 2,
+      "title": "トランプ氏、AI安全保障の大統領令を延期　文言が障害になり得たと説明",
+      "source": "TechCrunch",
+      "description": "",
+      "url": "https://techcrunch.com/2026/05/21/trump-delays-ai-security-executive-order-i-dont-want-to-get-in-the-way-of-that-leading/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-21",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 2,
+        "title_ja": "トランプ氏、AI安全保障の大統領令を延期　文言が障害になり得たと説明",
+        "key_points": [
+          "トランプ大統領は、公開前のAIモデルを政府が評価できるようにする大統領令への署名を延期した",
+          "焦点の一つは、AI企業に高度モデルを公開の14〜90日前に政府共有させる案だった",
+          "政権側は中国との競争で優位を保つため、規制が技術開発の足かせになることを懸念している"
+        ],
+        "detailed_summary": "トランプ大統領は、AIモデルを公開前に安全保障の観点から審査するための大統領令について、文言に問題があるとして署名を見送った。想定されていた内容では、国家サイバー長官室などが評価手順を整え、特に高度モデルを政府へ事前共有させる仕組みが論点になっていた。背景には、AnthropicやOpenAIの先端モデルが脆弱性探索や悪用能力を強めている懸念がある一方、政権は対中競争を妨げる規制色の強い表現を避けたい思惑をにじませている。",
+        "why_it_matters": "AI安全と産業競争力のどちらを優先するかという政策の核心が表れている。米国の規制方針が揺れれば、企業の開発計画と国際ルール形成の両方に影響する。",
+        "headline": "AI公開前審査の扱いが揺れ、開発速度と規制対応の前提が変わるため"
+      },
+      "selection_reason": "AI公開前審査の扱いが揺れ、開発速度と規制対応の前提が変わるため"
+    },
+    {
+      "number": 3,
+      "title": "オンライン安全の将来を巡り、テック研究者らがトランプ政権を提訴",
+      "source": "MIT Technology Review",
+      "description": "",
+      "url": "https://www.technologyreview.com/2026/05/21/1137632/lawsuit-trump-administration-online-safety-coalition-for-independent-technology-research/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-22",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 3,
+        "title_ja": "オンライン安全の将来を巡り、テック研究者らがトランプ政権を提訴",
+        "key_points": [
+          "研究者団体CITRは、米政権の査証制限政策が言論の自由と適正手続を侵害するとして提訴した",
+          "政策は、米国人の言論検閲に加担したとされる外国当局者や研究者の入国を制限する内容だ",
+          "原告側は、ヘイトや偽情報対策に関わる研究全体を萎縮させる曖昧で広範な制度だと批判している"
+        ],
+        "detailed_summary": "独立系技術研究者の連合CITRは、オンライン上のヘイト、偽情報、ハラスメント対策に携わる外国出身研究者を狙い撃ちし得る査証制限政策は違憲だとして、トランプ政権幹部を提訴した。原告側は、この制度が極めて曖昧で、政府と異なる見解を持つ研究者を移民法で黙らせる効果を生んでいると主張する。一方、政府側は言論ではなく外国政府による検閲支援という行為を問題視していると反論しており、裁判所の判断が注目される。",
+        "why_it_matters": "この訴訟は、オンライン安全研究を民主的な公共活動として守るのか、政治的に萎縮させるのかを左右する。判決次第で、研究者の越境協力やプラットフォーム規制の議論全体が変わる。",
+        "headline": "安全研究の監視基盤が揺れる話で、AI運用の外部制約を読む価値が高いため"
+      },
+      "selection_reason": "安全研究の監視基盤が揺れる話で、AI運用の外部制約を読む価値が高いため"
+    },
+    {
+      "number": 4,
+      "title": "秘密主義の『万能』AIインターフェースを掲げるHark、シリーズAで7億ドルを調達",
+      "source": "TechCrunch",
+      "description": "",
+      "url": "https://techcrunch.com/2026/05/21/hark-raises-700m-series-a-for-its-secretive-universal-ai-interface/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-21",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 4,
+        "title_ja": "秘密主義の『万能』AIインターフェースを掲げるHark、シリーズAで7億ドルを調達",
+        "key_points": [
+          "HarkはシリーズAで7億ドルを調達し、企業価値はポストマネーで60億ドルに達した",
+          "同社はデジタル世界の汎用インターフェースとなるAIアシスタント向けにモデルとハードウェアを開発中だ",
+          "詳細はほとんど非公開だが、今夏にマルチモーダルモデル、その後に専用ハードを出す計画を示した"
+        ],
+        "detailed_summary": "AIスタートアップHarkは、シリーズAで7億ドルという巨額調達を実施し、一気に注目企業へ浮上した。創業者はFigure.AIやArcherでも知られるブレット・アドコックで、既存サービスを横断して使える個人向けAIプラットフォームと専用ハードウェアの開発を進めている。投資家は豊富だが、製品像はなお秘密に包まれており、勝負は今夏予定のマルチモーダルモデル公開と、その後のハード展開でどこまで具体像を示せるかにかかっている。",
+        "why_it_matters": "消費者向けAIの次の本命を狙う資金が、いまは性能だけでなくインターフェースと専用機器に集まり始めている。成功すれば、スマホ以後の新しい個人コンピューティングの入口になり得る。",
+        "headline": "AIの統合窓口に巨額資金が集まり、UI主導競争の熱さが見えるため"
+      },
+      "selection_reason": "AIの統合窓口に巨額資金が集まり、UI主導競争の熱さが見えるため"
+    },
+    {
+      "number": 5,
+      "title": "Googleがもはや以前のGoogleではなくなった今、試す価値のある6つの検索エンジン",
+      "source": "TechCrunch",
+      "description": "",
+      "url": "https://techcrunch.com/2026/05/21/six-search-engines-worth-trying-now-that-google-isnt-really-google-anymore/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-21",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 5,
+        "title_ja": "Googleがもはや以前のGoogleではなくなった今、試す価値のある6つの検索エンジン",
+        "key_points": [
+          "GoogleはI/O 2026で検索を会話型AI中心へ大きく再設計すると発表した",
+          "AI OverviewやAI Modeの強化に対し、ユーザーからは検索体験の劣化や押し付けへの反発が強い",
+          "記事は代替候補としてKagiなどを挙げ、広告なしやAI要約の制御といった選択肢を紹介している"
+        ],
+        "detailed_summary": "GoogleはI/O 2026で、検索窓を起点にAIモードや対話型フォローアップを組み込む大規模刷新を打ち出した。これにより検索は従来のリンク一覧から、ChatGPTに近い会話体験へさらに寄っていく。一方で、過去のAI Overviewの不評もあり、ユーザーの一部は検索そのものを別サービスへ移す動きを強めている。記事はその流れを受け、広告の少なさやAI要約の有無を自分で選べる代替検索エンジンを探るべきだと提案している。",
+        "why_it_matters": "検索はネット利用の入口なので、その変化は情報取得の前提を丸ごと変える。Google一強への反発とAI疲れが重なれば、検索市場の再編が現実味を帯びる。",
+        "headline": "検索面の変化はMVP発見導線と集客設計に直結し、影響が広いため"
+      },
+      "selection_reason": "検索面の変化はMVP発見導線と集客設計に直結し、影響が広いため"
+    },
+    {
+      "number": 6,
+      "title": "法執行機関、24以上のランサムウェア集団が使っていたVPNサービスを停止",
+      "source": "TechCrunch",
+      "description": "",
+      "url": "https://techcrunch.com/2026/05/21/law-enforcement-shuts-down-vpn-service-used-by-two-dozen-ransomware-gangs/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-21",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 6,
+        "title_ja": "法執行機関、24以上のランサムウェア集団が使っていたVPNサービスを停止",
+        "key_points": [
+          "国際捜査当局は、犯罪者に広く使われていたFirst VPNを摘発し、運営者を逮捕した",
+          "FBIによれば少なくとも25のランサムウェア集団がこのVPNを匿名化基盤として利用していた",
+          "捜査当局は利用者データベースと接続情報を押収し、数千人規模のサイバー犯罪関係者の特定につなげた"
+        ],
+        "detailed_summary": "EuropolやFBIを含む国際連携捜査により、サイバー犯罪者向けに匿名通信や匿名決済、秘匿インフラを提供していたFirst VPNが閉鎖され、管理者も逮捕された。FBIは、少なくとも25のランサムウェア集団がこのサービスを悪用していたと説明している。First VPNは27カ国にサーバーを展開し、ボットネット運用やDDoS、詐欺にも使われていた。2021年末に始まった捜査の成果として、数千人規模の利用者特定にもつながった点が大きい。",
+        "why_it_matters": "犯罪者が頼る共通インフラを潰すと、個別犯の摘発以上に広い打撃を与えられる。VPNの匿名性を売りにした闇サービスでも、運営と利用者の追跡は可能だと示した。",
+        "headline": "外部連携前提の自動運用で、依存インフラの遮断リスクを具体的に学べるため"
+      },
+      "selection_reason": "外部連携前提の自動運用で、依存インフラの遮断リスクを具体的に学べるため"
+    },
+    {
+      "number": 7,
+      "title": "Spotifyが新アプリでGoogleのNotebookLMに挑戦",
+      "source": "TechCrunch",
+      "description": "",
+      "url": "https://techcrunch.com/2026/05/21/spotify-debuts-a-new-desktop-app-for-creating-personal-podcasts/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-21",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 1,
+        "title_ja": "Spotifyが新アプリでGoogleのNotebookLMに挑戦",
+        "key_points": [
+          "Spotify Labsが新しいデスクトップアプリ「Studio」を研究プレビューとして公開した",
+          "メールや予定表、予約情報、Web閲覧結果を組み合わせて個人向けの音声ブリーフやポッドキャストを自動生成できる",
+          "生成した音声は公開されず、Spotifyライブラリ内で個人利用向けに端末間同期される"
+        ],
+        "detailed_summary": "Spotifyは、AIで個人向けポッドキャストを作る新デスクトップアプリ「Studio by Spotify Labs」を20超の市場で試験公開した。メール、カレンダー、予約情報、Web検索結果を組み合わせ、旅行中の音声ガイドや日次ブリーフを生成できるのが特徴だ。生成音声は公開されず個人ライブラリに保存される。NotebookLMなどが広めた音声要約の流れに乗る動きで、Spotifyが音声体験全般に関与する領域をさらに広げようとしていることがうかがえる。",
+        "why_it_matters": "Spotifyが音楽配信だけでなく、AIを使った個人向け情報整理や音声アシスタント領域に踏み込んだ点が重要だ。音声が検索、要約、日常支援のインターフェースとして広がる流れを強める。",
+        "headline": "情報を音声化して再利用する導線は、AI秘書運用と発信自動化に近いため"
+      },
+      "selection_reason": "情報を音声化して再利用する導線は、AI秘書運用と発信自動化に近いため"
+    },
+    {
+      "number": 8,
+      "title": "イーロン・マスクがOpenAIへの訴訟で敗れた理由",
+      "source": "MIT Technology Review",
+      "description": "",
+      "url": "https://www.technologyreview.com/2026/05/18/1137488/elon-musk-suit-openai-verdict/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-22",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 2,
+        "title_ja": "イーロン・マスクがOpenAIへの訴訟で敗れた理由",
+        "key_points": [
+          "陪審は、マスク氏の提訴が遅すぎたとして請求は時効により阻まれるとの勧告的評決を全会一致で示した",
+          "マスク氏はOpenAIが非営利であるという約束を破り、営利化で利益を得たと主張していた",
+          "争点の中心は不正の有無そのものではなく、マスク氏がいつそれを知り得たかという時効判断だった"
+        ],
+        "detailed_summary": "米連邦地裁で争われたMusk対OpenAI訴訟は、陪審がマスク氏の提訴時期が遅すぎたと判断し、請求は時効にかかるとの勧告的評決を出した。裁判所はこれを直ちに受け入れた。マスク氏は、Altman氏とBrockman氏がOpenAIを非営利で維持する約束を破り、営利化によって不当に利益を得たと訴えていたが、裁判では本案よりも、疑義をいつ認識できたかが決定打になった。マスク氏は控訴する意向を示している。",
+        "why_it_matters": "この判断はOpenAIの組織転換をめぐる法的リスクをいったん後退させる。一方で、AI企業の設立理念と商業化の衝突が今後も大きな争点であり続けることを示した。",
+        "headline": "AI企業の支配構造と訴訟の限界が見え、事業設計の現実感を補強するため"
+      },
+      "selection_reason": "AI企業の支配構造と訴訟の限界が見え、事業設計の現実感を補強するため"
+    },
+    {
+      "number": 9,
+      "title": "GeminiのAIアバターツールで自分を複製してみたら、不気味なくらい自分だった",
+      "source": "WIRED",
+      "description": "",
+      "url": "https://www.wired.com/story/i-cloned-myself-with-geminis-ai-avatar-tool-the-result-was-unnervingly-me/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-22",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 3,
+        "title_ja": "GeminiのAIアバターツールで自分を複製してみたら、不気味なくらい自分だった",
+        "key_points": [
+          "Google Geminiの有料機能「avatars」で、自分そっくりのデジタル分身を動画内に登場させられる",
+          "短時間の顔スキャンと音声収録でアバターを作成でき、実在の場所をかなり正確に再現した映像も生成された",
+          "出来栄えは印象的な一方、細部の崩れや深偽造的な不気味さが強く、本人も驚きと不安を抱いた"
+        ],
+        "detailed_summary": "筆者はGeminiアプリの新機能「avatars」を使い、自分の見た目と声を再現したAIアバター動画を生成した。設定は数分で終わり、サンフランシスコの実在地点をかなり忠実に再現した映像の中で、自分が恐竜に誕生日の歌を歌うなどの奇妙な動画ができあがった。歯や服装などに不自然さは残るものの、本人性の再現度は高く、便利さと同時に深偽造の怖さを強く意識させる体験として描かれている。",
+        "why_it_matters": "生成AIが個人の容姿や声を高精度で複製する段階に入ったことを示す事例だ。表現の幅を広げる一方で、本人確認、同意、悪用防止の設計が急務になる。",
+        "headline": "一人運営で発信量を増やす切り札として、人格複製の実用線が見えるため"
+      },
+      "selection_reason": "一人運営で発信量を増やす切り札として、人格複製の実用線が見えるため"
+    },
+    {
+      "number": 10,
+      "title": "気候テック企業が重要鉱物へ軸足を移している",
+      "source": "MIT Technology Review",
+      "description": "",
+      "url": "https://www.technologyreview.com/2026/05/21/1137622/climate-tech-pivot-critical-minerals/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-22",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 4,
+        "title_ja": "気候テック企業が重要鉱物へ軸足を移している",
+        "key_points": [
+          "米国で気候政策への支援が弱まる中、気候テック企業は脱炭素以外の価値を前面に出し始めている",
+          "Boston Metalは低炭素製鉄より先に、ニオブやタンタルなど重要金属事業へ注力して資金確保を狙う",
+          "セメント分野のBrimstoneなども、重要素材や供給網強化を切り口に事業継続と成長を模索している"
+        ],
+        "detailed_summary": "米国で気候政策の追い風が弱まる中、気候テック企業は脱炭素だけを訴求するのではなく、重要鉱物や供給網強化といった政治的に受け入れられやすいテーマへ軸足を移している。Boston Metalは低炭素製鉄技術を持ちながら、まずはニオブやタンタルなど高付加価値の金属生産に注力し、事業基盤を固める戦略を取る。Brimstoneのような他社にも同様の動きが見られ、気候技術の生存戦略が変わりつつある。",
+        "why_it_matters": "脱炭素技術の成否が、環境価値だけでなく産業政策や資源安全保障とどう接続できるかに左右され始めている。気候テックの資金調達と事業設計の現実が変わった。",
+        "headline": "市場の追い風に合わせて焦点をずらす実例で、AI事業の転進判断にも効くため"
+      },
+      "selection_reason": "市場の追い風に合わせて焦点をずらす実例で、AI事業の転進判断にも効くため"
+    },
+    {
+      "number": 11,
+      "title": "日本のインフレ率が4年ぶり低水準に鈍化、日銀の利上げ判断を難しくする",
+      "source": "CNBC",
+      "description": "",
+      "url": "https://www.cnbc.com/2026/05/22/japan-april-core-inflation-boj-rate-hike-outlook.html",
+      "category": "経済・金融",
+      "published_at": "2026-05-22",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 5,
+        "title_ja": "日本のインフレ率が4年ぶり低水準に鈍化、日銀の利上げ判断を難しくする",
+        "key_points": [
+          "2026年4月の日本のコアCPIは前年比1.4%となり、市場予想と前月を下回った",
+          "日銀が重視するコアコア指数も1.9%へ低下し、物価の基調的な伸びは弱まっている",
+          "一方で1-3月期の年率2.1%成長や円安、エネルギー対策議論があり、利上げ余地は完全には消えていない"
+        ],
+        "detailed_summary": "日本の4月コアインフレ率は1.4%と、2022年3月以来の低水準に鈍化し、市場予想の1.7%も下回った。総合指数も4カ月連続で日銀目標の2%未満にとどまり、食料とエネルギーを除くコアコアも1.9%へ低下した。これにより早期利上げ観測はやや後退する。ただし、日銀は中東情勢による原油高や価格転嫁を理由に物価見通しを引き上げており、1-3月期成長率も堅調だったため、金融政策の判断は一段と難しくなっている。",
+        "why_it_matters": "日銀の利上げ時期は、日本の金利、円相場、家計負担、資産価格に直結する。物価鈍化と景気の底堅さが同時に進むことで、政策運営の難度が高まっている。",
+        "headline": "金利観測の変化は、国内で小さく事業を回す際の資金感覚に直結するため"
+      },
+      "selection_reason": "金利観測の変化は、国内で小さく事業を回す際の資金感覚に直結するため"
+    },
+    {
+      "number": 12,
+      "title": "SpaceX、巨大ロケットStarshipの試験飛行を中止し金曜に再挑戦へ",
+      "source": "CNBC",
+      "description": "",
+      "url": "https://www.cnbc.com/2026/05/21/spacex-plans-12th-test-flight-of-massive-starship-rocket-as-ipo-looms.html",
+      "category": "経済・金融",
+      "published_at": "2026-05-21",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 6,
+        "title_ja": "SpaceX、巨大ロケットStarshipの試験飛行を中止し金曜に再挑戦へ",
+        "key_points": [
+          "SpaceXは木曜夕方のStarship第12回試験飛行を中止し、金曜に再挑戦する予定だ",
+          "今回の打ち上げは新型「Starship V3」の初飛行で、完全再使用を前提に100トンを軌道投入できる設計とされる",
+          "Starshipの成功はStarlink拡張、SpaceXの成長戦略、さらにはNASAの月探査計画にとって重要な意味を持つ"
+        ],
+        "detailed_summary": "SpaceXはテキサス州Starbaseの新発射台から予定していた巨大ロケットStarshipの試験飛行を直前で中止し、翌日に再挑戦すると発表した。今回が初飛行となるStarship V3は、完全再使用型で100トン級の軌道投入能力と高い打ち上げ頻度を目指す新世代機だ。Starship計画には150億ドル超が投じられており、Starlink衛星の大量投入、同社のIPO前アピール、さらにNASAのアルテミス計画での月着陸船用途まで、多くの期待が懸かっている。",
+        "why_it_matters": "Starshipの成否はSpaceXの収益拡大と宇宙輸送の将来像を左右する。商業衛星網、株式市場での評価、月・火星探査の計画まで影響するため注目度が高い。",
+        "headline": "未完成でも公開試験を重ねる姿勢が、デモ先行型の事業運営と重なるため"
+      },
+      "selection_reason": "未完成でも公開試験を重ねる姿勢が、デモ先行型の事業運営と重なるため"
+    }
+  ]
+}
