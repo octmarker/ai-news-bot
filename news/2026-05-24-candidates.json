@@ -1,0 +1,240 @@
+{
+  "date": "2026-05-24",
+  "mode": "multimode",
+  "articles": [
+    {
+      "number": 1,
+      "title": "VCと創業者はいかに水増ししたARRでAIスタートアップを飾り立てるのか",
+      "source": "TechCrunch",
+      "description": "",
+      "url": "https://techcrunch.com/2026/05/22/how-vcs-and-founders-use-inflated-arr-to-kingmake-ai-startups/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-22",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 1,
+        "title_ja": "VCと創業者はいかに水増ししたARRでAIスタートアップを飾り立てるのか",
+        "key_points": [
+          "AIスタートアップの一部が、実際の売上ではなく契約済みだが未稼働の収益見込みまで含めてARRとして公表している。",
+          "投資家や業界関係者の多くは、この水増しを珍しい例外ではなく広く行われる慣行だと認識している。",
+          "競争が激しい市場では、他社が誇張する以上、自社も同じ指標を使わないと不利になるという圧力がある。"
+        ],
+        "detailed_summary": "法律AI企業SpellbookのCEOが、AIスタートアップの売上急拡大を支える裏側としてARRの水増しを告発した。問題の中心は、本来は契約済みで実際に稼働中の年間経常収益を示すARRに、未導入顧客分まで含めたCARRを混ぜて公表する手法だ。TechCrunchが創業者や投資家らに取材したところ、こうした誇張は広く行われ、投資家側も把握しているケースが多いという。成長競争が過熱するAI分野では、見栄えのよい数字が資金調達や広報に直結し、健全な比較を歪めている。",
+        "why_it_matters": "AI企業の成長評価そのものが怪しくなる話で、投資判断や報道の信頼性に直結する。見かけの急成長をうのみにすると、実態とかけ離れた企業価値が正当化されかねない。",
+        "headline": "AI事業の見せ方と実態のズレを知れ、検証速度重視の判断精度が上がる"
+      },
+      "selection_reason": "AI事業の見せ方と実態のズレを知れ、検証速度重視の判断精度が上がる"
+    },
+    {
+      "number": 2,
+      "title": "Google I/Oが示した、AI主導の科学の進路変化",
+      "source": "MIT Technology Review",
+      "description": "",
+      "url": "https://www.technologyreview.com/2026/05/22/1137813/google-i-o-showed-how-the-path-for-ai-science-is-shifting/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-24",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 2,
+        "title_ja": "Google I/Oが示した、AI主導の科学の進路変化",
+        "key_points": [
+          "Google DeepMindは、特定分野向けの科学AIと、自律的に研究を進めるエージェント型AIという二つの路線の間で重心が移りつつある。",
+          "WeatherNextのような専用モデルは実社会で役立つ成果を出している一方、業界の期待はAIが科学そのものを進める未来へ傾いている。",
+          "AlphaFoldの成功後も専門特化型ツールは重要だが、今後は人間とAIが共同研究者のように働く構図が強まりそうだ。"
+        ],
+        "detailed_summary": "Google I/Oでは、DeepMindのハサビスCEOがシンギュラリティの手前に立っていると語る一方、科学AIの実例としてはハリケーン被害の事前警告に役立つWeatherNextが紹介された。記事は、この対比からAI科学の方向性が変わりつつあると見る。ひとつは気象や創薬のような個別課題向けに訓練された専用AI、もうひとつは大規模言語モデルを基盤に自律的に研究を進めるエージェント型AIだ。Googleは前者を続けつつも、後者への期待が高まり、科学研究の担い手そのものが再定義され始めている。",
+        "why_it_matters": "AIが科学を支援する段階から、AIが科学の主体になりうる段階へ移る兆しを示している。研究開発投資の向き先や、科学者の役割の設計に大きく影響する。",
+        "headline": "GoogleのAI活用軸の変化が見え、次の実装基盤や研究投資の流れを読める"
+      },
+      "selection_reason": "GoogleのAI活用軸の変化が見え、次の実装基盤や研究投資の流れを読める"
+    },
+    {
+      "number": 3,
+      "title": "AIが嫌いでも、あなたはGoogleのAI検索を使うことになる",
+      "source": "WIRED",
+      "description": "",
+      "url": "https://www.wired.com/story/even-if-you-hate-ai-you-will-use-google-ai-search/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-24",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 3,
+        "title_ja": "AIが嫌いでも、あなたはGoogleのAI検索を使うことになる",
+        "key_points": [
+          "Googleは従来のリンク中心検索を後退させ、Geminiを前面に出した対話型のAI検索へ本格移行している。",
+          "検索結果はウェブへの入口ではなく、Googleがその場で生成する要約、図表、提案資料のような回答へ変わりつつある。",
+          "AIへの反発があっても、Googleが主力製品に組み込む以上、多くの利用者はこの変化を避けにくい。"
+        ],
+        "detailed_summary": "筆者はかつて検索品質会議を見た経験を引きながら、Google I/Oで検索が決定的に変質したと論じる。すでにAI Overviewで青いリンクの価値は下がっていたが、今回は検索ボックス自体がGeminiとの会話窓口になり、個人情報も踏まえた個別最適の回答を返す設計が明確になった。Googleは検索をウェブ上の案内役から、AIが完成形の答えを返す仕組みに変えようとしている。利用者のAI嫌悪はあっても、巨大プラットフォームの実装によって日常の検索体験はAI前提へ移行するという見立てだ。",
+        "why_it_matters": "検索の主導権がウェブサイトからプラットフォーム内生成回答へ移ると、情報流通と集客の構造が変わる。出版社、EC、SEO、利用者の情報取得習慣まで広く影響を受ける。",
+        "headline": "発信と集客の入口が変わる話で、MVP公開後の流入設計に直結しやすい"
+      },
+      "selection_reason": "発信と集客の入口が変わる話で、MVP公開後の流入設計に直結しやすい"
+    },
+    {
+      "number": 4,
+      "title": "フェラーリはIBMのAIでF1スーパーファンを生み出そうとしている",
+      "source": "TechCrunch",
+      "description": "",
+      "url": "https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-23",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 4,
+        "title_ja": "フェラーリはIBMのAIでF1スーパーファンを生み出そうとしている",
+        "key_points": [
+          "IBMとフェラーリは、レースデータをファン向け体験に変えるAI活用で提携している。",
+          "新しいフェラーリアプリは、AI生成レース要約、舞台裏コンテンツ、予想機能、対話型AIコンパニオンなどを備える。",
+          "F1では競技力向上だけでなく、膨大なデータを使って熱量の高いファン基盤を育てることが重要な収益戦略になっている。"
+        ],
+        "detailed_summary": "IBMは主要スポーツ提携の空白だったF1分野で、名門スクーデリア・フェラーリと組んだ。狙いはチームの競争力支援というより、ファン体験の刷新だ。レース中に生じる膨大なデータをわかりやすい物語に変え、フェラーリアプリ内でAI要約、舞台裏記事、ゲーム、予想、質問応答を提供する。イタリア語対応のような基本改善も含め、単に情報を見るだけのアプリから、継続的に関わる場へ変える発想が中心にある。F1人気拡大のなかで、チームが自前のデジタル接点を強化する流れを象徴する事例だ。",
+        "why_it_matters": "AIの価値が業務効率化だけでなく、ファン化と顧客関係の深化にあることを示している。スポーツに限らず、データを物語に変える企業が顧客接点を握る時代になっている。",
+        "headline": "AIを顧客熱量の増幅に使う実例で、開発後の販売導線設計の参考になる"
+      },
+      "selection_reason": "AIを顧客熱量の増幅に使う実例で、開発後の販売導線設計の参考になる"
+    },
+    {
+      "number": 5,
+      "title": "Anthropicの協調的脆弱性開示ダッシュボード",
+      "source": "Anthropic",
+      "description": "",
+      "url": "https://red.anthropic.com/2026/cvd/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-22",
+      "mode": "deep_dive",
+      "summary": {
+        "article_index": 5,
+        "title_ja": "Anthropicの協調的脆弱性開示ダッシュボード",
+        "key_points": [
+          "Anthropicは2026年2月からClaude Mythos Previewを使い、オープンソースソフトの脆弱性発見を進めている。",
+          "5月22日時点で281件のプロジェクトに対して1,596件の脆弱性を開示し、97件が修正済みとされる。",
+          "最大の制約は発見能力ではなく、人手による検証、深刻度評価、開発者への報告という後工程の処理能力にある。"
+        ],
+        "detailed_summary": "Anthropicは、Claude Mythos Previewが発見したオープンソース脆弱性を追跡する公開ダッシュボードを公開した。2026年5月22日時点で、281プロジェクトに対して1,596件を協調的脆弱性開示の枠組みで報告し、97件は修正済み、88件にはCVEまたはGHSAが付与されたという。記事が強調するのは、AIが見つけた候補を外部のセキュリティ企業や自社で再現・評価し、正式報告に仕上げる工程がボトルネックになっている点だ。AIが脆弱性探索の速度を押し上げる一方、防御側の運用能力が追いついていない現実が見えている。",
+        "why_it_matters": "AIによる脆弱性発見が実用段階に入ったことを示す具体的な数字だ。問題は発見数そのものより、社会全体がその発見を修正まで回し切れるかに移っている。",
+        "headline": "AI運用で露呈する脆弱性報告の実務が見え、外部連携設計の勘所になる"
+      },
+      "selection_reason": "AI運用で露呈する脆弱性報告の実務が見え、外部連携設計の勘所になる"
+    },
+    {
+      "number": 6,
+      "title": "Project Glasswing: 初期アップデート",
+      "source": "Anthropic",
+      "description": "",
+      "url": "https://www.anthropic.com/research/glasswing-initial-update",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-22",
+      "mode": "deep_dive",
+      "summary": {
+        "article_index": 6,
+        "title_ja": "Project Glasswing: 初期アップデート",
+        "key_points": [
+          "Anthropicと約50のパートナーは、重要ソフトウェアに対して1カ月で1万件超の高深刻度脆弱性を発見したと報告している。",
+          "Cloudflareでは2,000件のバグを見つけ、そのうち400件が高または重大レベルで、誤検知率も人間より良好だと評価された。",
+          "ソフトウェア安全保障の制約は、脆弱性を見つけることから、検証・開示・修正を高速に回すことへ移っている。"
+        ],
+        "detailed_summary": "Project Glasswingは、より強力なAIが攻撃側に使われる前に、世界の重要ソフトウェアを防御側から点検するAnthropic主導の取り組みだ。開始から約1カ月で、Claude Mythos Previewと約50の協力先が、社会基盤を支えるソフトウェアから1万件超の高深刻度脆弱性を見つけたという。Cloudflareなどの参加企業では発見速度が10倍以上になった例もある。ただし90日開示ルールのため詳細公表は限定的で、現時点では事例と集計値が中心だ。記事は、AI時代のサイバー防衛では探索能力より、修正までの処理体制が決定的になると訴える。",
+        "why_it_matters": "AIが防御にも攻撃にも使える時代に入り、重要インフラの安全確保は量の勝負になりつつある。脆弱性発見の自動化が進むほど、検証とパッチ配布の制度設計が国家・企業の競争力になる。",
+        "headline": "重要ソフトの保護をAIで進める話で、実運用時の制約と守りが学べる"
+      },
+      "selection_reason": "重要ソフトの保護をAIで進める話で、実運用時の制約と守りが学べる"
+    },
+    {
+      "number": 7,
+      "title": "有効な証明書、盗まれたアカウント: 攻撃者はいかにしてnpm最後の信頼シグナルを破ったか",
+      "source": "VentureBeat",
+      "description": "",
+      "url": "https://venturebeat.com/security/npm-sigstore-provenance-stolen-identity-audit-grid-2026",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-22",
+      "mode": "deep_dive",
+      "summary": {
+        "article_index": 1,
+        "title_ja": "有効な証明書、盗まれたアカウント: 攻撃者はいかにしてnpm最後の信頼シグナルを破ったか",
+        "key_points": [
+          "5月19日、侵害されたメンテナーアカウント経由で公開された悪意あるnpmパッケージ633件が、Sigstoreの来歴検証を正しく通過した。",
+          "Nx Console拡張でも盗難認証情報による不正公開が起き、約40分の公開中に約6000回有効化され、各種トークンや設定情報の窃取が狙われた。",
+          "研究者らは、npm来歴証明、VS Code拡張、MCP自動実行、CI/CD、AIコーディングCLIなど複数層で検証モデルが破綻していると指摘している。"
+        ],
+        "detailed_summary": "5月18日から19日にかけて、ソフトウェア供給網の信頼基盤が連続して破られた。攻撃者は盗んだ保守者資格情報を使い、Sigstoreの有効な証明書付きでnpmへ悪性版を公開。Nx Consoleでは短時間の不正公開でも自動更新経由で約6000回起動され、Claude Code設定、AWSキー、GitHubやnpmトークンなどが狙われた。Mini Shai-Huludでは複数の休眠パッケージから感染が波及し、npm全体で数百件規模へ拡散。署名やCI由来証明だけでは公開の正当性を担保できない現実が露出した。",
+        "why_it_matters": "開発者が頼ってきた最後の自動信頼シグナルが、認証情報を奪われた時点で攻撃者の隠れみのになり得ると示した。AI開発ツールやOSS配布の安全設計を、署名の有無だけでなく運用面まで含めて見直す必要がある。",
+        "headline": "AI開発の供給網リスクを具体化し、速く作る体制の弱点を補強できる"
+      },
+      "selection_reason": "AI開発の供給網リスクを具体化し、速く作る体制の弱点を補強できる"
+    },
+    {
+      "number": 8,
+      "title": "ラウンドテーブル総括: 5月21日 ソロ起業家はAI時代に不可欠で、その数は急増している",
+      "source": "Sramana Mitra",
+      "description": "",
+      "url": "https://www.sramanamitra.com/2026/05/22/roundtable-recap-may-21-solo-entrepreneurs-are-vital-for-the-ai-era-and-they-are-ballooning/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-22",
+      "mode": "deep_dive",
+      "summary": {
+        "article_index": 2,
+        "title_ja": "ラウンドテーブル総括: 5月21日 ソロ起業家はAI時代に不可欠で、その数は急増している",
+        "key_points": [
+          "記事は、AI再編とテック解雇の増加を背景に、単独創業者の存在感が急速に高まっていると主張する。",
+          "Cartaデータとして、ソロ創業スタートアップ比率が2019年の23.7%から足元で36%超へ拡大したと紹介している。",
+          "筆者は、YCのような既存アクセラレーターの共同創業者偏重を批判し、希薄化を抑えるBootstrap First, Raise Money Later路線を推している。"
+        ],
+        "detailed_summary": "1Mby1Mのラウンドテーブル総括記事で、企業雇用の安定が崩れるなか、AI時代は自律的に事業を立ち上げるソロ起業家が増えていると論じる。Cartaの新データを根拠に、単独創業の比率は2019年の23.7%から36%超へ上昇。筆者は、共同創業者を形だけで探すのは誤りで、まず顧客、売上、利益を作るべきだと訴える。紹介された3案件のうち、StudyMatixには無理な共同創業者探しを勧めず、DawaTimeは有望と評価し、Hula StudiosはAI色が弱いとして距離を置いた。",
+        "why_it_matters": "AIが個人の生産性を押し上げる中、起業の前提がチーム主導から個人主導へ動いていることを示す。資金調達やアクセラレーター依存の常識を見直す材料になる。",
+        "headline": "一人起業とAI活用の市場文脈が近く、事業集中の判断材料として噛み合う"
+      },
+      "selection_reason": "一人起業とAI活用の市場文脈が近く、事業集中の判断材料として噛み合う"
+    },
+    {
+      "number": 9,
+      "title": "iManage、ConnectLive 2026でプラットフォーム刷新を発表 AIの追い風と「コンテキストファブリック」を強調",
+      "source": "LawSites",
+      "description": "",
+      "url": "https://www.lawnext.com/2026/05/imanage-touts-ai-momentum-and-a-context-fabric-as-it-unveils-platform-overhaul-at-connectlive-2026.html",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-22",
+      "mode": "adjacent",
+      "summary": {
+        "article_index": 3,
+        "title_ja": "iManage、ConnectLive 2026でプラットフォーム刷新を発表 AIの追い風と「コンテキストファブリック」を強調",
+        "key_points": [
+          "iManageは年次会議ConnectLive 2026で、AIが安全に組織知識を使えるようにする新アーキテクチャ「コンテキストファブリック」を中心とした刷新を発表した。",
+          "文書や活動履歴、関係性を統合し、権限やガバナンスを組み込んだままAIエージェントが活用できる基盤にする構想だ。",
+          "同社は2026年に新規顧客90社を獲得し、顧客基盤の78%がクラウド化したと説明し、市場が実験段階から運用段階へ移ったと訴えている。"
+        ],
+        "detailed_summary": "iManageはConnectLive 2026で、文書管理とナレッジ管理基盤をAI前提に再設計する第一弾を公表した。中心に置くコンテキストファブリックは、組織内の文書、関係性、リアルタイム活動をつなぎ、継続的に更新される統治済みの知識基盤として機能させる考え方だ。AI固有のガバナンス制御や新UX、Anthropic Claudeとの統合も打ち出し、知識を外部へ大量搬出せずに安全な環境内でAI活用を進められると訴求した。一方で提供開始時期や価格はまだ示していない。",
+        "why_it_matters": "企業向けAIの争点が、モデル性能そのものから、社内知識をどう安全に接続し運用するかへ移ったことがよく分かる。法務や大企業では、権限制御付きの知識基盤が導入成否を左右する。",
+        "headline": "コンテキスト基盤を中核に据える発想が、AI社員体制の設計論を広げる"
+      },
+      "selection_reason": "コンテキスト基盤を中核に据える発想が、AI社員体制の設計論を広げる",
+      "adjacent_field": "Organizational Cybernetics",
+      "adjacent_reasoning": "AIエージェントを役割分担させて事業を回したい関心は、個別ツールの話より、観測・制御・フィードバックをどう設計するかという組織制御の問題に近い。ここを学ぶと、AI社員体制を機能の寄せ集めではなく、自律運営システムとして見られるようになる。"
+    },
+    {
+      "number": 10,
+      "title": "Newgen Software、企業運用向けAIオーケストレーション層を発表",
+      "source": "Express Computer",
+      "description": "",
+      "url": "https://www.expresscomputer.in/news/newgen-software-launches-ai-orchestration-layer-for-enterprise-operations/135251/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-22",
+      "mode": "adjacent",
+      "summary": {
+        "article_index": 4,
+        "title_ja": "Newgen Software、企業運用向けAIオーケストレーション層を発表",
+        "key_points": [
+          "Newgen SoftwareはNewgenONEに新たなAIオーケストレーション層を加え、実験段階のAI導入から統治された本番運用への移行を狙う。",
+          "ワークフロー、意思決定エンジン、コンテンツ、通信、AIモデルを単一の統治フレームワークで束ね、リアルタイムに実行させる構想を掲げる。",
+          "監査性、説明可能性、コンプライアンス、人の監督を組み込み、金融、保険、医療、政府など規制産業での利用を意識している。"
+        ],
+        "detailed_summary": "Newgen Softwareは、AIを単独のコパイロットや自動化部品として置くのではなく、企業全体の実行基盤に埋め込む新しいオーケストレーション層をNewgenONEへ追加した。AIエージェントがガバナンス境界内で業務フローや意思決定を調整し、Content ORBによる意味的な企業記憶や、MCPベースのサービス生成で社内APIをAIが使いやすい形に変換する。さらに、運用フィードバックでワークフロー自体が変化する継続学習型の仕組みを志向し、静的自動化から自律最適化へ進める姿勢を示した。",
+        "why_it_matters": "企業のAI導入は、個別ツールの追加だけでは断片化と統治不全を招く。全社オーケストレーション層の発想は、AIを本番業務に組み込む次の競争軸になり得る。",
+        "headline": "オーケストレーション層の考え方が、役割分担型エージェント運用に効く"
+      },
+      "selection_reason": "オーケストレーション層の考え方が、役割分担型エージェント運用に効く",
+      "adjacent_field": "Organizational Cybernetics",
+      "adjacent_reasoning": "AIエージェントを役割分担させて事業を回したい関心は、個別ツールの話より、観測・制御・フィードバックをどう設計するかという組織制御の問題に近い。ここを学ぶと、AI社員体制を機能の寄せ集めではなく、自律運営システムとして見られるようになる。"
+    }
+  ]
+}
