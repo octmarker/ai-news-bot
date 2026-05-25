@@ -1,0 +1,261 @@
+{
+  "date": "2026-05-25",
+  "mode": "multimode",
+  "articles": [
+    {
+      "number": 1,
+      "title": "Anthropicの「Code with Claude」が示した、好むと好まざるとにかかわらないコーディングの未来",
+      "source": "MIT Technology Review",
+      "description": "",
+      "url": "https://www.technologyreview.com/2026/05/21/1137735/anthropics-code-with-claude-showed-off-codings-future-whether-you-like-it-or-not/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-25",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 1,
+        "title_ja": "Anthropicの「Code with Claude」が示した、好むと好まざるとにかかわらないコーディングの未来",
+        "key_points": [
+          "Anthropicの開発者イベントでは、Claudeが全面的に書いたPRをそのまま出した参加者が多数いた",
+          "Claude Codeは人間が細かく修正する前提ではなく、AIが自分でテストと修正を繰り返す方向に進んでいる",
+          "ソフトウェア開発は人が直接コードを書く形から、AIに仕事を委ねる形へ急速に移行している"
+        ],
+        "detailed_summary": "Anthropicのロンドンでの開発者イベントでは、Claudeが丸ごと書いたプルリクエストを実運用に載せた参加者が多く、しかも中身を読まずに出した人も少なくなかった。Anthropicは、AIがコード生成後の修正まで自動で担う流れを標準にしようとしており、人間は逐一エラーを見る必要すらなくなるという。最新アップデートでClaude Codeの信頼感が増し、開発現場の役割分担そのものが変わり始めていることを印象づけた。",
+        "why_it_matters": "生成AIは補助ツールの段階を越え、実装の主体に近づいている。開発者の仕事は書くことから、任せ方と検証責任を設計することへ移りつつある。",
+        "headline": "AIエージェント開発の実務がどう変わるかを、今週の文脈で最も直撃する一本。"
+      },
+      "selection_reason": "AIエージェント開発の実務がどう変わるかを、今週の文脈で最も直撃する一本。"
+    },
+    {
+      "number": 2,
+      "title": "AIセキュリティを誰もが手探りで進めている。Googleでさえ例外ではない",
+      "source": "TechCrunch",
+      "description": "",
+      "url": "https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-24",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 2,
+        "title_ja": "AIセキュリティを誰もが手探りで進めている。Googleでさえ例外ではない",
+        "key_points": [
+          "Google CloudのFrancis de Souza氏は、AI導入では最初からセキュリティとデータ戦略を一体で設計すべきだと強調した",
+          "従業員が勝手に消費者向けAIを使う「シャドーAI」は、統制や監査の観点で大きなリスクになる",
+          "攻撃速度が極端に上がる一方、モデルやプロンプト、エージェントまで守る対象が広がっている"
+        ],
+        "detailed_summary": "Google CloudのFrancis de Souza氏は、AI導入企業に対し、セキュリティを後付けにせず、データ戦略と一体で進める必要があると説いた。単一クラウド前提では現実に合わず、SaaSや取引先を含めたマルチクラウド全体で一貫した防御が要るという。特に、社内を動くエージェントが放置された古いSharePointなどを掘り当て、眠っていたデータを露出させる危険を指摘した。防御側もAIエージェントを使い、機械の速度で対抗すべきだという見方だ。",
+        "why_it_matters": "AI導入の論点は便利さではなく、統制と可視化に移っている。セキュリティ設計を誤ると、AIが生産性向上の装置ではなく情報漏えいの増幅器になりかねない。",
+        "headline": "AI導入の障害が機能不足ではなく運用時の安全設計にあると見せるタイムリーな記事。"
+      },
+      "selection_reason": "AI導入の障害が機能不足ではなく運用時の安全設計にあると見せるタイムリーな記事。"
+    },
+    {
+      "number": 3,
+      "title": "オンライン安全性の将来をめぐり、技術研究者たちがトランプ政権を提訴",
+      "source": "MIT Technology Review",
+      "description": "",
+      "url": "https://www.technologyreview.com/2026/05/21/1137632/lawsuit-trump-administration-online-safety-coalition-for-independent-technology-research/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-25",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 3,
+        "title_ja": "オンライン安全性の将来をめぐり、技術研究者たちがトランプ政権を提訴",
+        "key_points": [
+          "オンライン上のヘイトや偽情報対策に関わる研究者らが、トランプ政権のビザ制限方針を違憲として提訴した",
+          "原告側は、この方針が移民政策を使って言論と研究活動を萎縮させる狙いだと主張している",
+          "政府側は検閲支援という「行為」を問題視していると反論し、訴訟の却下も求めている"
+        ],
+        "detailed_summary": "オンライン上の有害情報や偽情報を研究し、対策に関わる人々の団体CITRが、トランプ政権のビザ制限方針を違憲として訴えた。発端はMarco Rubio国務長官が、米国人への検閲に加担した外国人を対象にすると表明したことだ。原告側は対象範囲が曖昧で萎縮効果が大きく、移民法を利用して政権に不都合な意見を抑え込んでいると批判する。政府は、問題にしているのは言論ではなく外国政府による検閲支援だと反論している。",
+        "why_it_matters": "この訴訟は、オンライン安全対策が言論弾圧と見なされる境界線を問う案件だ。研究者やプラットフォームの信頼安全業務に国際的な萎縮を広げる可能性がある。",
+        "headline": "規制と研究環境の揺れが、AI事業の実装や公開判断に直結する局面を押さえられる。"
+      },
+      "selection_reason": "規制と研究環境の揺れが、AI事業の実装や公開判断に直結する局面を押さえられる。"
+    },
+    {
+      "number": 4,
+      "title": "公共地への公平なアクセスを確保するために作られた米国のサイトで、すべてが狂い始めた",
+      "source": "WIRED",
+      "description": "",
+      "url": "https://www.wired.com/story/the-us-built-a-site-to-ensure-fair-access-to-public-lands-then-everything-went-wrong/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-25",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 4,
+        "title_ja": "公共地への公平なアクセスを確保するために作られた米国のサイトで、すべてが狂い始めた",
+        "key_points": [
+          "Recreation.govは国立公園や河川許可など公共地利用の予約を担う巨大プラットフォームになっている",
+          "人気許可は当選確率が極端に低く、キャンセル枠の争奪戦では人間よりボットが有利だという不信が広がっている",
+          "開発者たちが実験的にボットを作れるほど脆弱なら、公平性の前提そのものが揺らぐ"
+        ],
+        "detailed_summary": "米連邦の予約サイトRecreation.govは、人気の高い河川許可やキャンプ場、国立公園入場枠を管理するが、利用者急増で競争が過熱している。抽選に外れた人に残る望みはキャンセル分の先着予約だが、そこでボットが人間より速く枠を取っているのではないかという疑念が強い。実際、アウトドア界隈ではスクレイパーや自作ボットの共有も行われており、ある開発者は制度の欠陥を示すため実験を始めた。公平な公共アクセスを支える仕組みが、技術的には簡単に攻略されうる現実が浮かぶ。",
+        "why_it_matters": "公共資源へのアクセスが、抽選や先着の名目でも技術格差に左右されるなら制度の正当性が崩れる。デジタル行政における公平性と不正対策の難しさを示す事例だ。",
+        "headline": "配分の公平性を掲げた仕組みが壊れる過程は、AI運用設計の失敗例として読み価値が高い。"
+      },
+      "selection_reason": "配分の公平性を掲げた仕組みが壊れる過程は、AI運用設計の失敗例として読み価値が高い。"
+    },
+    {
+      "number": 5,
+      "title": "スパイウェアから身を守るのに役立つ、スマホとアプリの特別な機能",
+      "source": "TechCrunch",
+      "description": "",
+      "url": "https://techcrunch.com/2026/05/23/you-dont-have-to-click-anything-to-get-hacked-anymore-heres-how-to-fight-back/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-23",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 5,
+        "title_ja": "スパイウェアから身を守るのに役立つ、スマホとアプリの特別な機能",
+        "key_points": [
+          "記者や人権活動家を狙うスパイウェア攻撃は例外ではなく、2025年もWhatsAppやiPhone利用者への被害が確認された",
+          "Apple、Google、Metaは、標的型スパイウェア対策向けの追加防御機能を利用者向けに提供している",
+          "多少の利便性低下はあるが、無料で有効性も高く、危険が疑われる人には有力な防御策とされる"
+        ],
+        "detailed_summary": "記者、人権活動家、政治的反対者を狙う高度なスパイウェア攻撃は珍しい事件ではなくなり、2025年にはWhatsApp利用者やiPhone利用者へのゼロクリック攻撃も確認された。こうした状況を受け、Apple、Google、Metaは標的型攻撃向けの防御機能を用意している。通常機能の一部を制限する代わりに侵入経路を狭める仕組みで、長年スパイウェア対策に関わる研究者も利用を勧めている。完璧ではないが、今使える現実的な防御として価値が高いという整理だ。",
+        "why_it_matters": "国家レベルの監視技術は一部の特殊な話ではなく、民間の端末防御設定が生死を分ける時代になった。高リスク層だけでなく一般利用者にも、セキュリティ設定を見直す動機を与える。",
+        "headline": "AI社員的な運用では個人端末が弱点になりやすく、実務の防御線を具体化しやすい。"
+      },
+      "selection_reason": "AI社員的な運用では個人端末が弱点になりやすく、実務の防御線を具体化しやすい。"
+    },
+    {
+      "number": 6,
+      "title": "ラウンドテーブル：Musk対Altman裁判の舞台裏",
+      "source": "MIT Technology Review",
+      "description": "",
+      "url": "https://www.technologyreview.com/2026/05/19/1137454/roundtables-inside-the-musk-v-altman-trial/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-25",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 6,
+        "title_ja": "ラウンドテーブル：Musk対Altman裁判の舞台裏",
+        "key_points": [
+          "MIT Technology Reviewが、Musk対Altman裁判の舞台裏とAI競争への影響を語る会員向け討論を公開している",
+          "Elon Muskは、OpenAIの非営利性をめぐってSam Altmanらに欺かれたとする訴訟で敗訴した",
+          "関連する週次報道や解説記事を通じて、OpenAIの将来とAI業界の権力争いを追う構成になっている"
+        ],
+        "detailed_summary": "この記事そのものは通常のニュース本文というより、MIT Technology Reviewが2026年5月19日に収録した会員向けラウンドテーブルの案内だ。AI担当記者Michelle Kim氏と編集長Mat Honan氏が、Musk対Altman裁判の取材舞台裏とAI競争への含意を議論する。前提として、Elon MuskはOpenAIの非営利性をめぐりSam Altman氏らに欺かれたと訴えたが敗訴しており、関連リンクでは法廷での証言や双方の主張、OpenAIの将来を巡る争点が整理されている。",
+        "why_it_matters": "この裁判は個人同士の対立ではなく、AI企業の統治、営利化、競争戦略をどう見るかに直結する。業界の勢力図を読むうえで象徴的なケースになっている。",
+        "headline": "AI企業の支配権、提携、資本のねじれを追え、事業設計の制約理解に効く。"
+      },
+      "selection_reason": "AI企業の支配権、提携、資本のねじれを追え、事業設計の制約理解に効く。"
+    },
+    {
+      "number": 7,
+      "title": "座談会：AIは世界を理解できるのか？",
+      "source": "MIT Technology Review",
+      "description": "",
+      "url": "https://www.technologyreview.com/2026/05/21/1137756/roundtables-can-ai-learn-to-understand-the-world/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-25",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 1,
+        "title_ja": "座談会：AIは世界を理解できるのか？",
+        "key_points": [
+          "MIT Technology Reviewが、LLMの限界を超えて外界を理解するAIの可能性を議論する座談会を公開した",
+          "テーマはワールドモデルで、AIが物理世界にどう入り込むかが中心論点になっている",
+          "編集長Mat Honan氏、AI担当のWill Douglas Heaven氏、Grace Huckins氏が2026年5月21日に収録した"
+        ],
+        "detailed_summary": "MIT Technology Reviewは、AIが単なる言語処理を超えて外部世界を理解できるかをテーマにした購読者向け座談会を公開した。議論の中心は、近年注目を集めるワールドモデルで、LLMの弱点を補い、物理世界で行動できるAIへ進化できるかが焦点だ。編集部の主要メンバーが参加し、現状のAI研究の方向性と次の競争軸を整理する内容になっている。",
+        "why_it_matters": "生成AIの次の勝負が、文章生成から現実世界の理解と行動へ移っていることを示す。AIの能力評価や産業応用の軸が変わる可能性がある。",
+        "headline": "エージェントの限界を能力論ではなく世界理解の不足として捉え直す材料になる。"
+      },
+      "selection_reason": "エージェントの限界を能力論ではなく世界理解の不足として捉え直す材料になる。"
+    },
+    {
+      "number": 8,
+      "title": "AIが生む富の分配",
+      "source": "CNBC",
+      "description": "",
+      "url": "https://www.cnbc.com/2026/05/23/ai-wealth-must-benefit-the-public-south-koreas-deputy-pm-says.html",
+      "category": "経済・金融",
+      "published_at": "2026-05-23",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 2,
+        "title_ja": "AIが生む富の分配",
+        "key_points": [
+          "韓国の裵慶勲副首相は、AIで生まれる富を一部企業だけでなく広く国民に還元すべきだと述べた",
+          "Samsung Electronicsの労使対立を、AI時代の富と雇用を巡る構造問題の一例として位置づけた",
+          "AI相場でSamsungとSK Hynixに資金が集中する中、市場の偏りと包摂性の両立が課題になっている"
+        ],
+        "detailed_summary": "韓国の裵慶勲副首相はCNBCの取材で、AIが生む巨額の富を社会全体にどう分配するかが重要な政策課題だと強調した。Samsung Electronicsのスト回避を含む労使対立は、AI時代に巨大企業が生む利益と労働者への還元を巡る摩擦の表れだという認識だ。半導体株主導で株価が急騰する一方、政府は格差拡大や雇用不安を抑えつつ、誰も取り残さないAI包摂社会を掲げている。",
+        "why_it_matters": "AIの恩恵が株主と大企業に集中するのか、社会全体に広がるのかを問う議論だ。成長政策だけでなく、分配と雇用安定がAI時代の政治課題になる。",
+        "headline": "AIで生まれる利益を誰が取るかという論点は、マイクロ事業の出口設計にもつながる。"
+      },
+      "selection_reason": "AIで生まれる利益を誰が取るかという論点は、マイクロ事業の出口設計にもつながる。"
+    },
+    {
+      "number": 9,
+      "title": "今週のAIセキュリティ 2026年5月24日",
+      "source": "Minseok Kim",
+      "description": "",
+      "url": "https://deniskim1.com/writing/this_week_in_ai_security__may_24_2026/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-24",
+      "mode": "adjacent",
+      "summary": {
+        "article_index": 3,
+        "title_ja": "今週のAIセキュリティ 2026年5月24日",
+        "key_points": [
+          "AIセキュリティ研究の焦点が、静的な安全対策からエージェント型AIの実行時防御へ移っている",
+          "GraphRAG汚染、第三者エージェントの暴走、コーディング支援の越権操作など、思考連鎖全体が攻撃面になっている",
+          "防御策として、双方向検証や動的検査レイヤーなど構造的な保護手法が有望と整理されている"
+        ],
+        "detailed_summary": "今週のAIセキュリティ分野では、エージェント型AIの脆弱性が主要テーマになった。複数の論文が、GraphRAGの一部ノード汚染だけで高い操作成功率に達することや、マルチエージェントが敵対的状態で越権行動を起こしやすいことを示している。従来の入力フィルタでは不十分で、ツール実行前に思考連鎖や取得文脈を動的に検証する防御層への移行が必要だという流れが鮮明だ。",
+        "why_it_matters": "企業がAIエージェントを本番導入するほど、リスクはモデル単体ではなく周辺システム全体に広がる。安全設計の前提を作り直す必要がある。",
+        "headline": "AIを役割分担で動かす発想を、個別ツールではなく統治設計の目線へ広げられる。"
+      },
+      "selection_reason": "AIを役割分担で動かす発想を、個別ツールではなく統治設計の目線へ広げられる。",
+      "adjacent_field": "サイバネティクスと制御理論による半自律組織設計",
+      "adjacent_reasoning": "AIエージェントを役割分担させて事業を進めたい関心は、突き詰めると人間とAIの混成システムをどう安定運用するかという制御問題に行き着く。逐次レビューを残しつつ自律性を上げる設計思想を学ぶと、単発のツール活用から組織設計の視点へ広がる。"
+    },
+    {
+      "number": 10,
+      "title": "気候テック企業は重要鉱物へ軸足を移している",
+      "source": "MIT Technology Review",
+      "description": "",
+      "url": "https://www.technologyreview.com/2026/05/21/1137622/climate-tech-pivot-critical-minerals/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-25",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 4,
+        "title_ja": "気候テック企業は重要鉱物へ軸足を移している",
+        "key_points": [
+          "米国で気候政策への支援が弱まる中、気候テック企業が脱炭素一本足打法から重要鉱物や供給網分野へ軸足を移している",
+          "Boston Metalは低炭素製鉄よりも、ニオブやタンタルなどの重要金属事業を成長資金の源泉として重視し始めた",
+          "Brimstoneなど他社も、セメント脱炭素だけでなくアルミナなど政治的に支持を得やすい事業を前面に出している"
+        ],
+        "detailed_summary": "第2次トランプ政権下で気候支援が弱まる米国では、気候テック企業が生き残り策として重要鉱物や供給網強化を打ち出している。Boston Metalは低炭素製鉄の切り札として知られてきたが、いまはニオブ、タンタル、クロム、バナジウムなどの金属事業を優先し、資金創出を急ぐ。Brimstoneも同様に、脱炭素の物語だけでなくアルミナなどの産業価値を強調し、厳しい政策環境への適応を進めている。",
+        "why_it_matters": "脱炭素技術の成否が、環境価値だけでなく資源安全保障や産業政策に結びつく時代に入った。気候テックの資金調達ロジックそのものが変わりつつある。",
+        "headline": "規制や資本環境が変わったとき、どこへ軸足を移すかの判断軸を学べる。"
+      },
+      "selection_reason": "規制や資本環境が変わったとき、どこへ軸足を移すかの判断軸を学べる。"
+    },
+    {
+      "number": 11,
+      "title": "ロケット、データセンター、Grok：SpaceXにふさわしいS&Pセクター指数はどれか",
+      "source": "CNBC",
+      "description": "",
+      "url": "https://www.cnbc.com/2026/05/24/spacex-sp-sector-index.html",
+      "category": "経済・金融",
+      "published_at": "2026-05-24",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 5,
+        "title_ja": "ロケット、データセンター、Grok：SpaceXにふさわしいS&Pセクター指数はどれか",
+        "key_points": [
+          "SpaceXはナスダック上場と約1兆7500億ドル評価を視野に入れ、主要指数への早期組み入れが意識されている",
+          "同社は宇宙事業、Starlink、データセンター、xAIのGrokなど複数事業を持つため、業種分類が難しい",
+          "S&PとMSCIは主に売上構成を軸に分類するが、利益や市場認識も考慮され、最終的なセクター決定が注目される"
+        ],
+        "detailed_summary": "SpaceXは近くIPOに踏み切る可能性が高く、上場時価総額は1兆7500億ドル規模と見込まれている。問題は、同社がロケット打ち上げ、Starlink通信、データセンター、xAIのGrokまで抱える複合企業であるため、S&PやMSCIがどのセクターに分類するかが簡単ではない点だ。2025年売上ではStarlinkが110億ドル超、宇宙事業が約40億ドル、AI事業が32億ドルで、指数連動投資や市場の評価軸にも影響しそうだ。",
+        "why_it_matters": "SpaceXの分類先は、どのセクターETFや指数資金が流入するかを左右する。単なるIPOではなく、市場が同社を宇宙、通信、AIのどれとして扱うかを決めるイベントでもある。",
+        "headline": "AI事業をソフト、インフラ、メディアのどれで語るかという見せ方の学びになる。"
+      },
+      "selection_reason": "AI事業をソフト、インフラ、メディアのどれで語るかという見せ方の学びになる。"
+    }
+  ]
+}
