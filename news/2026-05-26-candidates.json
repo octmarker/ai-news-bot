@@ -1,0 +1,236 @@
+{
+  "date": "2026-05-26",
+  "mode": "multimode",
+  "articles": [
+    {
+      "number": 1,
+      "title": "ClickUpの大規模レイオフが示す働き方の未来",
+      "source": "TechCrunch",
+      "description": "",
+      "url": "https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-25",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 1,
+        "title_ja": "ClickUpの大規模レイオフが示す働き方の未来",
+        "key_points": [
+          "ClickUpは従業員の22％を削減し、コスト削減ではなくAI中心組織への転換だと説明した。",
+          "社内に約3000のAIエージェントを導入し、社員は実務遂行よりも指示出しと品質確認を担う形へ移っている。",
+          "AI活用で高い成果を出す人材には破格の報酬を与える一方、自動化できない職務は縮小しやすくなる構図が鮮明になった。"
+        ],
+        "detailed_summary": "ClickUpのCEOは、従業員の22％削減を単なる人件費圧縮ではなく、AIを前提にした組織再設計だと位置づけた。社内では約3000のAIエージェントが複雑な業務を担い、社員はその管理と成果物の検証へ役割を変えつつある。生産性向上分は残る社員の報酬に還元し、成果次第で高額報酬も可能とする一方、自動化に適応できない職種は不要になりやすい。AI導入が雇用構造そのものを塗り替える現実を示した。",
+        "why_it_matters": "AIが補助ツールではなく人員構成を変える経営判断の中心に入り始めたことを示す。今後はAIを使えるかどうかが賃金と雇用の格差をさらに広げる可能性がある。",
+        "headline": "AI導入が組織設計と雇用にどう跳ね返るかを、実例ベースで早く把握できる"
+      },
+      "selection_reason": "AI導入が組織設計と雇用にどう跳ね返るかを、実例ベースで早く把握できる"
+    },
+    {
+      "number": 2,
+      "title": "VCがAIしか見ていない時代にeスポーツ企業が2000万ドルを調達できた売り込み術",
+      "source": "TechCrunch",
+      "description": "",
+      "url": "https://techcrunch.com/2026/05/25/the-pitch-trick-that-helped-an-esports-startup-raise-20m-when-vcs-only-wanted-ai/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-25",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 2,
+        "title_ja": "VCがAIしか見ていない時代にeスポーツ企業が2000万ドルを調達できた売り込み術",
+        "key_points": [
+          "Lucra SportsはAI企業ではないにもかかわらず、ARK Invest Venture Fund主導で2000万ドルのシリーズBを調達した。",
+          "資金調達のきっかけは、創業者がバーで偶然出会ったARK関係者との人脈づくりだった。",
+          "VCがAI偏重だったため、事業の核がAIでなくても、最初の説明をAI文脈から入ることが有効だった。"
+        ],
+        "detailed_summary": "Lucra Sportsは、消費者向け企業に対して賞品付きオンライン大会や賭け要素を組み込んだホワイトラベル型ゲーム体験を提供する。AI一色だった2025年末の資金調達環境で、創業者Dylan Robbinsは人脈形成の偶然を起点にARKとの接点を作り、最終的にシリーズBで2000万ドルを確保した。記事は、非AI企業でもAI文脈を入口に据えることが投資家の関心を開く現実と、平時の関係構築の重要性を描いている。",
+        "why_it_matters": "AI以外の企業が資金を集めにくい市場環境でも、見せ方次第で大型調達は可能だと示した。投資家のテーマ偏重が、スタートアップの語り方そのものを変えている。",
+        "headline": "AI偏重の資金市場で、AI以外の事業をどう通すかという販売と見せ方の示唆がある"
+      },
+      "selection_reason": "AI偏重の資金市場で、AI以外の事業をどう通すかという販売と見せ方の示唆がある"
+    },
+    {
+      "number": 3,
+      "title": "AI時代が生むバグ発見競争の激化",
+      "source": "WIRED",
+      "description": "",
+      "url": "https://www.wired.com/story/the-ai-era-is-creating-a-bug-hunting-arms-race/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-26",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 3,
+        "title_ja": "AI時代が生むバグ発見競争の激化",
+        "key_points": [
+          "AIエージェントが脆弱性の発見と攻撃コード作成を加速させ、バグバウンティ制度への投稿が急増している。",
+          "大手企業は報奨金の増加に耐えられても、多くの企業はコストと対応負荷に耐えにくい。",
+          "攻撃側も同じAIを使えるため、従来の90日開示ルールや修正までの猶予は見直しを迫られている。"
+        ],
+        "detailed_summary": "AIの進化で、脆弱性研究者は従来よりはるかに多くのバグを見つけられるようになり、報奨金制度は量的圧力にさらされている。独立研究者の証言では、提出件数は前年同時期の数倍に達し、Google級なら支払い増にも対応できても、一般企業には重い負担になる。さらにAIは攻撃者にも有利に働くため、公開後すぐ悪用される危険が高まる。結果として、開示期限、修正速度、パッチ運用の前提が一斉に揺らぎ始めている。",
+        "why_it_matters": "AIは防御側の効率を上げる一方で、攻撃側のスピードも押し上げる。セキュリティ運用は発見能力より、どれだけ早く直せるかが競争力になる。",
+        "headline": "AI実装の加速と同時に脆弱性発見も加速し、運用コストが増える局面を示している"
+      },
+      "selection_reason": "AI実装の加速と同時に脆弱性発見も加速し、運用コストが増える局面を示している"
+    },
+    {
+      "number": 4,
+      "title": "来週の株式市場で注目される3つの大論点",
+      "source": "CNBC",
+      "description": "",
+      "url": "https://www.cnbc.com/2026/05/25/here-are-the-3-big-things-were-watching-in-the-stock-market-in-the-week-ahead.html",
+      "category": "経済・金融",
+      "published_at": "2026-05-25",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 4,
+        "title_ja": "来週の株式市場で注目される3つの大論点",
+        "key_points": [
+          "短い取引週ながら、市場はAIがソフトウェア企業を侵食するのか、消費者は健全か、インフレはどう動くかを見極めようとしている。",
+          "Salesforceの決算では、AIエージェント事業Agentforceの成長、既存事業の鈍化、cRPOや利益率が焦点になる。",
+          "Costcoの決算では売上よりも利益率、会員更新率、既存店売上、消費者行動の変化に注目が集まる。"
+        ],
+        "detailed_summary": "休場を含む4営業日の週でも、株式市場の論点は重い。特にSalesforceの決算は、AIが従来型ソフトウェアを食うのかという不安を測る材料になる。投資家はAIエージェント基盤Agentforceの売上拡大だけでなく、旧来の席数課金型ビジネスの減速やcRPO、利益率も厳しく見る構えだ。加えてCostcoでは会員更新率や購買動向が消費者の耐久力を映す指標として重視され、市場全体の景気観測にもつながる。",
+        "why_it_matters": "AI期待だけでなく、既存事業の収益力と消費者の実態が株価を左右する局面に入っている。個別決算がそのまま相場全体の地合い判断に使われる週だ。",
+        "headline": "AI投資熱が市場全体でどう見られているかを、短期資金の温度感込みで確認できる"
+      },
+      "selection_reason": "AI投資熱が市場全体でどう見られているかを、短期資金の温度感込みで確認できる"
+    },
+    {
+      "number": 5,
+      "title": "Project GlasswingとAI時代の脆弱性開示スピード危機",
+      "source": "Cloud Security Alliance AI Safety Initiative",
+      "description": "",
+      "url": "https://labs.cloudsecurityalliance.org/research/csa-research-note-ai-vuln-discovery-velocity-disclosure-cris/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-24",
+      "mode": "deep_dive",
+      "summary": {
+        "article_index": 5,
+        "title_ja": "Project GlasswingとAI時代の脆弱性開示スピード危機",
+        "key_points": [
+          "Anthropic主導のProject Glasswingは、初月だけで重要OSSから1万件超の高重大度脆弱性を見つけた。",
+          "2026年5月時点で開示済み約1596件のうち修正済みは97件にとどまり、発見速度と修復能力の差が深刻化している。",
+          "NVDの処理限界や公開直後の高速悪用が進む中、90日開示ルールやCVE依存の運用は再設計を迫られている。"
+        ],
+        "detailed_summary": "AnthropicのProject Glasswingは、Claude Mythos Previewを用いた自律的な脆弱性探索を複数の大手技術企業と進め、わずか1カ月で1万件超の重大脆弱性を発見した。だが開示した約1596件のうち修正済みは97件しかなく、保守側の処理能力が完全に追いついていない。NISTもNVDの処理を高リスク案件へ絞る方針を示しており、公開後24時間以内の悪用増加も重なる。問題は発見ではなく、優先順位付けと修正統治へ移っている。",
+        "why_it_matters": "AIで脆弱性発見が工業化すると、従来の開示制度と修正体制はそのままでは機能しない。安全性のボトルネックが研究能力から修復能力へ移ったことを示す。",
+        "headline": "AIエージェント運用で無視できない、脆弱性開示速度と実務負荷の構造が読める"
+      },
+      "selection_reason": "AIエージェント運用で無視できない、脆弱性開示速度と実務負荷の構造が読める"
+    },
+    {
+      "number": 6,
+      "title": "教皇のAI回勅は、実はAIだけを論じたものではない",
+      "source": "TechCrunch",
+      "description": "",
+      "url": "https://techcrunch.com/2026/05/25/the-popes-ai-encyclical-isnt-really-about-ai/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-25",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 6,
+        "title_ja": "教皇のAI回勅は、実はAIだけを論じたものではない",
+        "key_points": [
+          "教皇レオ14世の初回勅はAIを入口にしつつ、格差、戦争、民主主義の劣化、権力集中を主題に据えた。",
+          "少数エリートが設計し統治する技術は公共善に奉仕できないとして、透明性と公共監督を強く求めた。",
+          "AI軍拡や規制回避の動きに対し、技術力が統治の正当性を自動的に与えるという発想を退けた。"
+        ],
+        "detailed_summary": "教皇レオ14世は初の回勅で、AI時代における人間の尊厳保護を掲げながら、実際にはより広い権力集中の問題を論じた。文書は、資本・専門知識・データを持つ少数者にAIの力が偏ることで、不平等や情報操作、民主主義への介入が強まると警告する。AIの軍拡競争を止め、影響を受ける共同体が参加する監督体制を築くべきだという主張は、技術政策を倫理と政治の問題として捉え直す内容になっている。",
+        "why_it_matters": "AI論争を性能や競争力だけでなく、誰が力を持ち、誰が統制するのかという政治倫理の問題へ引き戻している。規制議論の軸を技術論から統治論へ移す示唆が大きい。",
+        "headline": "AI導入の是非ではなく、人間判断をどう残すかという運用原則の確認に向く"
+      },
+      "selection_reason": "AI導入の是非ではなく、人間判断をどう残すかという運用原則の確認に向く"
+    },
+    {
+      "number": 7,
+      "title": "気候テック企業が重要鉱物へ軸足を移している",
+      "source": "MIT Technology Review",
+      "description": "",
+      "url": "https://www.technologyreview.com/2026/05/21/1137622/climate-tech-pivot-critical-minerals/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-26",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 1,
+        "title_ja": "気候テック企業が重要鉱物へ軸足を移している",
+        "key_points": [
+          "米国で気候対策支援が弱まる中、気候テック企業は脱炭素以外の収益源を模索している",
+          "Boston Metalは低炭素鉄鋼より先に、ニオブやタンタルなど重要鉱物事業へ重点を移した",
+          "Brimstoneなど他社も、政府支援の縮小を受けてセメント以外の副産物や素材事業を強化している"
+        ],
+        "detailed_summary": "米国で第2次トランプ政権下の気候支援が弱まり、重工業の脱炭素スタートアップは生き残り策を迫られている。Boston Metalは本来、低排出の鉄鋼製造技術で知られるが、直近はニオブやタンタルなど政府が重視する重要鉱物に注力し、75百万ドルを調達した。鉄鋼は規模が大きい一方で利幅が薄く、先に高付加価値の金属で資金を稼ぎ、将来の鉄鋼脱炭素につなぐ構えだ。Brimstoneなど他社にも同様の動きが広がっている。",
+        "why_it_matters": "脱炭素企業が気候価値だけでは資金を集めにくくなり、供給網や資源安全保障へ物語を切り替えている現実が見える。気候テックの成否が、政策より商業性に強く左右される局面に入った。",
+        "headline": "市場環境の変化で何を捨ててどこへ寄るか、事業ピボットの判断材料として効く"
+      },
+      "selection_reason": "市場環境の変化で何を捨ててどこへ寄るか、事業ピボットの判断材料として効く"
+    },
+    {
+      "number": 8,
+      "title": "予測市場はいつ最も役立つのか　Evercore ISIが示した条件",
+      "source": "CNBC",
+      "description": "",
+      "url": "https://www.cnbc.com/2026/05/25/when-are-prediction-markets-most-helpful-evercore-isi-has-a-formula.html",
+      "category": "経済・金融",
+      "published_at": "2026-05-25",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 2,
+        "title_ja": "予測市場はいつ最も役立つのか　Evercore ISIが示した条件",
+        "key_points": [
+          "出来高が大きく、満期が近く、判定基準が明確で、質問が単純な市場ほど予測精度が高い",
+          "ただしKalshiやPolymarketでは低出来高の市場が大半で、価格の信頼性には限界がある",
+          "予測市場は群衆の信念を映すには有効だが、娯楽目的やヘッジ取引、曖昧な契約文言で歪むこともある"
+        ],
+        "detailed_summary": "Evercore ISIは、予測市場が有用になる条件として、高出来高、短期、単純な問い、明確な決着ルールを挙げた。取引量が多い契約ほど確率の信頼度が高く、満期が近い市場も長期契約より精度が出やすい。一方で現実には薄商いの市場が大半で、KalshiとPolymarketのイベントのうち100万ドル超の出来高は約8%にとどまる。混乱したマクロ局面では速報性が強みになるが、価格は未来そのものではなく、その時点の群衆心理を表すに過ぎないという指摘だ。",
+        "why_it_matters": "予測市場を投資や政策判断に使うなら、どの市場でも同じ重みで見てはいけない。流動性と設計の質を見極めないと、もっともらしい価格に誤誘導される。",
+        "headline": "仮説検証を速く回すうえで、どんな問いなら市場予測を意思決定に使えるか見える"
+      },
+      "selection_reason": "仮説検証を速く回すうえで、どんな問いなら市場予測を意思決定に使えるか見える"
+    },
+    {
+      "number": 9,
+      "title": "CNBC中国コネクション：関税は緩和されたが、信頼は戻らなかった",
+      "source": "CNBC",
+      "description": "",
+      "url": "https://www.cnbc.com/2026/05/25/cnbcs-the-china-connection-newsletter-tariffs-eased-trust-didnt.html",
+      "category": "経済・金融",
+      "published_at": "2026-05-25",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 3,
+        "title_ja": "CNBC中国コネクション：関税は緩和されたが、信頼は戻らなかった",
+        "key_points": [
+          "米中首脳会談で関税の一段の悪化は回避され、中国企業は対米・対欧拡大を再び模索している",
+          "ただし最大の障害は関税だけでなく、データ安全保障や中国ブランドへの警戒感にある",
+          "AI音響機器やヒューマノイド企業は米小売との商談を進める一方、投資協力は非機微分野に限定されつつある"
+        ],
+        "detailed_summary": "トランプ・習会談で関税の急拡大は抑えられ、中国企業の間には最悪期を越えたとの空気が広がっている。AI Speechは高級マイクや会議用機器の米国展開を進め、買収や現地採用も検討中。ZerothもBest Buyと協議し、玩具サイズのロボットを今秋から欧米で販売する計画だ。ただ、経営者たちが口をそろえる本当の壁は関税より信頼とブランド認知で、データ安全保障や対中警戒感が商談の重しとして残っている。協力は非機微分野を中心に限定的に続く見通しだ。",
+        "why_it_matters": "米中関係は表面的に安定しても、企業活動では信頼コストが残り続ける。関税引き下げだけでは貿易や投資が元通りにならないことを示している。",
+        "headline": "AI事業でも越境販売や外部連携に直結する、信頼コストの重さを別角度から見られる"
+      },
+      "selection_reason": "AI事業でも越境販売や外部連携に直結する、信頼コストの重さを別角度から見られる"
+    },
+    {
+      "number": 10,
+      "title": "グリーンスチール新興Boston Metal、重要金属にさらに注力",
+      "source": "MIT Technology Review",
+      "description": "",
+      "url": "https://www.technologyreview.com/2026/05/20/1137523/boston-metal-funding-critical-metals/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-26",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 4,
+        "title_ja": "グリーンスチール新興Boston Metal、重要金属にさらに注力",
+        "key_points": [
+          "Boston Metalは75百万ドルを調達し、鉄鋼よりもニオブやタンタル、ニッケルなど重要金属を優先する",
+          "ブラジル工場では耐火システムの不具合による漏えい事故が起き、開業遅延と資金繰り悪化を招いた",
+          "高価格の重要金属で収益基盤を作り、将来的な鉄鋼脱炭素技術の継続開発を支える狙いがある"
+        ],
+        "detailed_summary": "Boston Metalは鉄鋼の脱炭素技術で注目されてきたが、今回は重要金属生産のために75百万ドルを調達した。中核技術の溶融酸化物電解は、鉱石を高温の電解槽で処理して金属を分離する方式で、2025年初めには約1トンの鋼を試験生産している。一方、ブラジル工場では1月に耐火設備の不具合で電解質漏えいが発生し、立ち上げ遅延で資金調達条件を満たせず、4月には71人を削減した。収益性の高い重要金属へ軸足を移し、事業継続を優先する判断が鮮明になった。",
+        "why_it_matters": "気候テックでも、理想だけでは大型設備産業を回せない現実がある。高採算の重要金属を踏み台にして脱炭素本命事業を延命する構図は、今後の産業スタートアップ全体に広がりうる。",
+        "headline": "技術そのものより市場接続を優先する動きで、AI以外の事業設計にも応用しやすい"
+      },
+      "selection_reason": "技術そのものより市場接続を優先する動きで、AI以外の事業設計にも応用しやすい"
+    }
+  ]
+}
