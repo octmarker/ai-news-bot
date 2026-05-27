@@ -1,0 +1,160 @@
+{
+  "date": "2026-05-27",
+  "mode": "multimode",
+  "articles": [
+    {
+      "number": 1,
+      "title": "AI Agents Plunged the Tech World Into Chaos. Here’s Exactly How That Happened",
+      "source": "WIRED",
+      "description": "",
+      "url": "https://www.wired.com/story/how-ai-agents-plunged-tech-world-into-chaos/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-27",
+      "mode": "breaking",
+      "summary": {
+        "headline": "AIエージェント運用の熱狂と混乱を同時に追え、役割分担設計の失敗要因まで見えやすい"
+      },
+      "selection_reason": "AIエージェント運用の熱狂と混乱を同時に追え、役割分担設計の失敗要因まで見えやすい"
+    },
+    {
+      "number": 2,
+      "title": "AI Just Isn’t Right",
+      "source": "WIRED",
+      "description": "",
+      "url": "https://www.wired.com/story/fact-checking-ai/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-27",
+      "mode": "breaking",
+      "summary": {
+        "headline": "AIを情報探索に使う前提そのものを揺さぶる内容で、逐次レビュー重視の姿勢と直結する"
+      },
+      "selection_reason": "AIを情報探索に使う前提そのものを揺さぶる内容で、逐次レビュー重視の姿勢と直結する"
+    },
+    {
+      "number": 3,
+      "title": "It’s time to address the looming crisis in entry-level work.",
+      "source": "MIT Technology Review",
+      "description": "",
+      "url": "https://www.technologyreview.com/2026/05/26/1137865/its-time-to-address-the-looming-crisis-in-entry-level-work/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-27",
+      "mode": "breaking",
+      "summary": {
+        "headline": "AIで仕事の入口が変わる論点は、AI社員体制の設計と人間側の役割再定義に響く"
+      },
+      "selection_reason": "AIで仕事の入口が変わる論点は、AI社員体制の設計と人間側の役割再定義に響く"
+    },
+    {
+      "number": 4,
+      "title": "DuckDuckGo installs are up 30% as users reject being ‘force-fed’ Google’s AI Search",
+      "source": "TechCrunch",
+      "description": "",
+      "url": "https://techcrunch.com/2026/05/26/duckduckgo-installs-are-up-30-as-users-reject-being-force-fed-googles-ai-search/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-26",
+      "mode": "breaking",
+      "summary": {
+        "headline": "AI機能を足せば勝てるわけではない現実が出ており、配布と受容の感度差を読める"
+      },
+      "selection_reason": "AI機能を足せば勝てるわけではない現実が出ており、配布と受容の感度差を読める"
+    },
+    {
+      "number": 5,
+      "title": "AI Is Taking Over the Most Cursed Job in the World",
+      "source": "WIRED",
+      "description": "",
+      "url": "https://www.wired.com/story/ai-takes-over-debt-collection/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-27",
+      "mode": "breaking",
+      "summary": {
+        "headline": "AIが高摩擦業務へ入る実例で、運用制約や監督責任の重さを具体的に掴みやすい"
+      },
+      "selection_reason": "AIが高摩擦業務へ入る実例で、運用制約や監督責任の重さを具体的に掴みやすい"
+    },
+    {
+      "number": 6,
+      "title": "A reality check on the AI jobs hysteria",
+      "source": "MIT Technology Review",
+      "description": "",
+      "url": "https://www.technologyreview.com/2026/05/26/1137855/a-reality-check-on-the-ai-jobs-hysteria/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-27",
+      "mode": "breaking",
+      "summary": {
+        "headline": "雇用崩壊の煽りを数字で冷ます記事で、AI導入判断を熱狂でなく実務で見直せる"
+      },
+      "selection_reason": "雇用崩壊の煽りを数字で冷ます記事で、AI導入判断を熱狂でなく実務で見直せる"
+    },
+    {
+      "number": 7,
+      "title": "To Land a Job in AI, Try Reading Kant",
+      "source": "WIRED",
+      "description": "",
+      "url": "https://www.wired.com/story/to-land-a-job-in-ai-try-reading-kant/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-27",
+      "mode": "breaking",
+      "summary": {
+        "headline": "AI時代に残る人間側の役割を考える材料になり、チーム設計の補完軸として効く"
+      },
+      "selection_reason": "AI時代に残る人間側の役割を考える材料になり、チーム設計の補完軸として効く"
+    },
+    {
+      "number": 8,
+      "title": "Pope's AI warning",
+      "source": "CNBC",
+      "description": "",
+      "url": "https://www.cnbc.com/2026/05/25/pope-leo-issues-warnings-about-ai-and-autonomous-weapons.html",
+      "category": "経済・金融",
+      "published_at": "2026-05-25",
+      "mode": "breaking",
+      "summary": {
+        "headline": "AI規制の世論形成がどこから強まるかを読む材料で、運用設計の外部制約を意識できる"
+      },
+      "selection_reason": "AI規制の世論形成がどこから強まるかを読む材料で、運用設計の外部制約を意識できる"
+    },
+    {
+      "number": 9,
+      "title": "Spotify now lets you stream narrated magazine articles, too",
+      "source": "TechCrunch",
+      "description": "",
+      "url": "https://techcrunch.com/2026/05/26/spotify-now-lets-you-stream-narrated-magazine-articles-too/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-26",
+      "mode": "breaking",
+      "summary": {
+        "headline": "作る前に発信して検証する関心とつながり、文章資産の再配信経路として発想が広がる"
+      },
+      "selection_reason": "作る前に発信して検証する関心とつながり、文章資産の再配信経路として発想が広がる"
+    },
+    {
+      "number": 10,
+      "title": "Amazon fulfillment competitor Stord raises $250M at $3B valuation",
+      "source": "TechCrunch",
+      "description": "",
+      "url": "https://techcrunch.com/2026/05/26/amazon-fulfillment-competitor-stord-raises-250m-at-3b-valuation/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-26",
+      "mode": "breaking",
+      "summary": {
+        "headline": "マイクロ事業を増やす関心とつながり、販売後の実務を外部化する発想を補強できる"
+      },
+      "selection_reason": "マイクロ事業を増やす関心とつながり、販売後の実務を外部化する発想を補強できる"
+    },
+    {
+      "number": 11,
+      "title": "Trump administration wants nuclear startups to use plutonium for their reactors",
+      "source": "TechCrunch",
+      "description": "",
+      "url": "https://techcrunch.com/2026/05/26/trump-administration-wants-nuclear-startups-to-use-plutonium-for-their-reactors/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-26",
+      "mode": "breaking",
+      "summary": {
+        "headline": "AIの実行力は計算資源に依存するため、電力政策の変化は長期コスト視点を広げる"
+      },
+      "selection_reason": "AIの実行力は計算資源に依存するため、電力政策の変化は長期コスト視点を広げる"
+    }
+  ]
+}
