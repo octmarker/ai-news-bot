@@ -4,7 +4,30 @@
   "articles": [
     {
       "number": 1,
-      "title": "AIコーディング新興企業Cognition、評価額250億ドルで10億ドル超を調達",
+      "title": "イリノイ州議会、米国で最も強力なAI安全法案を可決",
+      "source": "WIRED",
+      "description": "",
+      "url": "https://www.wired.com/story/illinois-pass-major-ai-safety-law-pritzker/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-28",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 1,
+        "title_ja": "イリノイ州議会、米国で最も強力なAI安全法案を可決",
+        "key_points": [
+          "イリノイ州下院が、先端AI企業に第三者監査を義務づけるSB 315を可決した。",
+          "既存の州法より踏み込み、企業が自ら掲げる安全基準を独立監査人が検証する仕組みを導入する。",
+          "連邦レベルのAI安全規制が進まない中、州議会が実験場として政策形成を主導している。"
+        ],
+        "detailed_summary": "イリノイ州下院は、OpenAIやAnthropic、Google DeepMindのような先端AI企業に対し、安全対策を第三者が監査するよう求めるSB 315を可決した。州知事JB・プリツカー氏も署名の意向を示しており、成立すれば米国で最も強いAI安全規制の一つになる。カリフォルニア州やニューヨーク州の制度は情報開示が中心だが、今回の法案は企業の自己申告に頼らず、独立監査で実際の順守状況を確かめる点が大きい。連邦法が不在のなか、州がAI規制の主戦場になっている現状も浮き彫りになった。",
+        "why_it_matters": "AI企業が自社で安全性を採点する状態に、外部チェックを入れる流れが強まっている。州レベルの先行事例が、将来の米連邦規制のひな型になる可能性がある。",
+        "headline": "州法レベルでも前 frontier AI 規制が進み、運用設計と監査前提が一段重くなる"
+      },
+      "selection_reason": "州法レベルでも前 frontier AI 規制が進み、運用設計と監査前提が一段重くなる"
+    },
+    {
+      "number": 2,
+      "title": "AIコーディング新興企業Cognition、250億ドル評価で10億ドル超を調達",
       "source": "TechCrunch",
       "description": "",
       "url": "https://techcrunch.com/2026/05/27/ai-coding-startup-cognition-raises-1b-at-25b-pre-money-valuation/",
@@ -12,22 +35,22 @@
       "published_at": "2026-05-27",
       "mode": "breaking",
       "summary": {
-        "article_index": 1,
-        "title_ja": "AIコーディング新興企業Cognition、評価額250億ドルで10億ドル超を調達",
+        "article_index": 2,
+        "title_ja": "AIコーディング新興企業Cognition、250億ドル評価で10億ドル超を調達",
         "key_points": [
-          "Cognitionが10億ドル超を調達し、調達前評価額は250億ドルに達した。",
-          "8カ月前の評価額102億ドルから大幅に跳ね上がり、投資家の期待の強さが示された。",
-          "Mercedes-BenzやNASAなど大企業を顧客に持ち、年換算売上は4億9200万ドル、Devin利用は月50%成長という。"
+          "自律型AIソフトウェアエンジニア「Devin」を手がけるCognitionが10億ドル超を調達した。",
+          "企業価値は8カ月前の102億ドルから、250億ドルのプレマネー評価へ急拡大した。",
+          "大手モデル企業が競合するなかでも、独立系AIコーディング企業への期待が依然として強い。"
         ],
-        "detailed_summary": "自律型AIソフトウェアエンジニアDevinを手がけるCognitionが、水曜に10億ドル超を調達したと発表した。調達前評価額は250億ドルで、2025年9月の4億ドル調達時の102億ドルから急伸した。Lux CapitalとGeneral Catalystが主導し、既存投資家に加えて新規投資家も参加。AnthropicやOpenAI、Googleなど大手が競合する中でも、独立系AIコーディング企業に成長余地があるとの見方を市場に示した。顧客にはMercedes-Benz、NASA、Goldman Sachsなどが並び、企業向け利用拡大を背景に年換算売上は4億9200万ドルへ伸びている。",
-        "why_it_matters": "AIコーディング市場が大手モデル企業だけの勝負ではなく、独立系プロダクトにも巨額資本が流れる段階に入ったことを示す。企業導入が進めば、ソフト開発の現場そのものが再編される可能性が高い。",
-        "headline": "AI実装エージェント市場への資金集中が進み、競争前提と参入余地の見直しが必要"
+        "detailed_summary": "Cognitionは、自律型AIソフトウェアエンジニア「Devin」を武器に、Lux CapitalとGeneral Catalyst主導で10億ドル超を調達した。評価額は250億ドルのプレマネーで、前回ラウンド時の102億ドルから大きく跳ね上がった。AnthropicのClaude CodeやOpenAIのCodex、Google系の動きが市場を押さえるとの見方もあったが、同社はMercedes-Benz、NASA、Goldman Sachs、Santanderなどの大企業を顧客に持ち、年換算売上ランレートは4億9200万ドルに到達。直近6カ月は企業利用が毎月50％成長しているという。",
+        "why_it_matters": "AIコーディング市場が基盤モデル企業の独占にはならず、独立系にも大きな事業機会があると投資家が見ている。企業向け需要の伸びが本物なら、開発現場の自動化競争はさらに加速する。",
+        "headline": "AIコーディング市場の期待水準が再加速し、競争軸が機能より運用力へ寄る材料"
       },
-      "selection_reason": "AI実装エージェント市場への資金集中が進み、競争前提と参入余地の見直しが必要"
+      "selection_reason": "AIコーディング市場の期待水準が再加速し、競争軸が機能より運用力へ寄る材料"
     },
     {
-      "number": 2,
-      "title": "CrowdStrikeとGoogle、オープンソース開発者を狙ったボットネットを無力化",
+      "number": 3,
+      "title": "CrowdStrikeとGoogle、オープンソース開発者を狙うボットネットを無力化",
       "source": "TechCrunch",
       "description": "",
       "url": "https://techcrunch.com/2026/05/27/crowdstrike-and-google-take-down-botnet-used-by-hackers-to-target-software-developers-in-supply-chain-attacks/",
@@ -35,68 +58,45 @@
       "published_at": "2026-05-27",
       "mode": "breaking",
       "summary": {
-        "article_index": 2,
-        "title_ja": "CrowdStrikeとGoogle、オープンソース開発者を狙ったボットネットを無力化",
-        "key_points": [
-          "CrowdStrike、Google、ShadowserverがGlasswormボットネットの妨害作戦を実施した。",
-          "攻撃者は悪意ある拡張機能、検索広告、盗難認証情報を使って開発者を狙い、300超のGitHubリポジトリを汚染した。",
-          "C2にはSolana、BitTorrent、Googleカレンダー、VPSが使われ、サプライチェーン攻撃の巧妙化が浮き彫りになった。"
-        ],
-        "detailed_summary": "CrowdStrikeはGoogleと非営利団体Shadowserverと連携し、オープンソース開発者を狙ってマルウェア配布やパスワード窃取を行っていたGlasswormボットネットを停止させた。攻撃者は2年にわたり、開発者向け拡張機能の配布、検索広告を悪用した誘導、過去に盗んだ認証情報によるアカウント乗っ取りを組み合わせ、300超のGitHubリポジトリに不正コードを混入させたという。4本の指令系統を遮断したことで追加感染は止められたが、法的権限や技術的手段の詳細は明かされていない。開発者自身が供給網攻撃の主戦場になっている現実を示す事例だ。",
-        "why_it_matters": "企業は完成品だけでなく、そのコードを書く開発者端末まで守らなければならない段階に入った。オープンソース依存が大きいほど、1人の開発者侵害が広範な被害へ連鎖しうる。",
-        "headline": "OSS開発者狙いの供給網攻撃は、AI自動開発フローの権限制御と監査設計に直結する"
-      },
-      "selection_reason": "OSS開発者狙いの供給網攻撃は、AI自動開発フローの権限制御と監査設計に直結する"
-    },
-    {
-      "number": 3,
-      "title": "給与計算スタートアップRemote、増員なしで従業員1人当たり売上が50%増加と説明",
-      "source": "TechCrunch",
-      "description": "",
-      "url": "https://techcrunch.com/2026/05/27/payroll-startup-remote-says-it-grew-revenue-50-per-employee-without-adding-headcount/",
-      "category": "AI・テクノロジー",
-      "published_at": "2026-05-27",
-      "mode": "breaking",
-      "summary": {
         "article_index": 3,
-        "title_ja": "給与計算スタートアップRemote、増員なしで従業員1人当たり売上が50%増加と説明",
+        "title_ja": "CrowdStrikeとGoogle、オープンソース開発者を狙うボットネットを無力化",
         "key_points": [
-          "RemoteはARR3億ドル超、キャッシュフロー黒字化を達成したという。",
-          "全社的なAI導入により、ヘッドカウントを増やさず従業員1人当たり売上が50%伸びたと主張している。",
-          "社内向けのAI活用を顧客支援にも広げ、独自ワークフロー構築支援のRemote Buildも展開している。"
+          "CrowdStrike、Google、Shadowserverが連携し、Glasswormボットネットを停止させた。",
+          "攻撃者は開発者向け拡張機能、マルバタイジング、盗難認証情報を使ってGitHubリポジトリを汚染していた。",
+          "300超のGitHubリポジトリが影響を受け、開発者個人の端末がサプライチェーン攻撃の起点になっていた。"
         ],
-        "detailed_summary": "アムステルダム拠点の給与計算サービスRemoteは、年間経常収益が3億ドルを超え、キャッシュフロー黒字に転じたと明らかにした。CEOのJob van der Voort氏は、経営陣や開発部門に限らず全社でAIを導入した結果、増員なしで従業員1人当たり売上が50%伸びたと説明する。社内マーケットプレイスのRemote Labsで各部門がアプリを立ち上げ、Slack要約やエージェント型AIなどを実務へ浸透させたという。さらに顧客企業にも同様のワークフロー構築を支援し、給与業務の複雑さをAIで処理することで差別化を狙っている。ただし成長率の一部は第三者検証を欠く。",
-        "why_it_matters": "AIが単なるコスト削減ツールではなく、SaaS企業の売上効率そのものを押し上げる可能性を示している。もし再現性があれば、今後は人員数よりAI運用能力が企業価値を左右しやすくなる。",
-        "headline": "少人数ではなく少人数超えの運営効率が見え、一人と複数AIの会社像に示唆がある"
+        "detailed_summary": "CrowdStrikeはGoogle、Shadowserverと協力し、オープンソース開発者を標的にマルウェア配布と認証情報窃取を行っていたGlasswormボットネットを妨害した。攻撃者は開発者向けマーケットプレイスに悪意ある拡張機能を公開し、広告経由で偽ダウンロードを誘導し、過去に盗んだ認証情報でアカウントも乗っ取っていた。結果として300以上のGitHubリポジトリが汚染された。指令系統にはSolana、BitTorrent、Google Calendar、VPSまで使われており、開発者端末がサプライチェーン全体の弱点になっている実態が示された。",
+        "why_it_matters": "製品そのものではなく開発者を落とし、そこから多数の利用企業へ広げる攻撃が主流になっている。オープンソース依存の高い企業ほど、開発環境の防御を後回しにできない。",
+        "headline": "OSS開発者狙いの供給網攻撃で、エージェント運用にも権限分離と監査が必須だと示す"
       },
-      "selection_reason": "少人数ではなく少人数超えの運営効率が見え、一人と複数AIの会社像に示唆がある"
+      "selection_reason": "OSS開発者狙いの供給網攻撃で、エージェント運用にも権限分離と監査が必須だと示す"
     },
     {
       "number": 4,
-      "title": "FRBのカシュカリ総裁、労働市場よりインフレ抑制を優先と表明",
-      "source": "CNBC",
+      "title": "元Google・Apple研究者ら、AIの欠けたフィードバックループを埋める新興企業Trajectoryを設立",
+      "source": "WIRED",
       "description": "",
-      "url": "https://www.cnbc.com/2026/05/28/fed-reserve-neel-kashkari-inflation-job-market.html",
-      "category": "経済・金融",
+      "url": "https://www.wired.com/story/ex-google-apple-ai-researchers-want-to-make-ai-that-gets-smarter-as-you-use-it/",
+      "category": "AI・テクノロジー",
       "published_at": "2026-05-28",
       "mode": "breaking",
       "summary": {
         "article_index": 4,
-        "title_ja": "FRBのカシュカリ総裁、労働市場よりインフレ抑制を優先と表明",
+        "title_ja": "元Google・Apple研究者ら、AIの欠けたフィードバックループを埋める新興企業Trajectoryを設立",
         "key_points": [
-          "ミネアポリス連銀のカシュカリ総裁は、現在の最優先課題はインフレ抑制だと述べた。",
-          "雇用は「まずまず健全」だが、インフレはFRB目標の2%を5年以上上回っていると指摘した。",
-          "期待インフレが上振れすれば、より強い引き締め対応が必要になると警告した。"
+          "Trajectoryは、実ユーザーとのやり取りを学習に戻す継続学習基盤の構築を目指している。",
+          "シードで1500万ドルを調達し、評価額は1億1500万ドルとなった。",
+          "コーディング分野で進み始めた継続学習の手法を、他の業務領域にも広げようとしている。"
         ],
-        "detailed_summary": "ミネアポリス連銀のニール・カシュカリ総裁は木曜、日銀関連会議でのCNBCインタビューで、米金融政策は雇用と物価の二重責務を取るものの、現時点ではインフレ抑制をより重視すると語った。労働市場はなお「decent shape」にある一方、物価上昇はFRBの2%目標を5年以上にわたり超えており、直近の米総合インフレ率も4月に3.8%と高止まりしているという認識だ。インフレ期待が定着して上振れすれば、より強い引き締めが必要になるため、今のうちに期待を抑え込む方が望ましいと強調した。利下げ期待をけん制する発言として市場に受け止められそうだ。",
-        "why_it_matters": "FRB高官がインフレ優先を明言したことで、金利の高止まり観測や利下げ後ずれの見方が強まりやすい。株式、債券、為替まで広く影響する金融政策の方向感を示す発言だ。",
-        "headline": "利下げ期待を抑える発言で金利前提が揺れ、AI成長株の評価モデルに即反映が要る"
+        "detailed_summary": "Google DeepMind、Apple、OpenAI、Meta系研究者らが立ち上げたTrajectoryは、AI製品が実運用で得たユーザー行動や失敗を学習に戻し、継続的に性能改善できる基盤づくりを狙う。現在の有力モデルは学習終了後に固定化され、現場で同じ失敗を繰り返しやすい。この制約を超える継続学習は長年の難題とされてきた。Trajectoryは1500万ドルを調達し、CursorなどAIコーディング製品が先行している実データ活用型の改善サイクルを、より幅広い業界へ展開しようとしている。難しさは、コードと違って他分野では正誤判定が容易ではない点にある。",
+        "why_it_matters": "AIの競争軸がモデルの初期性能だけでなく、運用中にどれだけ賢くなり続けるかへ移りつつある。継続学習の基盤が普及すれば、業務用AIの改善速度は大きく変わる。",
+        "headline": "使うほど賢くなる学習ループは、記憶と評価を握る層が勝つ流れを補強する"
       },
-      "selection_reason": "利下げ期待を抑える発言で金利前提が揺れ、AI成長株の評価モデルに即反映が要る"
+      "selection_reason": "使うほど賢くなる学習ループは、記憶と評価を握る層が勝つ流れを補強する"
     },
     {
       "number": 5,
-      "title": "1兆ドルクラブ",
+      "title": "SKハイニックス、時価総額1兆ドルを突破",
       "source": "CNBC",
       "description": "",
       "url": "https://www.cnbc.com/2026/05/27/sk-hynix-shares-ai-chip-rally-1-trillion.html",
@@ -105,182 +105,184 @@
       "mode": "breaking",
       "summary": {
         "article_index": 5,
-        "title_ja": "1兆ドルクラブ",
+        "title_ja": "SKハイニックス、時価総額1兆ドルを突破",
         "key_points": [
-          "SK Hynix株は一時11%上昇し、時価総額が1兆ドルを突破した。",
-          "AIサーバー向け高帯域幅メモリー需要とNvidia向け供給が株高を支えている。",
-          "Samsung ElectronicsとSK Hynixで韓国株指数KOSPIの4割超を占め、市場集中リスクも意識されている。"
+          "SKハイニックス株は一時11％上昇し、時価総額が1兆ドルを超えた。",
+          "年初来で約250％上昇しており、AI向け高帯域幅メモリ需要が急騰の主因になっている。",
+          "SKハイニックスとSamsung Electronicsで韓国株指数KOSPIの4割超を占め、市場集中リスクも高まっている。"
         ],
-        "detailed_summary": "韓国半導体大手SK Hynixの株価は水曜に一時11%上昇し、時価総額が1兆ドルを超えた。年初来では約250%高と急騰しており、AIサーバーやアクセラレーター向け高帯域幅メモリー需要の急拡大が背景にある。Nvidiaの主要供給企業としての地位が評価され、Samsung Electronicsも数週間前に同じく1兆ドルを突破した。両社だけで韓国KOSPIの4割超を占めるため、指数全体がAI半導体需要に強く連動する構図になっている。市場では供給網の混乱やデータセンター投資減速への懸念もあるが、アナリストは利益予想の上方修正が株価上昇をなお支えているとみている。",
-        "why_it_matters": "AIブームの恩恵がソフト企業だけでなく、メモリー半導体メーカーの企業価値を大きく押し上げている。半面、特定銘柄への集中が進むほど、市場全体の変動リスクも増す。",
-        "headline": "AI半導体需要が企業価値を押し上げ続けており、計算資源側の勝ち筋確認に使える"
+        "detailed_summary": "SKハイニックスは、AIサーバーやアクセラレータ向け高帯域幅メモリの需要急増を追い風に株価が急伸し、一時的に時価総額1兆ドルを突破した。年初来の上昇率は約250％に達し、終値でも9.21％高と強い。Nvidiaへの主要供給企業としてAI半導体サプライチェーンの中心に位置していることが評価されている。Samsung Electronicsもすでに1兆ドル規模に達しており、両社でKOSPIの4割超を占める構図だ。指数上昇を支える一方、供給網の混乱やデータセンター投資鈍化があれば市場全体の変動が大きくなる懸念もある。",
+        "why_it_matters": "AIブームの恩恵が、GPUだけでなくメモリ企業の評価を極端に押し上げている。韓国市場はAI半導体需要に強く連動する構造になり、上昇余地と集中リスクを同時に抱えている。",
+        "headline": "AI需要の果実が半導体に集中し続け、インフラ偏重の相場構造を再確認できる"
       },
-      "selection_reason": "AI半導体需要が企業価値を押し上げ続けており、計算資源側の勝ち筋確認に使える"
+      "selection_reason": "AI需要の果実が半導体に集中し続け、インフラ偏重の相場構造を再確認できる"
     },
     {
       "number": 6,
-      "title": "元GoogleとAppleの研究者ら、AIに欠けていたフィードバックループ構築の新会社を設立",
-      "source": "WIRED",
+      "title": "Claude Code、脆弱性検出と修正を支援する「security-guidance」プラグインを公開",
+      "source": "gihyo.jp",
       "description": "",
-      "url": "https://www.wired.com/story/ex-google-apple-ai-researchers-want-to-make-ai-that-gets-smarter-as-you-use-it/",
+      "url": "https://gihyo.jp/article/2026/05/claude-code-security-guidance-plugin",
       "category": "AI・テクノロジー",
-      "published_at": "2026-05-28",
-      "mode": "breaking",
+      "published_at": "2026-05-27",
+      "mode": "deep_dive",
       "summary": {
         "article_index": 6,
-        "title_ja": "元GoogleとAppleの研究者ら、AIに欠けていたフィードバックループ構築の新会社を設立",
+        "title_ja": "Claude Code、脆弱性検出と修正を支援する「security-guidance」プラグインを公開",
         "key_points": [
-          "Google DeepMind、Apple、OpenAI、Meta出身の研究者らがTrajectoryを立ち上げた。",
-          "同社は実ユーザーとの相互作用を学習に取り込む継続学習基盤の構築を目指している。",
-          "1500万ドルを調達し、コーディング以外の分野にも継続学習を広げたい考えだ。"
+          "Anthropicは2026年5月26日、Claude Code向けのセキュリティ支援プラグイン「security-guidance」を公開した。",
+          "編集時の危険パターン警告、ターン終了時の差分レビュー、コミット時のエージェント型レビューを備える。",
+          "追加コストや送信データ範囲もあり、レビュー時には差分や関連ファイル、独自ルール内容がモデルに送られる。"
         ],
-        "detailed_summary": "Google DeepMind、Apple、OpenAI、Meta Superintelligence Labs出身の研究者らが、新興企業Trajectoryの立ち上げを発表した。狙いは、企業のAI製品が実ユーザーとのやり取りから継続的に学び、訓練後も性能改善を続けられる基盤を提供することにある。継続学習はAI進化の重要課題とされる一方、リアルタイムで失敗から学ぶ商用システムの実装は難航してきた。TrajectoryはConviction主導で1500万ドルを調達し、WindsurfやVision Pro、DeepMindロボティクス出身者を中核に11人で始動。まずコーディング分野で進む手法を、他のAI業務ツールへ広げようとしている。",
-        "why_it_matters": "生成AIの次の競争軸が、事前学習済みモデルの性能差から、運用後にどれだけ学び続けられるかへ移る可能性がある。継続学習が普及すれば、AI製品の改善速度と参入障壁は大きく変わる。",
-        "headline": "記憶より先に学習ループをどう閉じるかという、運用設計の核心に近い論点がある"
+        "detailed_summary": "Anthropicは、Claude Codeが生成・編集したコードに潜む脆弱性の早期発見と修正を支援する「security-guidance」プラグインを公開した。機能は三段構えで、まず編集直後にコマンドインジェクションやXSS、危険なデシリアライズ、TLS検証無効化など既知パターンを正規表現ベースで警告する。次にターン終了時は差分をモデルに渡してセキュリティレビューし、重大な問題があれば自動で再修正に入る。さらにコミット時には複数ファイルを横断し、HTTPハンドラーやWebhookから危険処理への流れまで確認する。実用性は高いが、関連ファイルや独自ルール文面が送信対象になり、レビューは通常のClaude利用量として課金される。",
+        "why_it_matters": "AIが書くコードの普及で、生成速度だけでなく安全性をどう埋め込むかが重要になっている。開発フローの中に自動レビューを組み込めば、脆弱性を本格レビュー前に潰せる可能性がある。",
+        "headline": "生成だけでなく修正時の安全柵を組み込む実務設計に直結し、再現性が高い"
       },
-      "selection_reason": "記憶より先に学習ループをどう閉じるかという、運用設計の核心に近い論点がある"
+      "selection_reason": "生成だけでなく修正時の安全柵を組み込む実務設計に直結し、再現性が高い"
     },
     {
       "number": 7,
-      "title": "Meta、Instagram・Facebook・WhatsApp向けサブスクを開始。今後はAI向けプランも展開へ",
-      "source": "TechCrunch",
+      "title": "CodeRabbitはClaudeを使ってどうエージェント・オーケストレーションシステムを構築したか",
+      "source": "Claude",
       "description": "",
-      "url": "https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/",
+      "url": "https://claude.com/blog/how-coderabbit-used-claude-to-build-an-agent-orchestration-system",
       "category": "AI・テクノロジー",
       "published_at": "2026-05-27",
-      "mode": "breaking",
+      "mode": "deep_dive",
       "summary": {
         "article_index": 1,
-        "title_ja": "Meta、Instagram・Facebook・WhatsApp向けサブスクを開始。今後はAI向けプランも展開へ",
+        "title_ja": "CodeRabbitはClaudeを使ってどうエージェント・オーケストレーションシステムを構築したか",
         "key_points": [
-          "MetaがInstagram Plus、Facebook Plus、WhatsApp Plusを世界展開し、月額課金で追加機能を提供する",
-          "今後はクリエイター、企業、Meta AI利用者向けの新プランを「Meta One」ブランドで試験導入する",
-          "既存の認証サービスMeta Verifiedは維持され、今回のPlusプランとは別の位置づけになる"
+          "CodeRabbitはコード生成の前に計画を作る中間レイヤーをClaude上に構築した",
+          "AI生成コードの典型的な失敗は、ビルドやテストは通っても本来の要件を満たさないことだった",
+          "要件の暗黙知をそのままにすると、エージェントがもっともらしい補完をして方向を誤る"
         ],
-        "detailed_summary": "Metaは主力3アプリで消費者向けサブスクリプションを世界展開し、InstagramとFacebookは月額3.99ドル、WhatsAppは2.99ドルで追加機能を提供する。Instagramではストーリー再視聴数の把握、視聴者検索、表示延長、プロフィール装飾などを追加。広告依存からの収益多角化が狙いで、今後は企業、クリエイター、AI利用者向けの上位プランをMeta Oneとして展開する方針だ。",
-        "why_it_matters": "Metaが広告中心モデルから定額課金へ本格的に軸足を広げる動きだからだ。巨大SNSの収益構造が変われば、クリエイター支援機能やAI課金の普及にも影響する。",
-        "headline": "AI機能が単体SaaSでなく既存配信基盤へ束ねられ、販売導線の設計差が広がっている"
+        "detailed_summary": "CodeRabbitは、コーディング依頼と実際のコード生成エージェントの間に、Claudeで動く計画生成レイヤーを挟み込んだ。狙いは、コードを書く前に要件や前提を構造化し、チームが内容を確認できるようにすることだ。顧客のAI生成PRを分析すると、コンパイルもテストも通るのに解くべき問題を外している例が多かった。背景には、開発者が当然だと思う条件を明文化せず、AIが欠落部分を勝手に補ってしまう構造がある。コード生成が安くなるほど、初期の計画ミスの代償はむしろ高くなるというのが同社の問題意識だ。",
+        "why_it_matters": "AIコーディングの課題がモデル性能だけでなく、要件定義と計画工程にあることを示している。今後は生成の速さより、生成前の設計品質を管理する仕組みが競争力になる。",
+        "headline": "役割分担、分岐、検証をどう束ねるかが具体化され、一人AI会社設計に近い"
       },
-      "selection_reason": "AI機能が単体SaaSでなく既存配信基盤へ束ねられ、販売導線の設計差が広がっている"
+      "selection_reason": "役割分担、分岐、検証をどう束ねるかが具体化され、一人AI会社設計に近い"
     },
     {
       "number": 8,
-      "title": "英国ビザ申請代行サイトが数千人分のパスポートと自撮り画像を公開状態にしていたうえ、取材には法務対応で対抗",
-      "source": "TechCrunch",
+      "title": "Claude Code v2.1.152の主要アップデート",
+      "source": "DevelopersIO",
       "description": "",
-      "url": "https://techcrunch.com/2026/05/27/uk-visa-portal-spilled-thousands-of-applicants-passports-and-selfies-online-and-hasnt-fixed-the-leak/",
+      "url": "https://dev.classmethod.jp/articles/20260524-claude-code-updates-v2-1-152/",
       "category": "AI・テクノロジー",
       "published_at": "2026-05-27",
-      "mode": "breaking",
+      "mode": "deep_dive",
       "summary": {
         "article_index": 2,
-        "title_ja": "英国ビザ申請代行サイトが数千人分のパスポートと自撮り画像を公開状態にしていたうえ、取材には法務対応で対抗",
+        "title_ja": "Claude Code v2.1.152の主要アップデート",
         "key_points": [
-          "UK Visa Portalが申請者のパスポート画像や自撮り写真を公開状態のストレージに置いていた",
-          "漏えい対象は少なくとも数千件、通報者によれば最大10万件規模の可能性がある",
-          "運営側は取材に十分応答せず、利用者通知や当局報告を行うかも不透明なままだ"
+          "/code-review --fix によりレビュー提案を作業ツリーへ直接反映できるようになった",
+          "/reload-skills と disallowed-tools の追加でスキル運用が柔軟になった",
+          "モデル切替やログイン後にセッションが固まる不具合など、安定性面の修正も入った"
         ],
-        "detailed_summary": "TechCrunchによると、英国ビザ取得代行をうたうUK Visa Portalで、申請者がアップロードしたパスポート画像や本人確認用セルフィーが公開閲覧可能な状態になっていた。原因はAmazon上の保存領域の設定不備で、一部写真には撮影場所の位置情報まで含まれていた。運営は政府公式サイトではなく、誤って利用した人もいたとされる。報道後にデータは保護されたが、被害者への通知や規制当局への報告方針は見えていない。",
-        "why_it_matters": "本人確認書類の漏えいはなりすましや詐欺に直結しやすく、被害が長期化しやすい。年齢確認やオンライン認証が広がる中で、脆弱な民間代行サイトのリスクを示した。",
-        "headline": "本人確認データ漏えいは、エージェントに権限を渡す設計で最悪何が起きるかを示す"
+        "detailed_summary": "2026年5月26日に公開されたClaude Code v2.1.152は、実質的に直近で大きな変更を含む最新版と位置づけられている。全33件の変更のうち、新機能は8件、コアのバグ修正は16件で、互換性を壊す変更はない。目玉は、コードレビュー結果のうち再利用性や簡素化、効率化の提案をそのまま作業ツリーへ適用する /code-review --fix だ。加えて、セッションを再起動せずにスキルを再読込する /reload-skills や、スキル側で使わせたくないツールを制御する disallowed-tools も追加された。使い勝手と運用管理の両面を底上げするリリースになっている。",
+        "why_it_matters": "Claude Codeが単なる対話型補助から、レビュー修正やスキル運用まで含む実務ツールへ進化している。とくに修正の自動反映は、開発フローの手戻りを大きく減らす可能性がある。",
+        "headline": "現場の運用改善点をまとめて追え、指示設計や日々の開発フロー更新に使いやすい"
       },
-      "selection_reason": "本人確認データ漏えいは、エージェントに権限を渡す設計で最悪何が起きるかを示す"
+      "selection_reason": "現場の運用改善点をまとめて追え、指示設計や日々の開発フロー更新に使いやすい"
     },
     {
       "number": 9,
-      "title": "ホルムズ海峡を巡るイランの通航課金案が原油市場を揺らし、投資家心理を悪化させている",
-      "source": "CNBC",
+      "title": "給与計算スタートアップのRemote、増員なしで従業員1人あたり売上が50%増えたと発表",
+      "source": "TechCrunch",
       "description": "",
-      "url": "https://www.cnbc.com/2026/05/26/iran-oil-price-strait-hormuz-trump-peace-toll-charges-energy.html",
-      "category": "経済・金融",
-      "published_at": "2026-05-26",
-      "mode": "breaking",
-      "summary": {
-        "article_index": 3,
-        "title_ja": "ホルムズ海峡を巡るイランの通航課金案が原油市場を揺らし、投資家心理を悪化させている",
-        "key_points": [
-          "イランがホルムズ海峡の通航に恒久的な料金を課す可能性が取り沙汰され、原油市場が不安定化している",
-          "米国の対イラン攻撃と和平観測が交錯し、交渉の行方を巡る情報の混乱が価格変動を拡大させている",
-          "ホルムズ海峡は世界の海上輸送原油の約5分の1が通過する要衝で、課金は国際市場全体に波及しうる"
-        ],
-        "detailed_summary": "原油市場では、イランが米国との和平条件の一部としてホルムズ海峡通過船舶に環境費や通行料を課すとの観測が広がり、投資家の不安が高まっている。米軍の対イラン攻撃とトランプ大統領の和平示唆が同時に伝わる中で、交渉の実態が見えず相場は乱高下した。海峡は世界の海上原油輸送の約2割を担うため、仮に1バレル当たり1ドル規模でも、価格や輸出コスト、航行の自由の原則に大きな影響を及ぼす可能性がある。",
-        "why_it_matters": "エネルギー価格だけでなく、海上交通の自由という国際秩序の原則に関わる話だからだ。中東情勢の緊張が続けば、原油価格やインフレ見通しにも直結する。",
-        "headline": "原油と海運コストの上振れは景気と金利の再加速要因で、事業計画と投資判断に効く"
-      },
-      "selection_reason": "原油と海運コストの上振れは景気と金利の再加速要因で、事業計画と投資判断に効く"
-    },
-    {
-      "number": 10,
-      "title": "声優・津田健次郎さんの声が生成AIで無断模倣されたとして提訴、日本俳優連合が支持表明",
-      "source": "Japan Anime News powered by ORICON NEWS",
-      "description": "",
-      "url": "https://us.oricon-group.com/news/8706/",
+      "url": "https://techcrunch.com/2026/05/27/payroll-startup-remote-says-it-grew-revenue-50-per-employee-without-adding-headcount/",
       "category": "AI・テクノロジー",
-      "published_at": "2026-05-26",
-      "mode": "adjacent",
-      "summary": {
-        "article_index": 4,
-        "title_ja": "声優・津田健次郎さんの声が生成AIで無断模倣されたとして提訴、日本俳優連合が支持表明",
-        "key_points": [
-          "津田健次郎さんが、自身の声質を無断で模倣したAI生成動画の削除を求めてTikTok運営会社を提訴した",
-          "問題のアカウントは2024年7月から2025年9月までに188本の動画を投稿し、月50万〜75万円を得たとされる",
-          "日本俳優連合は津田さんの行動を支持し、声の権利保護を巡る象徴的な訴訟として注目されている"
-        ],
-        "detailed_summary": "津田健次郎さんは、生成AIで自身の声を無断模倣したナレーション動画がTikTokに投稿されたとして、運営会社に削除を求め東京地裁へ提訴した。訴状では、特定アカウントが2024年7月から2025年9月に188本の動画を公開し、都市伝説や雑学系の内容で収益を得ていたとされる。日本俳優連合は5月25日に支持声明を出し、本人の同意なく声を再現する行為への歯止めとして、この訴訟の意義を強調した。",
-        "why_it_matters": "生成AI時代に声優や俳優の声がどこまで保護されるかを問う重要な裁判だからだ。判決次第で、プラットフォーム責任や音声権利ビジネスの基準が変わる可能性がある。",
-        "headline": "声の権利が訴訟段階に入り、VTuberや実写合成の商用線引きが一段深く見える"
-      },
-      "selection_reason": "声の権利が訴訟段階に入り、VTuberや実写合成の商用線引きが一段深く見える",
-      "adjacent_field": "Synthetic performer rights and avatar likeness economy",
-      "adjacent_reasoning": "VTuber、キャラクタービジネス、実写合成、個人ブランドへの関心をまとめると、次に効いてくるのは声・顔・動き・人格の権利がどう取引されるかという分野だ。これは創作表現の自由だけでなく、希少性、契約、ファンとの信頼、プラットフォーム規制まで一気につながる。"
-    },
-    {
-      "number": 11,
-      "title": "Stan LeeがAI契約で“復活”、ElevenLabsが声と肖像の商用ライセンス提供を開始",
-      "source": "Variety Australia",
-      "description": "",
-      "url": "https://au.variety.com/2026/biz/news/stan-lee-elevenlabs-licensed-voice-likeness-36999/",
-      "category": "AI・テクノロジー",
-      "published_at": "2026-05-28",
-      "mode": "adjacent",
-      "summary": {
-        "article_index": 5,
-        "title_ja": "Stan LeeがAI契約で“復活”、ElevenLabsが声と肖像の商用ライセンス提供を開始",
-        "key_points": [
-          "ElevenLabsがStan Lee Universeと提携し、故スタン・リーの声と肖像をライセンス提供する",
-          "企業は商用利用向けに音声や人格表現を使え、一般ユーザー向けには非商用の画像生成や読書ナレーションも始まる",
-          "故人や著名人のAI活用を巡り、同意、権利保護、創作価値の維持が改めて争点になっている"
-        ],
-        "detailed_summary": "AI音声企業ElevenLabsは、Stan Lee Universeと提携し、故スタン・リーの声と肖像を同社の著名人ライセンス市場に追加した。企業は商用目的で利用でき、一般ユーザーはコミック風テンプレートでの画像生成や、Readerアプリでの音声ナレーションを利用できる。音声は本人の録音素材で学習されたという。著名人の死後もAIで存在を継続させる試みとして注目される一方、同意や人格権、創作の価値をどう守るかという論点を改めて浮き彫りにした。",
-        "why_it_matters": "AIが故人の声や姿を商業資産として再利用する流れを加速させる案件だからだ。エンタメ産業全体で、権利管理と倫理のルール整備が急務になる。",
-        "headline": "故人の声と人格が正式ライセンス商品になる流れは、IP運用の未来像を広げる"
-      },
-      "selection_reason": "故人の声と人格が正式ライセンス商品になる流れは、IP運用の未来像を広げる",
-      "adjacent_field": "Synthetic performer rights and avatar likeness economy",
-      "adjacent_reasoning": "VTuber、キャラクタービジネス、実写合成、個人ブランドへの関心をまとめると、次に効いてくるのは声・顔・動き・人格の権利がどう取引されるかという分野だ。これは創作表現の自由だけでなく、希少性、契約、ファンとの信頼、プラットフォーム規制まで一気につながる。"
-    },
-    {
-      "number": 12,
-      "title": "『Brigandine: Abyss』がプレイアブルデモを配信開始",
-      "source": "Anime News Network",
-      "description": "Game launches for PC on August 26, consoles on August 27",
-      "url": "https://www.animenewsnetwork.com/news/2026-05-27/brigandine-abyss-game-launches-playable-demo/.237802",
-      "category": "漫画・アニメ・文化",
       "published_at": "2026-05-27",
       "mode": "breaking",
       "summary": {
-        "article_index": 6,
-        "title_ja": "『Brigandine: Abyss』がプレイアブルデモを配信開始",
+        "article_index": 3,
+        "title_ja": "給与計算スタートアップのRemote、増員なしで従業員1人あたり売上が50%増えたと発表",
         "key_points": [
-          "NIS Americaが戦略RPG『Brigandine: Abyss』の体験版をSteamで公開した",
-          "製品版はPC版が8月26日、PS5・Xbox Series X|S・Nintendo Switch 2版が8月27日に世界発売される",
-          "六つの新規ストーリーや24国家を操作できるMission Modeを備え、シリーズの六角マス戦術を継承する"
+          "RemoteはARR3億ドル超とキャッシュフロー黒字化に加え、従業員1人あたり売上が50%増えたと主張した",
+          "CEOだけでなく全社でAIを使い、社内マーケットプレイスやSlack要約エージェントなどを展開している",
+          "顧客向けにも同様の業務改善を支援する Remote Build を立ち上げた"
         ],
-        "detailed_summary": "NIS Americaは、Happinetの戦略ゲームシリーズ最新作『Brigandine: Abyss』のプレイアブルデモをSteamで配信した。正式版はPC向けが8月26日、PS5、Xbox Series X|S、Nintendo Switch 2向けが8月27日に世界発売され、Xbox版はダウンロード専用となる。ゲームは資源管理とワールドマップ運用、六角形グリッドでの戦闘を組み合わせた戦略RPGで、六つの物語と24国家から選べるモードを搭載。限定版にはミニアートブックとデジタルサントラも付属する。",
-        "why_it_matters": "往年のシミュレーションRPGシリーズが現行機向けに再展開される節目だからだ。体験版公開で、既存ファンだけでなく新規ユーザーの反応を発売前に取り込める。",
-        "headline": "完成品前に触らせる導線は、創作でもMVPでも反応回収を先に回す発想と重なる"
+        "detailed_summary": "アムステルダム拠点の給与計算スタートアップRemoteは、年間経常収益が3億ドルを超え、キャッシュフローも黒字化したと発表した。さらに同社は、AIを全社的に導入した結果、増員なしで従業員1人あたり売上が50％伸びたと説明している。CEOのJob van der Voort氏は、個人レベルでも複数のClaudeを使って業務を進めていると明かし、社内ではRemote Labsという内製マーケットプレイス上で各部門がアプリやワークフローを構築しているという。こうした取り組みを顧客企業向けにも展開し、給与計算や国際雇用コンプライアンスの複雑さをAIで吸収する戦略を打ち出している。",
+        "why_it_matters": "AIの効果を一部門の効率化ではなく、全社の生産性指標で語り始めた事例として注目度が高い。ただし成長率や効果の一部は自己申告で、再現性の見極めは今後の検証が必要だ。",
+        "headline": "人を増やさず売上密度を上げた事例で、AI前提の少人数運営モデルを考えやすい"
       },
-      "selection_reason": "完成品前に触らせる導線は、創作でもMVPでも反応回収を先に回す発想と重なる"
+      "selection_reason": "人を増やさず売上密度を上げた事例で、AI前提の少人数運営モデルを考えやすい"
+    },
+    {
+      "number": 10,
+      "title": "視聴者とクリエイター向けのAIラベル改善について",
+      "source": "YouTube Blog",
+      "description": "",
+      "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-27",
+      "mode": "adjacent",
+      "summary": {
+        "article_index": 4,
+        "title_ja": "視聴者とクリエイター向けのAIラベル改善について",
+        "key_points": [
+          "YouTubeは写実的で意味のあるAI生成・改変コンテンツの表示ラベルを目立つ位置へ移す",
+          "2026年5月から内部シグナルでAI生成を検知し、未申告でも自動でラベル付与する",
+          "収益化や推薦には直接影響せず、透明性とクリエイターの修正権限の両立を図る"
+        ],
+        "detailed_summary": "YouTubeは、生成AIコンテンツの透明性を高めるため、AI開示ラベルの出し方を見直す。長尺動画ではプレーヤー直下、Shortsでは動画上のオーバーレイに表示し、写実的で大きくAI加工または生成された内容だと一目で分かるようにする。従来どおりクリエイターの自己申告は求める一方、2026年5月からは社内シグナルを用いて重要な写実系AI利用を検知し、未申告でも自動ラベルを付与する。誤判定だと考える場合はYouTube Studioで開示状態を更新できるが、VeoやDream Screenなど自社AIツール由来、またはC2PAメタデータが付く一部ケースでは恒久表示となる。",
+        "why_it_matters": "動画の真偽や加工度合いが分かりにくくなる中、表示位置と自動検知の強化はプラットフォームの信頼性に直結する。AI利用そのものを罰するのではなく、文脈を見せる方向なのも重要だ。",
+        "headline": "生成物の表示責任が配信基盤側へ移り、創作と流通の設計条件が変わり始めた"
+      },
+      "selection_reason": "生成物の表示責任が配信基盤側へ移り、創作と流通の設計条件が変わり始めた",
+      "adjacent_field": "肖像・声・キャラクターのライツ管理とライセンス設計",
+      "adjacent_reasoning": "生成AIでキャラクター表現を掘るほど、次に効いてくるのは作る技術より誰の顔・声・人格をどう扱えるかという権利設計です。VTuber、実写合成、個人ブランド、AI安全性がここで一本につながり、創作と事業の境界が見えやすくなります。"
+    },
+    {
+      "number": 11,
+      "title": "ElevenLabsでStan Leeを提供開始",
+      "source": "ElevenLabs",
+      "description": "",
+      "url": "https://elevenlabs.io/blog/introducing-stan-lee-on-elevenlabs",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-27",
+      "mode": "adjacent",
+      "summary": {
+        "article_index": 5,
+        "title_ja": "ElevenLabsでStan Leeを提供開始",
+        "key_points": [
+          "ElevenLabsはStan Lee Universeとの提携で、スタン・リーの音声、肖像、音楽表現を提供する",
+          "音声クローンはIconic MarketplaceとEleven Readerで利用可能になった",
+          "画像テンプレートやスタン・リー風の音楽Finetuneも追加され、個人利用中心の安全ガイドラインが設けられる"
+        ],
+        "detailed_summary": "ElevenLabsはStan Lee Universeとの提携を発表し、スタン・リーの声や肖像、創作スタイルを自社プラットフォームで展開する。まず音声は、本人らしい温かさや語り口を再現したクローンとしてIconic MarketplaceとEleven Readerで提供される。あわせて、彼が好んだ古典文学を毎月紹介するBook of the Month Clubも始まり、今後12か月でパブリックドメイン作品を順次公開する計画だ。さらに、スタン・リー風の画像テンプレートや、世界観に着想を得た2種類の音楽Finetuneも追加される。画像利用は個人の非商用が基本で、商用利用は別ライセンス管理となる。",
+        "why_it_matters": "著名人の人格的資産をAIで再利用する流れが、音声だけでなく画像や音楽まで広がっている。ファン向け体験の拡張である一方、権利管理と利用範囲の設計がますます重要になる。",
+        "headline": "声と人格を資産化する流れが進み、IP運用と個人ブランドの未来像が見える"
+      },
+      "selection_reason": "声と人格を資産化する流れが進み、IP運用と個人ブランドの未来像が見える",
+      "adjacent_field": "肖像・声・キャラクターのライツ管理とライセンス設計",
+      "adjacent_reasoning": "生成AIでキャラクター表現を掘るほど、次に効いてくるのは作る技術より誰の顔・声・人格をどう扱えるかという権利設計です。VTuber、実写合成、個人ブランド、AI安全性がここで一本につながり、創作と事業の境界が見えやすくなります。"
+    },
+    {
+      "number": 12,
+      "title": "アニメ「ワールドトリガー」REBOOTプロジェクト　Anime WORLD TRIGGER Exhibition \"REBOOT\"　展示イベント詳細解禁＆チケット発売開始！",
+      "source": "PR TIMES",
+      "description": "",
+      "url": "https://prtimes.jp/main/html/rd/p/000000117.000147608.html",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-26",
+      "mode": "adjacent",
+      "summary": {
+        "article_index": 6,
+        "title_ja": "アニメ「ワールドトリガー」REBOOTプロジェクト　Anime WORLD TRIGGER Exhibition \"REBOOT\"　展示イベント詳細解禁＆チケット発売開始！",
+        "key_points": [
+          "アニメ「ワールドトリガー」のREBOOT記念展示が2026年8月に東京、11月に大阪で開催される",
+          "三門市のジオラマやボーダー本部再現、設定資料展示など物語を追体験できる内容が用意される",
+          "東京会場チケットは2026年5月30日10時からイープラスで発売される"
+        ],
+        "detailed_summary": "東映アニメーションは、アニメ「ワールドトリガー」REBOOTプロジェクトの一環として展示イベント「Anime WORLD TRIGGER Exhibition “REBOOT”」の詳細を公開した。会場は東京が2026年8月11日から9月1日まで池袋サンシャインシティ展示ホールC、大阪が11月14日から12月6日までATC・ITM棟4F特設会場となる。会場では三門市のジオラマや映像演出、修と遊真の出会い、玉狛支部やボーダー本部の再現、REBOOT版キャラクター設定などのアニメ資料展示を通じて作品世界を追体験できる。一般前売は2300円で、グッズ付きチケットも用意される。",
+        "why_it_matters": "人気作の再始動を、単なる告知ではなく体験型展示として広げる施策になっている。東京会場の発売日が明示されたことで、ファンにとっては早めの参加判断が必要な実務情報でもある。",
+        "headline": "IPが展示と現地体験へ変換される流れを追うと、創作の収益化視点が広がる"
+      },
+      "selection_reason": "IPが展示と現地体験へ変換される流れを追うと、創作の収益化視点が広がる",
+      "adjacent_field": "体験型IPとライブ空間の経済圏",
+      "adjacent_reasoning": "希少性や身体性を重視する関心から自然に伸びる先は、配信や画像そのものではなく現地体験、舞台、展示、ポップアップ、テーマ空間としてIPを売る領域です。漫画・アニメ・ゲームの世界観が、どの瞬間に高単価なリアル体験へ変わるのかを見ると、ファン文化とブランド設計の解像度が一段上がります。"
     }
   ]
 }
