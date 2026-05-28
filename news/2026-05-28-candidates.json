@@ -4,147 +4,285 @@
   "articles": [
     {
       "number": 1,
-      "title": "Google engineer charged with insider trading after making $1.2M on Polymarket",
-      "source": "TechCrunch",
-      "description": "",
-      "url": "https://techcrunch.com/2026/05/27/google-engineer-charged-with-insider-trading-after-making-1-2m-on-polymarket/",
-      "category": "AI・テクノロジー",
-      "published_at": "2026-05-27",
-      "mode": "breaking",
-      "summary": {},
-      "selection_reason": ""
-    },
-    {
-      "number": 2,
-      "title": "Meta launches Instagram, Facebook, and WhatsApp subscriptions, with more to come, including AI plans",
-      "source": "TechCrunch",
-      "description": "",
-      "url": "https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/",
-      "category": "AI・テクノロジー",
-      "published_at": "2026-05-27",
-      "mode": "breaking",
-      "summary": {},
-      "selection_reason": ""
-    },
-    {
-      "number": 3,
-      "title": "Why Google’s AI can’t spell Google (or anything else)",
-      "source": "TechCrunch",
-      "description": "",
-      "url": "https://techcrunch.com/2026/05/27/why-googles-ai-cant-spell-google-or-anything-else/",
-      "category": "AI・テクノロジー",
-      "published_at": "2026-05-27",
-      "mode": "breaking",
-      "summary": {},
-      "selection_reason": ""
-    },
-    {
-      "number": 4,
-      "title": "Rivian will deliver the first R2 SUVs on June 9",
-      "source": "TechCrunch",
-      "description": "",
-      "url": "https://techcrunch.com/2026/05/27/rivian-will-deliver-the-first-r2-suvs-on-june-9/",
-      "category": "AI・テクノロジー",
-      "published_at": "2026-05-27",
-      "mode": "breaking",
-      "summary": {},
-      "selection_reason": ""
-    },
-    {
-      "number": 5,
-      "title": "Tech CEOs are apparently suffering from AI psychosis",
-      "source": "TechCrunch",
-      "description": "",
-      "url": "https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/",
-      "category": "AI・テクノロジー",
-      "published_at": "2026-05-27",
-      "mode": "breaking",
-      "summary": {},
-      "selection_reason": ""
-    },
-    {
-      "number": 6,
-      "title": "Payroll startup Remote says it grew revenue 50% per employee without adding headcount",
-      "source": "TechCrunch",
-      "description": "",
-      "url": "https://techcrunch.com/2026/05/27/payroll-startup-remote-says-it-grew-revenue-50-per-employee-without-adding-headcount/",
-      "category": "AI・テクノロジー",
-      "published_at": "2026-05-27",
-      "mode": "breaking",
-      "summary": {},
-      "selection_reason": ""
-    },
-    {
-      "number": 7,
-      "title": "Startup Battlefield 200 applications close today: Nominate a founder or submit your startup",
-      "source": "TechCrunch",
-      "description": "",
-      "url": "https://techcrunch.com/2026/05/27/startup-battlefield-200-applications-close-today-nominate-a-founder-or-submit-your-startup/",
-      "category": "AI・テクノロジー",
-      "published_at": "2026-05-27",
-      "mode": "breaking",
-      "summary": {},
-      "selection_reason": ""
-    },
-    {
-      "number": 8,
-      "title": "UK Visa Portal exposed thousands of applicants’ passports and selfies — then called the lawyers on us",
-      "source": "TechCrunch",
-      "description": "",
-      "url": "https://techcrunch.com/2026/05/27/uk-visa-portal-spilled-thousands-of-applicants-passports-and-selfies-online-and-hasnt-fixed-the-leak/",
-      "category": "AI・テクノロジー",
-      "published_at": "2026-05-27",
-      "mode": "breaking",
-      "summary": {},
-      "selection_reason": ""
-    },
-    {
-      "number": 9,
-      "title": "Illinois Lawmakers Just Passed America’s Strongest AI Safety Bill",
+      "title": "イリノイ州議会、米国で最も強力なAI安全法案を可決",
       "source": "WIRED",
       "description": "",
       "url": "https://www.wired.com/story/illinois-pass-major-ai-safety-law-pritzker/",
       "category": "AI・テクノロジー",
       "published_at": "2026-05-28",
       "mode": "breaking",
-      "summary": {},
-      "selection_reason": ""
+      "summary": {
+        "article_index": 1,
+        "title_ja": "イリノイ州議会、米国で最も強力なAI安全法案を可決",
+        "key_points": [
+          "イリノイ州下院が、先端AI企業に第三者監査を義務づけるSB 315を可決した。",
+          "既存の州法より踏み込み、企業が自ら掲げる安全基準を独立監査人が検証する仕組みを導入する。",
+          "連邦レベルのAI安全規制が進まない中、州議会が実験場として政策形成を主導している。"
+        ],
+        "detailed_summary": "イリノイ州下院は、OpenAIやAnthropic、Google DeepMindのような先端AI企業に対し、安全対策を第三者が監査するよう求めるSB 315を可決した。州知事JB・プリツカー氏も署名の意向を示しており、成立すれば米国で最も強いAI安全規制の一つになる。カリフォルニア州やニューヨーク州の制度は情報開示が中心だが、今回の法案は企業の自己申告に頼らず、独立監査で実際の順守状況を確かめる点が大きい。連邦法が不在のなか、州がAI規制の主戦場になっている現状も浮き彫りになった。",
+        "why_it_matters": "AI企業が自社で安全性を採点する状態に、外部チェックを入れる流れが強まっている。州レベルの先行事例が、将来の米連邦規制のひな型になる可能性がある。",
+        "headline": "州法レベルでも前 frontier AI 規制が進み、運用設計と監査前提が一段重くなる"
+      },
+      "selection_reason": "州法レベルでも前 frontier AI 規制が進み、運用設計と監査前提が一段重くなる"
     },
     {
-      "number": 10,
-      "title": "Former Google and Apple Researchers Launch a Startup to Build AI’s Missing Feedback Loop",
+      "number": 2,
+      "title": "AIコーディング新興企業Cognition、250億ドル評価で10億ドル超を調達",
+      "source": "TechCrunch",
+      "description": "",
+      "url": "https://techcrunch.com/2026/05/27/ai-coding-startup-cognition-raises-1b-at-25b-pre-money-valuation/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-27",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 2,
+        "title_ja": "AIコーディング新興企業Cognition、250億ドル評価で10億ドル超を調達",
+        "key_points": [
+          "自律型AIソフトウェアエンジニア「Devin」を手がけるCognitionが10億ドル超を調達した。",
+          "企業価値は8カ月前の102億ドルから、250億ドルのプレマネー評価へ急拡大した。",
+          "大手モデル企業が競合するなかでも、独立系AIコーディング企業への期待が依然として強い。"
+        ],
+        "detailed_summary": "Cognitionは、自律型AIソフトウェアエンジニア「Devin」を武器に、Lux CapitalとGeneral Catalyst主導で10億ドル超を調達した。評価額は250億ドルのプレマネーで、前回ラウンド時の102億ドルから大きく跳ね上がった。AnthropicのClaude CodeやOpenAIのCodex、Google系の動きが市場を押さえるとの見方もあったが、同社はMercedes-Benz、NASA、Goldman Sachs、Santanderなどの大企業を顧客に持ち、年換算売上ランレートは4億9200万ドルに到達。直近6カ月は企業利用が毎月50％成長しているという。",
+        "why_it_matters": "AIコーディング市場が基盤モデル企業の独占にはならず、独立系にも大きな事業機会があると投資家が見ている。企業向け需要の伸びが本物なら、開発現場の自動化競争はさらに加速する。",
+        "headline": "AIコーディング市場の期待水準が再加速し、競争軸が機能より運用力へ寄る材料"
+      },
+      "selection_reason": "AIコーディング市場の期待水準が再加速し、競争軸が機能より運用力へ寄る材料"
+    },
+    {
+      "number": 3,
+      "title": "CrowdStrikeとGoogle、オープンソース開発者を狙うボットネットを無力化",
+      "source": "TechCrunch",
+      "description": "",
+      "url": "https://techcrunch.com/2026/05/27/crowdstrike-and-google-take-down-botnet-used-by-hackers-to-target-software-developers-in-supply-chain-attacks/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-27",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 3,
+        "title_ja": "CrowdStrikeとGoogle、オープンソース開発者を狙うボットネットを無力化",
+        "key_points": [
+          "CrowdStrike、Google、Shadowserverが連携し、Glasswormボットネットを停止させた。",
+          "攻撃者は開発者向け拡張機能、マルバタイジング、盗難認証情報を使ってGitHubリポジトリを汚染していた。",
+          "300超のGitHubリポジトリが影響を受け、開発者個人の端末がサプライチェーン攻撃の起点になっていた。"
+        ],
+        "detailed_summary": "CrowdStrikeはGoogle、Shadowserverと協力し、オープンソース開発者を標的にマルウェア配布と認証情報窃取を行っていたGlasswormボットネットを妨害した。攻撃者は開発者向けマーケットプレイスに悪意ある拡張機能を公開し、広告経由で偽ダウンロードを誘導し、過去に盗んだ認証情報でアカウントも乗っ取っていた。結果として300以上のGitHubリポジトリが汚染された。指令系統にはSolana、BitTorrent、Google Calendar、VPSまで使われており、開発者端末がサプライチェーン全体の弱点になっている実態が示された。",
+        "why_it_matters": "製品そのものではなく開発者を落とし、そこから多数の利用企業へ広げる攻撃が主流になっている。オープンソース依存の高い企業ほど、開発環境の防御を後回しにできない。",
+        "headline": "OSS開発者狙いの供給網攻撃で、エージェント運用にも権限分離と監査が必須だと示す"
+      },
+      "selection_reason": "OSS開発者狙いの供給網攻撃で、エージェント運用にも権限分離と監査が必須だと示す"
+    },
+    {
+      "number": 4,
+      "title": "元Google・Apple研究者ら、AIの欠けたフィードバックループを埋める新興企業Trajectoryを設立",
       "source": "WIRED",
       "description": "",
       "url": "https://www.wired.com/story/ex-google-apple-ai-researchers-want-to-make-ai-that-gets-smarter-as-you-use-it/",
       "category": "AI・テクノロジー",
       "published_at": "2026-05-28",
       "mode": "breaking",
-      "summary": {},
-      "selection_reason": ""
+      "summary": {
+        "article_index": 4,
+        "title_ja": "元Google・Apple研究者ら、AIの欠けたフィードバックループを埋める新興企業Trajectoryを設立",
+        "key_points": [
+          "Trajectoryは、実ユーザーとのやり取りを学習に戻す継続学習基盤の構築を目指している。",
+          "シードで1500万ドルを調達し、評価額は1億1500万ドルとなった。",
+          "コーディング分野で進み始めた継続学習の手法を、他の業務領域にも広げようとしている。"
+        ],
+        "detailed_summary": "Google DeepMind、Apple、OpenAI、Meta系研究者らが立ち上げたTrajectoryは、AI製品が実運用で得たユーザー行動や失敗を学習に戻し、継続的に性能改善できる基盤づくりを狙う。現在の有力モデルは学習終了後に固定化され、現場で同じ失敗を繰り返しやすい。この制約を超える継続学習は長年の難題とされてきた。Trajectoryは1500万ドルを調達し、CursorなどAIコーディング製品が先行している実データ活用型の改善サイクルを、より幅広い業界へ展開しようとしている。難しさは、コードと違って他分野では正誤判定が容易ではない点にある。",
+        "why_it_matters": "AIの競争軸がモデルの初期性能だけでなく、運用中にどれだけ賢くなり続けるかへ移りつつある。継続学習の基盤が普及すれば、業務用AIの改善速度は大きく変わる。",
+        "headline": "使うほど賢くなる学習ループは、記憶と評価を握る層が勝つ流れを補強する"
+      },
+      "selection_reason": "使うほど賢くなる学習ループは、記憶と評価を握る層が勝つ流れを補強する"
+    },
+    {
+      "number": 5,
+      "title": "SKハイニックス、時価総額1兆ドルを突破",
+      "source": "CNBC",
+      "description": "",
+      "url": "https://www.cnbc.com/2026/05/27/sk-hynix-shares-ai-chip-rally-1-trillion.html",
+      "category": "経済・金融",
+      "published_at": "2026-05-27",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 5,
+        "title_ja": "SKハイニックス、時価総額1兆ドルを突破",
+        "key_points": [
+          "SKハイニックス株は一時11％上昇し、時価総額が1兆ドルを超えた。",
+          "年初来で約250％上昇しており、AI向け高帯域幅メモリ需要が急騰の主因になっている。",
+          "SKハイニックスとSamsung Electronicsで韓国株指数KOSPIの4割超を占め、市場集中リスクも高まっている。"
+        ],
+        "detailed_summary": "SKハイニックスは、AIサーバーやアクセラレータ向け高帯域幅メモリの需要急増を追い風に株価が急伸し、一時的に時価総額1兆ドルを突破した。年初来の上昇率は約250％に達し、終値でも9.21％高と強い。Nvidiaへの主要供給企業としてAI半導体サプライチェーンの中心に位置していることが評価されている。Samsung Electronicsもすでに1兆ドル規模に達しており、両社でKOSPIの4割超を占める構図だ。指数上昇を支える一方、供給網の混乱やデータセンター投資鈍化があれば市場全体の変動が大きくなる懸念もある。",
+        "why_it_matters": "AIブームの恩恵が、GPUだけでなくメモリ企業の評価を極端に押し上げている。韓国市場はAI半導体需要に強く連動する構造になり、上昇余地と集中リスクを同時に抱えている。",
+        "headline": "AI需要の果実が半導体に集中し続け、インフラ偏重の相場構造を再確認できる"
+      },
+      "selection_reason": "AI需要の果実が半導体に集中し続け、インフラ偏重の相場構造を再確認できる"
+    },
+    {
+      "number": 6,
+      "title": "Claude Code、脆弱性検出と修正を支援する「security-guidance」プラグインを公開",
+      "source": "gihyo.jp",
+      "description": "",
+      "url": "https://gihyo.jp/article/2026/05/claude-code-security-guidance-plugin",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-27",
+      "mode": "deep_dive",
+      "summary": {
+        "article_index": 6,
+        "title_ja": "Claude Code、脆弱性検出と修正を支援する「security-guidance」プラグインを公開",
+        "key_points": [
+          "Anthropicは2026年5月26日、Claude Code向けのセキュリティ支援プラグイン「security-guidance」を公開した。",
+          "編集時の危険パターン警告、ターン終了時の差分レビュー、コミット時のエージェント型レビューを備える。",
+          "追加コストや送信データ範囲もあり、レビュー時には差分や関連ファイル、独自ルール内容がモデルに送られる。"
+        ],
+        "detailed_summary": "Anthropicは、Claude Codeが生成・編集したコードに潜む脆弱性の早期発見と修正を支援する「security-guidance」プラグインを公開した。機能は三段構えで、まず編集直後にコマンドインジェクションやXSS、危険なデシリアライズ、TLS検証無効化など既知パターンを正規表現ベースで警告する。次にターン終了時は差分をモデルに渡してセキュリティレビューし、重大な問題があれば自動で再修正に入る。さらにコミット時には複数ファイルを横断し、HTTPハンドラーやWebhookから危険処理への流れまで確認する。実用性は高いが、関連ファイルや独自ルール文面が送信対象になり、レビューは通常のClaude利用量として課金される。",
+        "why_it_matters": "AIが書くコードの普及で、生成速度だけでなく安全性をどう埋め込むかが重要になっている。開発フローの中に自動レビューを組み込めば、脆弱性を本格レビュー前に潰せる可能性がある。",
+        "headline": "生成だけでなく修正時の安全柵を組み込む実務設計に直結し、再現性が高い"
+      },
+      "selection_reason": "生成だけでなく修正時の安全柵を組み込む実務設計に直結し、再現性が高い"
+    },
+    {
+      "number": 7,
+      "title": "CodeRabbitはClaudeを使ってどうエージェント・オーケストレーションシステムを構築したか",
+      "source": "Claude",
+      "description": "",
+      "url": "https://claude.com/blog/how-coderabbit-used-claude-to-build-an-agent-orchestration-system",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-27",
+      "mode": "deep_dive",
+      "summary": {
+        "article_index": 1,
+        "title_ja": "CodeRabbitはClaudeを使ってどうエージェント・オーケストレーションシステムを構築したか",
+        "key_points": [
+          "CodeRabbitはコード生成の前に計画を作る中間レイヤーをClaude上に構築した",
+          "AI生成コードの典型的な失敗は、ビルドやテストは通っても本来の要件を満たさないことだった",
+          "要件の暗黙知をそのままにすると、エージェントがもっともらしい補完をして方向を誤る"
+        ],
+        "detailed_summary": "CodeRabbitは、コーディング依頼と実際のコード生成エージェントの間に、Claudeで動く計画生成レイヤーを挟み込んだ。狙いは、コードを書く前に要件や前提を構造化し、チームが内容を確認できるようにすることだ。顧客のAI生成PRを分析すると、コンパイルもテストも通るのに解くべき問題を外している例が多かった。背景には、開発者が当然だと思う条件を明文化せず、AIが欠落部分を勝手に補ってしまう構造がある。コード生成が安くなるほど、初期の計画ミスの代償はむしろ高くなるというのが同社の問題意識だ。",
+        "why_it_matters": "AIコーディングの課題がモデル性能だけでなく、要件定義と計画工程にあることを示している。今後は生成の速さより、生成前の設計品質を管理する仕組みが競争力になる。",
+        "headline": "役割分担、分岐、検証をどう束ねるかが具体化され、一人AI会社設計に近い"
+      },
+      "selection_reason": "役割分担、分岐、検証をどう束ねるかが具体化され、一人AI会社設計に近い"
+    },
+    {
+      "number": 8,
+      "title": "Claude Code v2.1.152の主要アップデート",
+      "source": "DevelopersIO",
+      "description": "",
+      "url": "https://dev.classmethod.jp/articles/20260524-claude-code-updates-v2-1-152/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-27",
+      "mode": "deep_dive",
+      "summary": {
+        "article_index": 2,
+        "title_ja": "Claude Code v2.1.152の主要アップデート",
+        "key_points": [
+          "/code-review --fix によりレビュー提案を作業ツリーへ直接反映できるようになった",
+          "/reload-skills と disallowed-tools の追加でスキル運用が柔軟になった",
+          "モデル切替やログイン後にセッションが固まる不具合など、安定性面の修正も入った"
+        ],
+        "detailed_summary": "2026年5月26日に公開されたClaude Code v2.1.152は、実質的に直近で大きな変更を含む最新版と位置づけられている。全33件の変更のうち、新機能は8件、コアのバグ修正は16件で、互換性を壊す変更はない。目玉は、コードレビュー結果のうち再利用性や簡素化、効率化の提案をそのまま作業ツリーへ適用する /code-review --fix だ。加えて、セッションを再起動せずにスキルを再読込する /reload-skills や、スキル側で使わせたくないツールを制御する disallowed-tools も追加された。使い勝手と運用管理の両面を底上げするリリースになっている。",
+        "why_it_matters": "Claude Codeが単なる対話型補助から、レビュー修正やスキル運用まで含む実務ツールへ進化している。とくに修正の自動反映は、開発フローの手戻りを大きく減らす可能性がある。",
+        "headline": "現場の運用改善点をまとめて追え、指示設計や日々の開発フロー更新に使いやすい"
+      },
+      "selection_reason": "現場の運用改善点をまとめて追え、指示設計や日々の開発フロー更新に使いやすい"
+    },
+    {
+      "number": 9,
+      "title": "給与計算スタートアップのRemote、増員なしで従業員1人あたり売上が50%増えたと発表",
+      "source": "TechCrunch",
+      "description": "",
+      "url": "https://techcrunch.com/2026/05/27/payroll-startup-remote-says-it-grew-revenue-50-per-employee-without-adding-headcount/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-27",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 3,
+        "title_ja": "給与計算スタートアップのRemote、増員なしで従業員1人あたり売上が50%増えたと発表",
+        "key_points": [
+          "RemoteはARR3億ドル超とキャッシュフロー黒字化に加え、従業員1人あたり売上が50%増えたと主張した",
+          "CEOだけでなく全社でAIを使い、社内マーケットプレイスやSlack要約エージェントなどを展開している",
+          "顧客向けにも同様の業務改善を支援する Remote Build を立ち上げた"
+        ],
+        "detailed_summary": "アムステルダム拠点の給与計算スタートアップRemoteは、年間経常収益が3億ドルを超え、キャッシュフローも黒字化したと発表した。さらに同社は、AIを全社的に導入した結果、増員なしで従業員1人あたり売上が50％伸びたと説明している。CEOのJob van der Voort氏は、個人レベルでも複数のClaudeを使って業務を進めていると明かし、社内ではRemote Labsという内製マーケットプレイス上で各部門がアプリやワークフローを構築しているという。こうした取り組みを顧客企業向けにも展開し、給与計算や国際雇用コンプライアンスの複雑さをAIで吸収する戦略を打ち出している。",
+        "why_it_matters": "AIの効果を一部門の効率化ではなく、全社の生産性指標で語り始めた事例として注目度が高い。ただし成長率や効果の一部は自己申告で、再現性の見極めは今後の検証が必要だ。",
+        "headline": "人を増やさず売上密度を上げた事例で、AI前提の少人数運営モデルを考えやすい"
+      },
+      "selection_reason": "人を増やさず売上密度を上げた事例で、AI前提の少人数運営モデルを考えやすい"
+    },
+    {
+      "number": 10,
+      "title": "視聴者とクリエイター向けのAIラベル改善について",
+      "source": "YouTube Blog",
+      "description": "",
+      "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-27",
+      "mode": "adjacent",
+      "summary": {
+        "article_index": 4,
+        "title_ja": "視聴者とクリエイター向けのAIラベル改善について",
+        "key_points": [
+          "YouTubeは写実的で意味のあるAI生成・改変コンテンツの表示ラベルを目立つ位置へ移す",
+          "2026年5月から内部シグナルでAI生成を検知し、未申告でも自動でラベル付与する",
+          "収益化や推薦には直接影響せず、透明性とクリエイターの修正権限の両立を図る"
+        ],
+        "detailed_summary": "YouTubeは、生成AIコンテンツの透明性を高めるため、AI開示ラベルの出し方を見直す。長尺動画ではプレーヤー直下、Shortsでは動画上のオーバーレイに表示し、写実的で大きくAI加工または生成された内容だと一目で分かるようにする。従来どおりクリエイターの自己申告は求める一方、2026年5月からは社内シグナルを用いて重要な写実系AI利用を検知し、未申告でも自動ラベルを付与する。誤判定だと考える場合はYouTube Studioで開示状態を更新できるが、VeoやDream Screenなど自社AIツール由来、またはC2PAメタデータが付く一部ケースでは恒久表示となる。",
+        "why_it_matters": "動画の真偽や加工度合いが分かりにくくなる中、表示位置と自動検知の強化はプラットフォームの信頼性に直結する。AI利用そのものを罰するのではなく、文脈を見せる方向なのも重要だ。",
+        "headline": "生成物の表示責任が配信基盤側へ移り、創作と流通の設計条件が変わり始めた"
+      },
+      "selection_reason": "生成物の表示責任が配信基盤側へ移り、創作と流通の設計条件が変わり始めた",
+      "adjacent_field": "肖像・声・キャラクターのライツ管理とライセンス設計",
+      "adjacent_reasoning": "生成AIでキャラクター表現を掘るほど、次に効いてくるのは作る技術より誰の顔・声・人格をどう扱えるかという権利設計です。VTuber、実写合成、個人ブランド、AI安全性がここで一本につながり、創作と事業の境界が見えやすくなります。"
     },
     {
       "number": 11,
-      "title": "AI Is Changing Your Job—Now What?",
-      "source": "WIRED",
+      "title": "ElevenLabsでStan Leeを提供開始",
+      "source": "ElevenLabs",
       "description": "",
-      "url": "https://www.wired.com/story/livestream-ai-is-changing-your-job-now-what/",
+      "url": "https://elevenlabs.io/blog/introducing-stan-lee-on-elevenlabs",
       "category": "AI・テクノロジー",
-      "published_at": "2026-05-28",
-      "mode": "breaking",
-      "summary": {},
-      "selection_reason": ""
+      "published_at": "2026-05-27",
+      "mode": "adjacent",
+      "summary": {
+        "article_index": 5,
+        "title_ja": "ElevenLabsでStan Leeを提供開始",
+        "key_points": [
+          "ElevenLabsはStan Lee Universeとの提携で、スタン・リーの音声、肖像、音楽表現を提供する",
+          "音声クローンはIconic MarketplaceとEleven Readerで利用可能になった",
+          "画像テンプレートやスタン・リー風の音楽Finetuneも追加され、個人利用中心の安全ガイドラインが設けられる"
+        ],
+        "detailed_summary": "ElevenLabsはStan Lee Universeとの提携を発表し、スタン・リーの声や肖像、創作スタイルを自社プラットフォームで展開する。まず音声は、本人らしい温かさや語り口を再現したクローンとしてIconic MarketplaceとEleven Readerで提供される。あわせて、彼が好んだ古典文学を毎月紹介するBook of the Month Clubも始まり、今後12か月でパブリックドメイン作品を順次公開する計画だ。さらに、スタン・リー風の画像テンプレートや、世界観に着想を得た2種類の音楽Finetuneも追加される。画像利用は個人の非商用が基本で、商用利用は別ライセンス管理となる。",
+        "why_it_matters": "著名人の人格的資産をAIで再利用する流れが、音声だけでなく画像や音楽まで広がっている。ファン向け体験の拡張である一方、権利管理と利用範囲の設計がますます重要になる。",
+        "headline": "声と人格を資産化する流れが進み、IP運用と個人ブランドの未来像が見える"
+      },
+      "selection_reason": "声と人格を資産化する流れが進み、IP運用と個人ブランドの未来像が見える",
+      "adjacent_field": "肖像・声・キャラクターのライツ管理とライセンス設計",
+      "adjacent_reasoning": "生成AIでキャラクター表現を掘るほど、次に効いてくるのは作る技術より誰の顔・声・人格をどう扱えるかという権利設計です。VTuber、実写合成、個人ブランド、AI安全性がここで一本につながり、創作と事業の境界が見えやすくなります。"
     },
     {
       "number": 12,
-      "title": "Asia-Pacific markets open lower as Iran-U.S. negotiations remain in focus",
-      "source": "CNBC",
+      "title": "アニメ「ワールドトリガー」REBOOTプロジェクト　Anime WORLD TRIGGER Exhibition \"REBOOT\"　展示イベント詳細解禁＆チケット発売開始！",
+      "source": "PR TIMES",
       "description": "",
-      "url": "https://www.cnbc.com/2026/05/28/asia-markets-today-asx-kospi-nikkei-sensex-hang-seng-csi-iran.html",
-      "category": "経済・金融",
-      "published_at": "2026-05-28",
-      "mode": "breaking",
-      "summary": {},
-      "selection_reason": ""
+      "url": "https://prtimes.jp/main/html/rd/p/000000117.000147608.html",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-26",
+      "mode": "adjacent",
+      "summary": {
+        "article_index": 6,
+        "title_ja": "アニメ「ワールドトリガー」REBOOTプロジェクト　Anime WORLD TRIGGER Exhibition \"REBOOT\"　展示イベント詳細解禁＆チケット発売開始！",
+        "key_points": [
+          "アニメ「ワールドトリガー」のREBOOT記念展示が2026年8月に東京、11月に大阪で開催される",
+          "三門市のジオラマやボーダー本部再現、設定資料展示など物語を追体験できる内容が用意される",
+          "東京会場チケットは2026年5月30日10時からイープラスで発売される"
+        ],
+        "detailed_summary": "東映アニメーションは、アニメ「ワールドトリガー」REBOOTプロジェクトの一環として展示イベント「Anime WORLD TRIGGER Exhibition “REBOOT”」の詳細を公開した。会場は東京が2026年8月11日から9月1日まで池袋サンシャインシティ展示ホールC、大阪が11月14日から12月6日までATC・ITM棟4F特設会場となる。会場では三門市のジオラマや映像演出、修と遊真の出会い、玉狛支部やボーダー本部の再現、REBOOT版キャラクター設定などのアニメ資料展示を通じて作品世界を追体験できる。一般前売は2300円で、グッズ付きチケットも用意される。",
+        "why_it_matters": "人気作の再始動を、単なる告知ではなく体験型展示として広げる施策になっている。東京会場の発売日が明示されたことで、ファンにとっては早めの参加判断が必要な実務情報でもある。",
+        "headline": "IPが展示と現地体験へ変換される流れを追うと、創作の収益化視点が広がる"
+      },
+      "selection_reason": "IPが展示と現地体験へ変換される流れを追うと、創作の収益化視点が広がる",
+      "adjacent_field": "体験型IPとライブ空間の経済圏",
+      "adjacent_reasoning": "希少性や身体性を重視する関心から自然に伸びる先は、配信や画像そのものではなく現地体験、舞台、展示、ポップアップ、テーマ空間としてIPを売る領域です。漫画・アニメ・ゲームの世界観が、どの瞬間に高単価なリアル体験へ変わるのかを見ると、ファン文化とブランド設計の解像度が一段上がります。"
     }
   ]
 }
