@@ -1,0 +1,282 @@
+{
+  "date": "2026-05-29",
+  "mode": "multimode",
+  "articles": [
+    {
+      "number": 1,
+      "title": "Anthropic、Opus 4.8と新機能「Dynamic Workflows」を公開",
+      "source": "TechCrunch",
+      "description": "",
+      "url": "https://techcrunch.com/2026/05/28/anthropic-releases-opus-4-8-with-new-dynamic-workflow-tool/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-28",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 1,
+        "title_ja": "Anthropic、Opus 4.8と新機能「Dynamic Workflows」を公開",
+        "key_points": [
+          "Anthropicが最上位モデルOpus 4.8を公開し、価格は前版と同水準に据え置いた",
+          "不確実な情報や不十分な根拠を自ら指摘しやすくなり、誤った断定を減らす方向が強調された",
+          "複雑な作業を多数の並列サブエージェントで処理する研究プレビュー機能Dynamic Workflowsも発表された"
+        ],
+        "detailed_summary": "Anthropicは最上位の公開モデルOpus 4.8を発表した。前版4.7から41日での更新は同社としてかなり速く、OpenAIやGoogleの新モデル投入で競争圧力が高まる中での巻き返しとも見える。今回の焦点は性能指標だけでなく、不確かな入力や分析上の問題をモデル側が積極的に警告する点にあり、早期利用者もその改善を評価した。加えて、数百のサブエージェントを束ねて大規模コード移行などを進めるDynamic Workflowsも研究プレビューとして公開し、将来のMythos級モデル投入にも含みを持たせた。",
+        "why_it_matters": "生成AIの競争軸が、単なるベンチマーク性能から信頼性と実務での運用力へ移っていることを示す動きだ。大規模開発や分析の自動化がさらに現実味を帯びる。",
+        "headline": "Claude運用の前提を変える更新で、役割分担型エージェント設計に直結する"
+      },
+      "selection_reason": "Claude運用の前提を変える更新で、役割分担型エージェント設計に直結する"
+    },
+    {
+      "number": 2,
+      "title": "Asana、ノーコードのエージェント構築企業StackAIを買収",
+      "source": "TechCrunch",
+      "description": "",
+      "url": "https://techcrunch.com/2026/05/28/asana-acquires-no-code-agent-builder-stack-ai/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-28",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 2,
+        "title_ja": "Asana、ノーコードのエージェント構築企業StackAIを買収",
+        "key_points": [
+          "AsanaがStackAIを7500万ドルで買収し、創業者2人も合流する",
+          "StackAIはSalesforceやSlack、Google Workspaceなど既存業務システムとつながるAIエージェント構築基盤を提供してきた",
+          "Asanaは人間とAIエージェントが協働する業務OSを目指し、AI StudioやAI Teammatesを強化する狙いだ"
+        ],
+        "detailed_summary": "Asanaはノーコード型のAIエージェント構築企業StackAIを7500万ドルで買収した。StackAIは既存の業務システムから文脈やデータを取り込み、業務フロー内で動くエージェントを設計する企業で、Asanaはこれを自社のAI転換の中核に位置付ける。ChatGPT以降、株式市場では苦戦してきたが、売上は伸びており、新経営陣はAI StudioやAI TeammatesにStackAIを組み合わせることで、複雑な業務プロセス全体をエージェント化できると見ている。発表は決算と投資家説明のタイミングに合わせて行われた。",
+        "why_it_matters": "AIエージェント競争が単体ツールではなく、既存業務ソフトに深く埋め込まれる方向へ進んでいると分かる。企業向けSaaS各社の再評価にもつながりうる。",
+        "headline": "業務SaaSがエージェント内製を囲い込み始めた流れが、かなり見えやすい"
+      },
+      "selection_reason": "業務SaaSがエージェント内製を囲い込み始めた流れが、かなり見えやすい"
+    },
+    {
+      "number": 3,
+      "title": "ハッカーが新たなフィッシング攻撃でSignalユーザーのバックアップを狙う",
+      "source": "TechCrunch",
+      "description": "",
+      "url": "https://techcrunch.com/2026/05/28/hackers-are-trying-to-steal-signal-users-backups-in-new-wave-of-phishing-attacks/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-28",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 3,
+        "title_ja": "ハッカーが新たなフィッシング攻撃でSignalユーザーのバックアップを狙う",
+        "key_points": [
+          "攻撃者がSignalサポートを装い、チャットのバックアップ復旧キーをだまし取ろうとしている",
+          "反中国共産党の活動家だけでなく、別の属性の被害報告もあり、対象が広がっている可能性がある",
+          "Signalはユーザーに先に連絡せず、登録コードやPIN、復旧キーを求めることもないと警告している"
+        ],
+        "detailed_summary": "Signal利用者を狙い、公式サポートを装ってオンラインバックアップ用の復旧キーを要求する新しいフィッシング攻撃が確認された。偽メッセージでは同期不具合でデータ消失の恐れがあると脅し、キー共有を促す。これまでのSignal関連攻撃はアカウント乗っ取りが中心だったが、今回は古いチャットや写真、文書を含むバックアップそのものが標的だ。人権活動家や記者支援に関わる専門家にも類似報告が寄せられており、特定コミュニティに限らない広がりも示唆される。復旧キー窃取は攻撃の一段階にすぎないが、被害の深刻さは大きい。",
+        "why_it_matters": "安全なメッセージアプリでも、利用者をだます入口が崩されれば機密は守れない。バックアップや復旧情報が新たな攻撃面になっている点は多くのユーザーが意識すべきだ。",
+        "headline": "AI運用でも権限より先に保全設計が必要だと再確認させる実害系ニュース"
+      },
+      "selection_reason": "AI運用でも権限より先に保全設計が必要だと再確認させる実害系ニュース"
+    },
+    {
+      "number": 4,
+      "title": "Mistral AIが事業拡大、自社チップ開発の可能性にも言及",
+      "source": "CNBC",
+      "description": "",
+      "url": "https://www.cnbc.com/2026/05/28/mistral-arthur-mensch-design-chips-ai-data-centers.html",
+      "category": "経済・金融",
+      "published_at": "2026-05-28",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 4,
+        "title_ja": "Mistral AIが事業拡大、自社チップ開発の可能性にも言及",
+        "key_points": [
+          "Mistral AIのCEOが、自社チップの設計や将来的な開発を排除しない考えを初めて明言した",
+          "当面はNvidiaと協力しつつ、フランスで推論向けデータセンターを新設し、仏・スウェーデンで計40億ユーロを投資している",
+          "欧州のAIインフラ不足を埋める戦略の一環で、外部AIラボにも計算資源を提供する可能性がある"
+        ],
+        "detailed_summary": "フランスのMistral AIは、自社チップの設計や将来的な保有に関心があるとCEOのArthur MenschがCNBCに語った。カスタム半導体はトークン提供コストの引き下げにつながるとしつつ、現時点ではNvidiaを主要パートナーとして活用している。あわせて同社は、推論向けの新データセンターをフランスで発表し、フランスとスウェーデンの設備に計40億ユーロを投資して計算資源を拡充している。狙いは欧州のインフラ遅れを埋め、企業顧客と他のAIラボの双方に供給できる体制を築くことにある。",
+        "why_it_matters": "モデル競争の勝敗が、アルゴリズムだけでなく半導体とデータセンターの支配力で決まる局面に入っている。欧州が米大手への依存を減らせるかを占う動きでもある。",
+        "headline": "モデル競争が半導体とデータセンター支配へ寄る現実を押さえる価値が高い"
+      },
+      "selection_reason": "モデル競争が半導体とデータセンター支配へ寄る現実を押さえる価値が高い"
+    },
+    {
+      "number": 5,
+      "title": "Exxon、原油在庫が数週間で危険水準まで低下し価格急騰の恐れと警告",
+      "source": "CNBC",
+      "description": "",
+      "url": "https://www.cnbc.com/2026/05/28/oil-inventory-exxon-strait-hormuz-iran-war.html",
+      "category": "経済・金融",
+      "published_at": "2026-05-28",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 5,
+        "title_ja": "Exxon、原油在庫が数週間で危険水準まで低下し価格急騰の恐れと警告",
+        "key_points": [
+          "Exxon幹部は、原油在庫が数週間で前例のない低水準に達し、価格が急騰すると警告した",
+          "現物ブレント価格は在庫逼迫時に1バレル150〜160ドルへ跳ね上がる可能性があるという見方を示した",
+          "中東戦争に伴うホルムズ海峡閉鎖で供給混乱が続き、備蓄放出でしのいできたが限界が近いとされる"
+        ],
+        "detailed_summary": "Exxon Mobilは、原油在庫が今後数週間で記録的な低水準に落ち込み、価格急騰と需要破壊を招く恐れがあると警告した。幹部は、物理的なブレント原油が1バレル150〜160ドルまで上がる可能性に言及している。背景には、中東戦争に伴うイランによるホルムズ海峡閉鎖で、国際エネルギー機関が史上最大級の供給障害とみる状況がある。加盟国は4億バレルの備蓄放出で影響を緩和してきたが、在庫取り崩しは記録的なペースで進み、先物市場は危機の深さを十分に織り込めていないというのが業界側の見立てだ。",
+        "why_it_matters": "原油在庫の限界は、インフレ、物流コスト、景気減速に直結する。市場が供給危機を過小評価していれば、価格調整は急激になる。",
+        "headline": "中東発の供給網ショックが物価と相場に波及する経路を読む材料として重要"
+      },
+      "selection_reason": "中東発の供給網ショックが物価と相場に波及する経路を読む材料として重要"
+    },
+    {
+      "number": 6,
+      "title": "金や原油のように、AIトークン先物を取引できる時代が近づく",
+      "source": "TechCrunch",
+      "description": "",
+      "url": "https://techcrunch.com/2026/05/28/just-like-gold-and-oil-well-soon-be-able-to-trade-ai-token-futures/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-28",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 6,
+        "title_ja": "金や原油のように、AIトークン先物を取引できる時代が近づく",
+        "key_points": [
+          "上海先物取引所がAIトークンのデリバティブ市場を設計中だと報じられた",
+          "CME GroupやICEもGPUレンタル向け先物の立ち上げを進めており、AI計算資源の金融商品化が進んでいる",
+          "企業向けAI料金はトークン単位で課金されることが多く、トークン先物は計算コストのヘッジ手段になりうる"
+        ],
+        "detailed_summary": "AIインフラの急拡大を受け、LLMトークンそのものを対象にした先物やデリバティブ市場の整備が動き出している。報道によれば上海先物取引所はAIトークン市場を設計中で、CME GroupやICEもGPUレンタル向け先物を準備している。GPUには既に時間単位のスポット価格市場がある一方、トークン自体はOpenAIやAmazon Bedrockのように料金体系の中心でありながら、価格変動を管理する金融基盤が未整備だった。新商品が実現すれば、企業や投資家、データセンター運営者はAI計算コストの変動リスクをヘッジしやすくなる。",
+        "why_it_matters": "AIがインフラ産業化するほど、計算資源の価格変動を管理する金融市場が必要になる。トークン先物は、AIコストを予算化しやすくする次の基盤になりうる。",
+        "headline": "推論コストを金融商品として扱う発想が、AI事業の原価観を更新してくる"
+      },
+      "selection_reason": "推論コストを金融商品として扱う発想が、AI事業の原価観を更新してくる"
+    },
+    {
+      "number": 7,
+      "title": "RSIは新たなAGIだが、その実態は同じくらい定義しにくい",
+      "source": "TechCrunch",
+      "description": "",
+      "url": "https://techcrunch.com/2026/05/28/rsi-is-the-new-agi-and-its-just-as-hard-to-pin-down/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-28",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 1,
+        "title_ja": "RSIは新たなAGIだが、その実態は同じくらい定義しにくい",
+        "key_points": [
+          "AI業界で再帰的自己改善（RSI）が新たな流行語となり、自己改良を自動で回し続けるAI像が注目されている。",
+          "Richard Socher、Andrej Karpathy、Sara Hooker、Doris Xinら有力研究者や新興企業が、研究や学習の自動化を通じてRSIに近づこうとしている。",
+          "現状は小規模改善や信頼性確保の段階にとどまり、完全な自己改善ループの実現にはなお大きな壁がある。"
+        ],
+        "detailed_summary": "AI業界では、AIが自ら研究案を出し、実装し、検証しながら継続的に性能を高める再帰的自己改善（RSI）への関心が急速に高まっている。Richard Socherの新会社やKarpathyのAuto-Research、AdaptionのAutoScientist、Doris Xinの自律エージェントなど、複数の取り組みがこの方向を狙う。ただし現状はGPT-2規模の小幅改善やKaggleでの成果が中心で、創造性より信頼性と実装の積み上げが核心だとみられている。期待は大きいが、産業全体が本当にそこへ到達したとはまだ言い切れない。",
+        "why_it_matters": "RSIが実現すれば、AI開発の速度そのものが加速し、人間主導の研究体制を塗り替える可能性がある。AGI論争の次に来る競争軸として、研究投資や安全保障の議論にも直結する。",
+        "headline": "再帰改善という曖昧語を分解しないと、運用判断を誤ると気づかされる"
+      },
+      "selection_reason": "再帰改善という曖昧語を分解しないと、運用判断を誤ると気づかされる"
+    },
+    {
+      "number": 8,
+      "title": "気候テック企業が相次ぎ上場、その次に何が来るのか",
+      "source": "MIT Technology Review",
+      "description": "",
+      "url": "https://www.technologyreview.com/2026/05/28/1138067/climate-tech-ipos/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-29",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 2,
+        "title_ja": "気候テック企業が相次ぎ上場、その次に何が来るのか",
+        "key_points": [
+          "2026年の米国では、Solv Energy、X-energy、Fervo Energyといった電力供給系の気候テック企業が相次いでIPOに成功した。",
+          "背景にはデータセンター需要などによる電力需要の増加があり、太陽光、次世代原子力、地熱が市場の期待を集めている。",
+          "Fervoは大規模な地熱拡張余地を示す一方、建設コスト低減や実運転での拡大が今後の焦点になる。"
+        ],
+        "detailed_summary": "米国では今年、気候テック企業のIPOが相次ぎ、送電網の逼迫と電力需要増を映す資本市場の動きとして注目されている。Solv Energyは太陽光と蓄電池、X-energyは小型モジュール炉、Fervo Energyは拡張地熱で評価を集めた。特にFervoは2017年創業後に約15億ドルを調達し、ユタ州Cape Stationの初号機を10月稼働予定とする。すでに600メガワット超の電力販売契約を持ち、将来的には数十ギガワット級の開発余地も示すが、天然ガスより高い建設費をどう下げるかが成長の条件になる。",
+        "why_it_matters": "脱炭素の物語だけでなく、電力不足を埋める現実的な供給力として気候テックが評価され始めた点が大きい。今後の上場環境やインフラ投資の流れを占う材料になる。",
+        "headline": "AI電力需要と資本市場の接続が見え、インフラ側の勝ち筋を考えやすい"
+      },
+      "selection_reason": "AI電力需要と資本市場の接続が見え、インフラ側の勝ち筋を考えやすい"
+    },
+    {
+      "number": 9,
+      "title": "ドローン群",
+      "source": "CNBC",
+      "description": "",
+      "url": "https://www.cnbc.com/2026/05/28/petraeus-unmanned-systems-autonomous-drones-defense-investment.html",
+      "category": "経済・金融",
+      "published_at": "2026-05-28",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 3,
+        "title_ja": "ドローン群",
+        "key_points": [
+          "元CIA長官デイヴィッド・ペトレイアスは、今後10年で最大の脅威と成長機会は無人システム分野にあると述べた。",
+          "安価なドローンに対し高価な迎撃ミサイルで対処する現状は非効率で、防衛側は対ドローン能力の大幅強化を迫られている。",
+          "今後は遠隔操縦から自律型の群れへ進化し、従来の迎撃手段では対処しきれない戦場が到来すると警告した。"
+        ],
+        "detailed_summary": "ペトレイアス元CIA長官は、イランやウクライナでの戦争を例に、無人機とその防御が次の戦争の中心になると語った。イラン製Shahedのような安価なドローンは、数万ドル規模でありながら高価な防空ミサイルを消耗させ、中東各国に攻防両面の投資拡大を促している。さらに今後は人間の操縦者に依存しない自律型ドローン群が主流になり、数で防空網を圧倒する局面が増える見通しだ。ウクライナの即応的な対抗策は成果を上げているが、群れへの防御はなお不十分だという認識が示された。",
+        "why_it_matters": "軍事技術の主役が大型兵器から安価で大量投入できる無人機へ移ると、防衛予算の配分も産業構造も変わる。安全保障だけでなく、防衛関連投資の有望分野を示す記事でもある。",
+        "headline": "自律システムの価値が軍事と投資でどう立ち上がるかを見るのに向いている"
+      },
+      "selection_reason": "自律システムの価値が軍事と投資でどう立ち上がるかを見るのに向いている"
+    },
+    {
+      "number": 10,
+      "title": "竹書房が『Melt in Your Color』『My Father's Lover』などを英語でデジタル配信へ",
+      "source": "Anime News Network",
+      "description": "Takeshobo also releases Tamaji Ura's Don't Stop Even If I Say So",
+      "url": "https://www.animenewsnetwork.com/news/2026-05-28/takeshobo-to-release-melt-in-your-color-my-father-lover-more-manga-digitally-in-english/.237430",
+      "category": "漫画・アニメ・文化",
+      "published_at": "2026-05-28",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 4,
+        "title_ja": "竹書房が『Melt in Your Color』『My Father's Lover』などを英語でデジタル配信へ",
+        "key_points": [
+          "竹書房は複数のマンガ作品を英語でデジタル配信すると発表した。",
+          "『Melt in Your Color』は5月29日、『My Father's Lover』は6月5日配信開始で、『Don't Stop Even If I Say So』は2026年6月に第1〜2巻を予定している。",
+          "配信先はRenta!、MangaPlaza、Coolmic、BookWalker、Rakuten Koboなど主要電子書店。"
+        ],
+        "detailed_summary": "竹書房は、hitomiの『Melt in Your Color』、汐見ちるの『My Father's Lover』、宇良たまじの『Don't Stop Even If I Say So』を英語でデジタル配信すると発表した。前2作は2026年5月末から6月上旬にかけて順次公開され、後者は2026年6月に第1巻と第2巻を出す予定だ。いずれもBL色のある人物関係や秘めた感情を軸にした作品で、配信はRenta!、MangaPlaza、Coolmic、BookWalker、Rakuten Koboで行われる。出版社が英語圏向けの販路を広げる動きとして位置づけられる。",
+        "why_it_matters": "日本の電子マンガ市場が国内依存ではなく、英語圏へ同時に販路を伸ばす流れを示している。とくにニッチジャンルでも海外配信が前提になりつつある点が重要だ。",
+        "headline": "日本IPの英語圏展開は、個人発信や翻訳配信の未来線を考える種になる"
+      },
+      "selection_reason": "日本IPの英語圏展開は、個人発信や翻訳配信の未来線を考える種になる"
+    },
+    {
+      "number": 11,
+      "title": "『名探偵コナン』と『スター・ディテクティブ プリキュア！』のクロスオーバー回を予告映像で公開",
+      "source": "Anime News Network",
+      "description": "Star Detective Precure! episode with Conan airs on May 31, Detective Conan episode with Cure Answer airs on June 6",
+      "url": "https://www.animenewsnetwork.com/news/2026-05-28/detective-conan-star-detective-precure-anime-preview-crossover-episodes-in-trailer/.237907",
+      "category": "漫画・アニメ・文化",
+      "published_at": "2026-05-28",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 5,
+        "title_ja": "『名探偵コナン』と『スター・ディテクティブ プリキュア！』のクロスオーバー回を予告映像で公開",
+        "key_points": [
+          "『スター・ディテクティブ プリキュア！』第18話ではコナン側のキャラクターが登場し、5月31日に放送される。",
+          "続いて『名探偵コナン』6月6日放送回にはCure Answerが登場し、双方の作品で連動したクロスオーバーが行われる。",
+          "プリキュア新作と30周年を迎えるコナンのコラボとして、両作品のファン層をまたぐ企画になっている。"
+        ],
+        "detailed_summary": "アニメ『名探偵コナン』と『スター・ディテクティブ プリキュア！』のクロスオーバー回を紹介するPVが公開された。5月31日放送のプリキュア第18話では、美術品盗難事件をめぐってAnnaとMikuruが捜査する中、偶然街を訪れていた江戸川コナン、毛利蘭、毛利小五郎と協力する。続く6月6日の『名探偵コナン』側の回ではCure Answerが登場し、宝石強盗事件を巡る物語が描かれる。新作プリキュアの話題づくりと、30周年のコナンの記念施策を結びつけた相互送客型のコラボといえる。",
+        "why_it_matters": "長寿シリーズと新作シリーズを双方向でつなぐことで、視聴者層の拡張と話題化を同時に狙える。テレビアニメのクロスプロモーション手法としてもわかりやすい事例だ。",
+        "headline": "強い既存IP同士の交差は、世界観拡張と話題設計の手筋として面白い"
+      },
+      "selection_reason": "強い既存IP同士の交差は、世界観拡張と話題設計の手筋として面白い"
+    },
+    {
+      "number": 12,
+      "title": "韓国アニメ版『Tomb Raider King』が新キャラクター映像を公開、7月8日放送開始",
+      "source": "Anime News Network",
+      "description": "Series gets \"world premiere\" screening in Tokyo with simultaneous stream of cast stage greeting",
+      "url": "https://www.animenewsnetwork.com/news/2026-05-28/tomb-raider-king-korean-animated-series-reveals-new-character-videos-july-8-debut/.237906",
+      "category": "漫画・アニメ・文化",
+      "published_at": "2026-05-28",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 6,
+        "title_ja": "韓国アニメ版『Tomb Raider King』が新キャラクター映像を公開、7月8日放送開始",
+        "key_points": [
+          "Kadokawaは韓国アニメ版『Tomb Raider King』の日本での放送開始日を7月8日と発表した。",
+          "早見沙織演じるIrene Holton、入野自由演じるKōtarō Yanagiの新キャラクターPVも公開された。",
+          "6月13日には第1話と第2話のワールドプレミア上映が東京で行われ、配信付きのキャストイベントも予定されている。"
+        ],
+        "detailed_summary": "Kadokawaは、韓国アニメ化作品『Tomb Raider King』の日本語吹替版を7月8日からフジテレビB8station枠で放送すると発表した。日本題は『盗掘王』で、細谷佳正、早見沙織、諏訪部順一、入野自由、岡本信彦らが出演する。6月13日には東京で第1話と第2話の先行上映会を実施し、キャスト登壇の模様はYouTubeでも配信予定。原作は遺物により超常能力が発現する世界で、裏切りを受けた主人公が15年前に戻って復讐と成り上がりを図るウェブトゥーンで、英語圏ではTapasなどでも展開されている。",
+        "why_it_matters": "韓国発ウェブトゥーンIPが日本の地上波アニメ枠で本格展開される流れを示している。制作、吹替、配信、出版が一体化した越境メディア戦略としても注目できる。",
+        "headline": "韓国発IPの映像化導線は、アジア圏の物語供給網を見る視野を広げる"
+      },
+      "selection_reason": "韓国発IPの映像化導線は、アジア圏の物語供給網を見る視野を広げる"
+    }
+  ]
+}
