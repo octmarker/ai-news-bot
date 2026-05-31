@@ -1,0 +1,213 @@
+{
+  "date": "2026-05-31",
+  "mode": "multimode",
+  "articles": [
+    {
+      "number": 1,
+      "title": "Googleの24時間稼働AIアシスタントGemini Sparkを使ってみたら、思ったより実用的だった",
+      "source": "TechCrunch",
+      "description": "",
+      "url": "https://techcrunch.com/2026/05/30/i-put-googles-24-7-ai-assistant-gemini-spark-to-work-and-its-actually-pretty-useful/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-30",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 1,
+        "title_ja": "Googleの24時間稼働AIアシスタントGemini Sparkを使ってみたら、思ったより実用的だった",
+        "key_points": [
+          "Gemini Sparkはクラウド上で動く常時稼働型AIエージェントで、メール要約や予定整理などを代行する",
+          "Google Workspaceとの連携が強く、個人向けというより仕事周辺の作業で力を発揮しやすい",
+          "買い物の節約調査では実用性を見せた一方、独立ブランドにするほどの必須感は弱い"
+        ],
+        "detailed_summary": "GoogleのGemini Sparkは、クラウド上の仮想マシンで動く24時間対応のエージェント型AIとして紹介されている。ユーザーがPCを起動し続けなくても、受信箱の要約や予定確認、資料整理のような面倒なオンライン作業を代行できる点が売りだ。実際に試した筆者は、Googleの生産性アプリとの結び付きが強く、個人生活より仕事に近い用途で使いやすいと評価する。日用品の特売やクーポン調査では有用だったが、誰にとっても不可欠なサービスとまでは言い切れないという見方だ。",
+        "why_it_matters": "生成AIが単発の質問応答から、継続的に作業を代行する常駐型へ進みつつある流れを示している。実用性と必需性の差が、今後の消費者向けAIの普及を左右する。",
+        "headline": "常時稼働型エージェントの実務像が見え、秘書AI設計の判断材料として即効性が高い"
+      },
+      "selection_reason": "常時稼働型エージェントの実務像が見え、秘書AI設計の判断材料として即効性が高い"
+    },
+    {
+      "number": 2,
+      "title": "「冗談だろ」 GitHub Copilotの新しいトークン課金が開発者の反発を招く",
+      "source": "TechCrunch",
+      "description": "",
+      "url": "https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-30",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 2,
+        "title_ja": "「冗談だろ」 GitHub Copilotの新しいトークン課金が開発者の反発を招く",
+        "key_points": [
+          "GitHub Copilotは6月1日から定額制ではなくトークン使用量ベースの課金へ移行する",
+          "一部ユーザーは月額費用が数十ドルから数百〜数千ドル規模に跳ね上がると反発している",
+          "過剰利用する“vibe coding”側に原因があるという声と、利用を促してきたMicrosoftの責任を問う声が対立している"
+        ],
+        "detailed_summary": "MicrosoftはGitHub Copilotの料金体系を、低額の定額制からトークン消費量に応じた従量課金へ切り替える。2026年6月1日から始まるこの変更に対し、RedditやXでは月額29ドル前後が750ドル近くに、あるいは50ドルが3000ドル規模に膨らむとの投稿が相次ぎ、不満が噴出した。一方で、適切に使えばそこまで増えないとして、反復的に大量生成へ依存する使い方を問題視する声もある。背景には、これまでのCopilotが実際にはどれほど補助金的に安く提供されていたのかという疑問もある。",
+        "why_it_matters": "AI開発支援ツールの採算性が、理想的な普及段階から現実的な収益モデルへ移りつつあることを示す。中小企業や個人開発者にとっては、AI活用の前提コストが大きく変わる可能性がある。",
+        "headline": "AI開発基盤の課金条件が変わる話で、運用コスト上限と代替判断に直結する"
+      },
+      "selection_reason": "AI開発基盤の課金条件が変わる話で、運用コスト上限と代替判断に直結する"
+    },
+    {
+      "number": 3,
+      "title": "ビッグテックの電力需要急増で、データセンターが公益企業に巨大な新たな利益源をもたらす",
+      "source": "MarketWatch",
+      "description": "The market hasn’t fully priced the next logical step for the AI buildout: Big Tech acquiring regulated utilities outright.",
+      "url": "https://www.marketwatch.com/story/in-america-big-techs-ai-data-centers-come-first-and-your-community-will-be-last-to-know-06a3fce4",
+      "category": "経済・金融",
+      "published_at": "2026-05-30",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 3,
+        "title_ja": "ビッグテックの電力需要急増で、データセンターが公益企業に巨大な新たな利益源をもたらす",
+        "key_points": [
+          "AI向けデータセンターの急増が地域電力網の新規需要の中心になっている",
+          "ネバダ州ではNV Energyが2027年以降、タホ地域向けの長年の電力供給協定を終了する",
+          "記事は将来的にビッグテックが規制公益事業を買収する可能性まで視野に入れている"
+        ],
+        "detailed_summary": "この記事は、AIインフラ拡大の次の段階として、データセンターの電力需要が公益事業会社の収益構造そのものを変え始めていると論じる。ネバダ州では、Lake Tahoe近郊の約4万9000世帯が影響を受ける電力供給の見直しが進み、NV Energyは2027年5月以降、Liberty Utilities向けの長年の供給を打ち切る方針を示した。その背景には、Reno近郊の工業地帯でAlphabet、Apple、Microsoftなどが進めるデータセンター建設があり、新規負荷の大半を占めるまでになっている。",
+        "why_it_matters": "AIブームの本当の制約が半導体だけでなく電力にもあることを浮き彫りにする。家庭や地域経済が、巨大テック企業との電力配分競争に巻き込まれる可能性がある。",
+        "headline": "AIインフラ拡大の受益側が電力へ波及しており、投資テーマ更新に効く一本"
+      },
+      "selection_reason": "AIインフラ拡大の受益側が電力へ波及しており、投資テーマ更新に効く一本"
+    },
+    {
+      "number": 4,
+      "title": "ウォール街が無視する弱気相場シグナルが、いまあなたの資産を危険にさらしている",
+      "source": "MarketWatch",
+      "description": "Veteran trader Steve Burns prepares for a 50% decline and exposes the 3 “deadly stock-market sins” destroying portfolios.",
+      "url": "https://www.marketwatch.com/story/this-bear-market-signal-wall-street-ignores-is-putting-your-money-at-risk-right-now-46f1fcf3",
+      "category": "経済・金融",
+      "published_at": "2026-05-30",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 4,
+        "title_ja": "ウォール街が無視する弱気相場シグナルが、いまあなたの資産を危険にさらしている",
+        "key_points": [
+          "ベテラントレーダーのSteve Burnsは最大50％の下落も想定して備えるべきだと主張する",
+          "金融アドバイザーがあまり語らない現金化シグナルの重要性を説いている",
+          "個別株のナンピンや感情的な判断が資産形成を壊す三つの致命的ミスとして挙げられている"
+        ],
+        "detailed_summary": "本稿は、市場教育サイトNewTraderU創業者のSteve Burnsへのインタビューを通じ、投資家が見落としがちな弱気相場の兆候と防衛策を紹介する内容だ。Burnsは、相場が大きく崩れる局面では最大50％の下落も想定し、必要なら現金比率を高める判断が不可欠だと説く。特に、下落した個別株を安易に買い増すナンピンは、損失を拡大させやすい危険な行動として警告する。市場で生き残るには、感情に引きずられないリスク管理が中心テーマになっている。",
+        "why_it_matters": "強気相場が長く続くほど、下落時の撤退ルールは軽視されやすい。個人投資家にとっては、銘柄選び以上に損失管理の設計が資産保全を左右する。",
+        "headline": "地合い悪化を測る補助線として使え、相場急落時の監視項目を増やせる"
+      },
+      "selection_reason": "地合い悪化を測る補助線として使え、相場急落時の監視項目を増やせる"
+    },
+    {
+      "number": 5,
+      "title": "あなたの資産運用はイラン戦争の本当の請求書に耐えられない",
+      "source": "MarketWatch",
+      "description": "The Pentagon claims the conflict has cost $29 billion — but the true cost is much higher and it’s fueling inflation.",
+      "url": "https://www.marketwatch.com/story/the-true-cost-of-the-iran-war-is-billions-more-than-the-pentagon-says-and-were-paying-for-it-7bf90988",
+      "category": "経済・金融",
+      "published_at": "2026-05-30",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 5,
+        "title_ja": "あなたの資産運用はイラン戦争の本当の請求書に耐えられない",
+        "key_points": [
+          "米国防総省はイラン戦争の費用を290億ドルと説明しているが、記事はそれでは過小評価だと主張する",
+          "議会証言では費用見積もりが短期間で250億ドルから290億ドルへ増えている",
+          "戦費の実態はインフレ圧力を通じて家計や投資ポートフォリオにも跳ね返ると論じている"
+        ],
+        "detailed_summary": "この記事は、イラン戦争のコストについて米政府が示す数字が実態を十分に反映していないと批判する論考だ。米国防長官Pete Hegsethと国防総省会計責任者代行Jules Hurst IIIは議会で、戦費は290億ドルと説明したが、その少し前までは250億ドルとしており、さらに以前には明確な見積もり提示を避けていた。筆者は、表向きの予算額だけではなく、財政悪化や物価上昇を通じて国民や投資家が負担する隠れたコストこそ重いとみる。",
+        "why_it_matters": "戦争コストは政府会計の数字だけでは終わらず、インフレや金利を通じて資産価格にも影響する。地政学リスクを投資判断に織り込む必要性を改めて示している。",
+        "headline": "中東情勢を軍事見出しでなく財政と市場波及で読む材料として優先度が高い"
+      },
+      "selection_reason": "中東情勢を軍事見出しでなく財政と市場波及で読む材料として優先度が高い"
+    },
+    {
+      "number": 6,
+      "title": "TikTokがスーパーアプリになるまでの道のり",
+      "source": "TechCrunch",
+      "description": "",
+      "url": "https://techcrunch.com/2026/05/30/tiktoks-road-to-becoming-a-super-app/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-30",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 6,
+        "title_ja": "TikTokがスーパーアプリになるまでの道のり",
+        "key_points": [
+          "TikTokは動画アプリの枠を超え、EC、検索、地図、ゲーム、旅行予約へと機能を拡張している",
+          "米国ではTikTok GOを通じてホテルや観光体験の発見から予約までアプリ内で完結できるようにした",
+          "ブラジルでは決済や融資のための金融ライセンスを申請し、フィンテック領域にも進出しようとしている"
+        ],
+        "detailed_summary": "TikTokは単なる短尺動画SNSから、複数の生活機能を一つに集約するスーパーアプリへ進化しようとしている。すでにTikTok Shopや検索、地図機能を拡充してきたが、最近は米国内でTikTok GOを開始し、動画や検索からホテルや観光体験を見つけ、そのまま予約できる導線を整えた。加えて、Reuters報道によればブラジル中央銀行にフィンテック企業としての認可も申請しており、残高管理や決済、融資へ広げる構想も進む。発見、購買、決済を一体化する戦略が鮮明だ。",
+        "why_it_matters": "SNS企業が広告依存から脱し、商取引と金融まで抱え込む構造変化を示している。成功すれば、検索、地図、旅行予約、決済を握る既存大手への圧力が一段と強まる。",
+        "headline": "配信から購買まで閉じる導線設計が見え、個人事業の販路発想を広げやすい"
+      },
+      "selection_reason": "配信から購買まで閉じる導線設計が見え、個人事業の販路発想を広げやすい"
+    },
+    {
+      "number": 7,
+      "title": "アマゾン、AIアニメ版『Good Advice Cupcake』を制作へ　原作者は激怒",
+      "source": "WIRED",
+      "description": "",
+      "url": "https://www.wired.com/story/story/amazon-is-making-an-ai-animated-good-advice-cupcake-tv-show-its-original-creator-is-furious/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-31",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 1,
+        "title_ja": "アマゾン、AIアニメ版『Good Advice Cupcake』を制作へ　原作者は激怒",
+        "key_points": [
+          "BuzzFeedが原作者ロリン・ブランツの人気キャラ『Good Advice Cupcake』をPrime Video向け新作シリーズにライセンス供与した。",
+          "新作『Cupcake & Friends』はAmazonの生成AI支援企画から生まれた作品で、ブランツは自作が『魂のないAIの操り人形』にされると強く反発している。",
+          "メディア企業の再編やAI活用の加速を背景に、クリエイターの権利と企業の知財運用を巡る対立が表面化した。"
+        ],
+        "detailed_summary": "BuzzFeed出身の作家・イラストレーター、ロリン・ブランツは、自身が生み出した人気キャラCuppyがAmazon Prime Video向けにAI活用作品として展開されることに激しく抗議した。BuzzFeedはこのキャラを新作アニメ『Cupcake & Friends』としてライセンス供与し、作品はAmazon Web ServicesとAmazon MGM Studiosの生成AI基金の一環として進む。ブランツは、かつて子ども向け企画から生まれた自身の創作物が企業都合で再利用され、約束も守られなかったと主張。AI時代における著作者人格、知財契約、創作者保護の問題を象徴する事例になっている。",
+        "why_it_matters": "生成AIが既存IPの再利用を後押しする一方で、原作者の意向や創作の文脈が軽視される危険を示している。メディア企業とクリエイターの力関係を問い直すニュースだ。",
+        "headline": "AI創作の量産だけでなく、IP帰属と原作者摩擦まで見える実務的な題材"
+      },
+      "selection_reason": "AI創作の量産だけでなく、IP帰属と原作者摩擦まで見える実務的な題材"
+    },
+    {
+      "number": 8,
+      "title": "ホワイトハウスのAliens.gov、ICEが700人超の米国市民を逮捕したと誤認させる内容を掲載",
+      "source": "WIRED",
+      "description": "",
+      "url": "https://www.wired.com/story/white-house-aliens-gov-us-citizens-arrested/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-31",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 2,
+        "title_ja": "ホワイトハウスのAliens.gov、ICEが700人超の米国市民を逮捕したと誤認させる内容を掲載",
+        "key_points": [
+          "ホワイトハウスが公開した移民排斥色の強いサイトAliens.govに、米国内各地での逮捕者情報として米国生まれの人物が多数含まれていた。",
+          "公開後、ホワイトハウスは国土安全保障省のデータに非移民案件の逮捕が混在していたと説明し、更新後の件数は27万件以上減少した。",
+          "トランプ政権が掲げる『最悪の犯罪者を狙う』という説明と、実際のICE運用やデータのずれが改めて浮き彫りになった。"
+        ],
+        "detailed_summary": "ホワイトハウスが公開したAliens.govは、移民を地球外生命体になぞらえる演出で注目を集めたが、掲載データには大きな問題があった。WIREDによれば、約1万2000の地域情報のうち715カ所で少なくとも1人が米国生まれとされ、83カ所では逮捕者全員が米国人だった。犯罪欄が空白の地域も多く、プエルトリコを外国のように扱う記述まで見られた。ホワイトハウスは後に、ICE内のHSIによる非移民関連逮捕が混ざっていたと説明し修正したが、掲載件数は大幅減。政権の強硬な移民演出と、ずさんなデータ運用の実態が露呈した。",
+        "why_it_matters": "国家発信の情報が政治演出のために人間を非人間化し、しかも不正確だった点は重い。移民政策だけでなく、政府データの信頼性そのものに関わる。",
+        "headline": "国家が挑発的UIと誤情報をどう使うかを示し、制度と運用リスクの勘所になる"
+      },
+      "selection_reason": "国家が挑発的UIと誤情報をどう使うかを示し、制度と運用リスクの勘所になる"
+    },
+    {
+      "number": 9,
+      "title": "今週末の興行収入トップ2作品は、どちらもYouTuber出身監督の映画だった",
+      "source": "TechCrunch",
+      "description": "",
+      "url": "https://techcrunch.com/2026/05/30/this-weekends-two-biggest-movies-were-both-directed-by-youtubers/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-30",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 3,
+        "title_ja": "今週末の興行収入トップ2作品は、どちらもYouTuber出身監督の映画だった",
+        "key_points": [
+          "週末興行1位の『Backrooms』はYouTube発の映像シリーズを長編化した作品で、公開初週だけで8000万〜9000万ドル規模が見込まれている。",
+          "2位のホラー映画『Obsession』もYouTuber出身のカリー・バーカー監督作で、公開3週目に入っても異例の伸びを見せた。",
+          "『Iron Lung』の成功も含め、YouTubeで長く観客を育てたクリエイターが主流映画市場で結果を出す流れが強まっている。"
+        ],
+        "detailed_summary": "この週末の北米興行では、YouTube出身監督によるホラー映画が上位を独占した。首位の『Backrooms』は20歳のケイン・パーソンズが手がけたYouTube映像の長編版で、A24史上最大のオープニングになる見通し。2位の『Obsession』はカリー・バーカー監督作で、通常は落ち込むはずの2週目、3週目に逆に売上を伸ばす異例のヒットとなった。さらにMarkiplierことマーク・フィッシュバック監督の『Iron Lung』も好成績を記録しており、単なるネット人気ではなく、長年かけて築いた観客との信頼が劇場動員に直結していることを示している。",
+        "why_it_matters": "映像クリエイターの主戦場がYouTubeから映画館へ広がり、旧来の映画業界の登竜門が変わりつつある。配信時代のファン基盤が、そのまま商業映画の成功要因になり始めた。",
+        "headline": "個人発信が映画興行へ接続する流れで、発信からIP化までの想像力を広げる"
+      },
+      "selection_reason": "個人発信が映画興行へ接続する流れで、発信からIP化までの想像力を広げる"
+    }
+  ]
+}
