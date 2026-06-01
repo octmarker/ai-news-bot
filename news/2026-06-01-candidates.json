@@ -1,0 +1,342 @@
+{
+  "date": "2026-06-01",
+  "mode": "multimode",
+  "articles": [
+    {
+      "number": 1,
+      "title": "AIエージェントがテック業界を混乱に陥れた。その経緯を正確にたどる",
+      "source": "WIRED",
+      "description": "",
+      "url": "https://www.wired.com/story/how-ai-agents-plunged-tech-world-into-chaos/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-06-01",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 1,
+        "title_ja": "AIエージェントがテック業界を混乱に陥れた。その経緯を正確にたどる",
+        "key_points": [
+          "AnthropicのClaude Code新版「Opus 4.5」が長時間の自律実行や複雑な開発、サブエージェント運用を可能にし、開発者の熱狂を一気に拡大させた。",
+          "Peter Steinbergerは個人向けAIエージェント基盤「OpenClaw」を公開し、データやアプリ、決済手段まで接続して自律的に作業させる世界観を提示した。",
+          "商用のClaude CodeとOSSのOpenClawがそろったことで、技術者の間ではAIエージェント時代が現実のものとして受け止められ始めている。"
+        ],
+        "detailed_summary": "この記事は、2025年後半にAIエージェントが一気に実用段階へ進んだ流れを描く。AnthropicのClaude Code新版本Opus 4.5は、より難しいプログラミング、長時間の自律動作、大量の文脈保持、サブエージェント管理を実現し、開発者に圧倒的な生産性向上を体感させた。さらにPeter SteinbergerのOpenClawが、個人データや各種アプリを横断して動く自律エージェントを簡単に作れる形で広まり、GitHubでも爆発的な支持を集めた。一般社会が不安と好奇心を抱く一方、先端の技術者たちはすでに未来に踏み込んだ感覚で開発を進めている。",
+        "why_it_matters": "AIが補助ツールから自律的な作業主体へ変わり始めた転換点を示す話だからだ。ソフトウェア開発の役割分担、必要スキル、労働市場の前提まで揺らす可能性がある。",
+        "headline": "エージェント過剰運用の失敗例として、設計と統制の見直しを即迫る"
+      },
+      "selection_reason": "エージェント過剰運用の失敗例として、設計と統制の見直しを即迫る",
+      "classification_reason": "エージェント過剰運用の失敗例として、設計と統制の見直しを即迫る",
+      "knowledge_value": "AIが補助ツールから自律的な作業主体へ変わり始めた転換点を示す話だからだ。ソフトウェア開発の役割分担、必要スキル、労働市場の前提まで揺らす可能性がある。",
+      "content_status": "content_ok",
+      "content_chars": 16743,
+      "source_access": "unknown"
+    },
+    {
+      "number": 2,
+      "title": "日本の国債利回りは40年ぶりの高水準に。補正予算と「危険信号」で市場が神経質に",
+      "source": "CNBC",
+      "description": "",
+      "url": "https://www.cnbc.com/2026/06/01/japan-pm-takaichis-budget-remarks-send-red-flag-to-bond-markets.html",
+      "category": "経済・金融",
+      "published_at": "2026-06-01",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 2,
+        "title_ja": "日本の国債利回りは40年ぶりの高水準に。補正予算と「危険信号」で市場が神経質に",
+        "key_points": [
+          "高市早苗首相は生活費対策として約3兆円の補正予算を編成したが、追加支出と国債発行を巡る説明に市場の不信感が強まった。",
+          "10年国債利回りは5月20日に2.809%まで上昇し1996年以来の高水準、30年債も4%を超えて財政懸念とインフレ圧力が意識されている。",
+          "一方で、家計のエネルギー負担を和らげる限定的な対策にすぎず、日本経済への強気見通しは崩れないとみる向きもある。"
+        ],
+        "detailed_summary": "記事は、日本の補正予算が債券市場の不安を高めている構図を伝える。高市首相は物価高やエネルギー価格への対応として約3兆円の追加歳出を打ち出したが、暦年ベースでは国債発行総額を増やさないとの説明がかえって疑念を呼んだ。市場では、支出を増やしつつ借金を増やさないという説明は整合しないとの見方が強く、10年債利回りは約30年ぶり高水準へ上昇した。中東情勢や燃料補助の膨張も財政懸念を後押しする。ただし一部の投資家は、今回の予算を景気刺激ではなく家計支援に絞った現実的対応として評価している。",
+        "why_it_matters": "日本は長く超低金利が前提だっただけに、国債利回りの上昇は財政運営と市場の信認の変化を映す。金利上昇が定着すれば、政府の資金調達コストも家計や企業の資金環境も変わる。",
+        "headline": "日本の金利と財政懸念が同時進行し、市場前提の更新が必要になる"
+      },
+      "selection_reason": "日本の金利と財政懸念が同時進行し、市場前提の更新が必要になる",
+      "classification_reason": "日本の金利と財政懸念が同時進行し、市場前提の更新が必要になる",
+      "knowledge_value": "日本は長く超低金利が前提だっただけに、国債利回りの上昇は財政運営と市場の信認の変化を映す。金利上昇が定着すれば、政府の資金調達コストも家計や企業の資金環境も変わる。",
+      "content_status": "content_ok",
+      "content_chars": 3546,
+      "source_access": "free"
+    },
+    {
+      "number": 3,
+      "title": "トランプ氏が「急いでいない」と語る中、米国とイランはなお停戦合意に至らず",
+      "source": "CNBC",
+      "description": "",
+      "url": "https://www.cnbc.com/2026/05/31/still-no-deal-to-end-us-iran-war-trump-says-hes-not-in-a-hurry.html",
+      "category": "経済・金融",
+      "published_at": "2026-05-31",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 3,
+        "title_ja": "トランプ氏が「急いでいない」と語る中、米国とイランはなお停戦合意に至らず",
+        "key_points": [
+          "米国とイランは戦争終結に向けた合意にまだ署名しておらず、トランプ大統領は交渉を急がない姿勢を示した。",
+          "トランプ氏は、イランが核兵器を持たないこととホルムズ海峡の再開を和平条件として重視し、決裂時は軍事行動再開も示唆した。",
+          "戦争と海峡封鎖は世界のエネルギー市場を混乱させ、インフレと米国内ガソリン高を引き起こしている。"
+        ],
+        "detailed_summary": "この記事は、米国とイランの停戦交渉が長引くなかで、トランプ大統領が合意成立を急がないと述べた状況を伝える。交渉は数週間続いているが、戦争は4カ月目に入り、停戦はなお不安定だ。トランプ氏は、イランが核兵器を取得しない保証と、世界の原油輸送の要衝であるホルムズ海峡の即時再開を要求している。条件が満たされなければ軍事的に片を付ける可能性も示した。海峡封鎖は世界の石油供給に深刻な影響を与え、エネルギー価格とインフレを押し上げており、交渉文言の細部がそのまま市場の先行きを左右する局面になっている。",
+        "why_it_matters": "中東情勢はエネルギー価格と世界インフレを直撃するため、単なる外交案件では済まない。停戦が崩れれば、原油供給と地政学リスクが同時に悪化しかねない。",
+        "headline": "中東停戦の遅れが原油や保険、海運の不確実性を長引かせる"
+      },
+      "selection_reason": "中東停戦の遅れが原油や保険、海運の不確実性を長引かせる",
+      "classification_reason": "中東停戦の遅れが原油や保険、海運の不確実性を長引かせる",
+      "knowledge_value": "中東情勢はエネルギー価格と世界インフレを直撃するため、単なる外交案件では済まない。停戦が崩れれば、原油供給と地政学リスクが同時に悪化しかねない。",
+      "content_status": "content_ok",
+      "content_chars": 2088,
+      "source_access": "free"
+    },
+    {
+      "number": 4,
+      "title": "エリン・ブロコビッチ、データセンターの秘密主義に照準",
+      "source": "TechCrunch",
+      "description": "",
+      "url": "https://techcrunch.com/2026/05/31/erin-brockovich-takes-aim-at-data-center-secrecy/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-31",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 4,
+        "title_ja": "エリン・ブロコビッチ、データセンターの秘密主義に照準",
+        "key_points": [
+          "環境活動家エリン・ブロコビッチが、全米のデータセンター情報を集めた地図サイトを立ち上げた。",
+          "住民からの投稿は1カ月で約4,000件に達し、騒音や水使用量よりも「透明性の欠如」が最大の懸念として浮上した。",
+          "ブロコビッチはデータセンターやAIそのものに反対しているのではなく、住民が知らないまま計画が進む進め方を問題視している。"
+        ],
+        "detailed_summary": "この記事は、エリン・ブロコビッチがデータセンター建設を巡る情報公開の不足に対し、新たな監視活動を始めたことを紹介する。彼女は全米のデータセンターを地図化するサイトを公開し、周辺住民から寄せられた報告を集約している。最初の1カ月だけで約4,000件の投稿が集まり、騒音、水使用量、電気料金上昇といった具体的影響以上に、住民説明の欠如や行政・事業者の不透明な進め方への不満が目立った。許認可取得後に初めて計画が知らされる例や、開発側が問い合わせに応じない例が多く、AIインフラ拡大の裏で地域合意の質が問われている。",
+        "why_it_matters": "AI需要でデータセンター建設が急増するなか、地域社会の合意形成が追いついていない現実を示す。インフラ拡大の是非だけでなく、誰がどう決めるのかという統治の問題が前面に出てきた。",
+        "headline": "AIインフラ拡張が住民対立と規制論点を生み始めた点が重要"
+      },
+      "selection_reason": "AIインフラ拡張が住民対立と規制論点を生み始めた点が重要",
+      "classification_reason": "AIインフラ拡張が住民対立と規制論点を生み始めた点が重要",
+      "knowledge_value": "AI需要でデータセンター建設が急増するなか、地域社会の合意形成が追いついていない現実を示す。インフラ拡大の是非だけでなく、誰がどう決めるのかという統治の問題が前面に出てきた。",
+      "content_status": "content_ok",
+      "content_chars": 1222,
+      "source_access": "free"
+    },
+    {
+      "number": 5,
+      "title": "世界で最も呪われた仕事をAIが奪い始めている",
+      "source": "WIRED",
+      "description": "",
+      "url": "https://www.wired.com/story/ai-takes-over-debt-collection/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-06-01",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 5,
+        "title_ja": "世界で最も呪われた仕事をAIが奪い始めている",
+        "key_points": [
+          "米国では債務不履行の増加を背景に、督促業務でAIエージェントの導入が急速に進んでいる。",
+          "AI督促は丁寧な口調でも24時間止まらず、大量対応と粘り強さを武器に人間の回収業務を置き換えつつある。",
+          "嫌われやすく離職率も高い督促業務をAIが担うことには効率化の利点がある一方、誤請求や心理的圧力の拡大という懸念も残る。"
+        ],
+        "detailed_summary": "この記事は、借金の督促という不人気な仕事にAIが本格的に入り込んでいる実態を描く。主人公のBenは、すでに完済したはずの家賃債務についてAI音声ボットから督促を受け、人間に引き継がれた後で残高ゼロと判明した。背景には、物価高と賃金停滞で延滞が増え、回収会社が業務量拡大に対応する必要がある事情がある。AIは怒らず眠らず大量に連絡できるため、督促業界にとって魅力的な戦力だ。市場規模は今後大きく伸びると見込まれる一方、誤情報に基づく請求や、絶え間ない接触による圧力が人間以上に強まる危うさも見えている。",
+        "why_it_matters": "AIが単純作業だけでなく、社会的に摩擦の大きい対人業務まで代替し始めた例だからだ。効率化と消費者保護の境界をどこに引くかが、今後の規制論点になる。",
+        "headline": "AIが高摩擦業務へ侵入し、規制と監査設計の必要性が増している"
+      },
+      "selection_reason": "AIが高摩擦業務へ侵入し、規制と監査設計の必要性が増している",
+      "classification_reason": "AIが高摩擦業務へ侵入し、規制と監査設計の必要性が増している",
+      "knowledge_value": "AIが単純作業だけでなく、社会的に摩擦の大きい対人業務まで代替し始めた例だからだ。効率化と消費者保護の境界をどこに引くかが、今後の規制論点になる。",
+      "content_status": "content_ok",
+      "content_chars": 12467,
+      "source_access": "unknown"
+    },
+    {
+      "number": 6,
+      "title": "Claude Opus 4.8 の新機能・4.7との違いを整理｜Fast mode/Dynamic Workflows",
+      "source": "Zenn",
+      "description": "",
+      "url": "https://zenn.dev/goki602/articles/2026-05-30-claude-opus-4-8-what-changed",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-30",
+      "mode": "deep_dive",
+      "summary": {
+        "article_index": 6,
+        "title_ja": "Claude Opus 4.8 の新機能・4.7との違いを整理｜Fast mode/Dynamic Workflows",
+        "key_points": [
+          "Claude Opus 4.8は2026年5月28日に公開され、Terminal-Bench 2.1で92.3%を記録するなど、コーディングとエージェント性能を伸ばした。",
+          "公式説明では、自分が書いたコードの欠陥を見逃す確率が前モデル比で約4分の1に低下し、正直さや不確実性の申告も改善された。",
+          "Claude Code側ではDynamic Workflowsの研究プレビューが追加され、数十から数百規模のサブエージェントを並列調整できるようになった。"
+        ],
+        "detailed_summary": "この記事は、Claude Opus 4.8を4.7からの差分中心に整理している。公開は2026年5月28日で、前版から41日という短い間隔ながら、料金は据え置きのまま性能更新が入った。ベンチマークではコーディングやPC操作系エージェントの数値が高く、長時間の自律作業に強くなったと読める。特に重要なのは品質面で、自作コードの欠陥見逃し率が大きく下がり、不確実性の申告や自己修正も改善した点だ。Claude CodeにはDynamic Workflowsが追加され、複雑な作業を多数のサブエージェントに並列分担できるようになった。高速モードの速度と価格条件の改善も、実務導入のハードルを下げている。",
+        "why_it_matters": "AIコーディングの勝負が単なる速度ではなく、長時間の自律実行と誤りにくさへ移っていることを示す更新だからだ。運用コストとレビュー負荷の両方に効くため、開発現場の使い方を変えやすい。",
+        "headline": "4.7から4.8で何が運用差分になるかを短時間で把握しやすい"
+      },
+      "selection_reason": "4.7から4.8で何が運用差分になるかを短時間で把握しやすい",
+      "classification_reason": "4.7から4.8で何が運用差分になるかを短時間で把握しやすい",
+      "knowledge_value": "AIコーディングの勝負が単なる速度ではなく、長時間の自律実行と誤りにくさへ移っていることを示す更新だからだ。運用コストとレビュー負荷の両方に効くため、開発現場の使い方を変えやすい。",
+      "content_status": "content_ok",
+      "content_chars": 2283,
+      "source_access": "free"
+    },
+    {
+      "number": 7,
+      "title": "Claude Codeが突然「出力を返さない」状態に。原因はフックの decision 値だった",
+      "source": "Zenn",
+      "description": "",
+      "url": "https://zenn.dev/iori_001/articles/claude-code-hook-decision-invalid-input",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-31",
+      "mode": "deep_dive",
+      "summary": {
+        "article_index": 1,
+        "title_ja": "Claude Codeが突然「出力を返さない」状態に。原因はフックの decision 値だった",
+        "key_points": [
+          "Claude Code v2.1.158で、PreToolUseフックが `{\"decision\":\"continue\"}` を返すとJSON検証に失敗し、ツール実行が連続エラー化した",
+          "有効な `decision` は `approve` と `block` のみで、素通ししたい場合は `{\"continue\": true}` または出力なし・終了コード0が正しい",
+          "原因は推測ではなく、本体バイナリ内のzodスキーマを直接確認して特定された"
+        ],
+        "detailed_summary": "Claude Codeでカスタムフックを使っていた筆者は、単純なReadやBash実行でも `Hook JSON output validation failed` が連発し、最終的に出力自体が返らなくなる不具合に遭遇した。調査では `~/.claude/settings.json` から対象フックを特定し、手動実行で `{\"decision\":\"continue\"}` を返していることを確認。さらに本体バイナリを解析して、`decision` の許容値が `approve` と `block` のみであると確定した。フック実装の小さな誤りが、並列実行時には会話全体を壊しかねない点が示された。",
+        "why_it_matters": "Claude Codeのフックは便利だが、返却JSONの仕様を外すだけで開発体験全体が壊れる。独自フックを運用するなら、公式仕様ではなく実装レベルの検証条件まで押さえる必要がある。",
+        "headline": "フック実装の地味な破綻点で、実運用の再現性と検証に直結する"
+      },
+      "selection_reason": "フック実装の地味な破綻点で、実運用の再現性と検証に直結する",
+      "classification_reason": "フック実装の地味な破綻点で、実運用の再現性と検証に直結する",
+      "knowledge_value": "Claude Codeのフックは便利だが、返却JSONの仕様を外すだけで開発体験全体が壊れる。独自フックを運用するなら、公式仕様ではなく実装レベルの検証条件まで押さえる必要がある。",
+      "content_status": "content_ok",
+      "content_chars": 6370,
+      "source_access": "free"
+    },
+    {
+      "number": 8,
+      "title": "Claude Code に見つかった2つの脆弱性から学ぶ、AIコーディングツールのサプライチェーンリスク",
+      "source": "Zenn",
+      "description": "",
+      "url": "https://zenn.dev/miyan/articles/claude-code-cve-supply-chain-risk-2026",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-31",
+      "mode": "deep_dive",
+      "summary": {
+        "article_index": 2,
+        "title_ja": "Claude Code に見つかった2つの脆弱性から学ぶ、AIコーディングツールのサプライチェーンリスク",
+        "key_points": [
+          "悪意あるリポジトリをcloneして `claude` を起動するだけで、HooksやMCP設定経由の任意コマンド実行が可能だった",
+          "別の脆弱性では `ANTHROPIC_BASE_URL` の上書きにより、信頼確認前のAPI通信から認証キーが漏洩し得た",
+          "問題の本質は、ユーザー承認前にプロジェクト設定を初期化・実行していた信頼境界の実装ミスにある"
+        ],
+        "detailed_summary": "Check Point Researchは2026年2月、Claude Codeに関する2件の脆弱性を公開した。1件は `.claude/settings.json` や `.mcp.json` に仕込まれたHooksやMCP設定が、信頼ダイアログ前に実行されることで任意コマンド実行につながるもの。もう1件は `ANTHROPIC_BASE_URL` を悪意あるプロキシに向け、起動直後のAPI通信から認証キーを奪う手口だった。どちらも“cloneして起動するだけ”で発動し、AIコーディングツールがリポジトリ設定をサプライチェーン攻撃面として抱えている現実を浮き彫りにした。",
+        "why_it_matters": "AI開発支援ツールはコード補完の枠を超え、ローカル環境や認証情報に深く触れる。便利さと引き換えに、設定ファイル一つで端末全体が攻撃対象になることを示した事例だ。",
+        "headline": "権限の強いエージェント運用で、隔離と監査をどう組むかを深める"
+      },
+      "selection_reason": "権限の強いエージェント運用で、隔離と監査をどう組むかを深める",
+      "classification_reason": "権限の強いエージェント運用で、隔離と監査をどう組むかを深める",
+      "knowledge_value": "AI開発支援ツールはコード補完の枠を超え、ローカル環境や認証情報に深く触れる。便利さと引き換えに、設定ファイル一つで端末全体が攻撃対象になることを示した事例だ。",
+      "content_status": "content_ok",
+      "content_chars": 7390,
+      "source_access": "free"
+    },
+    {
+      "number": 9,
+      "title": "2026年のAIエージェント業界地図――フレームワーク、プラットフォーム、ツール、インフラ",
+      "source": "The Agent Report",
+      "description": "",
+      "url": "https://the-agent-report.com/2026/05/ai-agent-landscape-2026-frameworks-platforms-tools-infrastructure/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-30",
+      "mode": "deep_dive",
+      "summary": {
+        "article_index": 3,
+        "title_ja": "2026年のAIエージェント業界地図――フレームワーク、プラットフォーム、ツール、インフラ",
+        "key_points": [
+          "2026年半ば時点で、57％の組織がAIエージェントを本番導入しており、実験段階は終わったと位置づけている",
+          "Anthropicの大型調達やSAPの200超の本番導入など、企業・資本の両面で市場再編が進んでいる",
+          "一方で、88％の組織がセキュリティ事故を報告し、標準プロトコルのトークン効率や安全性にも深刻な課題が残る"
+        ],
+        "detailed_summary": "この記事は、2026年のAIエージェント市場をフレームワーク、企業向けプラットフォーム、インフラ標準、価格体系、安全性の観点から俯瞰している。調査では57％の組織がすでに本番運用に到達し、大企業では67％に達した。オープンソース基盤の拡大、Anthropicの巨額調達、SAPの大規模導入が成熟を裏づける一方、セキュリティ事故は88％の組織で発生。普及は進んだが、運用設計、安全対策、標準化の粗さが次の競争軸になっていると整理している。",
+        "why_it_matters": "AIエージェントは一部の先進事例ではなく、産業全体の新しい実装レイヤーになりつつある。ただし普及率の上昇は、そのまま安全性や経済性の解決を意味しない。",
+        "headline": "ハーネス全体をどこで組むか、道具選定の地図として使える"
+      },
+      "selection_reason": "ハーネス全体をどこで組むか、道具選定の地図として使える",
+      "classification_reason": "ハーネス全体をどこで組むか、道具選定の地図として使える",
+      "knowledge_value": "AIエージェントは一部の先進事例ではなく、産業全体の新しい実装レイヤーになりつつある。ただし普及率の上昇は、そのまま安全性や経済性の解決を意味しない。",
+      "content_status": "content_ok",
+      "content_chars": 31401,
+      "source_access": "unknown"
+    },
+    {
+      "number": 10,
+      "title": "AI精神病をめぐる議論をどう理解するか",
+      "source": "TechCrunch",
+      "description": "",
+      "url": "https://techcrunch.com/2026/05/31/making-sense-of-the-debate-over-ai-psychosis/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-31",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 4,
+        "title_ja": "AI精神病をめぐる議論をどう理解するか",
+        "key_points": [
+          "TechCrunchのポッドキャストでは、AIに過剰適応する経営者への懸念と、AI反発の広がりをあわせて論じている",
+          "Googleの検索体験へのAI統合には反発もあり、DuckDuckGoのインストール増加がその一端として紹介された",
+          "AI活用の方向性が曖昧な大手企業に対し、価値提案を絞る企業のほうが支持を得やすいとの見方が示された"
+        ],
+        "detailed_summary": "Box創業者Aaron Levieの、テックCEOはAIに過剰に傾きやすいという投稿をきっかけに、TechCrunchの番組はAIをめぐる熱狂と反発の同時進行を整理した。卒業式でのAIへのブーイング、レイオフへの嫌悪感、Google検索のAI化に対する不満が紹介され、検索で従来型の体験を求める層がなお厚いことも示された。一方で、AI自体の否定ではなく、何を提供するのかを明確にしない企業が反感を買っているという分析が軸になっている。",
+        "why_it_matters": "AIの評価は性能だけで決まらず、導入の仕方やブランドとの整合性で大きく揺れる。利用者の反発は、AI戦略の失敗がそのまま事業機会の移動につながることを示している。",
+        "headline": "人とAIの距離感が崩れる時の判断劣化を考える補助線になる"
+      },
+      "selection_reason": "人とAIの距離感が崩れる時の判断劣化を考える補助線になる",
+      "classification_reason": "人とAIの距離感が崩れる時の判断劣化を考える補助線になる",
+      "knowledge_value": "AIの評価は性能だけで決まらず、導入の仕方やブランドとの整合性で大きく揺れる。利用者の反発は、AI戦略の失敗がそのまま事業機会の移動につながることを示している。",
+      "content_status": "content_ok",
+      "content_chars": 9014,
+      "source_access": "free"
+    },
+    {
+      "number": 11,
+      "title": "「This is fine」の作者KC Green、AIスタートアップArtisanと合意",
+      "source": "TechCrunch",
+      "description": "",
+      "url": "https://techcrunch.com/2026/05/31/this-is-fine-artist-kc-green-reaches-agreement-with-ai-startup-artisan/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-31",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 5,
+        "title_ja": "「This is fine」の作者KC Green、AIスタートアップArtisanと合意",
+        "key_points": [
+          "ArtisanはKC Greenの有名ミームを連想させる広告で、自社AIアシスタントAvaを宣伝していた",
+          "Greenは作品の盗用だと批判し、広告への反発を公に表明していた",
+          "最終的に両者は早期に和解し、Artisanは問題の広告を撤去、Greenも当初の投稿を削除した"
+        ],
+        "detailed_summary": "有名ミーム「This is fine」の作者KC Greenは、AIスタートアップArtisanが自身の絵柄と構図を強く想起させる広告でAI営業支援アシスタントAvaを宣伝したとして批判していた。Greenは作品がAI企業に盗用されたと怒りを示し、法的対応の負担にも不満を漏らしていたが、その後両者は短期間で合意に達した。Artisanはニューヨークとサンフランシスコの広告を撤去し、Greenも初期の批判投稿を取り下げた。AI時代の広告表現と著作権感覚の衝突を象徴する一件だ。",
+        "why_it_matters": "生成AI時代には、露骨なコピーでなくても“連想させる使い方”が強い反発を招く。ブランド訴求でネット文化を借用する企業は、法務だけでなく作家本人との関係まで含めて判断する必要がある。",
+        "headline": "生成AI時代の素材利用と和解条件が、創作実務の先例になりうる"
+      },
+      "selection_reason": "生成AI時代の素材利用と和解条件が、創作実務の先例になりうる",
+      "classification_reason": "生成AI時代の素材利用と和解条件が、創作実務の先例になりうる",
+      "knowledge_value": "生成AI時代には、露骨なコピーでなくても“連想させる使い方”が強い反発を招く。ブランド訴求でネット文化を借用する企業は、法務だけでなく作家本人との関係まで含めて判断する必要がある。",
+      "content_status": "content_ok",
+      "content_chars": 1221,
+      "source_access": "free"
+    },
+    {
+      "number": 12,
+      "title": "この週末の興行収入上位2作品は、どちらもYouTuber出身監督の映画だった",
+      "source": "TechCrunch",
+      "description": "",
+      "url": "https://techcrunch.com/2026/05/31/this-weekends-two-biggest-movies-were-both-directed-by-youtubers/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-31",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 6,
+        "title_ja": "この週末の興行収入上位2作品は、どちらもYouTuber出身監督の映画だった",
+        "key_points": [
+          "全米首位の『Backrooms』はYouTube発のKane Parsons監督作で、A24史上最大のオープニングを記録した",
+          "2位の『Obsession』もYouTuber出身のCurry Barker監督作で、2週目・3週目とも異例の伸びを見せている",
+          "Markiplier監督の『Iron Lung』も含め、YouTube出身クリエイターがホラー映画で商業的成功を広げている"
+        ],
+        "detailed_summary": "週末の北米興行では、YouTube出身監督によるホラー映画が上位を独占した。Kane Parsonsの『Backrooms』は推定8100万ドルで首位に立ち、A24作品として過去最大の初動を記録。Curry Barkerの『Obsession』は3週連続で勢いを増し、通常は大きく落ち込むはずの公開後推移で異例の成長を示した。さらにMarkiplier監督の『Iron Lung』も成功しており、長年ネットで観客を育ててきた映像作家が、劇場作品でも集客力を証明し始めている。",
+        "why_it_matters": "YouTubeは宣伝の場ではなく、映画監督を育てる実戦の訓練場になってきた。従来のスタジオ発掘モデルより先に、観客との信頼を自前で築いた作り手が商業映画を動かし始めている。",
+        "headline": "個人発信から大型興収へ上がる導線が、発信戦略の参考になる"
+      },
+      "selection_reason": "個人発信から大型興収へ上がる導線が、発信戦略の参考になる",
+      "classification_reason": "個人発信から大型興収へ上がる導線が、発信戦略の参考になる",
+      "knowledge_value": "YouTubeは宣伝の場ではなく、映画監督を育てる実戦の訓練場になってきた。従来のスタジオ発掘モデルより先に、観客との信頼を自前で築いた作り手が商業映画を動かし始めている。",
+      "content_status": "content_ok",
+      "content_chars": 3040,
+      "source_access": "free"
+    }
+  ]
+}
