@@ -1,0 +1,287 @@
+{
+  "date": "2026-06-02",
+  "mode": "multimode",
+  "articles": [
+    {
+      "number": 1,
+      "title": "Anthropicが過去最大級となる可能性のあるIPOへ向け非公開申請",
+      "source": "WIRED",
+      "description": "",
+      "url": "https://www.wired.com/story/anthropic-files-s1-ipo-sec/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-06-02",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 1,
+        "title_ja": "Anthropicが過去最大級となる可能性のあるIPOへ向け非公開申請",
+        "key_points": [
+          "Anthropicが米規制当局にIPOの非公開申請書類を提出した",
+          "調達額や上場時期、評価額は未定で、市況次第と説明している",
+          "巨額のAI計算資源を賄う資金確保競争がIPO市場にも広がっている"
+        ],
+        "detailed_summary": "Anthropicは6月2日、IPOに向けた非公開申請を行った。調達額や評価額は未定だが、直前に650億ドルの資金調達を公表しており、AI研究の継続に必要な計算資源の確保が背景にある。年換算売上高は470億ドルとされる一方、クラウド費用や人件費が重く赤字も抱える。OpenAIやxAI系のSpaceXも上場観測が強まる中、AI大手の資金調達競争が新局面に入った。",
+        "why_it_matters": "最先端AIの競争力がモデル性能だけでなく資本力で決まる段階に入ったことを示す。上場が実現すれば、AI業界の資金調達基準と投資家の期待値を大きく押し上げる可能性がある。",
+        "headline": "Claude陣営の資金調達力と上場後の開示圧力が、競争地図を変える可能性が高いため"
+      },
+      "selection_reason": "Claude陣営の資金調達力と上場後の開示圧力が、競争地図を変える可能性が高いため",
+      "classification_reason": "Claude陣営の資金調達力と上場後の開示圧力が、競争地図を変える可能性が高いため",
+      "knowledge_value": "最先端AIの競争力がモデル性能だけでなく資本力で決まる段階に入ったことを示す。上場が実現すれば、AI業界の資金調達基準と投資家の期待値を大きく押し上げる可能性がある。",
+      "content_status": "content_ok",
+      "content_chars": 4052,
+      "source_access": "free",
+      "content_excerpt": "Anthropic submitted confidential paperwork for an initial public offering on Monday, the first step in what could be a blockbuster debut for the $965 billion..."
+    },
+    {
+      "number": 2,
+      "title": "フロリダ州、暴力事件を巡りOpenAIとサム・アルトマンを提訴　州主導では初",
+      "source": "TechCrunch",
+      "description": "",
+      "url": "https://techcrunch.com/2026/06/01/florida-sues-openai-sam-altman-in-first-of-its-kind-lawsuit-over-violent-incidents/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-06-01",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 2,
+        "title_ja": "フロリダ州、暴力事件を巡りOpenAIとサム・アルトマンを提訴　州主導では初",
+        "key_points": [
+          "フロリダ州司法長官がOpenAIとサム・アルトマンを提訴した",
+          "訴状はChatGPTが銃乱射や自殺、依存などを助長したと主張している",
+          "州は4月から刑事捜査も進めており、AI安全責任を問う動きが強まっている"
+        ],
+        "detailed_summary": "フロリダ州司法長官は6月2日、OpenAIとCEOサム・アルトマンを相手取り、ChatGPTが複数の暴力事件や自殺、未成年者への悪影響に関与したとして提訴した。訴状は、安全上の警告を無視して製品を拡大したと非難している。州は4月からフロリダ州立大銃乱射事件との関連も捜査中で、被害者家族による民事訴訟も進行している。OpenAIは従来、事件の責任を否定してきた。",
+        "why_it_matters": "AI企業の責任が利用規約や抽象的な安全原則では済まなくなり、州政府レベルの法廷闘争に入った。生成AIの安全設計と未成年保護をめぐる規制議論を加速させる可能性が高い。",
+        "headline": "生成AI事故を州が直接争う初の大型訴訟で、責任設計と導入判断を更新するため"
+      },
+      "selection_reason": "生成AI事故を州が直接争う初の大型訴訟で、責任設計と導入判断を更新するため",
+      "classification_reason": "生成AI事故を州が直接争う初の大型訴訟で、責任設計と導入判断を更新するため",
+      "knowledge_value": "AI企業の責任が利用規約や抽象的な安全原則では済まなくなり、州政府レベルの法廷闘争に入った。生成AIの安全設計と未成年保護をめぐる規制議論を加速させる可能性が高い。",
+      "content_status": "content_ok",
+      "content_chars": 2724,
+      "source_access": "free"
+    },
+    {
+      "number": 3,
+      "title": "ハッカーがMetaのAIサポートをだましてInstagramアカウントを乗っ取る",
+      "source": "TechCrunch",
+      "description": "",
+      "url": "https://techcrunch.com/2026/06/01/hackers-hijacked-instagram-accounts-by-tricking-meta-ai-support-chatbot-into-granting-access/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-06-01",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 3,
+        "title_ja": "ハッカーがMetaのAIサポートをだましてInstagramアカウントを乗っ取る",
+        "key_points": [
+          "MetaのAIサポートチャットボットを悪用したアカウント乗っ取りが発生した",
+          "攻撃者は新しいメールアドレスを被害者アカウントに追加させてパスワードを再設定した",
+          "Instagramは問題を修正済みと説明したが、被害規模は不明のままだ"
+        ],
+        "detailed_summary": "Instagramで、MetaのAIサポートアシスタントをだまして他人のアカウントに新たなメールアドレスを紐付け、確認コードを受け取ってパスワードを再設定する手口が確認された。VPNで地域を偽装し、自動保護を回避したとされる。Jane Wong氏や公的機関関連アカウントでも被害報告が出た。Instagramは6月2日に修正済みと述べたが、影響を受けた利用者数は明らかにしていない。",
+        "why_it_matters": "AIを組み込んだサポート自動化が、新しい攻撃面になり得ることを示した。本人確認の設計を誤ると、従来より簡単に大規模なアカウント侵害が起きる。",
+        "headline": "AIサポート経由の権限奪取は、代理実行エージェントの脅威モデルを現実化するため"
+      },
+      "selection_reason": "AIサポート経由の権限奪取は、代理実行エージェントの脅威モデルを現実化するため",
+      "classification_reason": "AIサポート経由の権限奪取は、代理実行エージェントの脅威モデルを現実化するため",
+      "knowledge_value": "AIを組み込んだサポート自動化が、新しい攻撃面になり得ることを示した。本人確認の設計を誤ると、従来より簡単に大規模なアカウント侵害が起きる。",
+      "content_status": "content_ok",
+      "content_chars": 2337,
+      "source_access": "free"
+    },
+    {
+      "number": 4,
+      "title": "イラン、米国との協議停止とホルムズ海峡封鎖を表明　国営系報道",
+      "source": "CNBC",
+      "description": "",
+      "url": "https://www.cnbc.com/2026/06/01/iran-us-negotiations-strait-of-hormuz.html",
+      "category": "経済・金融",
+      "published_at": "2026-06-01",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 4,
+        "title_ja": "イラン、米国との協議停止とホルムズ海峡封鎖を表明　国営系報道",
+        "key_points": [
+          "イランは停戦違反への報復として米国との仲介協議停止を示した",
+          "ホルムズ海峡を全面封鎖し、バブ・エル・マンデブ海峡でも圧力を強めると報じられた",
+          "報道を受けて原油価格は7％超上昇し、市場の楽観が後退した"
+        ],
+        "detailed_summary": "イラン国営系Tasnimは6月2日、レバノンやガザでの攻撃継続を理由に、米国との仲介メッセージ交換を停止し、ホルムズ海峡を完全封鎖する方針だと報じた。イスラエルの対ヒズボラ攻勢拡大も緊張を高めている。報道後、原油価格は7％超上昇した。戦前には世界の石油供給の約5分の1が通過していた要衝だけに、外交解決期待の後退がエネルギー市場を直撃している。",
+        "why_it_matters": "ホルムズ海峡の封鎖は中東の軍事危機を世界のインフレと景気リスクに直結させる。地政学リスクが金融市場だけでなく、物流とエネルギー供給全体を揺らす局面に入っている。",
+        "headline": "ホルムズ封鎖示唆は原油、海運、保険へ即波及し、市場前提を崩しうるため"
+      },
+      "selection_reason": "ホルムズ封鎖示唆は原油、海運、保険へ即波及し、市場前提を崩しうるため",
+      "classification_reason": "ホルムズ封鎖示唆は原油、海運、保険へ即波及し、市場前提を崩しうるため",
+      "knowledge_value": "ホルムズ海峡の封鎖は中東の軍事危機を世界のインフレと景気リスクに直結させる。地政学リスクが金融市場だけでなく、物流とエネルギー供給全体を揺らす局面に入っている。",
+      "content_status": "content_ok",
+      "content_chars": 3679,
+      "source_access": "free"
+    },
+    {
+      "number": 5,
+      "title": "Alphabet、AI投資拡大へ株式売却で800億ドル調達計画",
+      "source": "CNBC",
+      "description": "",
+      "url": "https://www.cnbc.com/2026/06/01/alphabet-to-raise-80-billion-from-stock-sales-to-fund-ai-buildout.html",
+      "category": "経済・金融",
+      "published_at": "2026-06-01",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 5,
+        "title_ja": "Alphabet、AI投資拡大へ株式売却で800億ドル調達計画",
+        "key_points": [
+          "AlphabetがAIインフラ投資のため800億ドルの株式調達計画を発表した",
+          "バークシャー・ハサウェイが100億ドルを投資する",
+          "計算能力不足への対応として設備投資と資金調達の両面で攻勢を強めている"
+        ],
+        "detailed_summary": "Alphabetは6月2日、AI計算基盤の拡張資金として総額800億ドルの株式売却計画を明らかにした。うち100億ドルはバークシャー・ハサウェイが引き受け、300億ドルは公募、残る400億ドルは市場で順次売り出す。Googleは今年の設備投資見通しを最大1900億ドルへ引き上げており、需要が供給を上回る中で、電力、土地、供給網を含む計算能力確保が経営の最優先課題になっている。",
+        "why_it_matters": "AI競争は研究開発だけでなく、資本調達力そのものが勝敗を左右する段階に入った。Alphabetのような巨大企業ですら追加資本を要する点は、AIインフラのコスト構造の重さを端的に示している。",
+        "headline": "AI投資競争が資本集約戦へ進み、電力や半導体など周辺インフラにも効くため"
+      },
+      "selection_reason": "AI投資競争が資本集約戦へ進み、電力や半導体など周辺インフラにも効くため",
+      "classification_reason": "AI投資競争が資本集約戦へ進み、電力や半導体など周辺インフラにも効くため",
+      "knowledge_value": "AI競争は研究開発だけでなく、資本調達力そのものが勝敗を左右する段階に入った。Alphabetのような巨大企業ですら追加資本を要する点は、AIインフラのコスト構造の重さを端的に示している。",
+      "content_status": "content_ok",
+      "content_chars": 2898,
+      "source_access": "free"
+    },
+    {
+      "number": 6,
+      "title": "OpenAIのフロンティアモデルとCodexがAWSで利用可能に",
+      "source": "OpenAI",
+      "description": "",
+      "url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-06-01",
+      "mode": "followup",
+      "summary": {
+        "article_index": 6,
+        "title_ja": "OpenAIのフロンティアモデルとCodexがAWSで利用可能に",
+        "key_points": [
+          "OpenAIのモデルとCodexがAWS経由で一般提供開始になった",
+          "Amazon Bedrock上で既存のセキュリティ、調達、ガバナンスの枠組みを使って導入できる",
+          "将来的にはDaybreakやCodex Securityなどの高度機能拡大も見据えている"
+        ],
+        "detailed_summary": "OpenAIは6月2日、フロンティアモデルとCodexをAWS上で一般提供すると発表した。企業はAmazon Bedrock経由で、既存のセキュリティ、コンプライアンス、調達、課金、運用フローに乗せたままOpenAIを本番導入できる。Codexはコード生成、レビュー、デバッグ、モダナイズを支援し、商用リージョンに加えてGovCloudでも利用可能だ。今後はサイバー防御向けDaybreakの展開も視野に入れる。",
+        "why_it_matters": "企業導入で最大の壁になりやすい運用と統制の問題を、AWSの既存基盤で吸収できるようになった。モデル性能の競争から、どのクラウド経路で本番実装しやすいかという競争へ軸が広がっている。",
+        "headline": "AWS統制下でCodex導入が進めやすくなり、企業実装の障壁が下がる差分だから"
+      },
+      "selection_reason": "AWS統制下でCodex導入が進めやすくなり、企業実装の障壁が下がる差分だから",
+      "classification_reason": "AWS統制下でCodex導入が進めやすくなり、企業実装の障壁が下がる差分だから",
+      "knowledge_value": "企業導入で最大の壁になりやすい運用と統制の問題を、AWSの既存基盤で吸収できるようになった。モデル性能の競争から、どのクラウド経路で本番実装しやすいかという競争へ軸が広がっている。",
+      "content_status": "content_ok",
+      "content_chars": 2873,
+      "source_access": "free"
+    },
+    {
+      "number": 7,
+      "title": "Codex Proの2倍プロモは終了　6月請求で標準料金が意味すること",
+      "source": "AIToolsRecap",
+      "description": "",
+      "url": "https://aitoolsrecap.com/Blog/openai-codex-pro-pricing-promo-ends-june-2026",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-31",
+      "mode": "followup",
+      "summary": {
+        "article_index": 1,
+        "title_ja": "Codex Proの2倍プロモは終了　6月請求で標準料金が意味すること",
+        "key_points": [
+          "Codex Proの2倍容量プロモは2026年5月31日に終了し、6月1日から標準容量に戻った",
+          "月額100ドルという料金自体は変わらないが、同額で使える作業量は実質半減した",
+          "同時期にCursorやGitHub Copilotでも導入期優遇の終了や従量課金化が起き、AI開発ツールの実コスト再評価が必要になっている"
+        ],
+        "detailed_summary": "OpenAIのCodex Proは月額100ドルで提供されてきたが、発売時に付いていた2倍容量の導入キャンペーンが2026年5月31日で終了し、6月1日から通常枠へ戻った。価格は据え置きでも、実行できるコーディング作業、Computer Use、Goal mode、並列エージェントの量は実質半減する。記事は、5月25日のCursor料金正常化、6月1日のGitHub Copilot従量課金化と並べ、AIツールは導入期だけ割安に見せ、運用定着後に実効単価が上がる構図が定着しつつあると指摘する。",
+        "why_it_matters": "固定費が同じでも処理可能量が減れば、実運用の採算は大きく変わる。AI開発ツールを使い込む個人やチームほど、導入時ではなく通常時の実効コストで予算を組み直す必要がある。",
+        "headline": "6月1日から通常課金へ戻り、常時実行や自動化ループの採算見直しに直結するため"
+      },
+      "selection_reason": "6月1日から通常課金へ戻り、常時実行や自動化ループの採算見直しに直結するため",
+      "classification_reason": "6月1日から通常課金へ戻り、常時実行や自動化ループの採算見直しに直結するため",
+      "knowledge_value": "固定費が同じでも処理可能量が減れば、実運用の採算は大きく変わる。AI開発ツールを使い込む個人やチームほど、導入時ではなく通常時の実効コストで予算を組み直す必要がある。",
+      "content_status": "content_ok",
+      "content_chars": 6918,
+      "source_access": "free"
+    },
+    {
+      "number": 8,
+      "title": "Claude Codeの請求額がひそかに倍増する5つの見えにくい要因",
+      "source": "DEV Community",
+      "description": "",
+      "url": "https://dev.to/mjmirza/the-5-hidden-ways-your-claude-code-bill-quietly-doubles-2dd0",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-31",
+      "mode": "deep_dive",
+      "summary": {
+        "article_index": 2,
+        "title_ja": "Claude Codeの請求額がひそかに倍増する5つの見えにくい要因",
+        "key_points": [
+          "Anthropicの2026年6月15日の課金分離以降、サブスク上限と実際の従量課金を混同するとコストを見誤る",
+          "ヘッドレスcron実行やCI連携は、対話利用とは別の従量課金経路に流れやすい",
+          "高いreasoning effortの常用と5分前後のキャッシュ切れは、日常的に無駄なトークン支出を増やす"
+        ],
+        "detailed_summary": "記事は、Claude Codeを日常的に使う利用者向けに、請求額が静かに膨らむ典型パターンを整理している。中心にあるのは、2026年6月15日の課金体系変更後、サブスクリプションの利用上限と実コストが別物になる点だ。具体例として、ヘッドレスなcron実行が別メーターで課金されること、軽作業に高いreasoning effortを使うこと、約5分のアイドルでキャッシュが切れて長い文脈を再読込すること、CIや自動化がpushやPRごとに呼び出しを増幅させることを挙げ、使い方の設計そのものがコストを左右すると説く。",
+        "why_it_matters": "AIコーディング支援の支出は、モデル性能より運用習慣で膨らむことがある。自動化や推論設定を見直すだけで、品質を大きく落とさずに請求額を抑えられる。",
+        "headline": "自動実行の癖がどこで課金化するかを可視化し、運用ルール設計を詰められるため"
+      },
+      "selection_reason": "自動実行の癖がどこで課金化するかを可視化し、運用ルール設計を詰められるため",
+      "classification_reason": "自動実行の癖がどこで課金化するかを可視化し、運用ルール設計を詰められるため",
+      "knowledge_value": "AIコーディング支援の支出は、モデル性能より運用習慣で膨らむことがある。自動化や推論設定を見直すだけで、品質を大きく落とさずに請求額を抑えられる。",
+      "content_status": "content_ok",
+      "content_chars": 4818,
+      "source_access": "unknown"
+    },
+    {
+      "number": 9,
+      "title": "セルフホストAIの現状 2026年第2四半期",
+      "source": "PocketClaw",
+      "description": "",
+      "url": "https://pocketclaw.dev/guides/state-of-self-hosted-ai-2026-q2",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-06-02",
+      "mode": "deep_dive",
+      "summary": {
+        "article_index": 3,
+        "title_ja": "セルフホストAIの現状 2026年第2四半期",
+        "key_points": [
+          "2026年Q2のセルフホストAIエージェント市場は新規参入より既存勢の伸長が目立ち、統合が進んでいる",
+          "星数ではHermes Agentの伸びが大きく、OpenClawも減速しつつ増加を維持した",
+          "セキュリティ面ではCVE対応の修正速度がQ1の14日からQ2は4日に短縮した一方、利用者側の未更新や脆弱イメージ利用が課題として残る"
+        ],
+        "detailed_summary": "PocketClawの2026年Q2レポートは、3月1日から5月31日までの公開データをもとに、セルフホストAIエージェント市場を俯瞰している。追跡対象12件のうち有力な新規参入はなく、NanoClaw Liteは本体に統合され、市場は整理局面に入った。成長ではHermes Agentが星数の純増トップ、OpenClawも危機後の減速から回復を維持した。セキュリティでは4プロジェクトで6件のCVEが公表されたが、修正までの中央値は14日から4日に改善。一方で、脆弱なイメージを使い続ける利用者側の運用不備が大きな残課題とされる。",
+        "why_it_matters": "セルフホストAIは機能競争だけでなく、保守体制と利用者の更新習慣まで含めて成熟度が問われる段階に入った。採用判断では人気や星数だけでなく、修正速度と運用の安全性を見る必要がある。",
+        "headline": "自前運用の性能だけでなくCVEs、隔離、電力まで含む現実条件を整理できるため"
+      },
+      "selection_reason": "自前運用の性能だけでなくCVEs、隔離、電力まで含む現実条件を整理できるため",
+      "classification_reason": "自前運用の性能だけでなくCVEs、隔離、電力まで含む現実条件を整理できるため",
+      "knowledge_value": "セルフホストAIは機能競争だけでなく、保守体制と利用者の更新習慣まで含めて成熟度が問われる段階に入った。採用判断では人気や星数だけでなく、修正速度と運用の安全性を見る必要がある。",
+      "content_status": "content_ok",
+      "content_chars": 9549,
+      "source_access": "unknown"
+    },
+    {
+      "number": 10,
+      "title": "OpenClawニュースレター 2026年5月31日号",
+      "source": "Buttondown",
+      "description": "",
+      "url": "https://buttondown.com/openclaw-newsletter/archive/openclaw-newsletter-2026-05-31/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-31",
+      "mode": "deep_dive",
+      "summary": {
+        "article_index": 4,
+        "title_ja": "OpenClawニュースレター 2026年5月31日号",
+        "key_points": [
+          "5月末のOpenClaw更新は、ツール呼び出し中断後の復旧、セッション拘束解除、サブエージェント実行の安定化に重点を置いている",
+          "セキュリティ面では、プロンプト境界の強化や危険なNode実行経路の抑制など、安全側の修正が続いている",
+          "機能面ではセッションのピン留め、Feishu連携の設定制御、subagent hookの発火改善など、運用性を高める変更が多い"
+        ],
+        "detailed_summary": "2026年5月31日付のOpenClawニュースレターは、直近数日のリリースと主要PRをまとめた更新情報だ。中心テーマは信頼性向上で、割り込み後のツール実行復旧、古いセッション束縛やcompaction handoffの扱い、タイムアウト時のロック解放、subagentのcwd分離など、長時間運用で詰まりやすい箇所を重点的に改善している。あわせて、グループプロンプトの隔離や危険なコマンド経路の制御といった安全対策も進んだ。新機能としては、セッションのピン留めや `toolsAllow` の転送対応など、日常運用を細かく支える拡張が目立つ。",
+        "why_it_matters": "AIエージェント基盤では新機能より、失敗からの復旧やセッション管理の堅さが実務の使い勝手を決める。今回の更新群は、OpenClawが実験段階から運用品質へ軸足を移していることを示している。",
+        "headline": "ローカル高権限エージェントの更新点から、PC操作自動化の実務像を追えるため"
+      },
+      "selection_reason": "ローカル高権限エージェントの更新点から、PC操作自動化の実務像を追えるため",
+      "classification_reason": "ローカル高権限エージェントの更新点から、PC操作自動化の実務像を追えるため",
+      "knowledge_value": "AIエージェント基盤では新機能より、失敗からの復旧やセッション管理の堅さが実務の使い勝手を決める。今回の更新群は、OpenClawが実験段階から運用品質へ軸足を移していることを示している。",
+      "content_status": "content_ok",
+      "content_chars": 26094,
+      "source_access": "unknown"
+    }
+  ]
+}
