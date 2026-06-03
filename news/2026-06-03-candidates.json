@@ -1,0 +1,344 @@
+{
+  "date": "2026-06-03",
+  "mode": "multimode",
+  "articles": [
+    {
+      "number": 1,
+      "title": "OpenAI、ホワイトカラー業務向けの新しいCodexツールを公開",
+      "source": "TechCrunch",
+      "description": "",
+      "url": "https://techcrunch.com/2026/06/02/openai-launches-new-codex-tools-for-white-collar-work/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-06-02",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 1,
+        "title_ja": "OpenAI、ホワイトカラー業務向けの新しいCodexツールを公開",
+        "key_points": [
+          "Codexの週間アクティブユーザーは500万人超で、知識労働者が約20%を占めるまで拡大",
+          "データ分析、営業、商品設計、投資銀行など職種別の6つのプラグインを追加",
+          "成果物を公開サイト化するSites機能と、文書内の特定箇所を指定できるAnnotations機能も導入"
+        ],
+        "detailed_summary": "OpenAIは企業利用を本格的に広げるため、Codexにホワイトカラー業務向けの新機能を投入した。社内レポートでは、開発者が依然最大層ながら、知識労働者の利用が急増していることが示された。新たに追加された6種類の職種別プラグインは、連携先や指示、文脈をまとめて提供し、導入直後から実務で使える設計になっている。加えて、成果物をインタラクティブなサイトとして公開できるSitesや、文書の一部を指定して操作精度を高めるAnnotationsも実装。OpenAIはWixやFigmaなどと提携し、企業の既存業務フローにCodexを深く組み込む構えだ。",
+        "why_it_matters": "生成AIの競争軸が、単なるチャット機能から職種別の業務実装へ移っていることを示す動きだ。OpenAIが消費者向け中心から企業導入へ重心を移し始めた点も大きい。",
+        "headline": "Codexが実装支援から事務職ワークフローへ広がる転換点だから"
+      },
+      "selection_reason": "Codexが実装支援から事務職ワークフローへ広がる転換点だから",
+      "classification_reason": "Codexが実装支援から事務職ワークフローへ広がる転換点だから",
+      "knowledge_value": "生成AIの競争軸が、単なるチャット機能から職種別の業務実装へ移っていることを示す動きだ。OpenAIが消費者向け中心から企業導入へ重心を移し始めた点も大きい。",
+      "content_status": "content_ok",
+      "content_chars": 2658,
+      "source_access": "free"
+    },
+    {
+      "number": 2,
+      "title": "Microsoft、OpenClaw風の個人アシスタント「Scout」を発表",
+      "source": "TechCrunch",
+      "description": "",
+      "url": "https://techcrunch.com/2026/06/02/microsoft-launches-scout-an-openclaw-inspired-personal-assistant/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-06-02",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 2,
+        "title_ja": "Microsoft、OpenClaw風の個人アシスタント「Scout」を発表",
+        "key_points": [
+          "ScoutはOpenClawを基盤にした常時稼働型のAIアシスタントで、ユーザーごとの記憶や作業スタイルを蓄積する",
+          "Microsoft 365環境で受信箱、カレンダー、ブラウザ、デスクトップを横断して動作する",
+          "ポリシー適合性システムと監査証跡を備え、暴走する自律エージェントへの懸念に対応する"
+        ],
+        "detailed_summary": "Microsoftは、OpenClawの柔軟さをMicrosoft 365に持ち込む個人向けAIアシスタントScoutを発表した。Scoutはクラウドを中核に据えつつ、デスクトップやブラウザにもまたがって動き、メールや予定表などと連携する。各ユーザーは自分のScoutに名前を付け、継続的なフィードバックを与えながら、固有の作業習慣や判断基準を記憶させていく仕組みだ。標準スキルとして会議アジェンダ作成や日程管理も備えるが、Microsoftは真の価値を利用者自身のカスタムスキル蓄積に置く。実験提供はFrontierプログラム経由で、利用にはGitHub Copilot契約が必要になる。",
+        "why_it_matters": "AIアシスタントが単発の支援から、利用者に合わせて育つ常駐型エージェントへ進化しつつある。Microsoftが職場の基盤ソフトにその形を組み込めば、企業内の定着力はかなり強くなる。",
+        "headline": "常時稼働の個人秘書AIが大手標準機能になる兆候が強いから"
+      },
+      "selection_reason": "常時稼働の個人秘書AIが大手標準機能になる兆候が強いから",
+      "classification_reason": "常時稼働の個人秘書AIが大手標準機能になる兆候が強いから",
+      "knowledge_value": "AIアシスタントが単発の支援から、利用者に合わせて育つ常駐型エージェントへ進化しつつある。Microsoftが職場の基盤ソフトにその形を組み込めば、企業内の定着力はかなり強くなる。",
+      "content_status": "content_ok",
+      "content_chars": 2617,
+      "source_access": "free"
+    },
+    {
+      "number": 3,
+      "title": "トランプ大統領、公開前のAIモデル審査を見直す大統領令に署名",
+      "source": "The Verge",
+      "description": "President Donald Trump signed an executive order Tuesday creating a \"voluntary framework\" for AI companies to share their frontier models with the federal government before they're released \"to promote secure innovation and strengthen the cybersecurity of critical infrastructure.\" The order says the US AI industry has succeeded in part \"because we refuse to stifle this […]",
+      "url": "https://www.theverge.com/policy/941775/trump-ai-executive-order",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-06-02",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 3,
+        "title_ja": "トランプ大統領、公開前のAIモデル審査を見直す大統領令に署名",
+        "key_points": [
+          "AI企業が最先端モデルを公開前に政府と共有できる任意の枠組みを整備",
+          "企業は最大30日前までの共有を求められるが、義務ではなく機密保護の措置も用意される",
+          "重要インフラ向けのサイバー防御強化と、AIモデルの高度なサイバー能力評価を各省庁に指示"
+        ],
+        "detailed_summary": "トランプ大統領は、最先端AIモデルの公開前審査に向けた任意の枠組みを整える大統領令に署名した。米国は過度な規制で革新を妨げないという立場を維持しつつも、AIの高度化が安全保障や重要インフラに新たなリスクを生むと認めた形だ。企業は公開前に政府へモデル情報を共有するかどうかを自ら判断でき、共有した場合は一定の守秘保護を受けられる。以前に検討されていた案より共有期間は短くなり、義務的な許認可制度ではないと明記された。一方で、GoogleやMicrosoft、xAIなどの事前審査参加も進み、政権の姿勢に監督色が戻り始めている。",
+        "why_it_matters": "米政権がAI規制を全面的に避ける段階から、限定的な事前監督へ踏み出したことを示す。今後の米国標準が、企業のモデル公開プロセスそのものを変える可能性がある。",
+        "headline": "公開前審査の枠組みが導入され、配布速度と規制前提が変わるから"
+      },
+      "selection_reason": "公開前審査の枠組みが導入され、配布速度と規制前提が変わるから",
+      "classification_reason": "公開前審査の枠組みが導入され、配布速度と規制前提が変わるから",
+      "knowledge_value": "米政権がAI規制を全面的に避ける段階から、限定的な事前監督へ踏み出したことを示す。今後の米国標準が、企業のモデル公開プロセスそのものを変える可能性がある。",
+      "content_status": "content_ok",
+      "content_chars": 3709,
+      "source_access": "free"
+    },
+    {
+      "number": 4,
+      "title": "Microsoft、AIエージェントの挙動を細かく制御する新標準を開発者向けに提供",
+      "source": "TechCrunch",
+      "description": "",
+      "url": "https://techcrunch.com/2026/06/02/microsoft-offers-devs-a-better-way-to-control-ai-agent-behavior/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-06-02",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 4,
+        "title_ja": "Microsoft、AIエージェントの挙動を細かく制御する新標準を開発者向けに提供",
+        "key_points": [
+          "新しいオープンソース標準ACSで、AIエージェントの許可・禁止・人間承認・記録要件を定義できる",
+          "入力前、ツール呼び出し前後、最終応答前など複数の介入ポイントでポリシーを適用する",
+          "LangChain、OpenAI Agents SDK、Anthropic Agents SDK、AutoGenなど幅広い基盤に対応する"
+        ],
+        "detailed_summary": "Microsoftは、企業がAIエージェントの行動を一貫して統制できるようにする新しいオープンソース仕様Agent Control Specificationを公開した。開発者やセキュリティ、法務チームは、エージェントが何をしてよいか、何を禁止するか、どの場面で人の承認を要するかを単一のポリシーファイルで記述できる。これらのルールは、入力受領前、ツール実行前後、最終応答前といった複数の地点で評価され、必要に応じて遮断、マスキング、承認要求、監査ログ記録を行う。断片化しがちな制御ロジックを共通のガバナンス層に載せる狙いがある。",
+        "why_it_matters": "AIエージェントの導入は、性能より統制の難しさが先に壁になる。標準化された制御仕様が広まれば、企業は複数のフレームワークをまたいでも同じ安全基準を持ち込める。",
+        "headline": "エージェント運用が性能競争から制御設計競争へ移る差分が大きいから"
+      },
+      "selection_reason": "エージェント運用が性能競争から制御設計競争へ移る差分が大きいから",
+      "classification_reason": "エージェント運用が性能競争から制御設計競争へ移る差分が大きいから",
+      "knowledge_value": "AIエージェントの導入は、性能より統制の難しさが先に壁になる。標準化された制御仕様が広まれば、企業は複数のフレームワークをまたいでも同じ安全基準を持ち込める。",
+      "content_status": "content_ok",
+      "content_chars": 2583,
+      "source_access": "free"
+    },
+    {
+      "number": 5,
+      "title": "Uber、4カ月でAI予算を使い切り従業員向けAI利用額に上限を設定",
+      "source": "TechCrunch",
+      "description": "",
+      "url": "https://techcrunch.com/2026/06/02/uber-caps-employee-ai-spending-after-blowing-through-budget-in-four-months/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-06-02",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 5,
+        "title_ja": "Uber、4カ月でAI予算を使い切り従業員向けAI利用額に上限を設定",
+        "key_points": [
+          "Uberは従業員1人あたり、各エージェント型コーディングツールに月1500ドルの上限を設定した",
+          "年次AI予算を4カ月で使い切った背景には、社内での積極利用奨励と利用ランキング施策があった",
+          "経営陣はAI利用と新機能創出の因果関係を測る難しさにも言及している"
+        ],
+        "detailed_summary": "Uberは社内のAI利用コスト膨張を受け、Claude CodeやCursorなどのエージェント型コーディングツールに対して、従業員1人・ツール1件ごとに月1500ドルの利用上限を設けた。例外的に超過利用は可能だが、許可が必要になる。背景には、AIをできるだけ使うよう社内で強く促し、利用量をランキング表示するほど推進した結果、年間予算をわずか4カ月で使い切った事情がある。COOも、AI利用がどこまで新しい消費者向け機能や生産性向上につながっているかは見極めにくいと認めており、投資対効果の不透明さが表面化している。",
+        "why_it_matters": "企業のAI導入は、使うほど価値が出る段階ではなく、まず請求額が膨らむ局面に入っている。ROIが曖昧なまま利用だけが拡大すると、先行企業でも急ブレーキがかかる。",
+        "headline": "導入拡大の次に来る予算統制局面を実例で追える材料だから"
+      },
+      "selection_reason": "導入拡大の次に来る予算統制局面を実例で追える材料だから",
+      "classification_reason": "導入拡大の次に来る予算統制局面を実例で追える材料だから",
+      "knowledge_value": "企業のAI導入は、使うほど価値が出る段階ではなく、まず請求額が膨らむ局面に入っている。ROIが曖昧なまま利用だけが拡大すると、先行企業でも急ブレーキがかかる。",
+      "content_status": "content_ok",
+      "content_chars": 1528,
+      "source_access": "free"
+    },
+    {
+      "number": 6,
+      "title": "Cyera、赤字運営でもARRの80倍に当たる120億ドル評価を目指す",
+      "source": "TechCrunch",
+      "description": "",
+      "url": "https://techcrunch.com/2026/06/02/cyera-eyes-12b-valuation-at-80x-arr-multiple-despite-operating-losses/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-06-02",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 6,
+        "title_ja": "Cyera、赤字運営でもARRの80倍に当たる120億ドル評価を目指す",
+        "key_points": [
+          "Cyeraは少なくとも3億ドルを調達し、企業価値120億ドルでのラウンドを最終調整している",
+          "ARRは1億5000万ドル超とされる一方、なお赤字で採用や事業拡大に資金を投下している",
+          "5カ月前の90億ドル評価からさらに上積みされ、総調達額は20億ドル超に達する見通し"
+        ],
+        "detailed_summary": "データ保護企業Cyeraは、Evolution Equity Partners主導で少なくとも3億ドルを調達し、企業価値120億ドルでの資金調達をまとめつつあると報じられた。関係者によればARRは1億5000万ドルを超えるが、依然として利益は出ておらず、営業人員の拡大や買収に積極投資しているという。評価額はARRの約80倍に達し、多くの高成長AI企業を上回る強気水準だ。会社側は報道された数字の正確性に反論しているが、わずか5カ月前の90億ドル評価から一段高いラウンドとなる見込みで、AI時代のデータ防御需要が資本市場で強く織り込まれている。",
+        "why_it_matters": "サイバーセキュリティ企業でも、AI需要に乗ればAIスタートアップ並み、あるいはそれ以上のマルチプルが付くことを示している。成長期待が大きい一方で、赤字を抱えたままの資金調達競争が過熱している点も見逃せない。",
+        "headline": "データ権限と監査需要が高倍率評価へ直結する流れを追えるから"
+      },
+      "selection_reason": "データ権限と監査需要が高倍率評価へ直結する流れを追えるから",
+      "classification_reason": "データ権限と監査需要が高倍率評価へ直結する流れを追えるから",
+      "knowledge_value": "サイバーセキュリティ企業でも、AI需要に乗ればAIスタートアップ並み、あるいはそれ以上のマルチプルが付くことを示している。成長期待が大きい一方で、赤字を抱えたままの資金調達競争が過熱している点も見逃せない。",
+      "content_status": "content_ok",
+      "content_chars": 1862,
+      "source_access": "free"
+    },
+    {
+      "number": 7,
+      "title": "2026年の株式市場にはドットコム・ブームに欠けていた重要要因がある",
+      "source": "Yahoo Finance",
+      "description": "",
+      "url": "https://finance.yahoo.com/markets/article/the-2026-stock-market-has-a-key-factor-the-dot-com-boom-lacked-121423029.html",
+      "category": "経済・金融",
+      "published_at": "2026-06-01",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 1,
+        "title_ja": "2026年の株式市場にはドットコム・ブームに欠けていた重要要因がある",
+        "key_points": [
+          "Goldman Sachsは、2026年の米株市場は過熱していてもドットコム期のような低質IPOの乱発は起きていないと分析した。",
+          "2026年の年初来IPOは40件・280億ドルで、件数は歴史的平均並みだが、年間IPO額予想は2250億ドルへ上方修正された。",
+          "SpaceXのように売上成長を伴う有力企業が上場候補にあり、株式発行全体も時価総額比1.0%と過去平均を下回る。"
+        ],
+        "detailed_summary": "MicronやSnowflakeなどの急騰でバブル懸念が強まる2026年の米株市場について、Goldman Sachsはドットコム期との決定的な違いはIPOの質だと指摘する。年初来IPOは40件、総額280億ドルで件数は歴史的平均並み。年間見通しは2250億ドルへ引き上げたが、増資全体でも米株時価総額の1.0%にとどまる。SpaceXのように売上成長を伴う候補も多く、市場評価が将来利益とかけ離れていない可能性もあるため、90年代末と単純比較するのは早いという内容だ。",
+        "why_it_matters": "AI相場をすぐにドットコム・バブルと断定する見方に、質と供給面から反論材料を与える。投資家にとっては、過熱感だけでなく上場企業の中身を見極める視点が重要になる。",
+        "headline": "AI相場を単なるバブルで片づけず、利益裏付けの差分を見られるから"
+      },
+      "selection_reason": "AI相場を単なるバブルで片づけず、利益裏付けの差分を見られるから",
+      "classification_reason": "AI相場を単なるバブルで片づけず、利益裏付けの差分を見られるから",
+      "knowledge_value": "AI相場をすぐにドットコム・バブルと断定する見方に、質と供給面から反論材料を与える。投資家にとっては、過熱感だけでなく上場企業の中身を見極める視点が重要になる。",
+      "content_status": "content_ok",
+      "content_chars": 2532,
+      "source_access": "free"
+    },
+    {
+      "number": 8,
+      "title": "元Andurilエンジニア、複合材部品のAmazonを目指し4200万ドル調達",
+      "source": "TechCrunch",
+      "description": "",
+      "url": "https://techcrunch.com/2026/06/02/ex-anduril-engineer-raises-42m-to-build-the-amazon-of-composite-parts/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-06-02",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 2,
+        "title_ja": "元Andurilエンジニア、複合材部品のAmazonを目指し4200万ドル調達",
+        "key_points": [
+          "Layup Partsは、炭素繊維やガラス繊維のカスタム部品を簡単に発注できる製造プラットフォームを目指している。",
+          "同社はSeries Aで4200万ドルを調達し、採用拡大とより大きな施設への移転に充てる計画だ。",
+          "創業者ザック・イーキンは、複合材分野だけが人手依存と業界再編でデジタル化から取り残されていると見ている。"
+        ],
+        "detailed_summary": "元Andurilのエンジニア、ザック・イーキンが創業したLayup Partsは、炭素繊維やガラス繊維のカスタム部品をAmazon並みに簡単に発注できる仕組みを目指し、Series Aで4200万ドルを調達した。従業員約60人の同社は、シード資金を主に設備投資へ投じた一方、今回は採用拡大と拠点拡張に使う方針。金属加工ではSendCutSendやProtolabsが試作を高速化したのに対し、複合材分野は人手依存と業界再編で革新が遅れており、その非効率をソフトウェアと製造基盤で埋めにいく。",
+        "why_it_matters": "防衛、航空、自動車で重要な複合材製造のデジタル化が進めば、試作から量産までの速度とコスト構造が変わる。ハードテック投資が、単なる製品ではなく産業インフラの再設計へ向かっていることも示している。",
+        "headline": "防衛由来の供給網最適化が産業基盤化する筋道を考えられるから"
+      },
+      "selection_reason": "防衛由来の供給網最適化が産業基盤化する筋道を考えられるから",
+      "classification_reason": "防衛由来の供給網最適化が産業基盤化する筋道を考えられるから",
+      "knowledge_value": "防衛、航空、自動車で重要な複合材製造のデジタル化が進めば、試作から量産までの速度とコスト構造が変わる。ハードテック投資が、単なる製品ではなく産業インフラの再設計へ向かっていることも示している。",
+      "content_status": "content_ok",
+      "content_chars": 5103,
+      "source_access": "free"
+    },
+    {
+      "number": 9,
+      "title": "スタートアップEverand、電子書籍・オーディオブック・読書クラブを束ねAmazonに挑む",
+      "source": "TechCrunch",
+      "description": "",
+      "url": "https://techcrunch.com/2026/06/02/a-startup-everand-is-now-bundling-ebooks-audiobooks-and-book-clubs-in-challenge-to-amazon/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-06-02",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 3,
+        "title_ja": "スタートアップEverand、電子書籍・オーディオブック・読書クラブを束ねAmazonに挑む",
+        "key_points": [
+          "Everandは150万冊超の電子書籍・オーディオブックと、Fableの約20万の読書クラブを1つのサブスクに統合した。",
+          "読書や再生の進捗は2アプリ間で同期され、Fable Plusの統計や目標機能も利用できる。",
+          "複数フォーマットとコミュニティ機能を束ねることで、Audible、Kindle、Goodreadsを持つAmazonに対抗する。"
+        ],
+        "detailed_summary": "読書サブスクEverandは、150万冊超の電子書籍とオーディオブック、さらに2025年買収のFableが持つ約20万のオンライン読書クラブを単一プランに統合した。2アプリ間で読書や再生の進捗が同期され、レビュー、統計、コミュニティ参加まで一続きで使える。料金は月11.99ドルで1冊から。複数フォーマットと交流機能を束ね、Audible、Kindle、Goodreadsを抱えるAmazonに対し、読書体験そのものの囲い込みで切り込む戦略だ。",
+        "why_it_matters": "デジタル読書市場の競争軸が、単なる蔵書数や価格からコミュニティと継続体験へ移っている。読書サービスでも、複数機能の束ね売りが大手に対抗する有力な手段になりつつある。",
+        "headline": "単品販売から継続課金とコミュニティへ再設計する示唆があるから"
+      },
+      "selection_reason": "単品販売から継続課金とコミュニティへ再設計する示唆があるから",
+      "classification_reason": "単品販売から継続課金とコミュニティへ再設計する示唆があるから",
+      "knowledge_value": "デジタル読書市場の競争軸が、単なる蔵書数や価格からコミュニティと継続体験へ移っている。読書サービスでも、複数機能の束ね売りが大手に対抗する有力な手段になりつつある。",
+      "content_status": "content_ok",
+      "content_chars": 3952,
+      "source_access": "free"
+    },
+    {
+      "number": 10,
+      "title": "サイバーデッキが今注目を集める理由　大手テック監視への対抗をスタイルと実用で示す",
+      "source": "TechCrunch",
+      "description": "",
+      "url": "https://techcrunch.com/2026/06/02/cyberdeck-tiktok-trend-reject-big-tech/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-06-02",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 4,
+        "title_ja": "サイバーデッキが今注目を集める理由　大手テック監視への対抗をスタイルと実用で示す",
+        "key_points": [
+          "サイバーデッキはRaspberry Piなどを使ったDIY小型PCで、最近は女性クリエイター主導で人気が拡大している。",
+          "貝殻型、ドールハウス型、木や苔を使った作品など、装飾性の高い自作端末がSNSで拡散している。",
+          "背景には見た目の楽しさだけでなく、監視的で閉じた既製デバイスへの反発と、自分の道具を自分で作る自律性への欲求がある。"
+        ],
+        "detailed_summary": "DIY小型PCのサイバーデッキが、監視的で画一的な大手テック製品への反発を背景に再注目されている。Raspberry Pi世代から続く文化に、最近は女性クリエイターが貝殻型、ドールハウス型、木や苔を使った作品など強い美意識を持ち込み、制作過程をSNSで共有。見た目の遊びだけでなく、ローカルAIや自前サーバーにつなぎ、閉じた既製品では得にくい自律性を取り戻す道具として支持が広がっている。",
+        "why_it_matters": "これは単なるガジェット趣味ではなく、テクノロジーを受け身で消費せず作り替える動きの拡大を示す。AI時代の個人端末が、便利さだけでなく所有感と統制権でも選ばれ始めている。",
+        "headline": "高権限AIを自前端末へ閉じ込める美学と実務が交差しているから"
+      },
+      "selection_reason": "高権限AIを自前端末へ閉じ込める美学と実務が交差しているから",
+      "classification_reason": "高権限AIを自前端末へ閉じ込める美学と実務が交差しているから",
+      "knowledge_value": "これは単なるガジェット趣味ではなく、テクノロジーを受け身で消費せず作り替える動きの拡大を示す。AI時代の個人端末が、便利さだけでなく所有感と統制権でも選ばれ始めている。",
+      "content_status": "content_ok",
+      "content_chars": 6355,
+      "source_access": "free"
+    },
+    {
+      "number": 11,
+      "title": "OpenAI資金を得たOpal、AI搭載オーディオ端末を開発中",
+      "source": "WIRED",
+      "description": "",
+      "url": "https://www.wired.com/story/opal-electronics-openai-investment-ai-powered-audio-gadget/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-06-03",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 5,
+        "title_ja": "OpenAI資金を得たOpal、AI搭載オーディオ端末を開発中",
+        "key_points": [
+          "Webカメラ企業Opal CameraはOpal Electronicsへ改称し、AIを含む幅広い家電ブランドへの拡張を進めている。",
+          "OpenAIが主導した4000万ドルのSeries Bにより、同社の企業価値は約2億7500万ドルとなった。",
+          "数年開発してきたAI音声デバイスを今後3〜4カ月で投入予定で、複数のAIモデルを切り替えられる構想もある。"
+        ],
+        "detailed_summary": "高級感のあるWebカメラで知られるOpal CameraはOpal Electronicsへ改称し、AI対応を含む幅広い消費者向け機器ブランドへの転換を進めている。その原資となったのがOpenAIによる4000万ドルのSeries Bで、企業価値は約2億7500万ドル。Sam Altmanが初期顧客だった縁から関係が深まり、数年開発してきたAI音声デバイスは今後3〜4カ月で投入予定。特定のAIラボと組みつつ、OpenAIやAnthropic、xAIなど複数モデルの切り替えも視野に入れる。",
+        "why_it_matters": "AIの競争がソフトウェアだけでなく、日常に入り込む専用ハードへ広がっていることを示す動きだ。利用者にとっては、どのモデルを使うかが端末選びの条件になる時代が近づいている。",
+        "headline": "音声入力を常時化する専用端末が秘書AIの接点設計に効くから"
+      },
+      "selection_reason": "音声入力を常時化する専用端末が秘書AIの接点設計に効くから",
+      "classification_reason": "音声入力を常時化する専用端末が秘書AIの接点設計に効くから",
+      "knowledge_value": "AIの競争がソフトウェアだけでなく、日常に入り込む専用ハードへ広がっていることを示す動きだ。利用者にとっては、どのモデルを使うかが端末選びの条件になる時代が近づいている。",
+      "content_status": "content_ok",
+      "content_chars": 4228,
+      "source_access": "free",
+      "content_excerpt": "A small San Francisco startup known for making well-appointed, beautifully designed webcams is now vying to become the AI hardware company of the moment. Opal..."
+    },
+    {
+      "number": 12,
+      "title": "暴走AIを描くバズ番組が劇場へ　ハリウッドの試金石に",
+      "source": "WIRED",
+      "description": "",
+      "url": "https://www.wired.com/story/amazing-digital-circus-shake-up-the-box-office/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-06-03",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 6,
+        "title_ja": "暴走AIを描くバズ番組が劇場へ　ハリウッドの試金石に",
+        "key_points": [
+          "The Amazing Digital Circusの最終話はYouTubeではなく劇場で公開され、ファンの期待とネタバレ警戒が高まっている。",
+          "同シリーズは2023年の開始以来、AI支配の仮想世界を舞台にした物語で累計13億回超の再生を集めた。",
+          "前売りは初週末だけで500万ドルを売り上げ、米国内の上映館数は900館想定から2000館超へ急拡大した。"
+        ],
+        "detailed_summary": "YouTube発の人気アニメThe Amazing Digital Circusは、最終話を無料配信ではなく劇場公開する大胆な一手に出た。2023年開始のシリーズは、AI支配の仮想世界に閉じ込められた人々の孤独と友情を描き、累計13億回超の再生を記録。4月10日の前売り開始後は初週末だけで500万ドルを売り上げ、米国内の上映館は当初想定の900館から2000館超へ拡大した。ネット発IPが若いファンを現実の映画館へ動員できるかを試す、ハリウッドにとっても重要な実験になっている。",
+        "why_it_matters": "配信発コンテンツでも、熱量の高いファンダムがあれば劇場興行へ転換できる可能性を示している。映画館の集客モデルや、ハリウッドのIP発掘の仕方を変えるかもしれない。",
+        "headline": "ネット発IPの劇場進出が創作と流通の新しい勝ち筋を示すから"
+      },
+      "selection_reason": "ネット発IPの劇場進出が創作と流通の新しい勝ち筋を示すから",
+      "classification_reason": "ネット発IPの劇場進出が創作と流通の新しい勝ち筋を示すから",
+      "knowledge_value": "配信発コンテンツでも、熱量の高いファンダムがあれば劇場興行へ転換できる可能性を示している。映画館の集客モデルや、ハリウッドのIP発掘の仕方を変えるかもしれない。",
+      "content_status": "content_ok",
+      "content_chars": 8236,
+      "source_access": "unknown",
+      "content_excerpt": "The fandom of The Amazing Digital Circus has had a rough few weeks on the internet. Ever since Glitch Productions, the independent animation studio behind..."
+    }
+  ]
+}
