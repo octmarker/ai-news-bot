@@ -1,0 +1,512 @@
+{
+  "date": "2026-06-04",
+  "mode": "multimode",
+  "articles": [
+    {
+      "number": 1,
+      "title": "出版社は新たな規制によりAI検索からの除外を選べるようになる",
+      "source": "TechCrunch",
+      "description": "",
+      "url": "https://techcrunch.com/2026/06/03/publishers-will-be-able-to-opt-out-of-ai-search-thanks-to-new-regulation/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-06-03",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 1,
+        "title_ja": "出版社は新たな規制によりAI検索からの除外を選べるようになる",
+        "key_points": [
+          "英国の規制当局CMAの要請を受け、Googleが出版社向けにAI検索機能からのオプトアウト手段を導入する",
+          "Search Consoleの新しい設定で除外すると、AI OverviewsやAI Modeなど生成AI検索機能に自社サイトが表示されなくなる",
+          "Googleは出典リンクの明確化や表示指標の提供も進め、まず英国で試験後に世界展開する方針"
+        ],
+        "detailed_summary": "英国でGoogleの検索支配力を念頭に置いた規制が具体化し、出版社は自社コンテンツを生成AI検索に使わせない選択肢を得る。新機能はSearch Console経由で設定でき、除外しても通常検索の順位には影響しないとGoogleは説明する。CMAはこれを世界初の措置と位置づけ、ニュース企業を含む出版社がGoogleとの利用交渉で立場を強める材料になるとみている。あわせてAI回答内の明確な出典表示も求められる。",
+        "why_it_matters": "検索大手によるAI要約利用に対し、出版社側が配信可否を選べる前例が生まれた。生成AI時代の著作権、交渉力、トラフィック配分のルール形成に直結する。",
+        "headline": "AI検索の取得権限に法的な停止線が引かれ、収集設計と配信戦略をすぐ見直す材料になる"
+      },
+      "selection_reason": "AI検索の取得権限に法的な停止線が引かれ、収集設計と配信戦略をすぐ見直す材料になる",
+      "classification_reason": "AI検索の取得権限に法的な停止線が引かれ、収集設計と配信戦略をすぐ見直す材料になる",
+      "knowledge_value": "検索大手によるAI要約利用に対し、出版社側が配信可否を選べる前例が生まれた。生成AI時代の著作権、交渉力、トラフィック配分のルール形成に直結する。",
+      "content_status": "content_ok",
+      "content_chars": 2387,
+      "source_access": "free"
+    },
+    {
+      "number": 2,
+      "title": "トランプ氏はいかにして最終的にAI大統領令に署名したのか",
+      "source": "WIRED",
+      "description": "",
+      "url": "https://www.wired.com/story/this-is-how-trump-finally-signed-the-ai-executive-order/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-06-04",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 2,
+        "title_ja": "トランプ氏はいかにして最終的にAI大統領令に署名したのか",
+        "key_points": [
+          "トランプ大統領は一度棚上げしたAI大統領令を縮小版として再承認し、企業の先端モデルを公開30日前に政府が確認できる枠組みを設けた",
+          "当初案の90日前提出は業界負担が大きいとして反発を受け、30日に短縮された",
+          "法的拘束力の強い規制ではなく、強力なモデルを特定し政府が脆弱性を点検する自主的プロセスとして設計されている"
+        ],
+        "detailed_summary": "トランプ政権は、いったん撤回したAI大統領令を短縮版で復活させた。最大の修正点は、最先端AIモデルを政府が事前確認できる期間を90日から30日に縮めたことだ。背景には、重要インフラへのサイバー攻撃に悪用されうる高性能モデルへの警戒と、産業界の負担を抑えたい思惑がある。命令は正式な規制ではなく、自主的な情報提供を通じて公開前に脆弱性を洗い出す仕組みで、政権内の安全保障派が主導した。",
+        "why_it_matters": "米国がAI安全保障と産業競争力の均衡をどう取るかを示す初期ルールになる。今後の対中協議や、主要AI企業と政府の関係づくりにも影響する。",
+        "headline": "モデル事前審査の後退が確定し、米国の規制温度感と実装自由度の前提が一段変わる"
+      },
+      "selection_reason": "モデル事前審査の後退が確定し、米国の規制温度感と実装自由度の前提が一段変わる",
+      "classification_reason": "モデル事前審査の後退が確定し、米国の規制温度感と実装自由度の前提が一段変わる",
+      "knowledge_value": "米国がAI安全保障と産業競争力の均衡をどう取るかを示す初期ルールになる。今後の対中協議や、主要AI企業と政府の関係づくりにも影響する。",
+      "content_status": "content_ok",
+      "content_chars": 4120,
+      "source_access": "unknown",
+      "content_excerpt": "President Donald Trump has signed a scaled-back version of an executive order governing AI that he had shelved less than two weeks ago, after senior..."
+    },
+    {
+      "number": 3,
+      "title": "仮想発電所はデータセンター向け電力をどう支えうるのか",
+      "source": "MIT Technology Review",
+      "description": "",
+      "url": "https://www.technologyreview.com/2026/06/03/1138350/virtual-power-plants-data-centers/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-06-04",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 3,
+        "title_ja": "仮想発電所はデータセンター向け電力をどう支えうるのか",
+        "key_points": [
+          "GoogleはVoltusと組み、米国最大級の送電網PJMで仮想発電所の構築費用を負担する",
+          "EVやスマートサーモスタットなど分散機器を束ね、需要逼迫時に消費抑制や蓄電活用で余力を生み出す",
+          "データセンター自身が止まりにくい場合でも、周辺需要の柔軟性に資金を出して電力確保する新しい手法として注目される"
+        ],
+        "detailed_summary": "急増するAI向けデータセンター需要に対し、GoogleはVoltusと連携して仮想発電所を活用する。家庭や企業のEV、温度制御機器、蓄電設備を束ね、需給が逼迫した時間帯だけ消費を抑えたり蓄えた電力を使ったりして、系統に追加余力を生む仕組みだ。データセンターの負荷を直接下げにくいなら、他の需要家の柔軟性に資金を投じる発想である。新設発電所や送電線の増強なしに受け入れ容量を広げる現実策として期待される一方、規模の限界はなお検証段階にある。",
+        "why_it_matters": "AIインフラ拡大のボトルネックは半導体だけでなく電力でもある。仮想発電所が機能すれば、電源新設より速くデータセンター需要を吸収できる可能性がある。",
+        "headline": "AI競争の制約がモデル性能から電力融通へ移りつつあり、インフラ投資観を更新できる"
+      },
+      "selection_reason": "AI競争の制約がモデル性能から電力融通へ移りつつあり、インフラ投資観を更新できる",
+      "classification_reason": "AI競争の制約がモデル性能から電力融通へ移りつつあり、インフラ投資観を更新できる",
+      "knowledge_value": "AIインフラ拡大のボトルネックは半導体だけでなく電力でもある。仮想発電所が機能すれば、電源新設より速くデータセンター需要を吸収できる可能性がある。",
+      "content_status": "content_ok",
+      "content_chars": 6157,
+      "source_access": "unknown"
+    },
+    {
+      "number": 4,
+      "title": "GitLab、AIワークロード対応のため従業員14%を削減",
+      "source": "TechCrunch",
+      "description": "",
+      "url": "https://techcrunch.com/2026/06/03/gitlab-cuts-14-of-staff-as-it-scales-its-platform-to-serve-ai-workloads/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-06-03",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 4,
+        "title_ja": "GitLab、AIワークロード対応のため従業員14%を削減",
+        "key_points": [
+          "GitLabは約350人、全従業員の約14%を削減し、組織再編を進めている",
+          "22カ国からの撤退や管理層の簡素化と並行して、AIエージェント時代に耐える開発基盤への投資を強化する",
+          "売上は前年同期比23%増の2億6400万ドルと好調で、成長と人員削減が同時進行するAI時代の典型例となっている"
+        ],
+        "detailed_summary": "GitLabは人員の約14%に当たる350人前後を削減し、その原資をAI対応インフラへ振り向ける。経営陣は、エージェント型AIが開発基盤に想定以上の負荷をかけており、従来のgitやAPIの設計では足りないと説明した。外部AI研究機関と組んで基盤を再構築し、エージェント向けのコンテキスト保存APIや開発オーケストレーション機能、ガバナンス層の整備を進める。一方で業績は好調で、AI需要の拡大が増収とリストラを同時に引き起こす構図が鮮明になっている。",
+        "why_it_matters": "AI化は新サービスの追い風である一方、既存の開発基盤や雇用構造を作り替える圧力にもなっている。開発ツール企業の再編は、ソフトウェア生産の主役が人からエージェントへ移る兆候として重い。",
+        "headline": "開発基盤企業でも人員再配分が始まり、AI対応の収益構造と雇用圧力を同時に示す"
+      },
+      "selection_reason": "開発基盤企業でも人員再配分が始まり、AI対応の収益構造と雇用圧力を同時に示す",
+      "classification_reason": "開発基盤企業でも人員再配分が始まり、AI対応の収益構造と雇用圧力を同時に示す",
+      "knowledge_value": "AI化は新サービスの追い風である一方、既存の開発基盤や雇用構造を作り替える圧力にもなっている。開発ツール企業の再編は、ソフトウェア生産の主役が人からエージェントへ移る兆候として重い。",
+      "content_status": "content_ok",
+      "content_chars": 2513,
+      "source_access": "free"
+    },
+    {
+      "number": 5,
+      "title": "Ultrahuman、社内ツール経由で顧客のウェルネスデータに不正アクセスがあったと公表",
+      "source": "TechCrunch",
+      "description": "",
+      "url": "https://techcrunch.com/2026/06/03/ultrahuman-says-hackers-accessed-customers-wellness-data-via-internal-tool/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-06-03",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 5,
+        "title_ja": "Ultrahuman、社内ツール経由で顧客のウェルネスデータに不正アクセスがあったと公表",
+        "key_points": [
+          "Ultrahumanは従業員PCのマルウェア感染で認証情報が盗まれ、社内分析システムに不正アクセスされたと明らかにした",
+          "影響は利用者の約0.1%で、健康関連のウェルネスデータが閲覧された可能性がある",
+          "パスワードや決済情報、製品本体、基幹本番システムへの侵害は確認されていないと説明している"
+        ],
+        "detailed_summary": "ウェアラブル企業Ultrahumanは、従業員のノートPCがマルウェア感染したことで資格情報が盗まれ、社内の分析用システムに不正アクセスが発生したと公表した。侵害は3月27日に起き、同社は数時間以内に検知して対象システムを停止したという。影響範囲は月間利用者の約0.1%で、少なくとも数百人規模の健康関連データが閲覧された可能性がある。もっとも、閲覧された具体的項目や外部持ち出しの有無は明らかにしておらず、利用者データの集中保管リスクが改めて浮き彫りになった。",
+        "why_it_matters": "睡眠や活動量のようなウェルネス情報でも、漏えいすれば個人の健康状態を推測できる。ヘルスケア系スタートアップに求められる内部統制と通知透明性の水準が問われる事案だ。",
+        "headline": "内部ツールと認証情報の穴が実害化した例で、エージェント権限設計の現実的な警告になる"
+      },
+      "selection_reason": "内部ツールと認証情報の穴が実害化した例で、エージェント権限設計の現実的な警告になる",
+      "classification_reason": "内部ツールと認証情報の穴が実害化した例で、エージェント権限設計の現実的な警告になる",
+      "knowledge_value": "睡眠や活動量のようなウェルネス情報でも、漏えいすれば個人の健康状態を推測できる。ヘルスケア系スタートアップに求められる内部統制と通知透明性の水準が問われる事案だ。",
+      "content_status": "content_ok",
+      "content_chars": 2591,
+      "source_access": "free"
+    },
+    {
+      "number": 6,
+      "title": "あらゆるタスクに対応するハーネス: Claude Codeの動的ワークフロー",
+      "source": "Claude",
+      "description": "",
+      "url": "https://claude.com/blog/a-harness-for-every-task-dynamic-workflows-in-claude-code",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-06-02",
+      "mode": "followup",
+      "summary": {
+        "article_index": 6,
+        "title_ja": "あらゆるタスクに対応するハーネス: Claude Codeの動的ワークフロー",
+        "key_points": [
+          "Claude Codeに、タスクに応じて自前のマルチエージェント用ハーネスをその場で生成・運用する動的ワークフロー機能が追加された",
+          "コード作業だけでなく、調査、セキュリティ分析、コードレビュー、採用評価、アイデア選定など複雑で高価値な仕事に向く",
+          "JavaScriptでサブエージェントの生成やモデル選択、並列実行の制御が可能だが、トークン消費は増えやすい"
+        ],
+        "detailed_summary": "Anthropicは2026年6月、Claude Codeの新機能として動的ワークフローを紹介した。これは固定の実行枠組みではなく、Claude自身が課題に応じたハーネスをJavaScriptで組み立て、複数エージェントを起動して調査や検証を進める仕組みだ。従来のコーディング中心の使い方を越え、コードレビュー、インシデント分析、履歴セッションの振り返り、採用選考の比較評価まで広げられる。再利用可能なワークフローとして共有できる一方、複雑タスク向けでコスト管理は欠かせない。",
+        "why_it_matters": "AIを単体の対話相手ではなく、作業フローそのものを設計する実行基盤へ進化させる動きだからだ。エージェント運用の設計力が、そのまま成果の差になりやすくなる。",
+        "headline": "単体支援から自前ハーネス生成へ進み、役割分担型の疑似組織設計に直結する差分"
+      },
+      "selection_reason": "単体支援から自前ハーネス生成へ進み、役割分担型の疑似組織設計に直結する差分",
+      "classification_reason": "単体支援から自前ハーネス生成へ進み、役割分担型の疑似組織設計に直結する差分",
+      "knowledge_value": "AIを単体の対話相手ではなく、作業フローそのものを設計する実行基盤へ進化させる動きだからだ。エージェント運用の設計力が、そのまま成果の差になりやすくなる。",
+      "content_status": "content_ok",
+      "content_chars": 13665,
+      "source_access": "unknown"
+    },
+    {
+      "number": 7,
+      "title": "あらゆる役割・ツール・ワークフローに対応するCodex",
+      "source": "OpenAI",
+      "description": "",
+      "url": "https://openai.com/index/codex-for-every-role-tool-workflow/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-06-02",
+      "mode": "followup",
+      "summary": {
+        "article_index": 1,
+        "title_ja": "あらゆる役割・ツール・ワークフローに対応するCodex",
+        "key_points": [
+          "Codexの週間利用者が500万人を超え、非開発職の利用が全体の約20%まで拡大した",
+          "役割別プラグイン、注釈機能、共有可能なサイト・アプリ作成機能のプレビューを発表した",
+          "分析、営業、クリエイティブ、プロダクト設計など知識労働向けに業務特化の拡張を進めている"
+        ],
+        "detailed_summary": "OpenAIは、Codexを開発者向け支援から全社的な業務基盤へ広げる新機能を発表した。週間利用者は500万人超に達し、分析、マーケ、営業、研究など非技術職の伸びが開発者を大きく上回っている。新たに役割別プラグイン群を導入し、SlackやGoogle Docs、Snowflake、Figma、Salesforceなど既存ツールと接続して、ダッシュボード作成、営業準備、クリエイティブ制作、試作作成までを支援する。さらに、その場で結果を直せる注釈機能や、URL共有できる対話型サイト生成も打ち出した。",
+        "why_it_matters": "生成AIの主戦場がコード補完から業務そのものの実行基盤へ移っていることを示す。ツール連携と役割特化が進めば、社内ソフトの作り方や知識労働の分業構造が変わる。",
+        "headline": "Codexが開発専用から職種別オペ基盤へ広がり、競合比較の軸を更新しやすい"
+      },
+      "selection_reason": "Codexが開発専用から職種別オペ基盤へ広がり、競合比較の軸を更新しやすい",
+      "classification_reason": "Codexが開発専用から職種別オペ基盤へ広がり、競合比較の軸を更新しやすい",
+      "knowledge_value": "生成AIの主戦場がコード補完から業務そのものの実行基盤へ移っていることを示す。ツール連携と役割特化が進めば、社内ソフトの作り方や知識労働の分業構造が変わる。",
+      "content_status": "content_ok",
+      "content_chars": 7040,
+      "source_access": "free"
+    },
+    {
+      "number": 8,
+      "title": "Claude Code構築から得た教訓: 私たちはスキルをどう使っているか",
+      "source": "Claude",
+      "description": "",
+      "url": "https://claude.com/blog/lessons-from-building-claude-code-how-we-use-skills",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-06-03",
+      "mode": "followup",
+      "summary": {
+        "article_index": 2,
+        "title_ja": "Claude Code構築から得た教訓: 私たちはスキルをどう使っているか",
+        "key_points": [
+          "Anthropicは社内で数百のスキルを運用し、構造化されたノウハウの蓄積を進めている",
+          "スキルは単なるMarkdownではなく、スクリプトや資産、設定、動的フックを含む拡張単位だと説明した",
+          "特に検証用スキルが出力品質の改善に大きく効き、測定可能な成果を出した"
+        ],
+        "detailed_summary": "AnthropicはClaude Code向けに多数のスキルを社内展開した経験から、効果的な設計原則を整理した。スキルは説明文だけでなく、スクリプト、参照コード、資産、設定、動的フックまで含む実行可能な知識パッケージだという。社内分析ではスキルは九つの類型に分かれ、役割を詰め込み過ぎたものはエージェントを混乱させやすいと指摘する。中でも検証スキルは品質改善への寄与が最も大きく、Playwrightなどを使った自動確認や状態アサーションの整備が有効だった。",
+        "why_it_matters": "エージェント性能の差がモデル単体ではなく、周辺知識と検証手順の設計で決まり始めている。企業が実運用で成果を出すには、プロンプトよりスキル資産化が重要になる。",
+        "headline": "Skills運用の粒度と設計原則が見え、CLAUDE.md外の再利用層を詰める材料になる"
+      },
+      "selection_reason": "Skills運用の粒度と設計原則が見え、CLAUDE.md外の再利用層を詰める材料になる",
+      "classification_reason": "Skills運用の粒度と設計原則が見え、CLAUDE.md外の再利用層を詰める材料になる",
+      "knowledge_value": "エージェント性能の差がモデル単体ではなく、周辺知識と検証手順の設計で決まり始めている。企業が実運用で成果を出すには、プロンプトよりスキル資産化が重要になる。",
+      "content_status": "content_ok",
+      "content_chars": 14482,
+      "source_access": "unknown"
+    },
+    {
+      "number": 9,
+      "title": "AIエージェント向けWindowsプラットフォームセキュリティ",
+      "source": "Windows Developer Blog",
+      "description": "",
+      "url": "https://blogs.windows.com/windowsdeveloper/2026/06/02/windows-platform-security-for-ai-agents/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-06-02",
+      "mode": "followup",
+      "summary": {
+        "article_index": 3,
+        "title_ja": "AIエージェント向けWindowsプラットフォームセキュリティ",
+        "key_points": [
+          "MicrosoftはAIエージェント時代に向け、Windowsを信頼できる実行基盤として位置づけた",
+          "Agent 365と連携し、ローカルエージェントの発見、監視、ポリシー制御を強化する方針を示した",
+          "Microsoft Execution Containers（MXC）SDKの早期プレビューを公開し、WindowsとWSL向けの実行制約レイヤーを提供する"
+        ],
+        "detailed_summary": "Microsoftは、自律的にファイル操作やサービス呼び出しを行うAIエージェントの普及に合わせ、OSレベルでの安全性確保を強調した。従来のアプリ前提の権限設計では不十分になりつつあるとして、Windowsに封じ込め、ID、運用管理を基盤機能として組み込む。Agent 365によるローカルエージェントの可視化と統制に加え、Build 2026ではMXC SDKを発表。開発者はWindowsやWSL上で、ポリシーベースにエージェントの権限やアクセス範囲を制御できるようになる。",
+        "why_it_matters": "AIエージェントの普及はアプリの問題ではなくOSの問題になりつつある。企業導入の成否は、モデル性能よりも実行環境をどこまで統制できるかに左右される。",
+        "headline": "PC操作エージェント前提のOS防御線が整理され、権限制御と隔離設計の比較に効く"
+      },
+      "selection_reason": "PC操作エージェント前提のOS防御線が整理され、権限制御と隔離設計の比較に効く",
+      "classification_reason": "PC操作エージェント前提のOS防御線が整理され、権限制御と隔離設計の比較に効く",
+      "knowledge_value": "AIエージェントの普及はアプリの問題ではなくOSの問題になりつつある。企業導入の成否は、モデル性能よりも実行環境をどこまで統制できるかに左右される。",
+      "content_status": "content_ok",
+      "content_chars": 12361,
+      "source_access": "unknown"
+    },
+    {
+      "number": 10,
+      "title": "2026年に本番運用可能なAIエージェントを構築する: MCP、CLI、スキル",
+      "source": "Medium",
+      "description": "",
+      "url": "https://gauravagg2016.medium.com/build-production-ready-ai-agents-in-2026-mcp-cli-and-skills-d4c6e193b897",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-06-04",
+      "mode": "deep_dive",
+      "summary": {
+        "article_index": 4,
+        "title_ja": "2026年に本番運用可能なAIエージェントを構築する: MCP、CLI、スキル",
+        "key_points": [
+          "2026年の企業向けAIエージェントはモデル性能より接続性と統制が制約になっている",
+          "実運用の基本要素としてスキル、MCP、CLIの三層スタックを整理した",
+          "低自律から高自律までのリスク階層ごとに必要なガバナンスと監査要件を定義した"
+        ],
+        "detailed_summary": "記事は、企業のAIエージェント導入を単なるモデル選定ではなく、標準化された制御プレーンの設計問題として捉えるべきだと主張する。再利用可能な業務知識としてのスキル、認可と監査を備えた接続層としてのMCP、トークン効率の高いローカル実行としてのCLIを組み合わせるのが現実解だという。さらに、要約中心の低自律、ガードレール付き操作、中核業務を自動実行する高自律の三段階を示し、それぞれにログ、承認、許可制御、証跡、ロールバックなどの統制要件を対応づけている。",
+        "why_it_matters": "エージェント導入の議論をツール比較から運用設計へ引き戻している点が重要だ。経営や監査の視点を欠いた導入は広がっても、本番定着にはつながらない。",
+        "headline": "モデルよりハーネスが差を生む前提で、実務導入の構成要素を整理し直せる"
+      },
+      "selection_reason": "モデルよりハーネスが差を生む前提で、実務導入の構成要素を整理し直せる",
+      "classification_reason": "モデルよりハーネスが差を生む前提で、実務導入の構成要素を整理し直せる",
+      "knowledge_value": "エージェント導入の議論をツール比較から運用設計へ引き戻している点が重要だ。経営や監査の視点を欠いた導入は広がっても、本番定着にはつながらない。",
+      "content_status": "content_ok",
+      "content_chars": 9278,
+      "source_access": "unknown"
+    },
+    {
+      "number": 11,
+      "title": "eBPFによるブラックボックスAIエージェントの実行時可観測性と強制: サンドボックスの先へ",
+      "source": "Medium",
+      "description": "",
+      "url": "https://medium.com/@yunwei356/runtime-observability-and-enforcement-for-opaque-ai-agents-with-ebpf-beyond-sandboxes-and-6f4eb21edc7f",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-06-03",
+      "mode": "deep_dive",
+      "summary": {
+        "article_index": 5,
+        "title_ja": "eBPFによるブラックボックスAIエージェントの実行時可観測性と強制: サンドボックスの先へ",
+        "key_points": [
+          "長時間自律実行するAIエージェントが増える一方、人手承認中心のセキュリティは機能不全に陥っている",
+          "エージェントハーネスは信頼できる境界ではなく、OSレベルの独立監視が必要だと論じた",
+          "eBPFを用いたAgentSightとActPlaneで、実行時の観測と強制をハーネス外部から行う構想を示した"
+        ],
+        "detailed_summary": "この記事は、AIエージェントの安全性を人間の承認画面やエージェント製品内のガードレールに頼る設計は限界に達したと論じる。実際には承認疲れで大半の要求が素通りし、しかもプロンプトループや権限処理を担うハーネス自体は第三者製で、企業側が完全に信頼できる境界ではない。そこで著者らは、意図の認可、実行の隔離、副作用の検証を分離し、最後の検証はOSが持つべきだと整理する。eBPFを使うAgentSightとActPlaneは、その独立した監視と強制の層を狙う。",
+        "why_it_matters": "エージェントの安全性をアプリ内部だけで完結させる発想に限界があることを示している。今後はOSやカーネル近傍での観測と制御が、企業向け運用の標準論点になる。",
+        "headline": "サンドボックス外の実行監視を考える材料で、長時間エージェントの監査設計を深める"
+      },
+      "selection_reason": "サンドボックス外の実行監視を考える材料で、長時間エージェントの監査設計を深める",
+      "classification_reason": "サンドボックス外の実行監視を考える材料で、長時間エージェントの監査設計を深める",
+      "knowledge_value": "エージェントの安全性をアプリ内部だけで完結させる発想に限界があることを示している。今後はOSやカーネル近傍での観測と制御が、企業向け運用の標準論点になる。",
+      "content_status": "content_ok",
+      "content_chars": 26036,
+      "source_access": "unknown"
+    },
+    {
+      "number": 12,
+      "title": "AI拡張DevOps（3/5）: Product Owner AI-Pairの詳細設計と実装青写真",
+      "source": "Medium",
+      "description": "",
+      "url": "https://medium.com/@khanali21/ai-augmented-devops-3-5-implementing-ai-pairs-detailed-design-and-reference-implementation-4288694f92e6",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-06-04",
+      "mode": "deep_dive",
+      "summary": {
+        "article_index": 6,
+        "title_ja": "AI拡張DevOps（3/5）: Product Owner AI-Pairの詳細設計と実装青写真",
+        "key_points": [
+          "AI-Augmented DevOpsシリーズ第3弾として、Product Owner向けAI-Pairの実装青写真を提示した",
+          "LLM基盤、独自MCP、永続・動的コンテキスト、役割別ステアリング、ヒューマンインターフェースを具体化した",
+          "バックログ精緻化、ユーザーストーリー分解、受け入れ基準生成、優先順位付けを継続支援する役割を想定している"
+        ],
+        "detailed_summary": "本稿は、AIをソフトウェア開発ライフサイクルの第一級参加者として扱うAI-Augmented DevOps構想の中で、Product Owner AI-Pairを具体的にどう実装するかを示した設計資料である。前段論文で示した概念を、LLMバックボーン、MCPサーバーとエージェントのハイブリッド構成、永続コンテキスト管理、役割別ステアリングファイル、人的エスカレーション導線へ落とし込み、設定例や実装断片まで提示する。人間のPOを置き換えるのではなく、要件整理や優先順位判断を継続支援する補助役として設計されている。",
+        "why_it_matters": "AI活用を個人の補助ツールではなく、役割に常駐する協働主体として設計する流れを具体化している。MCPと持続的コンテキストを軸に、組織的な開発プロセスへAIを埋め込む実装像が見えてくる。",
+        "headline": "PO役をAIで分離する設計が具体化されており、疑似組織の役割定義を詰められる"
+      },
+      "selection_reason": "PO役をAIで分離する設計が具体化されており、疑似組織の役割定義を詰められる",
+      "classification_reason": "PO役をAIで分離する設計が具体化されており、疑似組織の役割定義を詰められる",
+      "knowledge_value": "AI活用を個人の補助ツールではなく、役割に常駐する協働主体として設計する流れを具体化している。MCPと持続的コンテキストを軸に、組織的な開発プロセスへAIを埋め込む実装像が見えてくる。",
+      "content_status": "content_ok",
+      "content_chars": 47046,
+      "source_access": "unknown"
+    },
+    {
+      "number": 13,
+      "title": "エージェント = モデル + ハーネス",
+      "source": "Medium",
+      "description": "",
+      "url": "https://cobusgreyling.medium.com/agent-model-harness-0d018f3d5014",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-06-04",
+      "mode": "deep_dive",
+      "summary": {
+        "article_index": 1,
+        "title_ja": "エージェント = モデル + ハーネス",
+        "key_points": [
+          "LLMエージェントの性能は基盤モデルだけでなく、文脈管理やツール制御を担うハーネスに大きく左右される",
+          "同じモデル群・同じ課題でも、ハーネスを替えるだけでスコア差が23.8ポイント生じた",
+          "失敗の多くは推論力不足ではなく、出力契約違反やツール失敗からの未回復など実行整合性の欠陥だった"
+        ],
+        "detailed_summary": "この記事は、AIエージェントの能力を基盤モデル単体ではなく、モデルとハーネスの組み合わせで評価すべきだと論じる。Harness-Benchは106件のサンドボックス課題、8種類のモデル基盤、6種類のハーネス、5194本の実行軌跡で比較し、同じモデルでも土台の違いで成績が大きく動くことを示した。失敗要因の上位はJSON不正などの契約違反、ツール障害からの復旧不能、根拠と主張の不整合で、考えられないのではなく実行に落とし込めない点が本質だと整理している。",
+        "why_it_matters": "AIエージェントの競争力がモデル性能だけで決まらないと示した点が重要だ。実運用では、権限管理や状態管理を含む実行基盤の設計が品質と監査性を左右する。",
+        "headline": "エージェント価値をモデル外へ置く整理で、道具選定より運用設計を優先しやすくなる"
+      },
+      "selection_reason": "エージェント価値をモデル外へ置く整理で、道具選定より運用設計を優先しやすくなる",
+      "classification_reason": "エージェント価値をモデル外へ置く整理で、道具選定より運用設計を優先しやすくなる",
+      "knowledge_value": "AIエージェントの競争力がモデル性能だけで決まらないと示した点が重要だ。実運用では、権限管理や状態管理を含む実行基盤の設計が品質と監査性を左右する。",
+      "content_status": "content_ok",
+      "content_chars": 7467,
+      "source_access": "unknown"
+    },
+    {
+      "number": 14,
+      "title": "Noma、企業内のAIエージェントとMCPサーバーを統制するエージェント型アクセス制御を発表",
+      "source": "PR Newswire",
+      "description": "",
+      "url": "https://www.prnewswire.com/news-releases/noma-launches-agentic-access-control-to-govern-ai-agents-and-mcp-servers-across-the-enterprise-302788534.html",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-06-02",
+      "mode": "deep_dive",
+      "summary": {
+        "article_index": 2,
+        "title_ja": "Noma、企業内のAIエージェントとMCPサーバーを統制するエージェント型アクセス制御を発表",
+        "key_points": [
+          "NomaはAIエージェントとMCPサーバーを発見・識別・統制する新機能を発表した",
+          "各エージェントに固有IDを与え、接続先や利用ツールを動的レジストリで可視化する",
+          "承認・要審査・ブロックの3段階で接続制御し、アクセス制御と実行時監視の二層統治を打ち出した"
+        ],
+        "detailed_summary": "Nomaは2026年6月2日、企業内で急増するAIエージェントとMCPサーバーを管理するAgent Access Controlを発表した。開発現場では短期間で多数のエージェントが機密データや業務操作に接続するようになり、既存の統制では追いつかない。新機能は全エージェントとMCPサーバーの在庫を自動生成し、各エージェントに固有の身元を付与、接続先ごとに承認・審査・遮断を設定できる。Nomaはこれを第一層とし、別機能の検知・対応で実行時の逸脱監視を補完する構えだ。",
+        "why_it_matters": "エージェント導入が広がるほど、誰が何にアクセスしているかの可視化と制御は必須になる。MCP時代の企業セキュリティが、認証だけでなく実行時ガバナンスへ移る流れを示している。",
+        "headline": "MCPサーバー単位の発見から制御まで扱っており、権限台帳の設計判断に直結する"
+      },
+      "selection_reason": "MCPサーバー単位の発見から制御まで扱っており、権限台帳の設計判断に直結する",
+      "classification_reason": "MCPサーバー単位の発見から制御まで扱っており、権限台帳の設計判断に直結する",
+      "knowledge_value": "エージェント導入が広がるほど、誰が何にアクセスしているかの可視化と制御は必須になる。MCP時代の企業セキュリティが、認証だけでなく実行時ガバナンスへ移る流れを示している。",
+      "content_status": "content_ok",
+      "content_chars": 6102,
+      "source_access": "unknown"
+    },
+    {
+      "number": 15,
+      "title": "著作権訴訟が続く中、AI音楽生成のSunoがさらに4億ドルを調達",
+      "source": "TechCrunch",
+      "description": "",
+      "url": "https://techcrunch.com/2026/06/03/still-facing-copyright-lawsuits-ai-music-generator-suno-raises-another-400m/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-06-03",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 3,
+        "title_ja": "著作権訴訟が続く中、AI音楽生成のSunoがさらに4億ドルを調達",
+        "key_points": [
+          "SunoはシリーズDで4億ドルを調達し、企業価値は54億ドルに達した",
+          "著作権楽曲を学習に使ったとしてUMGやSony、GEMAから訴訟を受けている",
+          "法的リスクが続く一方、アプリ人気や楽曲生成数の伸びを背景に投資家の期待は強い"
+        ],
+        "detailed_summary": "AI音楽生成企業SunoはシリーズDで4億ドルを調達し、評価額は54億ドルになった。わずか7カ月前の24.5億ドルから大幅に上がっており、著作権訴訟下でも成長期待が維持されている。Sunoは著作権曲を学習に利用した事実を認めつつフェアユースを主張するが、UMG、Sony、GEMAは提訴を継続し、無断学習曲数は6万1000曲超へ拡大したとされる。一方でアプリストア上位を維持し、以前は1日700万曲超が生成されていたとされ、利用拡大が資金調達を支えている。",
+        "why_it_matters": "生成AI企業に対する市場評価が、法的リスクだけでは崩れない現実を示している。今後の判決や和解条件は、音楽AI全体の学習慣行とライセンス交渉の基準になりうる。",
+        "headline": "訴訟下でも資金が流れる構図が見え、創作AIの勝ち筋と法務コストを測りやすい"
+      },
+      "selection_reason": "訴訟下でも資金が流れる構図が見え、創作AIの勝ち筋と法務コストを測りやすい",
+      "classification_reason": "訴訟下でも資金が流れる構図が見え、創作AIの勝ち筋と法務コストを測りやすい",
+      "knowledge_value": "生成AI企業に対する市場評価が、法的リスクだけでは崩れない現実を示している。今後の判決や和解条件は、音楽AI全体の学習慣行とライセンス交渉の基準になりうる。",
+      "content_status": "content_ok",
+      "content_chars": 2083,
+      "source_access": "free"
+    },
+    {
+      "number": 16,
+      "title": "小さなウェブを発見するStumbleUpon風ツール、Wander",
+      "source": "TechCrunch",
+      "description": "",
+      "url": "https://techcrunch.com/2026/06/03/meet-wander-a-stumbleupon-inspired-tool-for-discovering-the-small-web/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-06-03",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 4,
+        "title_ja": "小さなウェブを発見するStumbleUpon風ツール、Wander",
+        "key_points": [
+          "Wanderは個人サイト同士の推薦で小規模で個性的なウェブを巡回できるオープンソースの自前ホスト型ツール",
+          "サーバー側コードやデータベースは不要で、HTMLとJavaScriptの2ファイルを置くだけで導入できる",
+          "検索と商業コンテンツに偏る今のウェブに対し、人間味のある発見体験を取り戻す試みとして注目される"
+        ],
+        "detailed_summary": "Wander Consoleは、独立系サイト運営者が互いのおすすめサイトをつなぎ、訪問者に偶然の出会いを提供する小規模ウェブ向けの発見ツールだ。開発者のSusam PalはKagiのsmall web検索に着想を得つつ、検索では拾いにくい個人制作の小サイトやミニアプリ、ゲームまで見つけられる仕組みを作った。導入はindex.htmlとwander.jsを置くだけで、GitHub Pagesでも動く。StumbleUponやウェブリング、ブログロールの感覚を現代的に再構成し、参加者ごとの遊び心あるカスタマイズも広がっている。",
+        "why_it_matters": "AI要約と商業最適化に寄るウェブの流れに対し、発見の主導権をコミュニティへ戻す提案だからだ。検索以外の情報導線を育てる実験として、個人ウェブ再興の象徴になりうる。",
+        "headline": "AI要約に埋もれない小規模サイト探索は、自前ニュース導線の再設計ヒントになる"
+      },
+      "selection_reason": "AI要約に埋もれない小規模サイト探索は、自前ニュース導線の再設計ヒントになる",
+      "classification_reason": "AI要約に埋もれない小規模サイト探索は、自前ニュース導線の再設計ヒントになる",
+      "knowledge_value": "AI要約と商業最適化に寄るウェブの流れに対し、発見の主導権をコミュニティへ戻す提案だからだ。検索以外の情報導線を育てる実験として、個人ウェブ再興の象徴になりうる。",
+      "content_status": "content_ok",
+      "content_chars": 3977,
+      "source_access": "free"
+    },
+    {
+      "number": 17,
+      "title": "未来のヒューマノイドは、中国製の体と米国製の頭脳を持つ6フィートの巨体になる",
+      "source": "WIRED",
+      "description": "",
+      "url": "https://www.wired.com/story/nvidia-unitree-humanoid-robot-h2-plus/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-06-04",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 5,
+        "title_ja": "未来のヒューマノイドは、中国製の体と米国製の頭脳を持つ6フィートの巨体になる",
+        "key_points": [
+          "NvidiaはUnitreeの大型ヒューマノイドH2 Plusを軸にした新たなロボット構成案を示した",
+          "中国のロボット筐体と米国のNvidia製AIチップThor、Sharpaの高機能ハンドを組み合わせる",
+          "米中対立や安全保障懸念がある中でも、ロボティクス供給網では相互補完が進んでいる"
+        ],
+        "detailed_summary": "NvidiaのJensen Huangは、Unitreeの6フィート・150ポンド級ヒューマノイドH2 PlusにThor T5000チップ、Sharpaの器用なロボットハンド、新しい学習ソフト群を組み合わせた設計図を公表した。AI計算力は米国、モーターやアクチュエータなど量産ハードは中国という補完関係が前面に出ている。対中規制やUnitree機の情報送信リスク指摘など懸念は残るが、Nvidiaは安全機能も盛り込みつつ、研究機関が独自アルゴリズムで高度なヒューマノイドを訓練しやすくする狙いだ。",
+        "why_it_matters": "ヒューマノイド開発が、単純な米中分断ではなく供給網の相互依存で進む現実を映している。産業競争力と安全保障が同時に問われる分野だけに、この提携の意味は大きい。",
+        "headline": "身体は中国、頭脳は米国という分業が鮮明で、AI覇権を供給網で見る視点が広がる"
+      },
+      "selection_reason": "身体は中国、頭脳は米国という分業が鮮明で、AI覇権を供給網で見る視点が広がる",
+      "classification_reason": "身体は中国、頭脳は米国という分業が鮮明で、AI覇権を供給網で見る視点が広がる",
+      "knowledge_value": "ヒューマノイド開発が、単純な米中分断ではなく供給網の相互依存で進む現実を映している。産業競争力と安全保障が同時に問われる分野だけに、この提携の意味は大きい。",
+      "content_status": "content_ok",
+      "content_chars": 4531,
+      "source_access": "unknown",
+      "content_excerpt": "The humanoid robot of the future is a hulking specimen with a body that’s made in China and a brain that runs on American silicon...."
+    },
+    {
+      "number": 18,
+      "title": "新しい抽出プロセスが世界のリチウムを解き放つ可能性",
+      "source": "MIT Technology Review",
+      "description": "",
+      "url": "https://www.technologyreview.com/2026/05/28/1138096/lithium-extraction-rock-zero/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-06-04",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 6,
+        "title_ja": "新しい抽出プロセスが世界のリチウムを解き放つ可能性",
+        "key_points": [
+          "MIT研究者らは弱酸でケイ酸塩鉱物を溶かし、リチウムを取り出す新手法を発表した",
+          "従来の蒸発池や高温処理、危険な化学薬品に頼る方法より低コストで低炭素になる可能性がある",
+          "スタートアップRock Zeroが商業化を進めており、対象はリチウム鉱石のスポジュメンが有力だ"
+        ],
+        "detailed_summary": "Scienceに掲載された研究は、通常は反応しにくいケイ酸塩鉱物を弱酸で溶かし、リチウムやアルミナ、シリカを取り出す新手法を示した。発案の背景には、別会社Sublime Systemsのセメント研究があり、ガラスのエッチング剤に使われるフッ化アンモニウムから着想を得たという。従来の塩水抽出は土地を大量消費し、硬岩採掘は高温処理と危険薬品が必要だった。新技術はフッ化水素酸を副生せずに処理でき、Rock Zeroが実用化を進めている。",
+        "why_it_matters": "EVと蓄電池需要が膨らむなか、リチウム供給のコストと環境負荷を同時に下げられる可能性がある。資源制約が緩めば、電池産業全体の価格競争力にも効いてくる。",
+        "headline": "電力だけでなく資源採掘もAI時代の隠れ制約で、長期の勝者条件を補強できる"
+      },
+      "selection_reason": "電力だけでなく資源採掘もAI時代の隠れ制約で、長期の勝者条件を補強できる",
+      "classification_reason": "電力だけでなく資源採掘もAI時代の隠れ制約で、長期の勝者条件を補強できる",
+      "knowledge_value": "EVと蓄電池需要が膨らむなか、リチウム供給のコストと環境負荷を同時に下げられる可能性がある。資源制約が緩めば、電池産業全体の価格競争力にも効いてくる。",
+      "content_status": "content_ok",
+      "content_chars": 7595,
+      "source_access": "unknown"
+    }
+  ]
+}
