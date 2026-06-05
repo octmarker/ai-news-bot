@@ -1,0 +1,370 @@
+{
+  "date": "2026-06-05",
+  "mode": "multimode",
+  "articles": [
+    {
+      "number": 1,
+      "title": "Apple、Messages for Businessで初のAIエージェントとしてPokeを承認",
+      "source": "TechCrunch",
+      "description": "",
+      "url": "https://techcrunch.com/2026/06/04/apple-approves-poke-as-the-first-ai-agent-on-its-messages-for-business-platform/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-06-04",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 1,
+        "title_ja": "Apple、Messages for Businessで初のAIエージェントとしてPokeを承認",
+        "key_points": [
+          "テキストでAIエージェントを使えるPokeが、AppleのMessages for Businessで初めて承認された",
+          "Pokeは予定管理、カレンダー、健康管理、スマートホーム操作、写真編集などをSMSやTelegram経由で提供してきた",
+          "Appleがユーザー単位で課金する仕組みは、AIエージェント配信の新たな収益源と同時にスタートアップ側の新コストになる"
+        ],
+        "detailed_summary": "Pokeは、AIエージェント利用をテキスト送信並みに簡単にする新興企業で、AppleのMessages for Business上で動く初の独立系AIエージェントになった。従来この仕組みは企業と顧客のiMessage対応窓口向けだったが、Pokeは一般利用者向けのAI体験を持ち込む。SMSやTelegramに加えiMessage対応が広がり、Appleは利用者単位で課金する。AI配信インフラとしてAppleが存在感を強める動きとして注目される。",
+        "why_it_matters": "AppleがAIエージェントを自社メッセージ基盤に組み込み始めたことを示す。流通コストをAppleが握る構図は、今後のAIサービスの収益性や競争環境に直結する。",
+        "headline": "Apple公式導線でエージェント配布が始まり、対話UIの商流が一段進む"
+      },
+      "selection_reason": "Apple公式導線でエージェント配布が始まり、対話UIの商流が一段進む",
+      "classification_reason": "Apple公式導線でエージェント配布が始まり、対話UIの商流が一段進む",
+      "knowledge_value": "AppleがAIエージェントを自社メッセージ基盤に組み込み始めたことを示す。流通コストをAppleが握る構図は、今後のAIサービスの収益性や競争環境に直結する。",
+      "content_status": "content_ok",
+      "content_chars": 4570,
+      "source_access": "free"
+    },
+    {
+      "number": 2,
+      "title": "Sam Altman支援の核融合スタートアップHelion、Microsoft向け発電所建設へ4.65億ドル調達",
+      "source": "TechCrunch",
+      "description": "",
+      "url": "https://techcrunch.com/2026/06/04/helion-the-sam-altman-backed-fusion-startup-raises-465m-to-build-a-power-plant-for-microsoft/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-06-04",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 2,
+        "title_ja": "Sam Altman支援の核融合スタートアップHelion、Microsoft向け発電所建設へ4.65億ドル調達",
+        "key_points": [
+          "HelionがシリーズGで4億6500万ドルを調達し、評価額は155億ドルに達した",
+          "同社は2028年までに送電網へ核融合電力を供給する目標を掲げ、Microsoft向けの初号発電所Orionを進めている",
+          "磁石から直接電力を取り出す独自方式は高効率の可能性がある一方、学術検証が少なく懐疑的な見方もある"
+        ],
+        "detailed_summary": "核融合スタートアップHelionは4億6500万ドルを新規調達し、評価額は155億ドルとなった。資金は初の発電所Orion建設を加速する狙いで、Microsoftとの契約条件を満たせれば2028年にも送電開始を目指す。Helionはプラズマの膨張が磁場に与える力から直接発電する独自方式を採るが、査読論文が少ないため実現性には疑問も残る。とはいえ核融合分野全体への大型資金流入は続いている。",
+        "why_it_matters": "核融合が研究テーマからインフラ投資テーマへ移りつつある。Helionが成功すれば、電力とAIデータセンター需要の関係を根本から変える可能性がある。",
+        "headline": "モデル競争が発電所建設まで食い込んだ。電力確保が勝敗条件になっている"
+      },
+      "selection_reason": "モデル競争が発電所建設まで食い込んだ。電力確保が勝敗条件になっている",
+      "classification_reason": "モデル競争が発電所建設まで食い込んだ。電力確保が勝敗条件になっている",
+      "knowledge_value": "核融合が研究テーマからインフラ投資テーマへ移りつつある。Helionが成功すれば、電力とAIデータセンター需要の関係を根本から変える可能性がある。",
+      "content_status": "content_ok",
+      "content_chars": 3382,
+      "source_access": "free"
+    },
+    {
+      "number": 3,
+      "title": "AI生成の訴訟書類が急増する中、裁判所はどう対応しているのか",
+      "source": "MIT Technology Review",
+      "description": "",
+      "url": "https://www.technologyreview.com/2026/06/04/1138391/courts-coping-ai-lawsuits/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-06-05",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 3,
+        "title_ja": "AI生成の訴訟書類が急増する中、裁判所はどう対応しているのか",
+        "key_points": [
+          "米連邦民事訴訟では本人訴訟の比率が2022年の11%から2025年に16.8%へ上昇した",
+          "判事らはAI利用によって書面が読みやすくなった一方、幻覚による虚偽判例や誤引用も増えたと見ている",
+          "AIが法律助言を担う場合の責任や義務をどう定義するかが新たな政策課題になっている"
+        ],
+        "detailed_summary": "米国の裁判所では、弁護士を付けずに訴える人がAIを使って作成した書面が急増している。研究ではAI生成文の痕跡がある提出書類の割合が2023年の1%から2026年には18%へ拡大した。判事たちは、AIのおかげで論点が整理され読みやすくなったと評価する一方、存在しない判例や誤引用の混入には警戒を強める。アクセス向上と誤助言の責任追及をどう両立するかが問われている。",
+        "why_it_matters": "生成AIが司法アクセスを広げる半面、法的責任の空白も生んでいる。裁判の公平性と効率に直結するため、規制と運用の整備が急務だ。",
+        "headline": "AI出力が司法コストを押し上げ始めた。運用監査の必要性が現実化している"
+      },
+      "selection_reason": "AI出力が司法コストを押し上げ始めた。運用監査の必要性が現実化している",
+      "classification_reason": "AI出力が司法コストを押し上げ始めた。運用監査の必要性が現実化している",
+      "knowledge_value": "生成AIが司法アクセスを広げる半面、法的責任の空白も生んでいる。裁判の公平性と効率に直結するため、規制と運用の整備が急務だ。",
+      "content_status": "content_ok",
+      "content_chars": 8703,
+      "source_access": "unknown"
+    },
+    {
+      "number": 4,
+      "title": "トランプ氏、合意成立ならイラン最高指導者と会談の可能性に言及",
+      "source": "CNBC",
+      "description": "",
+      "url": "https://www.cnbc.com/2026/06/04/trump-iran-supreme-leader.html",
+      "category": "経済・金融",
+      "published_at": "2026-06-04",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 4,
+        "title_ja": "トランプ氏、合意成立ならイラン最高指導者と会談の可能性に言及",
+        "key_points": [
+          "トランプ大統領は、米イラン戦争終結に向けた合意ができればイラン最高指導者との会談もあり得ると述べた",
+          "紛争は4カ月目に入り、ホルムズ海峡封鎖や原油高で世界市場と米国のガソリン価格に影響が出ている",
+          "米国は核兵器放棄と海峡再開を要求し、イランは敵対行為停止と海上封鎖解除を求めており、交渉メッセージは錯綜している"
+        ],
+        "detailed_summary": "トランプ大統領は、米イラン戦争を終わらせる合意が成立するなら、イランの最高指導者と会うことを光栄に思うと述べた。紛争は4カ月目に入り、ホルムズ海峡の封鎖で原油とガソリン価格が上昇し、市場の不安定要因になっている。停戦は不安定なままで、米国は核兵器保有放棄と海峡開放を要求し、イランは複数戦線での敵対行為停止と封鎖解除を求める。外交と圧力が同時進行する局面だ。",
+        "why_it_matters": "中東情勢はエネルギー価格と世界市場に直結する。首脳会談の可能性は緊張緩和の材料だが、交渉条件の隔たりはなお大きい。",
+        "headline": "中東交渉の温度感は原油と地政学プレミアムを動かす即時シグナルになる"
+      },
+      "selection_reason": "中東交渉の温度感は原油と地政学プレミアムを動かす即時シグナルになる",
+      "classification_reason": "中東交渉の温度感は原油と地政学プレミアムを動かす即時シグナルになる",
+      "knowledge_value": "中東情勢はエネルギー価格と世界市場に直結する。首脳会談の可能性は緊張緩和の材料だが、交渉条件の隔たりはなお大きい。",
+      "content_status": "content_ok",
+      "content_chars": 1679,
+      "source_access": "free"
+    },
+    {
+      "number": 5,
+      "title": "Broadcomが半導体株の売りを誘発、より大きな転換の始まりか",
+      "source": "CNBC",
+      "description": "",
+      "url": "https://www.cnbc.com/2026/06/04/broadcoms-outlook-sparked-a-selloff-for-chip-stocks-heres-why.html",
+      "category": "経済・金融",
+      "published_at": "2026-06-04",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 5,
+        "title_ja": "Broadcomが半導体株の売りを誘発、より大きな転換の始まりか",
+        "key_points": [
+          "Broadcomは好決算を出したが売上見通しを上方修正せず、株価が時間外で大きく下落した",
+          "下げはMicron、AMD、Intelなどにも波及したが、AlphabetやMicrosoftなど大手ハイパースケーラーは比較的堅調だった",
+          "市場では業績悪化よりも、過熱していたハイテク株の利益確定売りとみる見方が強い"
+        ],
+        "detailed_summary": "Broadcomは堅調な四半期決算を示しながらも通期売上見通しを引き上げず、失望売りで株価が急落した。その影響は半導体株全体へ波及したが、AI需要を支える大手クラウド企業は崩れておらず、セクター全体の収益見通しが一気に悪化したわけではないとの見方も多い。S&P500情報技術指数は長期トレンドから大きく乖離しており、今回は過熱相場の反動としての調整色が強いと分析されている。",
+        "why_it_matters": "AI相場の中心だった半導体株がどこまで高成長を織り込んでいるかを測る局面に入った。単なる一服か本格見直しかは、今後の市場全体のリスク選好を左右する。",
+        "headline": "AI半導体の期待先行に揺り戻し。マルチプル圧縮の連鎖を見る材料になる"
+      },
+      "selection_reason": "AI半導体の期待先行に揺り戻し。マルチプル圧縮の連鎖を見る材料になる",
+      "classification_reason": "AI半導体の期待先行に揺り戻し。マルチプル圧縮の連鎖を見る材料になる",
+      "knowledge_value": "AI相場の中心だった半導体株がどこまで高成長を織り込んでいるかを測る局面に入った。単なる一服か本格見直しかは、今後の市場全体のリスク選好を左右する。",
+      "content_status": "content_ok",
+      "content_chars": 4566,
+      "source_access": "free"
+    },
+    {
+      "number": 6,
+      "title": "Visual Studio Code向けGitHub Copilot、2026年5月リリースまとめ",
+      "source": "GitHub Changelog",
+      "description": "",
+      "url": "https://github.blog/changelog/2026-06-03-github-copilot-in-visual-studio-code-may-releases/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-06-03",
+      "mode": "followup",
+      "summary": {
+        "article_index": 6,
+        "title_ja": "Visual Studio Code向けGitHub Copilot、2026年5月リリースまとめ",
+        "key_points": [
+          "VS Code StableでAgents windowのプレビュー提供が始まり、タスク中心のエージェント作業がしやすくなった",
+          "SSHやDev Tunnelsを通じたリモートエージェント、セッション同期、複数セッション並列表示など長時間作業向け機能が強化された",
+          "BYOKはエアギャップ環境にも拡張され、モデル選択や推論コスト制御、補助タスク用モデル指定が可能になった"
+        ],
+        "detailed_summary": "GitHub Copilotの2026年5月から6月初旬にかけたVS Code更新では、エージェント中心の利用体験が大きく前進した。Stable版にAgents windowがプレビュー導入され、複数プロジェクト横断、リモート実行、Git状態の自動反映、セッション履歴の同期などが加わった。加えてBYOKはエアギャップ環境に対応し、モデルごとの役割分担や推論負荷の調整も可能になった。Copilotは補完ツールから実行主体へ近づいている。",
+        "why_it_matters": "開発支援AIの主戦場がコード補完からエージェント運用へ移っていることがはっきり見える。企業導入では、リモート実行やBYOK強化が実務適用の幅を大きく広げる。",
+        "headline": "日次運用に直結する差分。現場のコーディング導線がどこまで詰まるか見える"
+      },
+      "selection_reason": "日次運用に直結する差分。現場のコーディング導線がどこまで詰まるか見える",
+      "classification_reason": "日次運用に直結する差分。現場のコーディング導線がどこまで詰まるか見える",
+      "knowledge_value": "開発支援AIの主戦場がコード補完からエージェント運用へ移っていることがはっきり見える。企業導入では、リモート実行やBYOK強化が実務適用の幅を大きく広げる。",
+      "content_status": "content_ok",
+      "content_chars": 5076,
+      "source_access": "free"
+    },
+    {
+      "number": 7,
+      "title": "AWSはエージェント型AIでインフラ刷新をどう再発明しているのか",
+      "source": "AWS Migration & Modernization Blog",
+      "description": "",
+      "url": "https://aws.amazon.com/blogs/migration-and-modernization/how-aws-is-using-agentic-ai-to-reinvent-infrastructure-modernization/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-06-03",
+      "mode": "followup",
+      "summary": {
+        "article_index": 1,
+        "title_ja": "AWSはエージェント型AIでインフラ刷新をどう再発明しているのか",
+        "key_points": [
+          "AWS Transformは、発見・計画・ネットワーク設計・移行実行を単一体験でつなぐエージェント型AI基盤として強化された。",
+          "従来のVMware移行で問題だった分断されたツール群と手作業中心の引き継ぎを置き換え、大規模環境でも短時間で計画を作れる。",
+          "Kiro、Claude、Cursor、Codexから直接使え、評価は数時間、移行全体も数日規模まで短縮できると訴求している。"
+        ],
+        "detailed_summary": "記事は、AWSがインフラ更改とVMware移行を高速化するため、AWS Transformをエージェント型AI中心に進化させていると説明する。従来は調査、計画、ネットワーク設定、再配置が別々のツールに分かれ、専門家の手作業が多く、長期化と高コストが常態化していた。新しいAWS Transformは在庫データを幅広く受け入れ、数万台規模のサーバーとアプリの移行計画を短時間で生成し、ランディングゾーン更新やネットワーク最適化、コンテナ化まで支援する。日常的な開発ツールから使える点も含め、移行を運用現場の通常作業に近づける狙いがある。",
+        "why_it_matters": "企業のレガシー脱却はAI導入の前提になりやすく、移行期間と専門人材への依存をどこまで圧縮できるかは大きい。クラウド移行の主導権争いでも、生成AIではなく実運用の自動化で差をつけようとしている点が重要だ。",
+        "headline": "エージェントを業務置換に入れる具体例で、導入単位と価値の切り方が見える"
+      },
+      "selection_reason": "エージェントを業務置換に入れる具体例で、導入単位と価値の切り方が見える",
+      "classification_reason": "エージェントを業務置換に入れる具体例で、導入単位と価値の切り方が見える",
+      "knowledge_value": "企業のレガシー脱却はAI導入の前提になりやすく、移行期間と専門人材への依存をどこまで圧縮できるかは大きい。クラウド移行の主導権争いでも、生成AIではなく実運用の自動化で差をつけようとしている点が重要だ。",
+      "content_status": "content_ok",
+      "content_chars": 21342,
+      "source_access": "unknown"
+    },
+    {
+      "number": 8,
+      "title": "コンステレーションのスリーマイル島原発再稼働計画、FERCの特例承認で追い風",
+      "source": "Utility Dive",
+      "description": "",
+      "url": "https://www.utilitydive.com/news/constellation-three-mile-island-crane-nuclear-ferc-waiver/821836/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-06-03",
+      "mode": "followup",
+      "summary": {
+        "article_index": 2,
+        "title_ja": "コンステレーションのスリーマイル島原発再稼働計画、FERCの特例承認で追い風",
+        "key_points": [
+          "FERCはPJMルールの適用除外を認め、Eddystone発電所からCrane原発へ760MW分の接続権を移せるようにした。",
+          "送電網増強は2030年末までかかる見通しだったが、この措置でCrane原発の暫定的な送電能力が改善する可能性がある。",
+          "再稼働後の電力や容量価値は20年契約でMicrosoft向けに供給される予定で、データセンター需要とも結び付いている。"
+        ],
+        "detailed_summary": "記事は、旧スリーマイル島1号機であるCrane原発の再稼働計画が、FERCによる特例承認で前進したと伝える。承認により、Constellation Energyはフィラデルフィア近郊のEddystone発電所から760MW分の容量接続権をCraneへ移せる。もともとCraneは835MW級だが、送電網増強工事が2030年末まで終わらず、2027年後半の再稼働後も全量送電できない恐れがあった。今回の措置でその制約が和らぐ可能性がある。背景には、Eddystone設備がDOE命令で容量電源ではなくエネルギー専用として動いており、接続権を融通できる事情がある。",
+        "why_it_matters": "原発再稼働の成否が、送電網制約と市場ルールの扱いで決まることを示す事例だ。電力需要が膨らむ中、原発とデータセンター需要をどう結び付けるかという米電力市場の構図も見えてくる。",
+        "headline": "電力制約テーマの続報。AI需要が既存原発再稼働をどう後押しするか追える"
+      },
+      "selection_reason": "電力制約テーマの続報。AI需要が既存原発再稼働をどう後押しするか追える",
+      "classification_reason": "電力制約テーマの続報。AI需要が既存原発再稼働をどう後押しするか追える",
+      "knowledge_value": "原発再稼働の成否が、送電網制約と市場ルールの扱いで決まることを示す事例だ。電力需要が膨らむ中、原発とデータセンター需要をどう結び付けるかという米電力市場の構図も見えてくる。",
+      "content_status": "content_ok",
+      "content_chars": 2815,
+      "source_access": "unknown"
+    },
+    {
+      "number": 9,
+      "title": "欧州委員会、デジタル自立性と強靭性を高める技術主権パッケージを提案",
+      "source": "European Commission",
+      "description": "",
+      "url": "https://digital-strategy.ec.europa.eu/en/news/commission-proposes-tech-sovereignty-package-strengthen-europes-digital-autonomy-and-resilience",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-06-03",
+      "mode": "followup",
+      "summary": {
+        "article_index": 3,
+        "title_ja": "欧州委員会、デジタル自立性と強靭性を高める技術主権パッケージを提案",
+        "key_points": [
+          "欧州委員会は半導体、AI、クラウド、オープンソースを柱とする技術主権パッケージを打ち出した。",
+          "Chips Act 2.0、Cloud and AI Development Act、Open Source Strategy、エネルギー分野のデジタル化とAI活用ロードマップが含まれる。",
+          "EU域外への依存を減らし、病院や電力網など基幹サービスを支える技術を欧州自身で確保する狙いがある。"
+        ],
+        "detailed_summary": "記事は、欧州委員会が欧州のデジタル自律性を高めるための技術主権パッケージを公表したと紹介する。内容は、半導体強化策のChips Act 2.0、クラウドとAIの開発促進法案、オープンソース戦略、さらにエネルギー分野のデジタル化とAI活用に向けた戦略ロードマップで構成される。AI普及に伴って計算需要が急増する一方、欧州は基幹技術で域外サプライヤーへの依存が大きい。そこで研究力、産業基盤、単一市場を生かし、技術の開発・配備・保護までを欧州域内で回せる体制を築く姿勢を鮮明にした。",
+        "why_it_matters": "AI競争はモデル性能だけでなく、半導体、クラウド、電力、規制を自前で持てるかに移っている。欧州が産業政策として本格介入を強めることで、米中欧の技術覇権争いはさらに制度戦の色合いを強める。",
+        "headline": "欧州の規制と産業政策が一体化。半導体とクラウドの主権競争を追える"
+      },
+      "selection_reason": "欧州の規制と産業政策が一体化。半導体とクラウドの主権競争を追える",
+      "classification_reason": "欧州の規制と産業政策が一体化。半導体とクラウドの主権競争を追える",
+      "knowledge_value": "AI競争はモデル性能だけでなく、半導体、クラウド、電力、規制を自前で持てるかに移っている。欧州が産業政策として本格介入を強めることで、米中欧の技術覇権争いはさらに制度戦の色合いを強める。",
+      "content_status": "content_ok",
+      "content_chars": 1563,
+      "source_access": "unknown"
+    },
+    {
+      "number": 10,
+      "title": "PJM監視機関、AIデータセンターの増加が電力市場を再構成していると警告",
+      "source": "Data Center Knowledge",
+      "description": "",
+      "url": "https://www.datacenterknowledge.com/energy-power-supply/pjm-monitor-ai-data-center-growth-reshaping-power-markets",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-06-03",
+      "mode": "deep_dive",
+      "summary": {
+        "article_index": 4,
+        "title_ja": "PJM監視機関、AIデータセンターの増加が電力市場を再構成していると警告",
+        "key_points": [
+          "PJMの独立市場監視機関は、データセンター需要の急増が容量市場の逼迫と高騰の主因だと分析した。",
+          "2025年以降の容量市場コスト増は230億ドル超に達したとされ、需給ギャップも急拡大している。",
+          "一方で需要予測の信頼性や、接続待ちで新電源が応答できない市場設計の矛盾も大きな問題として浮上している。"
+        ],
+        "detailed_summary": "記事は、米最大の卸電力市場PJMで、AI関連を含む大規模データセンターの需要増が電力市場を根本から変えつつあるとする監視機関の報告を伝える。報告では、データセンターの負荷増が容量市場の需給逼迫、高額なオークション価格、長期計画の前提崩れを招いたと指摘し、2025年以降だけで容量市場コストを230億ドル以上押し上げたと試算する。だが、将来の需要予測自体には不確実性が強く、さらに発電所の接続待ちが深刻なため、高価格シグナルが新規供給を呼び込むという従来の市場メカニズムが機能していないと問題視している。",
+        "why_it_matters": "AIブームの裏で、本当の制約が半導体ではなく電力網に移りつつあることを示す。需要予測、送電網、接続審査が追いつかなければ、AI投資の拡大そのものが電力料金と系統安定性を揺さぶる。",
+        "headline": "AI需要が電力市場をどう歪めるかを把握でき、投資判断の前提が厚くなる"
+      },
+      "selection_reason": "AI需要が電力市場をどう歪めるかを把握でき、投資判断の前提が厚くなる",
+      "classification_reason": "AI需要が電力市場をどう歪めるかを把握でき、投資判断の前提が厚くなる",
+      "knowledge_value": "AIブームの裏で、本当の制約が半導体ではなく電力網に移りつつあることを示す。需要予測、送電網、接続審査が追いつかなければ、AI投資の拡大そのものが電力料金と系統安定性を揺さぶる。",
+      "content_status": "content_ok",
+      "content_chars": 8510,
+      "source_access": "unknown"
+    },
+    {
+      "number": 11,
+      "title": "気候テック企業が次々と上場、その次に何が来るのか",
+      "source": "MIT Technology Review",
+      "description": "",
+      "url": "https://www.technologyreview.com/2026/05/28/1138067/climate-tech-ipos/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-06-05",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 5,
+        "title_ja": "気候テック企業が次々と上場、その次に何が来るのか",
+        "key_points": [
+          "2026年の米IPO市場では、Solv Energy、X-energy、Fervo Energyなど発電関連の気候テック企業が相次いで上場した。",
+          "背景には、データセンター需要などを受けた電力需要の増加と、安定したクリーン電源への期待がある。",
+          "とくにFervoは地熱、X-energyは小型原子炉で成長を狙うが、建設コストや量産体制の確立が今後の焦点になる。"
+        ],
+        "detailed_summary": "記事は、米国で気候テック企業のIPOが続き、その中心が発電能力の拡大を担う企業になっていると整理する。2月にSolv Energy、4月に小型モジュール炉のX-energy、5月には地熱のFervo Energyが上場し、いずれも高い評価を獲得した。背景には、データセンターを含む電力需要の増勢と、信頼できるクリーン電源への期待がある。Fervoは増進地熱で大規模開発を狙い、既に相当量の電力販売契約と広大な開発権益を持つ。一方で、新型原子炉も地熱も資本集約型で、商業規模への拡大、建設費圧縮、実際の納期順守が株式市場の期待に応えられるかが問われる。",
+        "why_it_matters": "投資家の視線が脱炭素一般から、電力需要の急増を埋める現実的な供給技術へ移っている。IPOの成功は追い風だが、本番は上場後に本当に設備を建てて電気を流せるかどうかだ。",
+        "headline": "発電と送電が資本市場で再評価される流れを、IPO文脈から読める"
+      },
+      "selection_reason": "発電と送電が資本市場で再評価される流れを、IPO文脈から読める",
+      "classification_reason": "発電と送電が資本市場で再評価される流れを、IPO文脈から読める",
+      "knowledge_value": "投資家の視線が脱炭素一般から、電力需要の急増を埋める現実的な供給技術へ移っている。IPOの成功は追い風だが、本番は上場後に本当に設備を建てて電気を流せるかどうかだ。",
+      "content_status": "content_ok",
+      "content_chars": 6389,
+      "source_access": "unknown"
+    },
+    {
+      "number": 12,
+      "title": "植田日銀総裁の講演は6月利上げを示唆したものか",
+      "source": "野村総合研究所(NRI)",
+      "description": "",
+      "url": "https://www.nri.com/jp/media/column/kiuchi/20260604_2.html",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-06-04",
+      "mode": "deep_dive",
+      "summary": {
+        "article_index": 6,
+        "title_ja": "植田日銀総裁の講演は6月利上げを示唆したものか",
+        "key_points": [
+          "本文の論旨は、植田総裁の講演をそのまま6月利上げの明確な予告と読むのは早い、というものだ。",
+          "原油高のような供給ショックだけでは利上げの根拠は弱く、二次的な物価上昇や期待の定着を防ぐ必要が出たときに政策対応が問題になる。",
+          "ただし審議委員の多数判断で利上げが決まる可能性は残り、総裁発言は将来の政策変更に備えた地ならしとして解釈できる余地もある。"
+        ],
+        "detailed_summary": "記事は、植田和男総裁の講演が6月利上げを直接示唆したのかを検討し、結論としては慎重に見るべきだと論じる。中心論点は、原油高のような供給ショックによる物価上昇に対し、中央銀行がすぐ利上げすべきかどうかだ。講演では、単発のコスト上昇より、それが賃金や基調物価に波及する二次効果を警戒する姿勢が読み取れる。つまり現時点で即利上げを断言する材料は弱いが、物価上昇の定着を防ぐ必要が強まれば政策対応はあり得る。政策委員会では総裁単独ではなく多数決で決まるため、発言は将来の判断余地を残すメッセージとも受け止められる。",
+        "why_it_matters": "日銀の利上げ観測は円相場、国債利回り、株式市場に直結する。市場が総裁発言をどう解釈するかで、金融環境が先回りして動いてしまうため、この種の講演の含意は小さくない。",
+        "headline": "日銀の短い言葉をどう市場が織り込むかを整理でき、日本株判断に効く"
+      },
+      "selection_reason": "日銀の短い言葉をどう市場が織り込むかを整理でき、日本株判断に効く",
+      "classification_reason": "日銀の短い言葉をどう市場が織り込むかを整理でき、日本株判断に効く",
+      "knowledge_value": "日銀の利上げ観測は円相場、国債利回り、株式市場に直結する。市場が総裁発言をどう解釈するかで、金融環境が先回りして動いてしまうため、この種の講演の含意は小さくない。",
+      "content_status": "content_ok",
+      "content_chars": 2578,
+      "source_access": "unknown"
+    },
+    {
+      "number": 13,
+      "title": "データセンターにおける1メガワット級ラック",
+      "source": "Semiconductor Engineering",
+      "description": "",
+      "url": "https://semiengineering.com/1-megawatt-racks-in-data-centers/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-06-03",
+      "mode": "deep_dive",
+      "summary": {
+        "article_index": 1,
+        "title_ja": "データセンターにおける1メガワット級ラック",
+        "key_points": [
+          "AIデータセンターでは学習と推論性能の要求増大により、ラック単位の消費電力が1メガワット級へ近づいている。",
+          "次世代AIサーバーラックは複数のSoC、高度な先端パッケージ、高速インターフェースIP、光接続を組み合わせる構成になっている。",
+          "実現には3.5D/3D-IC、階層化されたメモリ分離、コパッケージドオプティクス、信頼性と標準化の再設計が必要になる。"
+        ],
+        "detailed_summary": "2026年6月3日の記事は、AIデータセンターで性能競争が加速するなか、1ラック当たりの電力消費が1メガワット級に達しつつある現状を取り上げる。SynopsysのManmeet Walia氏は、次世代ラックでは複数SoCを先端パッケージで束ね、高速PHYや光配線で接続し、学習と推論を支えると説明する。鍵になるのは3.5D/3D-IC、階層メモリ、光インターコネクト、そして材料から試験まで含めたシステム全体の信頼性確保だ。",
+        "why_it_matters": "AIインフラの競争軸がチップ単体からラック全体の電力、配線、冷却、信頼性へ移っていることを示すニュースだ。半導体、光通信、データセンター設計の境界が急速に溶け、供給網や標準化にも影響が広がる。",
+        "headline": "1MWラック前提の熱と配電制約が見え、AIインフラの実装限界を掴める"
+      },
+      "selection_reason": "1MWラック前提の熱と配電制約が見え、AIインフラの実装限界を掴める",
+      "classification_reason": "1MWラック前提の熱と配電制約が見え、AIインフラの実装限界を掴める",
+      "knowledge_value": "AIインフラの競争軸がチップ単体からラック全体の電力、配線、冷却、信頼性へ移っていることを示すニュースだ。半導体、光通信、データセンター設計の境界が急速に溶け、供給網や標準化にも影響が広がる。",
+      "content_status": "content_ok",
+      "content_chars": 13372,
+      "source_access": "unknown"
+    }
+  ]
+}
