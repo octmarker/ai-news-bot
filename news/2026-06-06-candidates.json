@@ -1,0 +1,515 @@
+{
+  "date": "2026-06-06",
+  "mode": "multimode",
+  "articles": [
+    {
+      "number": 1,
+      "title": "請求の時が来た：AIの暴走コスト管理に追われる業界の舞台裏",
+      "source": "TechCrunch",
+      "description": "",
+      "url": "https://techcrunch.com/2026/06/05/the-token-bill-comes-due-inside-the-industry-scramble-to-manage-ais-runaway-costs/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-06-05",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 1,
+        "title_ja": "請求の時が来た：AIの暴走コスト管理に追われる業界の舞台裏",
+        "key_points": [
+          "AI導入が進む一方で、企業のトークン消費が急増し、予算超過が深刻化している。",
+          "UberやMicrosoft、Pricelineなどで、AI開発ツールや契約費用の見直しが起きている。",
+          "Linux Foundation傘下でTokenomics Foundationが立ち上がり、AI支出管理の標準化が進み始めた。"
+        ],
+        "detailed_summary": "記事は、AIの単価下落にもかかわらず、利用拡大と自律型エージェントの普及で企業のトークン消費が爆発的に増え、予算管理が崩れている現状を描く。Uberは2026年分のAIコーディング予算を4月までに使い切り、MicrosoftはClaude Codeの社内ライセンスを停止。Pricelineでも契約更新費が4〜5倍に跳ね上がった。こうした混乱を受け、企業の関心は性能より可視化、監査性、利用制御へ移行し、Linux Foundationの新団体がAI版FinOpsの標準作りに乗り出した。",
+        "why_it_matters": "AI活用の成否が、モデル性能だけでなく運用コストをどこまで統制できるかに移りつつある。企業向けAI市場では、生成性能より管理基盤の価値が急速に高まる。",
+        "headline": "AI導入の論点が性能から採算管理へ移った。MVP運用の前提を直撃する"
+      },
+      "selection_reason": "AI導入の論点が性能から採算管理へ移った。MVP運用の前提を直撃する",
+      "classification_reason": "AI導入の論点が性能から採算管理へ移った。MVP運用の前提を直撃する",
+      "knowledge_value": "AI活用の成否が、モデル性能だけでなく運用コストをどこまで統制できるかに移りつつある。企業向けAI市場では、生成性能より管理基盤の価値が急速に高まる。",
+      "content_status": "content_ok",
+      "content_chars": 7841,
+      "source_access": "free"
+    },
+    {
+      "number": 2,
+      "title": "GoogleとFBIが警告、偽のIT担当者を現地に送り込むランサム集団",
+      "source": "TechCrunch",
+      "description": "",
+      "url": "https://techcrunch.com/2026/06/05/google-and-fbi-warn-of-ransomware-group-that-sends-fake-it-workers-to-hack-victims-in-person/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-06-05",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 2,
+        "title_ja": "GoogleとFBIが警告、偽のIT担当者を現地に送り込むランサム集団",
+        "key_points": [
+          "Silent Ransom Groupは、法務系企業を中心にIT支援を装った攻撃を展開している。",
+          "一部では偽のIT担当者が実際にオフィスへ入り、USBや遠隔接続でデータを盗んでいる。",
+          "暗号化ではなく情報窃取とリーク脅迫を軸にした恐喝型攻撃が主流になっている。"
+        ],
+        "detailed_summary": "Google傘下のMandiantとFBIは、Silent Ransom Groupが今年1月から5月にかけて複数の法律事務所などを狙い、対面での侵入を含む異例の手口を使っていたと警告した。犯人はITサポート担当を名乗って被害企業に接触し、オフィスで端末にUSBを挿したり、遠隔操作ツールを導入したりして契約書、社会保障番号、財務記録などを持ち出す。盗んだデータは専用リークサイトで公開すると脅し、身代金を要求する。物理侵入とソーシャルエンジニアリングが結び付いた攻撃として警戒が強まっている。",
+        "why_it_matters": "サイバー攻撃がメールやマルウェアだけでなく、現地訪問を伴う現実空間の脅威に広がっている。受付対応、本人確認、端末持ち込み管理まで含めた防御が必要になる。",
+        "headline": "リモート防御だけでは足りない。現場侵入まで含む運用設計が必要になる"
+      },
+      "selection_reason": "リモート防御だけでは足りない。現場侵入まで含む運用設計が必要になる",
+      "classification_reason": "リモート防御だけでは足りない。現場侵入まで含む運用設計が必要になる",
+      "knowledge_value": "サイバー攻撃がメールやマルウェアだけでなく、現地訪問を伴う現実空間の脅威に広がっている。受付対応、本人確認、端末持ち込み管理まで含めた防御が必要になる。",
+      "content_status": "content_ok",
+      "content_chars": 3598,
+      "source_access": "free"
+    },
+    {
+      "number": 3,
+      "title": "米雇用者数は5月に17万2000人増、予想を大幅に上回る 失業率は4.3％",
+      "source": "CNBC",
+      "description": "",
+      "url": "https://www.cnbc.com/2026/06/05/jobs-report-may-2026.html",
+      "category": "経済・金融",
+      "published_at": "2026-06-05",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 3,
+        "title_ja": "米雇用者数は5月に17万2000人増、予想を大幅に上回る 失業率は4.3％",
+        "key_points": [
+          "5月の米非農業部門雇用者数は17万2000人増で、市場予想の8万人を大きく上回った。",
+          "失業率は4.3％で横ばい、賃金上昇率も前月比0.3％、前年比3.4％と底堅かった。",
+          "強い雇用統計を受け、FRBの早期利下げ観測はさらに後退した。"
+        ],
+        "detailed_summary": "米労働省による5月の雇用統計は、非農業部門雇用者数が前月比17万2000人増となり、市場予想を大幅に上回った。4月分も上方修正され、雇用の基調は想定以上に強い。業種別ではレジャー・接客が7万人増、地方政府が5万5000人増、医療も堅調だった。失業率は4.3％、労働参加率は61.8％で安定し、家計調査でも就業者が増えた。インフレや高エネルギー価格の逆風がある中でも労働市場は崩れておらず、FRBは当面、利下げを急ぎにくい状況が続くとみられる。",
+        "why_it_matters": "米景気がなお底堅いことを示し、金利、株価、為替の見通しに直接影響する指標だ。利下げ先送りが長引けば、世界の資産価格や資金調達環境にも波及する。",
+        "headline": "利下げ期待を揺らし、金利とバリュエーション前提を即日で更新させる材料"
+      },
+      "selection_reason": "利下げ期待を揺らし、金利とバリュエーション前提を即日で更新させる材料",
+      "classification_reason": "利下げ期待を揺らし、金利とバリュエーション前提を即日で更新させる材料",
+      "knowledge_value": "米景気がなお底堅いことを示し、金利、株価、為替の見通しに直接影響する指標だ。利下げ先送りが長引けば、世界の資産価格や資金調達環境にも波及する。",
+      "content_status": "content_ok",
+      "content_chars": 3848,
+      "source_access": "free"
+    },
+    {
+      "number": 4,
+      "title": "アジアのテック株売り",
+      "source": "CNBC",
+      "description": "",
+      "url": "https://www.cnbc.com/2026/06/05/asian-technology-stocks-sk-hynix-samsung-tsmc-advantest.html",
+      "category": "経済・金融",
+      "published_at": "2026-06-05",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 4,
+        "title_ja": "アジアのテック株売り",
+        "key_points": [
+          "Broadcomの弱い決算をきっかけに、米半導体株が下落し、その流れがアジア市場へ波及した。",
+          "韓国ではSamsung ElectronicsやSK Hynix、日本ではTokyo ElectronやAdvantestが大きく売られた。",
+          "AI関連銘柄からディフェンシブ銘柄へ資金を移す動きが強まっている。"
+        ],
+        "detailed_summary": "アジアのテクノロジー株は金曜日、前日の米半導体株安を引き継いで広く下落した。発端はBroadcomの四半期売上高が期待を下回り、株価が12％超下げたことだ。韓国ではSamsung Electronicsが6.4％安、SK Hynixが9％超安と下げが目立ち、日本でもTokyo ElectronやAdvantestが大幅安。台湾でもHon HaiやTSMCなど主要サプライヤーが軟調だった。市場では、AI相場をけん引してきた銘柄群から、より守りの強いセクターへ資金を移す回転売買が起きている。",
+        "why_it_matters": "AI期待で上がり続けた半導体株に、利益確定とバリュエーション調整が入り始めた可能性がある。アジアの主要指数は半導体依存度が高く、地域市場全体の地合いに直結する。",
+        "headline": "AI主導相場の資金回転がアジア半導体まで波及。地合い変化を測る基準点になる"
+      },
+      "selection_reason": "AI主導相場の資金回転がアジア半導体まで波及。地合い変化を測る基準点になる",
+      "classification_reason": "AI主導相場の資金回転がアジア半導体まで波及。地合い変化を測る基準点になる",
+      "knowledge_value": "AI期待で上がり続けた半導体株に、利益確定とバリュエーション調整が入り始めた可能性がある。アジアの主要指数は半導体依存度が高く、地域市場全体の地合いに直結する。",
+      "content_status": "content_ok",
+      "content_chars": 1431,
+      "source_access": "free"
+    },
+    {
+      "number": 5,
+      "title": "変わらなければならない：ホルムズ海峡の対立がエネルギー安全保障の考え方を書き換えている",
+      "source": "CNBC",
+      "description": "",
+      "url": "https://www.cnbc.com/2026/06/05/iran-war-strait-of-hormuz-renewables-oil-gas.html",
+      "category": "経済・金融",
+      "published_at": "2026-06-05",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 5,
+        "title_ja": "変わらなければならない：ホルムズ海峡の対立がエネルギー安全保障の考え方を書き換えている",
+        "key_points": [
+          "ホルムズ海峡の封鎖長期化で、化石燃料こそがエネルギー安全保障上の弱点だという見方が強まっている。",
+          "専門家や欧州電力大手は、再エネと蓄電、電化の組み合わせがより安定的だと訴えている。",
+          "1970年代の石油危機と違い、今回は太陽光、風力、電池という代替手段がすでに存在する。"
+        ],
+        "detailed_summary": "中東情勢の緊張とホルムズ海峡の封鎖長期化を受け、エネルギー安全保障を巡る議論が大きく変わっている。これまで不安定とみなされてきた再生可能エネルギーではなく、輸入化石燃料の供給網こそが最大のリスクだという認識が広がっている。記事では、EmberのKingsmill Bond氏やFortum、Statkraftの経営陣が、蓄電池の進展によって再エネは以前より安定し、自国で生産できるクリーン電力こそ安全保障の基盤になると主張する。欧州やアジア、アフリカでは燃料高と供給不安が深刻化しており、脱化石燃料の必要性がいっそう鮮明になった。",
+        "why_it_matters": "地政学リスクが、脱炭素を環境政策ではなく安全保障政策として再定義し始めている。エネルギー投資の優先順位や各国の産業戦略が変わる可能性が高い。",
+        "headline": "原油と海運の地政学が電力コストと景気に直結する局面へ入ってきた"
+      },
+      "selection_reason": "原油と海運の地政学が電力コストと景気に直結する局面へ入ってきた",
+      "classification_reason": "原油と海運の地政学が電力コストと景気に直結する局面へ入ってきた",
+      "knowledge_value": "地政学リスクが、脱炭素を環境政策ではなく安全保障政策として再定義し始めている。エネルギー投資の優先順位や各国の産業戦略が変わる可能性が高い。",
+      "content_status": "content_ok",
+      "content_chars": 6055,
+      "source_access": "free"
+    },
+    {
+      "number": 6,
+      "title": "Copilot Pro、Pro+、Max向けにAgent tasks REST APIを提供開始",
+      "source": "GitHub Changelog",
+      "description": "",
+      "url": "https://github.blog/changelog/2026-06-04-agent-tasks-rest-api-now-available-for-copilot-pro-pro-and-max/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-06-04",
+      "mode": "followup",
+      "summary": {
+        "article_index": 6,
+        "title_ja": "Copilot Pro、Pro+、Max向けにAgent tasks REST APIを提供開始",
+        "key_points": [
+          "Copilot Pro、Pro+、Maxの利用者が、クラウド上のCopilotエージェントをREST APIから起動・追跡できるようになった。",
+          "エージェントは独自の開発環境でコード変更を行い、検証後にプルリクエストまで作成できる。",
+          "大量リファクタリング、リポジトリ初期化、定期リリース準備などの自動化に組み込みやすい。"
+        ],
+        "detailed_summary": "GitHubは、Copilot Pro、Pro+、Max向けにAgent tasks REST APIのパブリックプレビュー提供を始めた。これにより、Copilotのクラウドエージェントを外部スクリプトや社内ツールから起動し、進捗をAPI経由で追跡できる。エージェントはバックグラウンドで独立した開発環境を使い、コード修正や検証を行ったうえでプルリクエストを作成する。複数リポジトリへの一括リファクタリング、社内開発ポータルからのセットアップ、週次リリース準備の自動化などが想定例として挙げられており、認証はPATやOAuthに対応する。",
+        "why_it_matters": "開発支援AIが、対話補助からAPIで呼び出せる作業ユニットへ進化している。ソフトウェア開発の自動化レイヤーにCopilotを組み込む流れが加速しそうだ。",
+        "headline": "エージェント実行がUI内機能からAPI運用へ進んだ差分。自動化余地が広い"
+      },
+      "selection_reason": "エージェント実行がUI内機能からAPI運用へ進んだ差分。自動化余地が広い",
+      "classification_reason": "エージェント実行がUI内機能からAPI運用へ進んだ差分。自動化余地が広い",
+      "knowledge_value": "開発支援AIが、対話補助からAPIで呼び出せる作業ユニットへ進化している。ソフトウェア開発の自動化レイヤーにCopilotを組み込む流れが加速しそうだ。",
+      "content_status": "content_ok",
+      "content_chars": 966,
+      "source_access": "free"
+    },
+    {
+      "number": 7,
+      "title": "日銀、次回会合で利上げ検討へ　中東リスク見極め最終判断",
+      "source": "Newsweek Japan",
+      "description": "",
+      "url": "https://www.newsweekjapan.jp/articles/-/324587?display=b",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-06-04",
+      "mode": "followup",
+      "summary": {
+        "article_index": 1,
+        "title_ja": "日銀、次回会合で利上げ検討へ　中東リスク見極め最終判断",
+        "key_points": [
+          "日銀は7月15〜16日の金融政策決定会合で、政策金利を1％へ引き上げる案を検討している。",
+          "中東情勢による原油高などで物価上振れリスクへの警戒が強まり、植田総裁もインフレ対応の必要性を強調した。",
+          "国債買い入れは2026年度中は現行の減額ペースを維持しつつ、2027年4月以降は減額縮小や停止も視野に入る。"
+        ],
+        "detailed_summary": "日銀は次回の金融政策決定会合で、政策金利を1％へ引き上げるかどうかを最終判断する見通しだ。背景には中東情勢の緊迫化に伴う原油高と、それが日本の物価を押し上げる懸念がある。植田総裁は景気下振れより物価上振れへの警戒を明確にし、二次的なインフレ波及にも言及した。一方で、紛争激化による供給混乱や市場動揺の有無は直前まで見極める。国債買い入れは当面の減額方針を維持しつつ、その先は市場安定を優先して柔軟に調整する可能性がある。",
+        "why_it_matters": "日銀が1％利上げに動けば、日本の金融政策は一段と正常化に向かう。家計の借入コストや為替、債券市場に広く影響するため、国内外の投資家にとって重要な局面だ。",
+        "headline": "植田発言の解釈から一歩進み、利上げ判断の具体条件が見えてきた"
+      },
+      "selection_reason": "植田発言の解釈から一歩進み、利上げ判断の具体条件が見えてきた",
+      "classification_reason": "植田発言の解釈から一歩進み、利上げ判断の具体条件が見えてきた",
+      "knowledge_value": "日銀が1％利上げに動けば、日本の金融政策は一段と正常化に向かう。家計の借入コストや為替、債券市場に広く影響するため、国内外の投資家にとって重要な局面だ。",
+      "content_status": "content_ok",
+      "content_chars": 1170,
+      "source_access": "unknown"
+    },
+    {
+      "number": 8,
+      "title": "PPL、データセンターを含む大口需要家向け新料金区分の導入でPUC承認を取得",
+      "source": "DCD",
+      "description": "",
+      "url": "https://www.datacenterdynamics.com/en/news/ppl-secures-puc-approval-to-introduce-new-rate-class-structure-for-large-load-users-including-data-centers/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-06-05",
+      "mode": "followup",
+      "summary": {
+        "article_index": 2,
+        "title_ja": "PPL、データセンターを含む大口需要家向け新料金区分の導入でPUC承認を取得",
+        "key_points": [
+          "米ペンシルベニア州のPPL Electric Utilitiesが、データセンターなど大口需要家向けの新たな料金区分について当局承認を得た。",
+          "新制度では最低10年の長期利用義務や財務コミットメントを課し、2027年以降は低所得世帯支援のため年1100万ドルを拠出する。",
+          "背景にはデータセンター由来の急増する電力需要があり、州内の接続申請は数十GW規模に膨らんでいる。"
+        ],
+        "detailed_summary": "PPL Electric Utilitiesは、データセンターを含む大口電力需要家向けに新しい料金区分を導入することについて、ペンシルベニア州公益事業委員会の承認を得た。新制度では、対象顧客に最低10年の利用義務や長期的な費用負担を求め、既存利用者へのしわ寄せを抑える設計となる。集めた資金は老朽設備更新、送配電の強靱化、スマートグリッド整備などに充てられる。AIやクラウド拡大でデータセンターの電力需要が急増する中、巨大需要家にインフラ費用を適切に負担させる流れが州単位で広がっている。",
+        "why_it_matters": "AI時代の電力需要増に対し、誰が送配電コストを負担するかを明確にする動きとして重要だ。データセンター投資の採算性だけでなく、一般家庭の電気料金や電力網整備のあり方にも直結する。",
+        "headline": "AI計算需要が電力料金制度を変え始めた。推論コストの外部要因として重要"
+      },
+      "selection_reason": "AI計算需要が電力料金制度を変え始めた。推論コストの外部要因として重要",
+      "classification_reason": "AI計算需要が電力料金制度を変え始めた。推論コストの外部要因として重要",
+      "knowledge_value": "AI時代の電力需要増に対し、誰が送配電コストを負担するかを明確にする動きとして重要だ。データセンター投資の採算性だけでなく、一般家庭の電気料金や電力網整備のあり方にも直結する。",
+      "content_status": "content_ok",
+      "content_chars": 3294,
+      "source_access": "unknown"
+    },
+    {
+      "number": 9,
+      "title": "欧州委員会、域内半導体産業をさらに強化するChips Act 2.0を発表",
+      "source": "DCD",
+      "description": "",
+      "url": "https://www.datacenterdynamics.com/en/news/european-commission-unveils-chips-act-20-to-further-strengthen-chip-industry-across-the-continent/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-06-05",
+      "mode": "followup",
+      "summary": {
+        "article_index": 3,
+        "title_ja": "欧州委員会、域内半導体産業をさらに強化するChips Act 2.0を発表",
+        "key_points": [
+          "欧州委員会は2023年のEU Chips Actを補完する新提案として、Chips Act 2.0を公表した。",
+          "投資環境の改善、需要喚起、供給強化、依存低減とレジリエンス向上の4本柱で半導体産業を底上げする。",
+          "許認可の迅速化や地域ラベル創設、データセンターやAI向け需要取り込みを通じて欧州の技術主権を高める狙いがある。"
+        ],
+        "detailed_summary": "欧州委員会は、半導体分野で第三国依存を減らし、欧州の競争力を高めるためのChips Act 2.0を打ち出した。2023年の初版法で一定の前進はあったものの、製造や設計の重要領域ではなお域外依存が残るため、今回は投資促進、産業需要の喚起、供給側支援、サプライチェーン強靱化の4目標を掲げる。許認可の迅速化や国際連携の深化に加え、半導体産業クラスターへの新たな認証も導入する。AI、クラウド、データセンター需要を取り込みつつ、欧州の技術主権を経済安全保障の中核に据える姿勢が鮮明だ。",
+        "why_it_matters": "半導体はAI、クラウド、防衛まで支える基盤であり、供給網の主導権はそのまま地政学上の力になる。欧州が追加策に踏み込んだことで、米中欧の産業政策競争はさらに激しくなる。",
+        "headline": "半導体競争が補助金第2幕に入った。供給網と資本配分の追跡点になる"
+      },
+      "selection_reason": "半導体競争が補助金第2幕に入った。供給網と資本配分の追跡点になる",
+      "classification_reason": "半導体競争が補助金第2幕に入った。供給網と資本配分の追跡点になる",
+      "knowledge_value": "半導体はAI、クラウド、防衛まで支える基盤であり、供給網の主導権はそのまま地政学上の力になる。欧州が追加策に踏み込んだことで、米中欧の産業政策競争はさらに激しくなる。",
+      "content_status": "content_ok",
+      "content_chars": 2358,
+      "source_access": "unknown"
+    },
+    {
+      "number": 10,
+      "title": "Dreaming: より役立つChatGPTのための高度なメモリ",
+      "source": "OpenAI",
+      "description": "",
+      "url": "https://openai.com/index/chatgpt-memory-dreaming/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-06-04",
+      "mode": "deep_dive",
+      "summary": {
+        "article_index": 4,
+        "title_ja": "Dreaming: より役立つChatGPTのための高度なメモリ",
+        "key_points": [
+          "OpenAIは、ChatGPTのメモリをより新鮮で正確かつ拡張しやすくする新しい“dreaming”ベースの仕組みを導入した。",
+          "従来の保存型メモリは明示的な記憶依頼に依存し、古くなりやすい課題があったが、新方式は会話履歴から継続的に文脈を統合する。",
+          "この更新はまず米国のPlusとProユーザー向けに提供され、今後ほかの国やFree、Goユーザーにも拡大される。"
+        ],
+        "detailed_summary": "OpenAIは、ChatGPTがユーザーの好みや進行中の作業、制約条件をより正確に把握できるよう、dreamingを基盤にした新しいメモリアーキテクチャの展開を始めた。従来のsaved memoriesは会話中に明示的に記録された内容が中心で、時間が経つと古くなったり、文脈を取りこぼしたりする弱点があった。新方式では、複数の会話から背景で情報を統合し、より最新で関連性の高い文脈を保てる。ユーザーはメモリ要約ページで内容を確認・修正でき、個別の会話をまたいだ継続的なパーソナライズが強まる。",
+        "why_it_matters": "生成AIの実用性は、その場の応答精度だけでなく、長期的に文脈を保持できるかで大きく変わる。メモリ改善はChatGPTを単発の対話ツールから、継続利用前提の作業相手へ進化させる要素になる。",
+        "headline": "長期記憶は保存量ではなく統合方法が差になるという仮説を具体化できる"
+      },
+      "selection_reason": "長期記憶は保存量ではなく統合方法が差になるという仮説を具体化できる",
+      "classification_reason": "長期記憶は保存量ではなく統合方法が差になるという仮説を具体化できる",
+      "knowledge_value": "生成AIの実用性は、その場の応答精度だけでなく、長期的に文脈を保持できるかで大きく変わる。メモリ改善はChatGPTを単発の対話ツールから、継続利用前提の作業相手へ進化させる要素になる。",
+      "content_status": "content_ok",
+      "content_chars": 7414,
+      "source_access": "free"
+    },
+    {
+      "number": 11,
+      "title": "本番運用におけるコンピュータ操作エージェント――VMサンドボックス、操作監査、復旧",
+      "source": "AppScale Blog",
+      "description": "",
+      "url": "https://appscale.blog/en/blog/computer-use-agent-production-architecture-vm-sandbox-action-audit-2026",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-06-04",
+      "mode": "deep_dive",
+      "summary": {
+        "article_index": 5,
+        "title_ja": "本番運用におけるコンピュータ操作エージェント――VMサンドボックス、操作監査、復旧",
+        "key_points": [
+          "記事は、コンピュータ操作型エージェントを本番投入する際の設計上の落とし穴と、運用で必要な安全策をFAQ形式で整理している。",
+          "焦点はVMサンドボックス、操作ログの完全監査、取り消し不能な操作の制御、障害復旧、PII保護、プロンプトインジェクション対策にある。",
+          "単なるデモではなく、監査可能で回復力のある運用基盤を整えないと、本番利用には耐えないという立場が示されている。"
+        ],
+        "detailed_summary": "この文章は、コンピュータ画面を直接操作するAIエージェントを本番環境に載せる際に直面する論点を、FAQ形式で提示している。主題は、ブラウザ自動化で足りる場面とフルOS仮想環境が必要な場面の切り分け、改ざん不能な操作台帳の設計、取り消し不能な処理に対するゲート、失敗時に途中から再開する復旧戦略、監査用スクリーンショットからの個人情報漏えい防止などだ。狙いは、便利な自動化の裏で見落とされやすい統制と安全性を先回りして設計し、本番品質のエージェント基盤を構築する指針を示すことにある。",
+        "why_it_matters": "コンピュータ操作エージェントは業務自動化の有力手段だが、事故が起きると被害が大きい。実運用ではモデル性能より、監査性、隔離、復旧設計のほうが成否を左右する。",
+        "headline": "高権限エージェント運用で必要な隔離、監査、復旧の設計判断を深められる"
+      },
+      "selection_reason": "高権限エージェント運用で必要な隔離、監査、復旧の設計判断を深められる",
+      "classification_reason": "高権限エージェント運用で必要な隔離、監査、復旧の設計判断を深められる",
+      "knowledge_value": "コンピュータ操作エージェントは業務自動化の有力手段だが、事故が起きると被害が大きい。実運用ではモデル性能より、監査性、隔離、復旧設計のほうが成否を左右する。",
+      "content_status": "content_ok",
+      "content_chars": 877,
+      "source_access": "unknown"
+    },
+    {
+      "number": 12,
+      "title": "マルチエージェントオーケストレーションにおける、スケジュール型クロスエージェント記憶注入の設計上の盲点",
+      "source": "arXiv",
+      "description": "",
+      "url": "https://arxiv.org/abs/2606.04896",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-06-04",
+      "mode": "deep_dive",
+      "summary": {
+        "article_index": 6,
+        "title_ja": "マルチエージェントオーケストレーションにおける、スケジュール型クロスエージェント記憶注入の設計上の盲点",
+        "key_points": [
+          "このarXiv論文は、マルチエージェント環境で一方のエージェントが他方の永続メモリへ知識を書き込む際の失敗モードを分析している。",
+          "著者は、cron実行経由の記憶注入がメモリ隔離ガードにより静かに失敗する現象を“channel fracture”と命名した。",
+          "対策として、配信経路の検証を重視するCADVP v1.1という13次元の検証プロトコルを提案している。"
+        ],
+        "detailed_summary": "このプレプリントは、マルチエージェントAIの運用で使われる永続メモリ共有に、見過ごしやすい設計欠陥があると報告している。対象は、あるエージェントが別エージェントの記憶へ知識を注入する仕組みで、特にcronベースのスケジュール実行では、メモリ隔離設定や初期化条件の違いにより書き込みが表面上成功したように見えて実際は失敗するという。著者はこれをchannel fractureと定義し、誤った成功判定を防ぐため、配信経路そのものを検証するCADVP v1.1を提案した。マルチエージェント設計における検証不足を突く内容だ。",
+        "why_it_matters": "マルチエージェント運用では、知識共有が動いている前提で設計すると静かな失敗が重大事故につながる。メモリ注入の成否を厳密に検証する発想は、実サービスの信頼性を底上げする。",
+        "headline": "記憶注入型のマルチエージェント設計に潜む破綻点を理論側から点検できる"
+      },
+      "selection_reason": "記憶注入型のマルチエージェント設計に潜む破綻点を理論側から点検できる",
+      "classification_reason": "記憶注入型のマルチエージェント設計に潜む破綻点を理論側から点検できる",
+      "knowledge_value": "マルチエージェント運用では、知識共有が動いている前提で設計すると静かな失敗が重大事故につながる。メモリ注入の成否を厳密に検証する発想は、実サービスの信頼性を底上げする。",
+      "content_status": "content_ok",
+      "content_chars": 2921,
+      "source_access": "free"
+    },
+    {
+      "number": 13,
+      "title": "GoogleとIntersect Power、テキサスで併設型データセンターと1GW超のエネルギー計画を着工",
+      "source": "Data Center Dynamics",
+      "description": "",
+      "url": "https://www.datacenterdynamics.com/en/news/make-more-data-center-centric0916claude-responded-google-breaks-ground-on-colocated-data-center-and-1gw-energy-project-in-texasgoogle-breaks-ground-on-colocated-data-center-and-1gw-energy-project-in-texas/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-06-05",
+      "mode": "deep_dive",
+      "summary": {
+        "article_index": 1,
+        "title_ja": "GoogleとIntersect Power、テキサスで併設型データセンターと1GW超のエネルギー計画を着工",
+        "key_points": [
+          "GoogleとIntersect Powerがテキサス州でデータセンターと1GW超の風力・太陽光・蓄電設備を一体開発する",
+          "発電設備と同時稼働させることで、データセンターの需要を系統への追加負担なしで賄う構想だ",
+          "Googleは2027年までにテキサス州のクラウド・AI基盤へ400億ドルを投じる方針を示している"
+        ],
+        "detailed_summary": "GoogleとIntersect Powerは、テキサス州グレイ郡とロバーツ郡にまたがるMeitner Energy Centerで、データセンターと1GW超の風力、太陽光、蓄電設備を併設する計画を着工した。発電資産とデータセンターを同時立ち上げする設計で、系統から余剰電力を引き出さずに需要を満たす狙いがある。施設は高度な空冷を採用し、水使用をトイレなど小規模用途に抑える。GoogleはIntersectを親会社Alphabet経由で買収済みで、同州でAIインフラ拡大を加速している。",
+        "why_it_matters": "AI向けデータセンターの急増で電力制約が深刻になる中、発電と計算資源を一体整備するモデルは有力な解決策になりうる。水使用抑制まで含めた設計は、地域受容性と持続可能性の両面で示唆が大きい。",
+        "headline": "AI競争の本丸がモデルから電源確保へ移る構造を事業目線で捉え直せる"
+      },
+      "selection_reason": "AI競争の本丸がモデルから電源確保へ移る構造を事業目線で捉え直せる",
+      "classification_reason": "AI競争の本丸がモデルから電源確保へ移る構造を事業目線で捉え直せる",
+      "knowledge_value": "AI向けデータセンターの急増で電力制約が深刻になる中、発電と計算資源を一体整備するモデルは有力な解決策になりうる。水使用抑制まで含めた設計は、地域受容性と持続可能性の両面で示唆が大きい。",
+      "content_status": "content_ok",
+      "content_chars": 2775,
+      "source_access": "unknown"
+    },
+    {
+      "number": 14,
+      "title": "Skeleton Technologies、AIデータセンター向け新UPSを投入",
+      "source": "Data Center Dynamics",
+      "description": "",
+      "url": "https://www.datacenterdynamics.com/en/news/skeleton-technologies-launches-new-ups-for-the-ai-data-center-market/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-06-04",
+      "mode": "deep_dive",
+      "summary": {
+        "article_index": 2,
+        "title_ja": "Skeleton Technologies、AIデータセンター向け新UPSを投入",
+        "key_points": [
+          "Skeleton TechnologiesがAIデータセンター向けUPS「GrapheneUPS」を発表した",
+          "常時二重変換方式により、電圧低下や瞬断などの系統変動からAI機器を隔離して保護する",
+          "同社は計算能力を40％高め、必要な系統接続容量を最大44％縮小できると主張している"
+        ],
+        "detailed_summary": "エストニア発のエネルギー基盤企業Skeleton Technologiesは、AIデータセンター向け無停電電源装置GrapheneUPSを公開した。交流を直流に変換して再び交流に戻す常時二重変換方式を採用し、電圧低下や停電復旧時の揺らぎから重要機器を切り離す。短時間の電力変動を高速に吸収し、追加の安定化装置なしで系統要件への適合を支援する設計だ。白スペースや灰色スペース、屋外コンテナでも導入でき、長時間向け蓄電設備を補完する近接保護層として位置付けられている。",
+        "why_it_matters": "AIデータセンターは急峻な負荷変動を起こしやすく、従来型の電源保護だけでは非効率が目立つ。電力品質の維持と接続容量の圧縮を同時に狙えるなら、AIインフラ拡張の速度とコストに直結する。",
+        "headline": "GPUや発電所だけでなく給電安定化が制約になる点を補強してくれる"
+      },
+      "selection_reason": "GPUや発電所だけでなく給電安定化が制約になる点を補強してくれる",
+      "classification_reason": "GPUや発電所だけでなく給電安定化が制約になる点を補強してくれる",
+      "knowledge_value": "AIデータセンターは急峻な負荷変動を起こしやすく、従来型の電源保護だけでは非効率が目立つ。電力品質の維持と接続容量の圧縮を同時に狙えるなら、AIインフラ拡張の速度とコストに直結する。",
+      "content_status": "content_ok",
+      "content_chars": 3076,
+      "source_access": "unknown"
+    },
+    {
+      "number": 15,
+      "title": "グランド・セフト・オートVIがゲーム発売カレンダーをゆがめている",
+      "source": "The Verge",
+      "description": "Who's afraid of the next GTA? Based on the last few days of Summer Game Fest, just about everyone. Grand Theft Auto VI hasn't been present at any of the keynote events, but its presence was felt every time a release date was announced. The month of November, when GTA VI launches, is virtually empty. […]",
+      "url": "https://www.theverge.com/entertainment/944229/grand-theft-auto-6-release-calendar-summer-game-fest",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-06-05",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 3,
+        "title_ja": "グランド・セフト・オートVIがゲーム発売カレンダーをゆがめている",
+        "key_points": [
+          "11月のGTA VI発売を避ける形で、主要タイトルの発売時期が前倒しや後ろ倒しになっている",
+          "9月から10月にかけて大型タイトルが密集し、逆に11月は異例の空白地帯になっている",
+          "影響を受けているのはインディーではなくSony、Microsoft、Capcomなど大手各社だ"
+        ],
+        "detailed_summary": "RockstarのGrand Theft Auto VIが11月発売を控えるなか、業界全体の発売計画が大きく動いている。SonyのState of Playでは9月末から10月初旬に有力作が集中し、Summer Game Festでは一部の注目作が2027年や来春へと先送りされた。MicrosoftもFable延期の説明で、今年は大作が詰まり過ぎているとし、GTA VIを名指しで言及している。単なる偶然ではなく、圧倒的販売力を持つ作品との正面衝突を避ける判断が広範囲に起きている構図だ。",
+        "why_it_matters": "一本の超大型作が業界全体の編成を左右する状況は、ゲーム市場の集中度の高さを示している。発売時期の再配置は売上だけでなく、宣伝費、プレイヤーの可処分時間、他作品の評価機会まで変えてしまう。",
+        "headline": "一本のIPが市場全体の発売計画を曲げる現象は、注目独占の力学を学べる"
+      },
+      "selection_reason": "一本のIPが市場全体の発売計画を曲げる現象は、注目独占の力学を学べる",
+      "classification_reason": "一本のIPが市場全体の発売計画を曲げる現象は、注目独占の力学を学べる",
+      "knowledge_value": "一本の超大型作が業界全体の編成を左右する状況は、ゲーム市場の集中度の高さを示している。発売時期の再配置は売上だけでなく、宣伝費、プレイヤーの可処分時間、他作品の評価機会まで変えてしまう。",
+      "content_status": "content_ok",
+      "content_chars": 4878,
+      "source_access": "free"
+    },
+    {
+      "number": 16,
+      "title": "Appleが次世代AirPodsにカメラを搭載するかもしれない理由",
+      "source": "WIRED",
+      "description": "",
+      "url": "https://www.wired.com/story/why-apple-might-put-cameras-into-its-next-airpods/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-06-06",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 4,
+        "title_ja": "Appleが次世代AirPodsにカメラを搭載するかもしれない理由",
+        "key_points": [
+          "Appleは周囲を見て理解できるSiri実現に向け、カメラ付きAirPodsを検討していると報じられた",
+          "ハードは進んでいても、Siriの視覚認識性能とプライバシー懸念が商品化の障害になっている",
+          "用途としては歩行ナビ、買い物支援、状況理解、アクセシビリティ強化などが想定される"
+        ],
+        "detailed_summary": "Appleは、装着者の周囲をSiriが視覚的に把握するためのカメラ付きAirPodsをテストしていると報じられた。写真や動画撮影が主目的ではなく、ランドマークを用いたナビゲーションや食材認識、他デバイスとの連携による文脈理解を狙う構想だ。ただし、関係者によればハードウェアは準備できていても、Siriの視覚インテリジェンスが十分ではなく、イヤホンにカメラを載せること自体が大きなプライバシーリスクになりうるため、投入は遅れる可能性がある。利便性と社会的受容のせめぎ合いが鮮明になっている。",
+        "why_it_matters": "AppleがAI体験を次の段階へ進めるには、音声だけでなく周辺状況の理解が欠かせない。だが身体装着型カメラは利便性以上に監視不安を呼びやすく、AIデバイス普及の境界線を測る試金石になる。",
+        "headline": "常時装着デバイスが視覚入力を持つと、個人AIの入口と監視論点が変わる"
+      },
+      "selection_reason": "常時装着デバイスが視覚入力を持つと、個人AIの入口と監視論点が変わる",
+      "classification_reason": "常時装着デバイスが視覚入力を持つと、個人AIの入口と監視論点が変わる",
+      "knowledge_value": "AppleがAI体験を次の段階へ進めるには、音声だけでなく周辺状況の理解が欠かせない。だが身体装着型カメラは利便性以上に監視不安を呼びやすく、AIデバイス普及の境界線を測る試金石になる。",
+      "content_status": "content_ok",
+      "content_chars": 9201,
+      "source_access": "unknown",
+      "content_excerpt": "If you were to ding Apple’s privacy credentials in one move, you could do worse than to launch AirPods with cameras. Whether or not they..."
+    },
+    {
+      "number": 17,
+      "title": "現場の運用リスクになったAIエージェント、安全対策が追いつかない理由",
+      "source": "TechRadar",
+      "description": "",
+      "url": "https://www.techradar.com/pro/a-live-operational-risk-why-ai-agents-are-outrunning-your-security",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-06-04",
+      "mode": "adjacent",
+      "summary": {
+        "article_index": 5,
+        "title_ja": "現場の運用リスクになったAIエージェント、安全対策が追いつかない理由",
+        "key_points": [
+          "AIエージェントの導入は進む一方で、成熟したガバナンスを持つ組織は21％にとどまる",
+          "問題は人手不足より、ガバナンスが自己申告と書類整備で止まり実行時制御に落ちていない点にある",
+          "継続的に動くエージェントは従来の人間中心・決定論的ソフト向け統治では扱いきれない"
+        ],
+        "detailed_summary": "この記事は、企業がAIエージェントを実運用へ急速に広げる一方で、安全管理が紙の上にとどまっていると警告する。Deloitte調査では多くの企業がAIのセキュリティとプライバシーを懸念するが、成熟した統治体制を持つ組織は少数だ。根本問題は、方針や審査会は作っても、実行時に権限や行動を監視し制御する技術基盤が整っていないことにある。常時稼働し、自律的に複数システムをまたぐエージェントは、従来のチェックリスト型統治では抑え込めないという指摘だ。",
+        "why_it_matters": "AIエージェントは単なるチャット機能ではなく、実際に行動する運用主体になりつつある。統治の見せかけが続けば、誤作動や情報流出が起きた時に被害は一気に業務レベルへ広がる。",
+        "headline": "導入後の事故責任をどう持つかという、実務導入の次の壁を先に見られる"
+      },
+      "selection_reason": "導入後の事故責任をどう持つかという、実務導入の次の壁を先に見られる",
+      "classification_reason": "導入後の事故責任をどう持つかという、実務導入の次の壁を先に見られる",
+      "knowledge_value": "AIエージェントは単なるチャット機能ではなく、実際に行動する運用主体になりつつある。統治の見せかけが続けば、誤作動や情報流出が起きた時に被害は一気に業務レベルへ広がる。",
+      "content_status": "content_ok",
+      "content_chars": 7406,
+      "source_access": "unknown",
+      "adjacent_field": "自律ソフトウェアの監査ログ・保険・エージェントID管理",
+      "adjacent_reasoning": "AIエージェント運用への関心が深い人にとって、次の広がりはモデル性能競争ではなく、事故が起きたとき誰が責任を負い、何を証跡として残し、どこまで保険で引き受けられるかという社会実装の層です。これは権限管理、安全性、遠隔運用、実務導入を一つの制約条件として束ねて見られる分野です。"
+    },
+    {
+      "number": 18,
+      "title": "排除し、活用し、欲張れ 保険業界に向けたマクギャビックのAI戦略",
+      "source": "Carrier Management",
+      "description": "",
+      "url": "https://www.carriermanagement.com/features/2026/06/05/288724.htm",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-06-05",
+      "mode": "adjacent",
+      "summary": {
+        "article_index": 6,
+        "title_ja": "排除し、活用し、欲張れ 保険業界に向けたマクギャビックのAI戦略",
+        "key_points": [
+          "元XL Group CEOのマイク・マクギャビックは、保険業界がAI活用の可能性を十分に形にできていないと批判した",
+          "業界は新技術に対して排除、活用、保険化の順で反応してきたとし、AIでも同じ流れが起きると見ている",
+          "小型の業界特化モデルが引受、保険金支払い、再保険、アクチュアリー業務を変える可能性を示した"
+        ],
+        "detailed_summary": "元XL GroupおよびSafeco InsuranceのCEO、マイク・マクギャビックは、保険業界はAIを語る割に本来果たすべき役割を十分に果たしていないと指摘した。社会に新たなリスクが生まれた時、業界はまず除外し、その後に活用し、最後に保険商品化を探るという行動パターンを繰り返してきたという。AIについては、業務を自動化する業界特化の小型言語モデルが引受や保険金査定などを変える可能性が高い一方、信頼性の判定役としてアクチュアリーの責任が増すと強調した。サイバー保険の規模が実被害に比べて小さい点も、業界の遅れの象徴として挙げている。",
+        "why_it_matters": "保険は新しいリスクを社会に移転する仕組みであり、AI時代にその役割を果たせるかは産業全体の価値を左右する。AIを業務効率化で終わらせず、新リスクの引受設計まで広げられるかが問われている。",
+        "headline": "AI事故を保険商品と引受判断で扱う視点は、権限設計の外部条件になる"
+      },
+      "selection_reason": "AI事故を保険商品と引受判断で扱う視点は、権限設計の外部条件になる",
+      "classification_reason": "AI事故を保険商品と引受判断で扱う視点は、権限設計の外部条件になる",
+      "knowledge_value": "保険は新しいリスクを社会に移転する仕組みであり、AI時代にその役割を果たせるかは産業全体の価値を左右する。AIを業務効率化で終わらせず、新リスクの引受設計まで広げられるかが問われている。",
+      "content_status": "content_ok",
+      "content_chars": 15786,
+      "source_access": "unknown",
+      "adjacent_field": "自律ソフトウェアの監査ログ・保険・エージェントID管理",
+      "adjacent_reasoning": "AIエージェント運用への関心が深い人にとって、次の広がりはモデル性能競争ではなく、事故が起きたとき誰が責任を負い、何を証跡として残し、どこまで保険で引き受けられるかという社会実装の層です。これは権限管理、安全性、遠隔運用、実務導入を一つの制約条件として束ねて見られる分野です。"
+    }
+  ]
+}
