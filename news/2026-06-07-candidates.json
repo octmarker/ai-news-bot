@@ -1,0 +1,400 @@
+{
+  "date": "2026-06-07",
+  "mode": "multimode",
+  "articles": [
+    {
+      "number": 1,
+      "title": "トランプ政権、OpenAIへの出資持分取得を検討か",
+      "source": "TechCrunch",
+      "description": "",
+      "url": "https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-06-06",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 1,
+        "title_ja": "トランプ政権、OpenAIへの出資持分取得を検討か",
+        "key_points": [
+          "トランプ大統領はAI企業の成功を国民利益につなげる枠組みについて協議していると発言した。",
+          "CNBCは、政権がOpenAIの株式持分取得を協議していると報じ、その一部を国民向けのPublic Wealth Fundの原資に使う案が浮上している。",
+          "サンダース上院議員の株式課税案など超党派で類似発想が出る一方、政財癒着を強めるとの警戒もある。"
+        ],
+        "detailed_summary": "トランプ大統領は、AI企業の成長果実を米国民が直接受け取れる仕組みについて経営陣と協議していると述べた。報道では、その有力候補がOpenAIで、政権が同社の株式持分取得を検討しているという。取得分はOpenAIが提唱するPublic Wealth Fundの原資となり、国民への分配に使う構想もある。サム・アルトマンCEOは2025年初めから政府出資案を議論してきたとされ、サンダース議員もAI大手に株式による課税を提案。左右両陣営で支持の芽がある一方、政府と企業の一体化を懸念する声も強い。",
+        "why_it_matters": "AIの利益を誰が受け取るかという分配の議論が、規制ではなく資本参加の形で本格化し始めた。実現すればOpenAIの経営、上場、公共性の位置づけが大きく変わる。",
+        "headline": "OpenAIを政策資産として扱う転換点で、資本と規制の関係が一気に変わる"
+      },
+      "selection_reason": "OpenAIを政策資産として扱う転換点で、資本と規制の関係が一気に変わる",
+      "classification_reason": "OpenAIを政策資産として扱う転換点で、資本と規制の関係が一気に変わる",
+      "knowledge_value": "AIの利益を誰が受け取るかという分配の議論が、規制ではなく資本参加の形で本格化し始めた。実現すればOpenAIの経営、上場、公共性の位置づけが大きく変わる。",
+      "content_status": "content_ok",
+      "content_chars": 2390,
+      "source_access": "free"
+    },
+    {
+      "number": 2,
+      "title": "OpenAI、プロンプトインジェクション対策のLockdown Modeを公開",
+      "source": "TechCrunch",
+      "description": "",
+      "url": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-06-06",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 2,
+        "title_ja": "OpenAI、プロンプトインジェクション対策のLockdown Modeを公開",
+        "key_points": [
+          "Lockdown Modeは、悪意ある指示を埋め込んだ外部コンテンツ経由の情報流出リスクを減らすための新機能だ。",
+          "有効化するとライブWeb閲覧、Web画像の取得表示、deep research、agent modeなどが無効化される。",
+          "完全防御ではなく、キャッシュ済みWebやアップロードファイル経由では依然リスクが残るが、機密情報を扱う個人や組織向けに提供される。"
+        ],
+        "detailed_summary": "OpenAIは、Webページや外部データに潜む悪意ある命令文によってチャットボットが誘導されるプロンプトインジェクション対策として、Lockdown Modeを発表した。この機能を使うと、ライブWebブラウジング、Web上の画像取得と表示、deep research、agent modeが停止し、外部データへの接触を強く制限する。もっとも、キャッシュ済みコンテンツやアップロードファイル経由の攻撃は残るため万能ではない。目的は脆弱性の根絶ではなく、機密データの持ち出し確率を下げることにある。現在はChatGPT Businessのセルフサービス契約と一部個人アカウントへ順次展開中だ。",
+        "why_it_matters": "企業利用が進むほど、モデル性能より情報漏えい耐性が重要になる。利便性を削ってでも安全性を優先する運用モードが正式機能化した意味は大きい。",
+        "headline": "権限付きエージェント運用の弱点に直結し、実務ガードレールの再設計を迫る"
+      },
+      "selection_reason": "権限付きエージェント運用の弱点に直結し、実務ガードレールの再設計を迫る",
+      "classification_reason": "権限付きエージェント運用の弱点に直結し、実務ガードレールの再設計を迫る",
+      "knowledge_value": "企業利用が進むほど、モデル性能より情報漏えい耐性が重要になる。利便性を削ってでも安全性を優先する運用モードが正式機能化した意味は大きい。",
+      "content_status": "content_ok",
+      "content_chars": 1119,
+      "source_access": "free"
+    },
+    {
+      "number": 3,
+      "title": "イラン戦争100日、市場と世界経済への影響をチャートで検証",
+      "source": "CNBC",
+      "description": "",
+      "url": "https://www.cnbc.com/2026/06/07/iran-war-100-days-trump-stocks-sp500-bonds-oil.html",
+      "category": "経済・金融",
+      "published_at": "2026-06-07",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 3,
+        "title_ja": "イラン戦争100日、市場と世界経済への影響をチャートで検証",
+        "key_points": [
+          "中東戦争の開始から100日が経過し、停戦は脆弱なままで、各地域の資産価格と経済に不安定さが続いている。",
+          "米国株は当初の下落をほぼ吸収し、S&P500は過去最高値を更新する一方、欧州株はエネルギー高の重圧を受けやすい。",
+          "AI関連の設備投資期待が米国やアジアの半導体株を押し上げ、市場は戦争リスクよりAI成長シナリオを重視している。"
+        ],
+        "detailed_summary": "中東での対イラン戦争が100日を迎えても和平交渉は停滞し、停戦は維持されつつも軍事的緊張が続いている。開戦直後は世界の株式が売られたが、米国市場は高値を回復し、S&P500は過去最高値を更新した。背景には、原油高やインフレ懸念よりも、AIの将来成長と米企業の収益力を重視する投資家心理がある。特に半導体や計算資源関連への期待が米国とアジア市場を支えた。一方、エネルギー輸入依存の高い欧州には逆風が残り、国債利回りも高止まりしており、戦争長期化の負担は金融市場の一部に蓄積している。",
+        "why_it_matters": "地政学リスクが続いても相場が上がる局面では、どこに負担がたまり、どこが見逃されているかを見極める必要がある。AI相場の強さが、戦争の経済的な痛みを一時的に覆い隠している。",
+        "headline": "中東情勢が株、債券、原油へどう波及したかを一枚で更新できる環境変化記事"
+      },
+      "selection_reason": "中東情勢が株、債券、原油へどう波及したかを一枚で更新できる環境変化記事",
+      "classification_reason": "中東情勢が株、債券、原油へどう波及したかを一枚で更新できる環境変化記事",
+      "knowledge_value": "地政学リスクが続いても相場が上がる局面では、どこに負担がたまり、どこが見逃されているかを見極める必要がある。AI相場の強さが、戦争の経済的な痛みを一時的に覆い隠している。",
+      "content_status": "content_ok",
+      "content_chars": 7375,
+      "source_access": "free"
+    },
+    {
+      "number": 4,
+      "title": "株式市場を揺さぶった激動の1週間を動かした3つの力",
+      "source": "CNBC",
+      "description": "",
+      "url": "https://www.cnbc.com/2026/06/06/here-are-3-forces-that-drove-a-whirlwind-week-for-the-stock-market.html",
+      "category": "経済・金融",
+      "published_at": "2026-06-06",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 4,
+        "title_ja": "株式市場を揺さぶった激動の1週間を動かした3つの力",
+        "key_points": [
+          "週後半、とくに金曜日に大規模な売りが出て、S&P500とナスダックは急落した。",
+          "発端の一つはBroadcom、Palo Alto Networks、CrowdStrikeなど高期待のハイテク銘柄が好決算でも市場の期待に届かなかったことだ。",
+          "強い雇用統計で利下げ期待が後退し、10年債利回りが4.5%超へ上昇したことが、ハイテク売りをさらに加速させた。"
+        ],
+        "detailed_summary": "米株市場は週前半に最高値を付けた後、金曜日に急反落した。背景には三つの圧力がある。まず、Palo Alto NetworksやCrowdStrike、Broadcomといった人気テック株が好決算を出しても、事前に膨らみすぎた期待を超えられず失望売りを招いた。次に、Broadcomの売上が予想未達となり、半導体株全体への重しになった。さらに強い雇用統計を受けてFRBの利下げ観測が後退し、10年債利回りが4.5%を上回ったことで、バリュエーションの高い成長株から資金が流出した。一方でヘルスケアや金融など出遅れセクターには資金が移った。",
+        "why_it_matters": "今の相場は業績そのものより期待値の高さと金利動向に左右されやすい。AIや半導体が強く見える局面でも、少しの失望で急反落する脆さがある。",
+        "headline": "半導体売り、金利、地政学が同時に地合いを崩した構図を整理するのに向く"
+      },
+      "selection_reason": "半導体売り、金利、地政学が同時に地合いを崩した構図を整理するのに向く",
+      "classification_reason": "半導体売り、金利、地政学が同時に地合いを崩した構図を整理するのに向く",
+      "knowledge_value": "今の相場は業績そのものより期待値の高さと金利動向に左右されやすい。AIや半導体が強く見える局面でも、少しの失望で急反落する脆さがある。",
+      "content_status": "content_ok",
+      "content_chars": 7620,
+      "source_access": "free"
+    },
+    {
+      "number": 5,
+      "title": "中国EVは数年内に何らかの形で米国市場へ入る可能性",
+      "source": "CNBC",
+      "description": "",
+      "url": "https://www.cnbc.com/2026/06/06/chinese-evs-auto-sales-manufacturing-us.html",
+      "category": "経済・金融",
+      "published_at": "2026-06-06",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 5,
+        "title_ja": "中国EVは数年内に何らかの形で米国市場へ入る可能性",
+        "key_points": [
+          "高関税や規制、政治的反発があっても、中国EVが数年内に米国で販売される可能性が高まっている。",
+          "中国メーカーは欧州やアジアで低価格かつ高機能のEVを急速に広げており、世界市場支配を狙っている。",
+          "米ビッグスリーはEV転換で出遅れており、完成車輸入が難しいなら米国内生産で中国勢と組む現実路線が浮上している。"
+        ],
+        "detailed_summary": "中国製EVは米国で高関税や厳格な規制に直面しているが、数年以内に別ルートで米市場へ参入する可能性が高まっている。中国はすでに欧州、英国、アジア、豪州で価格競争力と技術力を武器に輸出と現地生産を拡大しており、次の本命市場として米国を狙う。一方、GM、Ford、Stellantisの米ビッグスリーは内燃機関車への依存が残り、EVで魅力ある低価格商品を作り切れていない。専門家は、長期的に競争力を維持するには中国勢を排除するより、米国内で雇用を生む形で生産を認める方が現実的だとみる。",
+        "why_it_matters": "EV覇権は関税だけで止めにくく、製造拠点やサプライチェーンの形を変えてでも市場に入ってくる。米自動車産業にとっては保護より再編の問題になりつつある。",
+        "headline": "関税で止まらない産業浸透の話で、製造業再編と通商戦略の先読み材料になる"
+      },
+      "selection_reason": "関税で止まらない産業浸透の話で、製造業再編と通商戦略の先読み材料になる",
+      "classification_reason": "関税で止まらない産業浸透の話で、製造業再編と通商戦略の先読み材料になる",
+      "knowledge_value": "EV覇権は関税だけで止めにくく、製造拠点やサプライチェーンの形を変えてでも市場に入ってくる。米自動車産業にとっては保護より再編の問題になりつつある。",
+      "content_status": "content_ok",
+      "content_chars": 14288,
+      "source_access": "free"
+    },
+    {
+      "number": 6,
+      "title": "Anthropicの営業担当者がClaude Codeでチームの業務フローを再構築した方法",
+      "source": "Claude",
+      "description": "",
+      "url": "https://claude.com/blog/how-anthropic-uses-claude-gtm-engineering",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-06-05",
+      "mode": "deep_dive",
+      "summary": {
+        "article_index": 6,
+        "title_ja": "Anthropicの営業担当者がClaude Codeでチームの業務フローを再構築した方法",
+        "key_points": [
+          "元営業のJared Siresはコーディング未経験からClaude Codeを使い、Gmail内で返信文を下書きするCLAFTSを作成した。",
+          "このツールは1日2〜3時間の削減効果を生み、社内共有後すぐに営業組織へ広がった。",
+          "現在の彼はGTMプロダクトマネージャーとして、顧客調査、会議後メール作成、顧客対応自動化など営業向けのClaude活用ツールを整備している。"
+        ],
+        "detailed_summary": "AnthropicのJared Siresは、入社前はコードを書いた経験がなかったが、急増する顧客対応に追われる中でClaude Codeを使い始めた。最初に作ったのは、Gmail内で顧客メールの返信案を生成するCLAFTSで、試行錯誤の末に毎日2〜3時間の業務削減を実現。Slackで共有すると営業組織にすぐ広がった。これをきっかけに彼は営業担当からGTM向けプロダクトマネージャーへ役割を移し、顧客リサーチ、会議準備、議事録からのフォローアップ作成などをClaudeベースで自動化。非エンジニアでも現場課題を起点に業務ソフトを作れる例として紹介されている。",
+        "why_it_matters": "生成AIの価値はモデル性能の比較ではなく、現場の面倒な反復作業を誰が先に置き換えるかで決まる。非エンジニアが自力で業務ツールを作れる流れは、組織設計そのものを変える。",
+        "headline": "Claude Codeが開発以外へ広がる実例で、役割分担型AI社員の解像度が上がる"
+      },
+      "selection_reason": "Claude Codeが開発以外へ広がる実例で、役割分担型AI社員の解像度が上がる",
+      "classification_reason": "Claude Codeが開発以外へ広がる実例で、役割分担型AI社員の解像度が上がる",
+      "knowledge_value": "生成AIの価値はモデル性能の比較ではなく、現場の面倒な反復作業を誰が先に置き換えるかで決まる。非エンジニアが自力で業務ツールを作れる流れは、組織設計そのものを変える。",
+      "content_status": "content_ok",
+      "content_chars": 9320,
+      "source_access": "free"
+    },
+    {
+      "number": 7,
+      "title": "ホルムズ海峡とエネルギー移行 変化は自然には起きない",
+      "source": "Council on Foreign Relations",
+      "description": "",
+      "url": "https://www.cfr.org/articles/the-energy-transition-and-the-strait-of-hormuz",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-06-05",
+      "mode": "deep_dive",
+      "summary": {
+        "article_index": 1,
+        "title_ja": "ホルムズ海峡とエネルギー移行 変化は自然には起きない",
+        "key_points": [
+          "イラン戦争でホルムズ海峡の原油輸送が大幅に鈍化し、世界のエネルギー市場の前提が崩れた",
+          "IEAやUNFCCCは、この危機が再エネ・原子力・電化への移行を後押しするとみている",
+          "ただし送電網制約、規制遅延、資金調達コスト上昇、中国依存など構造課題は残ったまま"
+        ],
+        "detailed_summary": "イラン戦争の長期化で、世界有数の石油輸送路であるホルムズ海峡の安全性が揺らぎ、従来のように安定輸送を前提にできない状況になった。IEAや国連気候機関の幹部は、これを機に各国が再エネ、原子力、電化を加速させるとみる。一方で、エネルギー移行は危機だけで自動的に進むものではない。送電網整備、規制、資金、供給網の制約が残り、政策主導なしでは転換は進まないというのが記事の主張だ。",
+        "why_it_matters": "地政学リスクが化石燃料依存の脆さを改めて露呈した。エネルギー移行は市場任せではなく、政策と投資の設計次第で進むことを示している。",
+        "headline": "ホルムズ海峡テーマの続報として、脱炭素移行の遅さと供給網制約を補強する"
+      },
+      "selection_reason": "ホルムズ海峡テーマの続報として、脱炭素移行の遅さと供給網制約を補強する",
+      "classification_reason": "ホルムズ海峡テーマの続報として、脱炭素移行の遅さと供給網制約を補強する",
+      "knowledge_value": "地政学リスクが化石燃料依存の脆さを改めて露呈した。エネルギー移行は市場任せではなく、政策と投資の設計次第で進むことを示している。",
+      "content_status": "content_ok",
+      "content_chars": 6059,
+      "source_access": "unknown"
+    },
+    {
+      "number": 8,
+      "title": "Claude Codeを自律エージェント基盤として運用する  context rotから逆算する設計",
+      "source": "Zenn",
+      "description": "",
+      "url": "https://zenn.dev/yutabeee/articles/claude-code-autonomous-agent-platform",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-06-06",
+      "mode": "deep_dive",
+      "summary": {
+        "article_index": 2,
+        "title_ja": "Claude Codeを自律エージェント基盤として運用する  context rotから逆算する設計",
+        "key_points": [
+          "長時間運用で精度低下やルール逸脱、コスト暴走が起きる根本原因は、有限なコンテキストの劣化にある",
+          "Subagents、Hooks、Plugins、Routines、Dynamic Workflowsなどの新機能は、その制約への対処として整理できる",
+          "CLAUDE.mdは短く保ち、必要情報はオンデマンドに読み込む設計が実運用では重要になる"
+        ],
+        "detailed_summary": "記事は、Claude Codeを単なる補完ツールではなく自律エージェント基盤として使う際の設計原則を、コンテキストが有限で劣化するという制約から説明する。長すぎるCLAUDE.mdは遵守率を下げるため、重要ルールだけを残し、詳細は必要時に読む構成が望ましいとする。2025年以降のSubagentsやHooks、Plugins、Dynamic Workflowsも、主に文脈枯渇や計画保持の問題を解く進化として位置づけられる。加えて、2026年6月以降の課金変更により、自動化のコスト設計も再考が必要だと論じる。",
+        "why_it_matters": "AIエージェント運用の失敗はモデル性能より文脈設計の失敗で起きやすい。今後の自動化では、精度とコストの両方を左右する基礎設計の考え方として重要だ。",
+        "headline": "CLAUDE.md、予算、権限、compact運用を一体設計する発想をそのまま深められる"
+      },
+      "selection_reason": "CLAUDE.md、予算、権限、compact運用を一体設計する発想をそのまま深められる",
+      "classification_reason": "CLAUDE.md、予算、権限、compact運用を一体設計する発想をそのまま深められる",
+      "knowledge_value": "AIエージェント運用の失敗はモデル性能より文脈設計の失敗で起きやすい。今後の自動化では、精度とコストの両方を左右する基礎設計の考え方として重要だ。",
+      "content_status": "content_ok",
+      "content_chars": 14609,
+      "source_access": "free"
+    },
+    {
+      "number": 9,
+      "title": "Metaのハックが示す AIセキュリティはMythosだけでは語れない",
+      "source": "MIT Technology Review",
+      "description": "",
+      "url": "https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-06-07",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 3,
+        "title_ja": "Metaのハックが示す AIセキュリティはMythosだけでは語れない",
+        "key_points": [
+          "攻撃者はMetaのAIサポートにメールアドレス変更を依頼するだけでInstagramアカウントを奪取できた",
+          "高度なAI攻撃ではなく、AI自身の単純な運用ミスや検証不足が重大な被害を招いた",
+          "研究者は、AIが業務フローに組み込まれるほどAIエージェント自体が主要な攻撃対象になると警告している"
+        ],
+        "detailed_summary": "404 Mediaの報道によれば、攻撃者はMetaのAI顧客サポートに対し、Instagramアカウントの連絡先メールを自分たちのものへ変更させるだけで乗っ取りに成功した。必要だったのは本人の地域に合わせたVPN程度で、極めて単純な手口だった。研究者らは、注目されがちな超高性能AIによる攻撃よりも、実務に組み込まれたAIの検証不足やガードレール欠如の方が現実的な脅威だと指摘する。Metaはその後、脆弱性を修正したとしている。",
+        "why_it_matters": "AIの危険は未来の超知能だけではない。今ある業務用AIが基本的な認可チェックを誤るだけで、大規模な不正侵害が起きることを示した。",
+        "headline": "派手な脅威より単純な侵入口が危険だと示し、監査と境界設計の優先度を正す"
+      },
+      "selection_reason": "派手な脅威より単純な侵入口が危険だと示し、監査と境界設計の優先度を正す",
+      "classification_reason": "派手な脅威より単純な侵入口が危険だと示し、監査と境界設計の優先度を正す",
+      "knowledge_value": "AIの危険は未来の超知能だけではない。今ある業務用AIが基本的な認可チェックを誤るだけで、大規模な不正侵害が起きることを示した。",
+      "content_status": "content_ok",
+      "content_chars": 7060,
+      "source_access": "unknown"
+    },
+    {
+      "number": 10,
+      "title": "中計目標達成で再評価される企業は？ PER10倍割れに焦点 野村證券ストラテジストが解説",
+      "source": "Nomura Wealth Style",
+      "description": "",
+      "url": "https://www.nomura.co.jp/wealthstyle/article/0754/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-06-05",
+      "mode": "deep_dive",
+      "summary": {
+        "article_index": 4,
+        "title_ja": "中計目標達成で再評価される企業は？ PER10倍割れに焦点 野村證券ストラテジストが解説",
+        "key_points": [
+          "中期経営計画を公表した企業のうち、低PER銘柄が目標達成で再評価される余地に注目が集まっている",
+          "特にPBR1倍前後やそれ以下で、ROE改善目標を示す企業は株価見直しの候補になりやすい",
+          "バランスシート改善や資本効率重視の姿勢が、評価引き上げの材料として重視されている"
+        ],
+        "detailed_summary": "野村證券のストラテジストは、中期経営計画の達成が株価再評価につながる企業群として、PER10倍割れの銘柄に焦点を当てる。記事では、ROE目標の水準やPBRとの関係を踏まえ、資本効率改善を明確に打ち出す企業ほど市場の見直し余地が大きいと分析する。とくにPBR1倍近辺の企業がROE改善や資産効率向上、バランスシート改革を示せば、単なる割安株ではなく評価修正候補として浮上するという整理だ。AIや防衛関連が注目される相場でも、地味な資本政策が株価を動かす可能性を示している。",
+        "why_it_matters": "日本株では利益成長だけでなく資本効率改善が評価軸になっている。中計の実行力次第で、低評価銘柄が大きく見直される余地を示す材料になる。",
+        "headline": "低PERの罠と再評価条件を点検でき、日本株の資本効率改革読みと相性がよい"
+      },
+      "selection_reason": "低PERの罠と再評価条件を点検でき、日本株の資本効率改革読みと相性がよい",
+      "classification_reason": "低PERの罠と再評価条件を点検でき、日本株の資本効率改革読みと相性がよい",
+      "knowledge_value": "日本株では利益成長だけでなく資本効率改善が評価軸になっている。中計の実行力次第で、低評価銘柄が大きく見直される余地を示す材料になる。",
+      "content_status": "content_ok",
+      "content_chars": 6549,
+      "source_access": "unknown"
+    },
+    {
+      "number": 11,
+      "title": "Instagramの先へ 次世代ソーシャルアプリを紹介",
+      "source": "TechCrunch",
+      "description": "",
+      "url": "https://techcrunch.com/2026/06/06/beyond-instagram-introducing-the-next-generation-of-social-apps/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-06-06",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 5,
+        "title_ja": "Instagramの先へ 次世代ソーシャルアプリを紹介",
+        "key_points": [
+          "大手SNSに代わる、より小規模で親密なつながりを重視する新興アプリが増えている",
+          "Retro、Cosmos、Indigo、Cornerなどは写真共有、創作収集、分散SNS統合、地図型交流など用途が分かれる",
+          "特にGen Zは既存巨大プラットフォームから離れ、新しいコミュニティ空間に移りやすいとみられている"
+        ],
+        "detailed_summary": "記事は、MetaやTikTok、Xのような巨大SNSに代わる次世代アプリ群を紹介する。Retroは親しい友人向けの私的な写真共有、CosmosはPinterest代替の感性ベース収集、IndigoはMastodonとBlueskyを一つに束ねる統合クライアント、Cornerは地図とコミュニティを組み合わせた発見型サービスとして整理される。共通するのは、誰にでも開かれた大量拡散より、趣味や関係性に応じた小さなネットワークへ向かう流れだ。",
+        "why_it_matters": "SNSの主戦場が巨大な公開空間から、趣味や友人関係に最適化された小規模空間へ移りつつある。次の消費者行動や広告の変化を読むうえで重要な兆候だ。",
+        "headline": "発信の主戦場が再編する兆しで、個人ブランドと配信導線の次を考えやすい"
+      },
+      "selection_reason": "発信の主戦場が再編する兆しで、個人ブランドと配信導線の次を考えやすい",
+      "classification_reason": "発信の主戦場が再編する兆しで、個人ブランドと配信導線の次を考えやすい",
+      "knowledge_value": "SNSの主戦場が巨大な公開空間から、趣味や友人関係に最適化された小規模空間へ移りつつある。次の消費者行動や広告の変化を読むうえで重要な兆候だ。",
+      "content_status": "content_ok",
+      "content_chars": 7813,
+      "source_access": "free"
+    },
+    {
+      "number": 12,
+      "title": "GOG、ナチス親衛隊を連想させる記号をメール送信したことを謝罪",
+      "source": "The Verge",
+      "description": "GOG sent a newsletter about the game The End of the Sun on June 5th that included symbols associated with the Nazi SS. The Steam competitor issued a statement attributing the inclusion to a \"series of mistakes,\" including miscommunication with the German QA team, inconsistent font rendering, and being understaffed during a bank holiday, among […]",
+      "url": "https://www.theverge.com/games/945088/gog-apologizes-email-nazi-symbols-the-end-of-the-sun",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-06-06",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 6,
+        "title_ja": "GOG、ナチス親衛隊を連想させる記号をメール送信したことを謝罪",
+        "key_points": [
+          "GOGはゲーム紹介メール内で、ナチス親衛隊を連想させる二重S記号を含んだとして謝罪した",
+          "原因として、ドイツQAとの連携不備、フォント表示差異、祝日に伴う人員不足などを挙げた",
+          "開発元もその記号使用を把握しておらず、なぜその表現になったのか困惑を示している"
+        ],
+        "detailed_summary": "GOGは6月5日に配信したニュースレターで、スラヴ神話系ゲーム『The End of the Sun』を宣伝する際、太陽を意味するルーン文字を使ったが、一部環境でナチス親衛隊を連想させる二重S記号のように見える表現になり、批判を受けて謝罪した。GOGは複数の説明を出し、ドイツ向けには配信を止めたとしつつ、なぜ他地域には送ったのかという疑問が残った。ゲーム開発元も事前に把握しておらず、対応の混乱が広がっている。",
+        "why_it_matters": "グローバル配信では、記号や文化的連想の扱いを誤ると即座に信頼を損なう。ローカライズやQAの甘さがブランド毀損に直結する典型例だ。",
+        "headline": "配信や販促は一発で信用を毀損するという、運用監査の現実的な教材になる"
+      },
+      "selection_reason": "配信や販促は一発で信用を毀損するという、運用監査の現実的な教材になる",
+      "classification_reason": "配信や販促は一発で信用を毀損するという、運用監査の現実的な教材になる",
+      "knowledge_value": "グローバル配信では、記号や文化的連想の扱いを誤ると即座に信頼を損なう。ローカライズやQAの甘さがブランド毀損に直結する典型例だ。",
+      "content_status": "content_ok",
+      "content_chars": 2062,
+      "source_access": "free"
+    },
+    {
+      "number": 13,
+      "title": "梶裕貴が“イケメンゴキブリ”を演じる新作恋愛シミュレーションが登場",
+      "source": "Anime News Network",
+      "description": "Can you resist the advances of four handsome cockroaches?",
+      "url": "https://www.animenewsnetwork.com/interest/2026-06-07/yuki-kaji-voices-ikemen-cockroaches-in-new-dating-sim/.238177",
+      "category": "漫画・アニメ・文化",
+      "published_at": "2026-06-07",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 1,
+        "title_ja": "梶裕貴が“イケメンゴキブリ”を演じる新作恋愛シミュレーションが登場",
+        "key_points": [
+          "殺虫剤メーカーのアース製薬が、梶裕貴を起用した無料ブラウザ恋愛シミュレーション『ゴキゲンラブリーデイズ』を公開した。",
+          "攻略対象は4人の男性キャラで、全員がゴキブリをモチーフにしており、名前や種名、体長や体重まで細かく設定されている。",
+          "PCとスマートフォンのブラウザで遊べるプロモーション色の強い企画で、企業の遊び心ある話題作りとして注目を集めている."
+        ],
+        "detailed_summary": "アース製薬は2026年6月、声優の梶裕貴が4人の攻略対象をすべて演じる無料恋愛シミュレーション『ゴキゲンラブリーデイズ』を公開した。舞台は“エーサー社”で、プレイヤーは新入社員として恋愛を進める。作中ではゴキブリを意味する語感を生かした言葉遊びや効果音が前面に出され、キャラクターごとに学名や体長、体重まで設定されている。殺虫剤メーカーが自社文脈を逆手に取り、嫌われがちな存在をエンタメ化した異色のプロモーション企画だ。",
+        "why_it_matters": "企業広告が単なる宣伝ではなく、ゲームとして拡散される時代を象徴する事例だ。強い違和感と有名声優の起用を組み合わせ、ブランド認知を一気に高める手法として面白い。",
+        "headline": "既存キャラ文法を異物へ転写する企画で、創作と販促の発想拡張に効く"
+      },
+      "selection_reason": "既存キャラ文法を異物へ転写する企画で、創作と販促の発想拡張に効く",
+      "classification_reason": "既存キャラ文法を異物へ転写する企画で、創作と販促の発想拡張に効く",
+      "knowledge_value": "企業広告が単なる宣伝ではなく、ゲームとして拡散される時代を象徴する事例だ。強い違和感と有名声優の起用を組み合わせ、ブランド認知を一気に高める手法として面白い。",
+      "content_status": "content_ok",
+      "content_chars": 1715,
+      "source_access": "free"
+    },
+    {
+      "number": 14,
+      "title": "『地獄楽』ガチャRPGが英語対応とSteam正式版を実施へ",
+      "source": "AUTOMATON WEST",
+      "description": "",
+      "url": "https://automaton-media.com/en/news/hells-paradise-jigokuraku-gacha-rpg-adaptation-to-get-english-support-and-official-steam-release/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-06-05",
+      "mode": "adjacent",
+      "summary": {
+        "article_index": 2,
+        "title_ja": "『地獄楽』ガチャRPGが英語対応とSteam正式版を実施へ",
+        "key_points": [
+          "『Jigokuraku: BATTLE IN HELL’S PARADISE』の英語版モバイル版とPC版（Steam）が2026年7月1日に配信予定となった。",
+          "Steam版はモバイル版とデータ連携に対応し、PCとスマホをまたいで進行状況を共有できる。",
+          "原作やアニメ監修のもとで、既存キャラに加えオリジナルキャラやゲーム独自ストーリーを展開し、Anime Expo 2026では試遊も予定されている。"
+        ],
+        "detailed_summary": "Good Smile Companyは『地獄楽』初のゲーム化作品『Jigokuraku: BATTLE IN HELL’S PARADISE』について、英語対応したモバイル版とSteam版を2026年7月1日に配信すると発表した。Steam版はモバイル版とのクロスプラットフォーム連携に対応し、端末をまたいで遊べる。作品には原作キャラだけでなく、前日譚の主人公ヨリらゲーム独自キャラも登場。原作では描かれなかった過去編やIFストーリーも今後追加予定で、海外展開と世界観拡張の両面を狙うタイトルになっている。",
+        "why_it_matters": "国内向けで終わりがちなアニメ原作ゲームが、英語対応とSteam展開で海外市場を本格的に取りにいく動きとして重要だ。原作補完や独自シナリオまで用意されており、単なるファン向け移植ではなくIP拡張の起点になりうる。",
+        "headline": "漫画IPを英語圏とSteamへ広げる動きで、物語資産の多面展開を見られる"
+      },
+      "selection_reason": "漫画IPを英語圏とSteamへ広げる動きで、物語資産の多面展開を見られる",
+      "classification_reason": "漫画IPを英語圏とSteamへ広げる動きで、物語資産の多面展開を見られる",
+      "knowledge_value": "国内向けで終わりがちなアニメ原作ゲームが、英語対応とSteam展開で海外市場を本格的に取りにいく動きとして重要だ。原作補完や独自シナリオまで用意されており、単なるファン向け移植ではなくIP拡張の起点になりうる。",
+      "content_status": "content_ok",
+      "content_chars": 2052,
+      "source_access": "free",
+      "adjacent_field": "ロケーションベースドエンタメ・聖地巡礼経済",
+      "adjacent_reasoning": "オンラインで量産される作品や情報の時代ほど、現地に行く、並ぶ、撮る、共有するというオフライン体験の希少価値が強くなります。アニメ・ゲーム・VTuber・IPの価値が、物語そのものではなく移動、物販、地域回遊、コミュニティ形成にどう変換されるかを読めるようになります。"
+    }
+  ]
+}
