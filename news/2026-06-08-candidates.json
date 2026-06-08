@@ -1,10 +1,19 @@
 {
   "date": "2026-06-08",
+  "generated_at": "2026-06-08T18:12:34.037216+09:00",
+  "run_id": "20260608T181234+0900",
+  "mode_collection_counts": {
+    "breaking": 34,
+    "followup": 1,
+    "deep_dive": 13,
+    "adjacent": 12
+  },
+  "mode_errors": {},
   "mode": "multimode",
   "articles": [
     {
       "number": 1,
-      "title": "これはトークン終末の始まりなのか？",
+      "title": "Is this the dawn of the Tokenpocalypse?",
       "source": "TechCrunch",
       "description": "",
       "url": "https://techcrunch.com/2026/06/07/is-this-the-dawn-of-the-tokenpocalypse/",
@@ -12,27 +21,18 @@
       "published_at": "2026-06-07",
       "mode": "breaking",
       "summary": {
-        "article_index": 1,
-        "title_ja": "これはトークン終末の始まりなのか？",
-        "key_points": [
-          "MicrosoftがGitHub Copilotの料金体系を定額中心からトークン課金寄りへ大きく変更した。",
-          "AI製品はこれまで投資資金で強く補助されてきたが、そのコストが利用企業や個人に転嫁され始めている。",
-          "Anthropicなどの上場準備を背景に、他社でも値上げや利用制限が広がる可能性が議論されている。"
-        ],
-        "detailed_summary": "TechCrunchのポッドキャストでは、MicrosoftによるGitHub Copilotの大幅な価格改定をきっかけに、AI業界全体の採算問題が論じられた。これまで多くのAIサービスは投資マネーで実質的に値ごろ感を保ってきたが、収益性が問われる局面に入り、企業は価格引き上げや使用上限の設定を進めつつある。Uberのように社内利用が想定以上のコストを生み、短期間で制限に転じた例も紹介され、技術進歩がコスト低下に追いつくのかが焦点になっている。",
-        "why_it_matters": "AI導入コストの現実が表面化し、便利さだけでなく採算性が導入判断の中心になる転換点だからだ。今後は機能競争より、価格設計と利用効率が企業向けAIの勝敗を左右する。",
-        "headline": "AI開発の採算線を左右する課金改定で、運用設計と原価感覚を即見直す必要がある"
+        "headline": "Copilot値上げはAI開発コスト管理の前提を崩し、MVP量産戦略に直撃する"
       },
-      "selection_reason": "AI開発の採算線を左右する課金改定で、運用設計と原価感覚を即見直す必要がある",
-      "classification_reason": "AI開発の採算線を左右する課金改定で、運用設計と原価感覚を即見直す必要がある",
-      "knowledge_value": "AI導入コストの現実が表面化し、便利さだけでなく採算性が導入判断の中心になる転換点だからだ。今後は機能競争より、価格設計と利用効率が企業向けAIの勝敗を左右する。",
+      "selection_reason": "Copilot値上げはAI開発コスト管理の前提を崩し、MVP量産戦略に直撃する",
+      "classification_reason": "Copilot値上げはAI開発コスト管理の前提を崩し、MVP量産戦略に直撃する",
+      "knowledge_value": "",
       "content_status": "content_ok",
       "content_chars": 5315,
       "source_access": "free"
     },
     {
       "number": 2,
-      "title": "OpenAIはなお「スーパーアプリ」を目指している",
+      "title": "OpenAI is still working on that ‘super app’",
       "source": "TechCrunch",
       "description": "",
       "url": "https://techcrunch.com/2026/06/07/openai-is-still-working-on-that-super-app/",
@@ -40,27 +40,18 @@
       "published_at": "2026-06-07",
       "mode": "breaking",
       "summary": {
-        "article_index": 2,
-        "title_ja": "OpenAIはなお「スーパーアプリ」を目指している",
-        "key_points": [
-          "OpenAIは今後数週間で、コーディング機能やAIエージェントを統合した新しいChatGPTを投入する計画だという。",
-          "狙いはAnthropicに対抗し、特に法人顧客向け競争力とIPO前の収益性を高めることにある。",
-          "個別製品を増やす戦略から、ChatGPTを有料製品への入口にする集約型戦略へ軸足を移している。"
-        ],
-        "detailed_summary": "Financial Timesによると、OpenAIはChatGPTを単なる対話ツールではなく、コーディング支援やAIエージェントを備えたスーパーアプリへ再構築しようとしている。無料ユーザーをCodexのような課金プロダクトへ導く導線として使い、法人市場でAnthropicとの競争を強めるのが狙いだ。中核プロダクト責任者は、個人生活と仕事の両方を横断して支援する個人専用エージェント像を示した。昨年から報じられてきた構想だが、2025年に増やした単独製品群を見直す大きな戦略転換として改めて位置づけられている。",
-        "why_it_matters": "生成AIの主戦場が単機能ツールから統合プラットフォームへ移っていることを示す。ChatGPTの役割が会話UIから収益化ハブへ変われば、競争軸そのものが変わる。",
-        "headline": "ChatGPTが作業OS化へ寄る動きで、エージェント配布と顧客接点の前提が変わりうる"
+        "headline": "ChatGPTがエージェント実行基盤へ広がる動きで、競争軸がUIからOS化へ寄る"
       },
-      "selection_reason": "ChatGPTが作業OS化へ寄る動きで、エージェント配布と顧客接点の前提が変わりうる",
-      "classification_reason": "ChatGPTが作業OS化へ寄る動きで、エージェント配布と顧客接点の前提が変わりうる",
-      "knowledge_value": "生成AIの主戦場が単機能ツールから統合プラットフォームへ移っていることを示す。ChatGPTの役割が会話UIから収益化ハブへ変われば、競争軸そのものが変わる。",
+      "selection_reason": "ChatGPTがエージェント実行基盤へ広がる動きで、競争軸がUIからOS化へ寄る",
+      "classification_reason": "ChatGPTがエージェント実行基盤へ広がる動きで、競争軸がUIからOS化へ寄る",
+      "knowledge_value": "",
       "content_status": "content_ok",
       "content_chars": 1170,
       "source_access": "free"
     },
     {
       "number": 3,
-      "title": "ハッキング、流出、身代金要求――2026年前半で最悪の侵害事例",
+      "title": "Hacked, leaked, and held for ransom: the worst breaches of 2026 so far",
       "source": "TechCrunch",
       "description": "",
       "url": "https://techcrunch.com/2026/06/07/the-worst-hacks-and-breaches-of-2026-so-far/",
@@ -68,360 +59,252 @@
       "published_at": "2026-06-07",
       "mode": "breaking",
       "summary": {
-        "article_index": 3,
-        "title_ja": "ハッキング、流出、身代金要求――2026年前半で最悪の侵害事例",
-        "key_points": [
-          "2026年はサイバーセキュリティが社会の周辺問題ではなく、政治・戦争・公共インフラと直結する中心課題になっている。",
-          "米社会保障データを巡って、DOGE関係者が機密性の高い個人情報を安全でない外部サーバーへ置いた疑いが浮上している。",
-          "欧州では電力網やダムなど民間インフラへの攻撃が相次ぎ、実世界の被害につながる危険が高まっている。"
-        ],
-        "detailed_summary": "この記事は、2026年前半の重大なサイバー侵害を振り返り、攻撃が国家安全保障や市民生活そのものを揺るがす段階に入ったと整理している。特に米国では、DOGEが社会保障庁に入り込んだ後、ほぼ全米国民分に及ぶ可能性のある社会保障番号や個人情報が、安全でない第三者サーバーに複製された疑いが争点になっている。加えて、欧州ではロシア関与が疑われる電力施設や水インフラへの攻撃が続き、サイバー攻撃が情報漏えいにとどまらず、物理的被害や公共混乱を生む危険を強めている。",
-        "why_it_matters": "個人情報漏えいと重要インフラ攻撃が同時進行し、サイバー被害が国家レベルの危機管理課題になっているからだ。防御の失敗は生活基盤そのものを直撃する。",
-        "headline": "権限を持つAI運用で一番壊れやすい点を、実例ベースでまとめて把握しやすい"
+        "headline": "AI運用の前提になる認証、権限、監査の甘さが現実コスト化していると分かる"
       },
-      "selection_reason": "権限を持つAI運用で一番壊れやすい点を、実例ベースでまとめて把握しやすい",
-      "classification_reason": "権限を持つAI運用で一番壊れやすい点を、実例ベースでまとめて把握しやすい",
-      "knowledge_value": "個人情報漏えいと重要インフラ攻撃が同時進行し、サイバー被害が国家レベルの危機管理課題になっているからだ。防御の失敗は生活基盤そのものを直撃する。",
+      "selection_reason": "AI運用の前提になる認証、権限、監査の甘さが現実コスト化していると分かる",
+      "classification_reason": "AI運用の前提になる認証、権限、監査の甘さが現実コスト化していると分かる",
+      "knowledge_value": "",
       "content_status": "content_ok",
       "content_chars": 9778,
       "source_access": "free"
     },
     {
       "number": 4,
-      "title": "TechCrunch Mobility: GMの9億ドルEVバッテリー賭けの内幕",
-      "source": "TechCrunch",
+      "title": "Stock market today: Dow, S&P 500, Nasdaq futures mixed as oil rises after Iran and Israel exchange strikes",
+      "source": "Yahoo Finance",
       "description": "",
-      "url": "https://techcrunch.com/2026/06/07/inside-gms-900m-ev-battery-gamble/",
-      "category": "AI・テクノロジー",
-      "published_at": "2026-06-07",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-futures-mixed-as-oil-rises-after-iran-and-israel-exchange-strikes-085310526.html",
+      "category": "経済・金融",
+      "published_at": "2026-06-08",
       "mode": "breaking",
       "summary": {
-        "article_index": 4,
-        "title_ja": "TechCrunch Mobility: GMの9億ドルEVバッテリー賭けの内幕",
-        "key_points": [
-          "GMは次世代EVのコスト削減に向け、LMR電池と新しい電池開発センターに9億ドルを投じている。",
-          "新しい電池化学により航続距離を保ちながらコストを下げ、例えばシルバラードEVを6000ドル安くできる可能性がある。",
-          "GMは電池開発だけでなく、社内外のAIモデルを活用して車両開発サイクルの短縮も進めている。"
-        ],
-        "detailed_summary": "TechCrunch Mobilityは、GMがデトロイト近郊の拠点で進める9億ドル規模のEV電池戦略を取り上げた。中核はLMR電池と、研究開発から量産への橋渡しを担うBattery Cell Development Centerで、コスト低減と航続距離維持の両立を狙う。幹部によれば、Chevrolet Silverado EVでは6000ドル程度の価格引き下げ余地が見込まれるという。記事はあわせて、GMが外部AIと内製AIを広く業務に組み込み、製品開発スピードを高めようとしている点にも触れており、電池技術とAI運用を並行して競争力強化の柱に据えている。",
-        "why_it_matters": "EV普及の最大の壁である価格を、電池化学の刷新で崩せるかが自動車業界全体の焦点だからだ。GMが成功すれば、価格競争と開発速度の両面で市場構図が動く。",
-        "headline": "巨額再投資の勝負所として、電池供給網と資本効率の見方を更新しやすい材料"
+        "headline": "中東衝突が原油と株価に即波及し、地政学を市場経由で読む必要が強まった"
       },
-      "selection_reason": "巨額再投資の勝負所として、電池供給網と資本効率の見方を更新しやすい材料",
-      "classification_reason": "巨額再投資の勝負所として、電池供給網と資本効率の見方を更新しやすい材料",
-      "knowledge_value": "EV普及の最大の壁である価格を、電池化学の刷新で崩せるかが自動車業界全体の焦点だからだ。GMが成功すれば、価格競争と開発速度の両面で市場構図が動く。",
+      "selection_reason": "中東衝突が原油と株価に即波及し、地政学を市場経由で読む必要が強まった",
+      "classification_reason": "中東衝突が原油と株価に即波及し、地政学を市場経由で読む必要が強まった",
+      "knowledge_value": "",
       "content_status": "content_ok",
-      "content_chars": 8532,
+      "content_chars": 1930,
       "source_access": "free"
     },
     {
       "number": 5,
-      "title": "アトラスが新ティザーで『ペルソナ6』を発表（更新）",
-      "source": "Anime News Network",
-      "description": "Persona 5 launched in 2016",
-      "url": "https://www.animenewsnetwork.com/news/2026-06-07/atlus-reveals-persona-6-game-in-new-teaser/.238253",
-      "category": "漫画・アニメ・文化",
+      "title": "Stocks reel from a coming rate hike — and brace for a huge IPO: What to watch this week",
+      "source": "Yahoo Finance",
+      "description": "",
+      "url": "https://finance.yahoo.com/news/stocks-reel-from-a-coming-rate-hike--and-brace-for-a-huge-ipo-what-to-watch-this-week-114019489.html",
+      "category": "経済・金融",
       "published_at": "2026-06-07",
       "mode": "breaking",
       "summary": {
-        "article_index": 5,
-        "title_ja": "アトラスが新ティザーで『ペルソナ6』を発表（更新）",
-        "key_points": [
-          "アトラスはXbox Games Showcase 2026で新作RPG『ペルソナ6』を正式発表した。",
-          "対応機種はPS5、Xbox Series X|S、Xbox PC、Xbox Cloud、Steam版PC。",
-          "同配信では『ペルソナ4 リバイバル』も発表され、2027年2月18日に発売予定と案内された。"
-        ],
-        "detailed_summary": "アトラスは2026年のXbox Games Showcase配信で、人気RPGシリーズ最新作『ペルソナ6』をティザー形式で公開した。発売時期の詳細は記事本文では触れられていないが、PS5、Xbox Series X|S、Xbox PC、Xbox Cloud、Steam向けPCで展開される。また同じ配信内で、2008年作を基にした『Persona 4 Revival』の発売日が2027年2月18日と発表された。記事後半では『ペルソナ5』と『ペルソナ5 Royal』の過去展開も振り返られ、シリーズの長期的な人気とマルチプラットフォーム化の流れが補足されている。",
-        "why_it_matters": "『ペルソナ6』はアトラスの看板IPの次の柱であり、コンソール各陣営にとっても集客力の高い大型タイトルだからだ。シリーズの展開拡大は、日本RPG市場の勢力図にも影響する。",
-        "headline": "大型IPの再始動は、創作潮流とファン経済の温度感を測る即時シグナルになる"
+        "headline": "利上げ再織り込みと大型IPOの需給圧力が、今週の資金移動を左右しやすい"
       },
-      "selection_reason": "大型IPの再始動は、創作潮流とファン経済の温度感を測る即時シグナルになる",
-      "classification_reason": "大型IPの再始動は、創作潮流とファン経済の温度感を測る即時シグナルになる",
-      "knowledge_value": "『ペルソナ6』はアトラスの看板IPの次の柱であり、コンソール各陣営にとっても集客力の高い大型タイトルだからだ。シリーズの展開拡大は、日本RPG市場の勢力図にも影響する。",
+      "selection_reason": "利上げ再織り込みと大型IPOの需給圧力が、今週の資金移動を左右しやすい",
+      "classification_reason": "利上げ再織り込みと大型IPOの需給圧力が、今週の資金移動を左右しやすい",
+      "knowledge_value": "",
       "content_status": "content_ok",
-      "content_chars": 1143,
+      "content_chars": 2672,
       "source_access": "free"
     },
     {
       "number": 6,
-      "title": "MiasmaとMini Shai-Hulud: npmマルウェアがAIコーディングエージェントに永続化を学んだ時",
-      "source": "Hive Security",
+      "title": "為替相場まとめ６月１日から６月５日の週",
+      "source": "みんかぶ FX/為替",
       "description": "",
-      "url": "https://hivesecurity.gitlab.io/blog/miasma-mini-shai-hulud-ai-agent-supply-chain-2026/",
+      "url": "https://fx.minkabu.jp/news/369400",
       "category": "AI・テクノロジー",
       "published_at": "2026-06-06",
       "mode": "followup",
       "summary": {
-        "article_index": 6,
-        "title_ja": "MiasmaとMini Shai-Hulud: npmマルウェアがAIコーディングエージェントに永続化を学んだ時",
-        "key_points": [
-          "2026年5月から6月にかけ、Mini Shai-HuludとMiasmaというnpm汚染キャンペーンが複数波で確認された。",
-          "攻撃は単なるinstall時実行にとどまらず、Claude Codeの設定やVS Codeタスクへ書き込み、AIエージェント環境に永続化する点が新しい。",
-          "パッケージ削除後もバックドアが設定ファイル側に残り、クラウド資格情報やCI/CD秘密情報の窃取につながる恐れがある。"
-        ],
-        "detailed_summary": "記事は、2026年に表面化したnpm供給網攻撃が新しい段階へ進んだと警告する。Mini Shai-Huludは5月19日にAntV関連を含む323パッケージ、639の悪性バージョンを汚染し、Claude CodeのSessionStartフックやVS Codeタスクに細工して永続化した。続くMiasmaは6月3日に57パッケージ、286超の悪性バージョンへ拡大し、binding.gypを悪用するPhantom Gypという新たな実行経路も加えた。狙われる資格情報はAWSやGitHub、npm、Kubernetes、SSH鍵など広範囲で、未知のプロジェクトを開く前に`.claude/`や`.vscode/tasks.json`、CI設定まで監査すべきだと訴えている。",
-        "why_it_matters": "開発者は依存パッケージだけ見ていても安全を確保できず、AIエージェントやIDEの設定自体が新しい攻撃面になった。開発フロー全体の信頼モデルを見直す必要がある。",
-        "headline": "AIコーディング環境が狙われる差分事例で、スキル監査と隔離設計の優先度が上がる"
+        "headline": "円安継続と介入警戒の整理で、日銀観測と中東リスクの接続を追いやすい"
       },
-      "selection_reason": "AIコーディング環境が狙われる差分事例で、スキル監査と隔離設計の優先度が上がる",
-      "classification_reason": "AIコーディング環境が狙われる差分事例で、スキル監査と隔離設計の優先度が上がる",
-      "knowledge_value": "開発者は依存パッケージだけ見ていても安全を確保できず、AIエージェントやIDEの設定自体が新しい攻撃面になった。開発フロー全体の信頼モデルを見直す必要がある。",
+      "selection_reason": "円安継続と介入警戒の整理で、日銀観測と中東リスクの接続を追いやすい",
+      "classification_reason": "円安継続と介入警戒の整理で、日銀観測と中東リスクの接続を追いやすい",
+      "knowledge_value": "",
       "content_status": "content_ok",
-      "content_chars": 12739,
+      "content_chars": 5671,
       "source_access": "unknown"
     },
     {
       "number": 7,
-      "title": "ロシアのセチン氏、ホルムズ海峡封鎖で米企業が利益と主張",
-      "source": "Reuters via Investing.com",
+      "title": "Swarm Skills: A Portable, Self-Evolving Multi-Agent System Specification for Coordination Engineering",
+      "source": "arXiv",
       "description": "",
-      "url": "https://ca.investing.com/news/commodities-news/russias-sechin-says-us-companies-benefit-from-strait-of-hormuz-closure-4678821",
+      "url": "https://arxiv.org/abs/2605.10052",
       "category": "AI・テクノロジー",
-      "published_at": "2026-06-06",
-      "mode": "followup",
+      "published_at": "2026-05-15",
+      "mode": "deep_dive",
       "summary": {
-        "article_index": 1,
-        "title_ja": "ロシアのセチン氏、ホルムズ海峡封鎖で米企業が利益と主張",
-        "key_points": [
-          "ロスネフチのセチンCEOは、ホルムズ海峡の混乱で最大の利益を得たのは米エネルギー企業だと主張した。",
-          "一方で、海峡の緊張が長引けば原油需要を損ない、代替エネルギーへの関心を押し上げると警告した。",
-          "中東戦争による原油高でロシアの石油・ガス税収は増加し、世界の主要海上ルート全体に混乱リスクが広がっていると述べた."
-        ],
-        "detailed_summary": "ロスネフチのイーゴリ・セチンCEOは、米国とイスラエルによる対イラン攻撃後に起きたホルムズ海峡封鎖について、表向きはイラン封じ込め策でも、実際には米エネルギー企業に高コスト供給を有利にする恩恵を与えたと批判した。ただし緊張の長期化は世界の原油需要を弱め、再生可能エネルギーへの資金シフトを招く恐れがあるとも指摘。ロシアは足元で原油高の恩恵を受ける一方、マラッカ海峡やバブ・エル・マンデブ海峡など他の要衝にも波及する地政学リスクを警戒している。",
-        "why_it_matters": "世界の原油供給の約5分の1が通る海上ルートの混乱は、エネルギー価格だけでなく需要構造そのものを変えうる。短期の原油高で得をする国や企業があっても、長期では市場の前提が崩れる可能性がある。",
-        "headline": "中東緊張を原油だけでなく企業利益と地政学の駆け引きで追える続報として有効"
+        "headline": "スキルを持つ複数エージェントの仕様化が、役割分担運用の再現性を深める"
       },
-      "selection_reason": "中東緊張を原油だけでなく企業利益と地政学の駆け引きで追える続報として有効",
-      "classification_reason": "中東緊張を原油だけでなく企業利益と地政学の駆け引きで追える続報として有効",
-      "knowledge_value": "世界の原油供給の約5分の1が通る海上ルートの混乱は、エネルギー価格だけでなく需要構造そのものを変えうる。短期の原油高で得をする国や企業があっても、長期では市場の前提が崩れる可能性がある。",
+      "selection_reason": "スキルを持つ複数エージェントの仕様化が、役割分担運用の再現性を深める",
+      "classification_reason": "スキルを持つ複数エージェントの仕様化が、役割分担運用の再現性を深める",
+      "knowledge_value": "",
       "content_status": "content_ok",
-      "content_chars": 3986,
-      "source_access": "unknown"
+      "content_chars": 3131,
+      "source_access": "free"
     },
     {
       "number": 8,
-      "title": "仮想発電所はデータセンター向け電力をどう支えるのか",
-      "source": "MIT Technology Review",
+      "title": "CollabSim: A CSCW-Grounded Methodology for Investigating Collaborative Competence of LLM Agents through Controlled Multi-Agent Experiments",
+      "source": "arXiv",
       "description": "",
-      "url": "https://www.technologyreview.com/2026/06/03/1138350/virtual-power-plants-data-centers/",
+      "url": "https://arxiv.org/abs/2606.06399",
       "category": "AI・テクノロジー",
-      "published_at": "2026-06-08",
-      "mode": "breaking",
+      "published_at": "2026-06-04",
+      "mode": "deep_dive",
       "summary": {
-        "article_index": 2,
-        "title_ja": "仮想発電所はデータセンター向け電力をどう支えるのか",
-        "key_points": [
-          "GoogleはVoltusと組み、米最大級の送電網PJMで仮想発電所の構築費用を負担する。",
-          "電気自動車やスマートサーモスタットなどを束ね、需給逼迫時に消費抑制や蓄電放電で余力を生み出す仕組みだ。",
-          "AI時代のデータセンター需要増への対策として有望だが、柔軟性の限界や参加インセンティブ設計には課題が残る。"
-        ],
-        "detailed_summary": "GoogleはVoltusと提携し、米国最大の電力市場PJMで仮想発電所を立ち上げる。家庭や企業のEV、蓄電池、スマートサーモスタットなどを束ね、ピーク時に使用電力を下げたり蓄えた電力を戻したりして、データセンター向けの追加的な電力余力を確保する狙いだ。新設の発電所や送電線を増やさず需要を受け止める現実策として注目される一方、AIサービスでは負荷を下げにくい場面も多く、規制と市場設計の両面で仕組みを詰める必要がある。",
-        "why_it_matters": "データセンターの急増で電力インフラ不足が深刻化するなか、需要側の柔軟性を買うモデルは建設依存を減らす有力策になりうる。電力とAI産業の関係が、発電量の奪い合いから需給調整の設計競争へ移り始めている。",
-        "headline": "AIインフラ競争の制約がGPUでなく電力に移る時、どこで解くかを具体化できる"
+        "headline": "役割分担したAI社員の協働力を、感覚でなく実験設計で測る視点を足せる"
       },
-      "selection_reason": "AIインフラ競争の制約がGPUでなく電力に移る時、どこで解くかを具体化できる",
-      "classification_reason": "AIインフラ競争の制約がGPUでなく電力に移る時、どこで解くかを具体化できる",
-      "knowledge_value": "データセンターの急増で電力インフラ不足が深刻化するなか、需要側の柔軟性を買うモデルは建設依存を減らす有力策になりうる。電力とAI産業の関係が、発電量の奪い合いから需給調整の設計競争へ移り始めている。",
+      "selection_reason": "役割分担したAI社員の協働力を、感覚でなく実験設計で測る視点を足せる",
+      "classification_reason": "役割分担したAI社員の協働力を、感覚でなく実験設計で測る視点を足せる",
+      "knowledge_value": "",
       "content_status": "content_ok",
-      "content_chars": 6157,
-      "source_access": "unknown"
+      "content_chars": 2675,
+      "source_access": "free"
     },
     {
       "number": 9,
-      "title": "AI生成訴訟の急増に裁判所はどう対応しているか",
-      "source": "MIT Technology Review",
+      "title": "OpenComputer: Verifiable Software Worlds for Computer-Use Agents",
+      "source": "arXiv",
       "description": "",
-      "url": "https://www.technologyreview.com/2026/06/04/1138391/courts-coping-ai-lawsuits/",
+      "url": "https://arxiv.org/abs/2605.19769",
       "category": "AI・テクノロジー",
-      "published_at": "2026-06-08",
-      "mode": "breaking",
+      "published_at": "2026-05-19",
+      "mode": "deep_dive",
       "summary": {
-        "article_index": 3,
-        "title_ja": "AI生成訴訟の急増に裁判所はどう対応しているか",
-        "key_points": [
-          "米連邦裁判所では、弁護士なしで訴訟を起こす人の比率が上昇し、AI利用がその一因とみられている。",
-          "AIで文書の体裁や論旨は改善する一方、幻覚による架空判例や誤引用が混入する問題がある。",
-          "裁判官や立法側では、法的助言を行うチャットボットの責任や義務をどう扱うかが新たな論点になっている。"
-        ],
-        "detailed_summary": "米国の裁判所では、弁護士を付けずに訴訟や申立書を提出する人が増えており、研究ではその文書にAI生成文が含まれる割合も2023年の1％から2026年には18％へ上昇した。裁判官は、AIの助けで主張が読みやすくなり判断しやすくなった面を認めつつ、架空の判例や誤った引用が紛れ込む危険に神経をとがらせている。アクセス・トゥ・ジャスティスを広げる効果はあるが、勝率改善には直結しておらず、誤助言の責任を誰が負うのかという制度設計が問われている。",
-        "why_it_matters": "生成AIは法的支援の裾野を広げるが、裁判制度に誤情報を流し込む経路にもなりうる。法律実務でAIをどこまで代理人のように扱うのかは、今後の規制と司法運用を左右する重要論点だ。",
-        "headline": "AI出力が制度側に流れ込んだ時の摩擦を見られ、責任設計と監査の発想が深まる"
+        "headline": "GUI操作エージェントを検証可能な世界で回す発想が、安全運用設計に直結する"
       },
-      "selection_reason": "AI出力が制度側に流れ込んだ時の摩擦を見られ、責任設計と監査の発想が深まる",
-      "classification_reason": "AI出力が制度側に流れ込んだ時の摩擦を見られ、責任設計と監査の発想が深まる",
-      "knowledge_value": "生成AIは法的支援の裾野を広げるが、裁判制度に誤情報を流し込む経路にもなりうる。法律実務でAIをどこまで代理人のように扱うのかは、今後の規制と司法運用を左右する重要論点だ。",
+      "selection_reason": "GUI操作エージェントを検証可能な世界で回す発想が、安全運用設計に直結する",
+      "classification_reason": "GUI操作エージェントを検証可能な世界で回す発想が、安全運用設計に直結する",
+      "knowledge_value": "",
       "content_status": "content_ok",
-      "content_chars": 8703,
-      "source_access": "unknown"
+      "content_chars": 2514,
+      "source_access": "free"
     },
     {
       "number": 10,
-      "title": "中国が世界初の侵襲型ブレイン・コンピューター・チップを承認、その次に来るもの",
-      "source": "MIT Technology Review",
+      "title": "BraveGuard: From Open-World Threats to Safer Computer-Use Agents",
+      "source": "arXiv",
       "description": "",
-      "url": "https://www.technologyreview.com/2026/06/01/1138133/china-world-first-brain-chip/",
+      "url": "https://arxiv.org/abs/2606.01166",
       "category": "AI・テクノロジー",
-      "published_at": "2026-06-08",
-      "mode": "breaking",
+      "published_at": "2026-05-31",
+      "mode": "deep_dive",
       "summary": {
-        "article_index": 4,
-        "title_ja": "中国が世界初の侵襲型ブレイン・コンピューター・チップを承認、その次に来るもの",
-        "key_points": [
-          "中国のNeuracle Technologyと清華大学が開発した侵襲型BCI「NEO」が、臨床試験外で使える製品として世界で初めて承認された。",
-          "脊髄損傷で四肢麻痺の患者が、脳信号とロボット手袋を使う訓練により再び文字を書いたり物をつかんだりできるようになった。",
-          "中国政府の強い後押しを背景に、脳インプラント分野で中国が主導権を握る可能性が高まっている。"
-        ],
-        "detailed_summary": "中国で開発された侵襲型BCI「NEO」が、臨床試験の枠を超えて使える世界初の製品として承認された。装置は脳の硬膜上で信号を取得し、頭蓋上のインプラントを介してコンピューターに伝送、装着者が着ける柔らかいロボット手袋を動かす。脊髄損傷で首から下がまひした患者は、手術後の訓練を経て文字を書き、ボールをつかめるまで回復した。中国は政府支援を追い風に、実用段階の脳インプラントで一気に先行ポジションを狙っている。",
-        "why_it_matters": "BCIが研究段階から医療実装段階へ進んだことを示す節目であり、神経工学の競争軸が実験成功から量産と適応拡大へ移りつつある。医療、規制、産業覇権の3つが交差する分野として影響が大きい。",
-        "headline": "中国の実装速度を通じて、AI後のインターフェース競争と規制差を考えられる"
+        "headline": "PC操作エージェントの脅威面を広く捉え、実運用の防御境界を考え直せる"
       },
-      "selection_reason": "中国の実装速度を通じて、AI後のインターフェース競争と規制差を考えられる",
-      "classification_reason": "中国の実装速度を通じて、AI後のインターフェース競争と規制差を考えられる",
-      "knowledge_value": "BCIが研究段階から医療実装段階へ進んだことを示す節目であり、神経工学の競争軸が実験成功から量産と適応拡大へ移りつつある。医療、規制、産業覇権の3つが交差する分野として影響が大きい。",
+      "selection_reason": "PC操作エージェントの脅威面を広く捉え、実運用の防御境界を考え直せる",
+      "classification_reason": "PC操作エージェントの脅威面を広く捉え、実運用の防御境界を考え直せる",
+      "knowledge_value": "",
       "content_status": "content_ok",
-      "content_chars": 9064,
-      "source_access": "unknown"
+      "content_chars": 3183,
+      "source_access": "free"
     },
     {
       "number": 11,
-      "title": "ジェフ・ベゾスが脳の中核アルゴリズム探しに資金提供",
-      "source": "WIRED",
+      "title": "Dollar clings to 2-month high as Gulf hostilities flare, yen wobbles near intervention zone",
+      "source": "Reuters",
       "description": "",
-      "url": "https://www.wired.com/story/jeff-bezos-is-funding-a-wild-hunt-for-the-brains-core-algorithm/",
+      "url": "https://ca.investing.com/news/economy-news/dollar-clings-to-2month-high-as-gulf-hostilities-flare-yen-wobbles-near-intervention-zone-4674942",
       "category": "AI・テクノロジー",
-      "published_at": "2026-06-08",
-      "mode": "breaking",
+      "published_at": "2026-06-03",
+      "mode": "deep_dive",
       "summary": {
-        "article_index": 5,
-        "title_ja": "ジェフ・ベゾスが脳の中核アルゴリズム探しに資金提供",
-        "key_points": [
-          "元Amazon幹部ロブ・ウィリアムズと神経科学者トーマス・リアドンは、人間の脳に近い低消費電力AIを目指す新会社Flourishを立ち上げた。",
-          "現行の大規模言語モデルは電力とデータを大量消費し、継続学習も苦手だとして、脳の計算原理を再発見しようとしている。",
-          "構想はまだ抽象度が高いが、ジェフ・ベゾスは5000万ドルを出資し、神経科学とAIの融合研究を後押しした。"
-        ],
-        "detailed_summary": "新会社Flourishは、人間の脳並みの学習効率と消費電力を持つ人工知能の実現を掲げる。狙いは、数千チップとギガワット級電力を要する現在のAIとは逆に、50ワット以下で動き、環境に応じて継続学習できる仕組みだ。共同創業者のトーマス・リアドンらは、脳のアーキテクチャを実験で探り、その知見をAIモデルに落とし込む計画を進める。まだ具体製品は途上だが、ジェフ・ベゾスが5000万ドルを投じたことで、脳型AI研究に大型資本が流れ込む構図が鮮明になった。",
-        "why_it_matters": "AIの次の競争は性能だけでなく、電力効率と継続学習能力に移っている。脳を手本にした新アーキテクチャが成立すれば、生成AIのコスト構造と産業地図を大きく塗り替える可能性がある。",
-        "headline": "基礎研究に巨額資本が向かう構図から、AGI競争の次の賭け先を読みやすい"
+        "headline": "中東情勢、ドル高、円介入警戒が一つにつながり、日本市場の判断軸を補強する"
       },
-      "selection_reason": "基礎研究に巨額資本が向かう構図から、AGI競争の次の賭け先を読みやすい",
-      "classification_reason": "基礎研究に巨額資本が向かう構図から、AGI競争の次の賭け先を読みやすい",
-      "knowledge_value": "AIの次の競争は性能だけでなく、電力効率と継続学習能力に移っている。脳を手本にした新アーキテクチャが成立すれば、生成AIのコスト構造と産業地図を大きく塗り替える可能性がある。",
+      "selection_reason": "中東情勢、ドル高、円介入警戒が一つにつながり、日本市場の判断軸を補強する",
+      "classification_reason": "中東情勢、ドル高、円介入警戒が一つにつながり、日本市場の判断軸を補強する",
+      "knowledge_value": "",
       "content_status": "content_ok",
-      "content_chars": 10385,
-      "source_access": "unknown",
-      "content_excerpt": "Rob Williams knows how to pitch Jeff Bezos: You write a press release as if your product has already been built. Bezos reads it and..."
+      "content_chars": 2739,
+      "source_access": "unknown"
     },
     {
       "number": 12,
-      "title": "ウェブトゥーン原作の実写シリーズ『Teach You a Lesson』がNetflix世界5位でデビュー",
-      "source": "Anime News Network",
-      "description": "Series reached No. 1 in several countries including South Korea, the Philippines",
-      "url": "https://www.animenewsnetwork.com/news/2026-06-07/webtoon-based-live-action-series-teach-you-a-lesson-debuts-on-netflix-at-no-5-globally/.238236",
-      "category": "漫画・アニメ・文化",
-      "published_at": "2026-06-07",
-      "mode": "breaking",
+      "title": "Kadokawa investigated after freelancers allegedly worked without written contract terms and received delayed payments",
+      "source": "AUTOMATON WEST",
+      "description": "",
+      "url": "https://automaton-media.com/en/news/kadokawa-investigated-after-freelancers-allegedly-worked-without-written-contract-terms-and-received-delayed-payments/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-06-08",
+      "mode": "adjacent",
       "summary": {
-        "article_index": 6,
-        "title_ja": "ウェブトゥーン原作の実写シリーズ『Teach You a Lesson』がNetflix世界5位でデビュー",
-        "key_points": [
-          "韓国ウェブトゥーン原作の実写シリーズ『Teach You a Lesson』が配信初日にNetflix世界5位に入った。",
-          "韓国とフィリピンで1位となり、中南米、中東、アジアを含む32地域でトップ5入りした。",
-          "原作『Get Schooled』は人気作である一方、女性や有色人種の描写、暴力的な問題解決を巡って批判も受けており、ドラマ版はより慎重に扱う方針だ。"
-        ],
-        "detailed_summary": "Netflixで配信開始された実写シリーズ『Teach You a Lesson』が、公開初日の6月5日に世界ランキング5位へ入った。韓国とフィリピンでは1位を獲得し、メキシコ、UAE、ベトナム、タイ、シンガポールなど32地域でトップ5入りしている。原作はNaver Webtoon連載の『Get Schooled』で、体罰禁止後の学校秩序と正義を描く作品として注目を集めたが、女性や有色人種を悪役化する描写や暴力的解決を巡って批判も強かった。実写版はその論点に配慮して再構成されている。",
-        "why_it_matters": "韓国ウェブトゥーン原作IPの国際展開力を示す一方、原作の論争的要素をどう翻案するかが世界配信時代の重要課題であることも浮き彫りにしている。ヒットと表現責任が同時に問われる事例だ。",
-        "headline": "Webtoon発IPの海外展開が可視化され、漫画発の事業化導線を考える材料になる"
+        "headline": "創作産業の契約と支払いの歪みは、AI時代の個人IP運営にもそのまま刺さる"
       },
-      "selection_reason": "Webtoon発IPの海外展開が可視化され、漫画発の事業化導線を考える材料になる",
-      "classification_reason": "Webtoon発IPの海外展開が可視化され、漫画発の事業化導線を考える材料になる",
-      "knowledge_value": "韓国ウェブトゥーン原作IPの国際展開力を示す一方、原作の論争的要素をどう翻案するかが世界配信時代の重要課題であることも浮き彫りにしている。ヒットと表現責任が同時に問われる事例だ。",
+      "selection_reason": "創作産業の契約と支払いの歪みは、AI時代の個人IP運営にもそのまま刺さる",
+      "classification_reason": "創作産業の契約と支払いの歪みは、AI時代の個人IP運営にもそのまま刺さる",
+      "knowledge_value": "",
       "content_status": "content_ok",
-      "content_chars": 1778,
-      "source_access": "free"
+      "content_chars": 1759,
+      "source_access": "free",
+      "adjacent_field": "二次創作ガイドラインと同人流通設計",
+      "adjacent_reasoning": "この人はキャラクター表現そのものより、創作がどの規範と流通の上で増幅されるかに強く反応する。二次創作の許容線、同人販売、ファン参加の設計を見ると、AI創作と個人ブランドの出口戦略が一段立体的になる。"
     },
     {
       "number": 13,
-      "title": "セガ、2027年発売予定の『クレイジータクシー：ワールドツアー』を発表",
-      "source": "Anime News Network",
-      "description": "Game launches for Xbox X|S, PS5, PC via Steam",
-      "url": "https://www.animenewsnetwork.com/news/2026-06-07/sega-announces-crazy-taxi-world-tour-game-for-2027/.238254",
-      "category": "漫画・アニメ・文化",
-      "published_at": "2026-06-07",
-      "mode": "breaking",
+      "title": "Saya no Uta author Gen Urobuchi thinks audiences no longer crave “poison” from fiction, but an “antidote” to reality",
+      "source": "AUTOMATON WEST",
+      "description": "",
+      "url": "https://automaton-media.com/en/news/saya-no-uta-author-gen-urobuchi-thinks-audiences-no-longer-crave-poison-from-fiction-but-an-antidote-to-reality/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-06-03",
+      "mode": "adjacent",
       "summary": {
-        "article_index": 1,
-        "title_ja": "セガ、2027年発売予定の『クレイジータクシー：ワールドツアー』を発表",
-        "key_points": [
-          "セガがXbox Games Showcase 2026で『Crazy Taxi: World Tour』を発表した",
-          "発売時期は2027年で、PS5、Xbox Series X|S、Nintendo Switch 2、PCに対応する",
-          "開発では生成AIを開発支援ツールとして使用したが、出演者の扱いには使っていないと明言した"
-        ],
-        "detailed_summary": "セガはレースゲームシリーズの新作『Crazy Taxi: World Tour』をXbox Games Showcase 2026で発表し、2027年にPS5、Xbox Series X|S、Nintendo Switch 2、PC向けに発売すると明らかにした。Steamページでは、開発効率と創造的作業への集中を高める目的で生成AI支援ツールを使ったと説明しており、AI活用の範囲を出演者には及ばせていない点も明示した。1999年のアーケード版から続くシリーズ再始動の具体像が見えてきた形だ。",
-        "why_it_matters": "長く新作が途絶えていた『Crazy Taxi』が本格的に復活する節目だからだ。加えて、大手ゲーム会社が生成AIの利用範囲を明示した事例としても注目される。",
-        "headline": "旧IP再起動の流れは、発信や創作で何を現代化すると刺さるかの参考になる"
+        "headline": "何が今の観客に刺さるかを語る記事で、物語設計と発信の感度を更新できる"
       },
-      "selection_reason": "旧IP再起動の流れは、発信や創作で何を現代化すると刺さるかの参考になる",
-      "classification_reason": "旧IP再起動の流れは、発信や創作で何を現代化すると刺さるかの参考になる",
-      "knowledge_value": "長く新作が途絶えていた『Crazy Taxi』が本格的に復活する節目だからだ。加えて、大手ゲーム会社が生成AIの利用範囲を明示した事例としても注目される。",
+      "selection_reason": "何が今の観客に刺さるかを語る記事で、物語設計と発信の感度を更新できる",
+      "classification_reason": "何が今の観客に刺さるかを語る記事で、物語設計と発信の感度を更新できる",
+      "knowledge_value": "",
       "content_status": "content_ok",
-      "content_chars": 1325,
-      "source_access": "free"
+      "content_chars": 2362,
+      "source_access": "free",
+      "adjacent_field": "二次創作ガイドラインと同人流通設計",
+      "adjacent_reasoning": "この人はキャラクター表現そのものより、創作がどの規範と流通の上で増幅されるかに強く反応する。二次創作の許容線、同人販売、ファン参加の設計を見ると、AI創作と個人ブランドの出口戦略が一段立体的になる。"
     },
     {
       "number": 14,
-      "title": "『Castlevania: Belmont's Curse』が10月15日発売へ",
-      "source": "Anime News Network",
-      "description": "Game launches for PS5, Xbox X|S, PC via Steam, with Switch release also planned",
-      "url": "https://www.animenewsnetwork.com/news/2026-06-07/castlevania-belmont-curse-game-announces-october-15-release-date/.238252",
-      "category": "漫画・アニメ・文化",
-      "published_at": "2026-06-07",
-      "mode": "breaking",
+      "title": "ViaTunisia subsea segment reaches ready-for-service status",
+      "source": "Computer Weekly",
+      "description": "",
+      "url": "https://www.computerweekly.com/news/366643922/ViaTunisia-subsea-segment-reaches-Ready-for-Service-status",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-06-05",
+      "mode": "adjacent",
       "summary": {
-        "article_index": 2,
-        "title_ja": "『Castlevania: Belmont's Curse』が10月15日発売へ",
-        "key_points": [
-          "コナミが『Castlevania: Belmont's Curse』を2026年10月15日に発売すると発表した",
-          "PS5、Xbox Series X|S、Xbox Cloud、Xbox PC、Steamで先行発売し、Switch版は2026年内予定",
-          "『Dead Cells』系スタジオのEvil Empireが中心となって開発し、2014年以来の完全新作となる"
-        ],
-        "detailed_summary": "コナミはXbox Games Showcase 2026で『Castlevania: Belmont's Curse』を発表し、2026年10月15日にPS5、Xbox Series X|S、Xbox Cloud、Xbox PC、Steamで発売、Nintendo Switch版も2026年内に投入すると案内した。舞台は15世紀パリで、ベルモンド家の新たな後継者が聖なるムチを手に怪物と城に挑む。開発は『Dead Cells』で知られるEvil Empireが主導し、シリーズに探索性とアクション性を改めて持ち込む。2014年以来の完全新作という位置づけも大きい。",
-        "why_it_matters": "『悪魔城ドラキュラ』の完全新作が12年ぶりに動き出した点が大きい。近年のアニメ展開で広がった新規ファンをゲーム本編へ戻す起点にもなりうる。",
-        "headline": "長寿IPの継続運用を追う材料として、世界観の保守と更新の両立を見やすい"
+        "headline": "AI競争の土台は回線と着地点で決まると分かり、供給網視点が一段強くなる"
       },
-      "selection_reason": "長寿IPの継続運用を追う材料として、世界観の保守と更新の両立を見やすい",
-      "classification_reason": "長寿IPの継続運用を追う材料として、世界観の保守と更新の両立を見やすい",
-      "knowledge_value": "『悪魔城ドラキュラ』の完全新作が12年ぶりに動き出した点が大きい。近年のアニメ展開で広がった新規ファンをゲーム本編へ戻す起点にもなりうる。",
+      "selection_reason": "AI競争の土台は回線と着地点で決まると分かり、供給網視点が一段強くなる",
+      "classification_reason": "AI競争の土台は回線と着地点で決まると分かり、供給網視点が一段強くなる",
+      "knowledge_value": "",
       "content_status": "content_ok",
-      "content_chars": 2320,
-      "source_access": "free"
+      "content_chars": 5208,
+      "source_access": "unknown",
+      "adjacent_field": "海運保険・海底ケーブル・データセンター立地",
+      "adjacent_reasoning": "この人は地政学を見出しではなく供給網の伝播で読むので、エネルギーだけでなく通信と計算資源の物流まで広げると判断モデルが強くなる。AIインフラ競争も、実際には保険料、航路、着地点、電力確保の制約で形が決まる。"
     },
     {
       "number": 15,
-      "title": "『Wo Long 2: Wings of Ember』発表",
-      "source": "Anime News Network",
-      "description": "Dark Three Kingdoms action RPG launches for PS5, Xbox X|S, Switch 2, PC via Steam in early 2027",
-      "url": "https://www.animenewsnetwork.com/news/2026-06-07/wo-long-2-wings-of-ember-game-announced/.238255",
-      "category": "漫画・アニメ・文化",
-      "published_at": "2026-06-07",
-      "mode": "breaking",
+      "title": "G7 backs privacy-preserving age assurance as Japan proposes social media access limits",
+      "source": "Biometric Update",
+      "description": "",
+      "url": "https://www.biometricupdate.com/202606/g7-backs-privacy-preserving-age-assurance-as-japan-proposes-social-media-access-limits",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-06-05",
+      "mode": "adjacent",
       "summary": {
-        "article_index": 3,
-        "title_ja": "『Wo Long 2: Wings of Ember』発表",
-        "key_points": [
-          "コーエーテクモが『Wo Long 2: Wings of Ember』をXbox Games Showcase 2026で発表した",
-          "発売時期は2027年初頭で、PS5、Xbox Series X|S、Switch 2、PC向けに展開する",
-          "2023年発売の『Wo Long: Fallen Dynasty』の続編としてTeam Ninja作品が再始動する"
-        ],
-        "detailed_summary": "コーエーテクモはXbox Games Showcase 2026で、Team Ninjaによるダーク三国志アクションRPGの続編『Wo Long 2: Wings of Ember』を発表した。発売は2027年初頭を予定し、PS5、Xbox Series X|S、Nintendo Switch 2、Xbox PC、Xbox Cloud、Steamで展開される。前作『Wo Long: Fallen Dynasty』は2023年に発売され、Game Pass対応やDLC展開を含め一定の存在感を示しており、その流れを受けてシリーズ化が鮮明になった。対応プラットフォームの広さからも販売拡大を狙う姿勢がうかがえる。",
-        "why_it_matters": "Team Ninjaの新たな継続シリーズとして定着するかを占う発表だからだ。前作の評価と運営実績を踏まえ、続編でどこまで規模と完成度を伸ばせるかが注目点になる。",
-        "headline": "三国志題材の再編集は、既存文脈を新作へ変換する創作の手つきを観察しやすい"
+        "headline": "年齢確認と本人性基盤の制度化は、将来のエージェント権限管理にも波及する"
       },
-      "selection_reason": "三国志題材の再編集は、既存文脈を新作へ変換する創作の手つきを観察しやすい",
-      "classification_reason": "三国志題材の再編集は、既存文脈を新作へ変換する創作の手つきを観察しやすい",
-      "knowledge_value": "Team Ninjaの新たな継続シリーズとして定着するかを占う発表だからだ。前作の評価と運営実績を踏まえ、続編でどこまで規模と完成度を伸ばせるかが注目点になる。",
+      "selection_reason": "年齢確認と本人性基盤の制度化は、将来のエージェント権限管理にも波及する",
+      "classification_reason": "年齢確認と本人性基盤の制度化は、将来のエージェント権限管理にも波及する",
+      "knowledge_value": "",
       "content_status": "content_ok",
-      "content_chars": 848,
-      "source_access": "free"
+      "content_chars": 5085,
+      "source_access": "unknown",
+      "adjacent_field": "デジタル本人性・委任権限・監査証跡インフラ",
+      "adjacent_reasoning": "AIエージェントを実務で回したい人にとって、次の壁は性能ではなく、誰の権限で何を実行したかを証明できる基盤になる。これは安全性の話で終わらず、遠隔操作、個人ブランド、課金責任、商取引の信頼設計までつながる。"
     }
-  ]
+  ],
+  "status": "complete",
+  "failed_modes": []
 }
