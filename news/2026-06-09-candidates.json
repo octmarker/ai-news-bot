@@ -1,0 +1,356 @@
+{
+  "date": "2026-06-09",
+  "generated_at": "2026-06-09T10:00:09.757166+09:00",
+  "run_id": "20260609T100009+0900",
+  "mode_collection_counts": {
+    "breaking": 36,
+    "followup": 5,
+    "deep_dive": 2,
+    "adjacent": 2
+  },
+  "mode_errors": {},
+  "mode": "multimode",
+  "articles": [
+    {
+      "number": 1,
+      "title": "OpenAI、Anthropicに続き非公開でIPO申請",
+      "source": "TechCrunch",
+      "description": "",
+      "url": "https://techcrunch.com/2026/06/08/following-anthropic-openai-files-confidentially-for-ipo/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-06-08",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 1,
+        "title_ja": "OpenAI、Anthropicに続き非公開でIPO申請",
+        "key_points": [
+          "OpenAIが米証券取引委員会にIPOのドラフト申請書を非公開で提出した",
+          "Anthropicの上場申請直後で、主要AI企業の上場競争が一段と加速している",
+          "巨額の資金調達後も計算資源への支出と赤字見通しが重く、公開市場の投資家に厳しい判断を迫る"
+        ],
+        "detailed_summary": "OpenAIはIPOに向けた登録書類を米SECへ非公開で提出したと公表した。時期は未定としつつ、必要なら早期上場できる選択肢を確保した形だ。直前には競合のAnthropicも上場申請しており、AI大手の資本市場での競争が強まっている。一方で、OpenAIは直近で過去最大級の資金調達を実施したものの、データセンター投資や研究用計算コストが膨張し、数年先まで資金消費が続く見通しとされる。成長期待と収益構造の弱さが同時に試される案件になりそうだ。",
+        "why_it_matters": "生成AIの主役企業が公開市場に出れば、AIバブルの実力が収益面で問われる。上場の成否は、巨大なAI投資を市場がどこまで許容するかの基準にもなる。",
+        "headline": "モデル競争が資本市場フェーズへ移行。勝負が性能だけでなく資金調達力になる"
+      },
+      "selection_reason": "モデル競争が資本市場フェーズへ移行。勝負が性能だけでなく資金調達力になる",
+      "classification_reason": "モデル競争が資本市場フェーズへ移行。勝負が性能だけでなく資金調達力になる",
+      "knowledge_value": "生成AIの主役企業が公開市場に出れば、AIバブルの実力が収益面で問われる。上場の成否は、巨大なAI投資を市場がどこまで許容するかの基準にもなる。",
+      "content_status": "content_ok",
+      "content_chars": 7677,
+      "source_access": "free"
+    },
+    {
+      "number": 2,
+      "title": "Microsoftのオープンソース開発ツールが侵害され、AI開発者のパスワード窃取に悪用",
+      "source": "TechCrunch",
+      "description": "",
+      "url": "https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-06-08",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 2,
+        "title_ja": "Microsoftのオープンソース開発ツールが侵害され、AI開発者のパスワード窃取に悪用",
+        "key_points": [
+          "MicrosoftはGitHub上の複数のオープンソースリポジトリを一時停止し、悪意あるコード混入を調査している",
+          "感染したツールはAzure関連やAIコーディング環境で使われる開発ツールに関係していた",
+          "改ざんコードは利用者のパスワードや認証情報を盗むサプライチェーン攻撃だった可能性が高い"
+        ],
+        "detailed_summary": "Microsoftは、GitHubで公開していた数十件規模のオープンソースプロジェクトへのアクセスを遮断し、ハッカーによる侵害を調査している。対象にはAzure関連やClaude Code、Gemini CLI、VS CodeのようなAI開発アプリ周辺で使われるツールも含まれ、改ざんされたコードを開くと認証情報が盗まれる恐れがあったという。影響人数は未公表だが、一部利用者には通知済みとされる。個人開発者ではなくMicrosoft級の大手でも供給網攻撃を受けた点が異例で、オープンソースの信頼モデルそのものに警戒が広がる。",
+        "why_it_matters": "AI開発者向けツールが狙われると、個人PCだけでなくクラウドや顧客環境まで侵害が連鎖しかねない。依存パッケージや公式リポジトリでも無条件に信用できない現実を示した。",
+        "headline": "AI開発基盤そのものが侵入口になった例。エージェント運用の権限設計に直結する"
+      },
+      "selection_reason": "AI開発基盤そのものが侵入口になった例。エージェント運用の権限設計に直結する",
+      "classification_reason": "AI開発基盤そのものが侵入口になった例。エージェント運用の権限設計に直結する",
+      "knowledge_value": "AI開発者向けツールが狙われると、個人PCだけでなくクラウドや顧客環境まで侵害が連鎖しかねない。依存パッケージや公式リポジトリでも無条件に信用できない現実を示した。",
+      "content_status": "content_ok",
+      "content_chars": 3202,
+      "source_access": "free"
+    },
+    {
+      "number": 3,
+      "title": "米国防総省、Alibaba・Baidu・BYD・Unitreeを中国軍支援企業リストに追加",
+      "source": "TechCrunch",
+      "description": "",
+      "url": "https://techcrunch.com/2026/06/08/pentagon-says-alibaba-baidu-byd-and-unitree-support-chinas-military/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-06-08",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 3,
+        "title_ja": "米国防総省、Alibaba・Baidu・BYD・Unitreeを中国軍支援企業リストに追加",
+        "key_points": [
+          "米国防総省がAlibaba、Baidu、BYD、Unitreeなどを中国軍支援企業とみなす1260Hリストに追加した",
+          "米企業による取引や提携が今後さらに難しくなる可能性がある",
+          "AI、自動運転、EV、電池、LiDARなど中国の先端産業全体に対米圧力が広がっている"
+        ],
+        "detailed_summary": "米国防総省は、中国軍を支援していると判断する1260Hリストを更新し、Alibaba、Baidu、BYD、Unitreeなどを新たに追加した。これにより米企業がこれらの企業と取引する際の政治的、規制的なリスクが一段と高まる。今回の更新ではNioや電池大手、LiDAR企業など自動車関連も幅広く対象に入り、中国のAIや自動運転、ロボティクス分野への包囲網が強まった。米中対立が関税だけでなく、資本、技術、産業連携の面でも深まっていることを示す動きだ。",
+        "why_it_matters": "米中摩擦は半導体だけでなく、AI、EV、ロボットまで広がっている。企業価値やサプライチェーン、提携戦略に直接影響するため、テック業界全体の地政学リスクを押し上げる。",
+        "headline": "米中AIとロボティクスの分断が一段進む。投資先と供給網の前提を更新させる"
+      },
+      "selection_reason": "米中AIとロボティクスの分断が一段進む。投資先と供給網の前提を更新させる",
+      "classification_reason": "米中AIとロボティクスの分断が一段進む。投資先と供給網の前提を更新させる",
+      "knowledge_value": "米中摩擦は半導体だけでなく、AI、EV、ロボットまで広がっている。企業価値やサプライチェーン、提携戦略に直接影響するため、テック業界全体の地政学リスクを押し上げる。",
+      "content_status": "content_ok",
+      "content_chars": 1616,
+      "source_access": "free"
+    },
+    {
+      "number": 4,
+      "title": "この夏の旅行シーズンが持続可能な航空燃料の将来を大きく変えるかもしれない",
+      "source": "WIRED",
+      "description": "",
+      "url": "https://www.wired.com/story/summer-travel-season-sustainable-aviation-fuel/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-06-09",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 4,
+        "title_ja": "この夏の旅行シーズンが持続可能な航空燃料の将来を大きく変えるかもしれない",
+        "key_points": [
+          "ホルムズ海峡閉鎖でジェット燃料供給が逼迫し、各国の備蓄や航空便に影響が広がっている",
+          "燃料高騰で、従来は割高だった持続可能な航空燃料SAFが相対的に競争力を持ち始めた",
+          "航空会社は夏の需要増を支える代替策としてSAF導入を本格的に検討している"
+        ],
+        "detailed_summary": "イランによるホルムズ海峡閉鎖を受け、世界のジェット燃料供給が急減し、欧州の備蓄取り崩しや米国内路線の一部運休にまで影響が及んでいる。旅行者のキャンセルが相次ぐなか、航空業界では持続可能な航空燃料SAFへの注目が急速に高まった。SAFは通常の燃料より高価だが、足元では従来燃料価格が急騰し、価格差が縮小。排出量を大きく減らせるうえ、既存機材に大きな改修なしで混合利用できるため、今夏が商用拡大の転機になるとの期待が出ている。",
+        "why_it_matters": "脱炭素の文脈だけでは進みにくかったSAFが、地政学リスクと価格高騰で一気に現実解へ近づいた。エネルギー安全保障と気候対応が初めて強く噛み合う局面といえる。",
+        "headline": "脱炭素の理想ではなく供給制約と価格転嫁を見る記事で、エネルギー判断に効く"
+      },
+      "selection_reason": "脱炭素の理想ではなく供給制約と価格転嫁を見る記事で、エネルギー判断に効く",
+      "classification_reason": "脱炭素の理想ではなく供給制約と価格転嫁を見る記事で、エネルギー判断に効く",
+      "knowledge_value": "脱炭素の文脈だけでは進みにくかったSAFが、地政学リスクと価格高騰で一気に現実解へ近づいた。エネルギー安全保障と気候対応が初めて強く噛み合う局面といえる。",
+      "content_status": "content_ok",
+      "content_chars": 5007,
+      "source_access": "unknown",
+      "content_excerpt": "Late last year, Vancouver-based aviation analyst Mark Miller bought airplane tickets to bring his family of four to Rome this summer. The Millers would spend..."
+    },
+    {
+      "number": 5,
+      "title": "Instagram、ついにプロフィールグリッドの並べ替えを全ユーザーに提供",
+      "source": "The Verge",
+      "description": "Nearly a year after it was announced, Instagram says it's delivering the ability to rearrange the posts in your profile grid. It had been available to some people in test groups, but as of June 8th, it's rolling out widely via the Android and iPhone mobile apps. Until now, the posts on your Instagram profile […]",
+      "url": "https://www.theverge.com/tech/946458/instagram-is-finally-letting-everyone-reorganize-their-grid",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-06-08",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 5,
+        "title_ja": "Instagram、ついにプロフィールグリッドの並べ替えを全ユーザーに提供",
+        "key_points": [
+          "Instagramがプロフィール投稿の表示順を自由に入れ替えられる機能をiPhoneとAndroid向けに広く展開した",
+          "これまでは3件のピン留め以外、基本的に時系列順から動かせなかった",
+          "見た目を重視する利用者にとって、過去投稿を含めたプロフィール設計の自由度が大きく上がる"
+        ],
+        "detailed_summary": "Instagramは、プロフィール画面の投稿グリッドを長押しとドラッグで自由に並べ替えられる機能を全体展開し始めた。これまでは最新順が基本で、上部に3件まで固定表示できるだけだったが、今後は古い投稿も含めて視覚的な見せ方を再構成できる。発表から実装までほぼ1年を要したが、縦長サムネイルへの変更でプロフィールの美観が崩れたと感じていた利用者には待望の改善となる。Instagramが自己表現の場としての使い勝手を改めて強化した格好だ。",
+        "why_it_matters": "クリエイターやブランドにとって、プロフィールは名刺に近い導線だ。投稿順の編集自由度が上がることで、発見性よりも世界観やブランディングを重視した運用がしやすくなる。",
+        "headline": "個人ブランド運用の導線が変わる。投稿順ではなく見せ方を設計できるようになる"
+      },
+      "selection_reason": "個人ブランド運用の導線が変わる。投稿順ではなく見せ方を設計できるようになる",
+      "classification_reason": "個人ブランド運用の導線が変わる。投稿順ではなく見せ方を設計できるようになる",
+      "knowledge_value": "クリエイターやブランドにとって、プロフィールは名刺に近い導線だ。投稿順の編集自由度が上がることで、発見性よりも世界観やブランディングを重視した運用がしやすくなる。",
+      "content_status": "content_ok",
+      "content_chars": 1131,
+      "source_access": "free"
+    },
+    {
+      "number": 6,
+      "title": "Claude Codeの料金改定、2026年6月15日から実際にいくらかかるのか",
+      "source": "Bind AI",
+      "description": "",
+      "url": "https://blog.getbind.co/claude-code-pricing-changes-june-15-what-youll-actually-pay-2026/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-06-08",
+      "mode": "followup",
+      "summary": {
+        "article_index": 6,
+        "title_ja": "Claude Codeの料金改定、2026年6月15日から実際にいくらかかるのか",
+        "key_points": [
+          "2026年6月15日からClaude Codeのプログラム利用は定額枠込みではなく、専用クレジット制に移行する",
+          "利用料金は実質的にトークン消費量に直結し、トークナイザー変更で体感コストはさらに上がる可能性がある",
+          "上位プランでも割引はなく、支払額の差は利用量の上限差として表れる"
+        ],
+        "detailed_summary": "Anthropicは6月15日から、Claude Codeのエージェント的なプログラム利用を専用クレジット制へ切り替える。従来のようにサブスク全体の計算枠へ含める形ではなくなり、ファイル編集やツール呼び出しごとにAPI相当の単価でクレジットが減る仕組みだ。Pro、Max 5x、Max 20xはいずれも月額と同額のクレジットが配られるが、単価自体は同じで、上位プランは割安ではなく総量が多いだけと説明されている。毎日使う開発者ほど予算管理がシビアになる改定だ。",
+        "why_it_matters": "AIコーディング支援は定額で使い倒す時代から、従量課金を前提に運用を最適化する段階へ入った。開発者は便利さだけでなく、1タスク当たりの採算まで意識する必要がある。",
+        "headline": "AI社員運用の採算線を見直す材料。実験回数と常時稼働の設計に差分が出る"
+      },
+      "selection_reason": "AI社員運用の採算線を見直す材料。実験回数と常時稼働の設計に差分が出る",
+      "classification_reason": "AI社員運用の採算線を見直す材料。実験回数と常時稼働の設計に差分が出る",
+      "knowledge_value": "AIコーディング支援は定額で使い倒す時代から、従量課金を前提に運用を最適化する段階へ入った。開発者は便利さだけでなく、1タスク当たりの採算まで意識する必要がある。",
+      "content_status": "content_ok",
+      "content_chars": 12405,
+      "source_access": "unknown"
+    },
+    {
+      "number": 7,
+      "title": "Meta Ads MCP完全ガイド（2026年）",
+      "source": "Soku AI",
+      "description": "",
+      "url": "https://soku.ai/blog/meta-ads-mcp-guide",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-06-08",
+      "mode": "followup",
+      "summary": {
+        "article_index": 1,
+        "title_ja": "Meta Ads MCP完全ガイド（2026年）",
+        "key_points": [
+          "Metaが2026年4月29日に広告向け公式MCPサーバーとCLIを公開し、AIアシスタントから広告アカウントを正規に操作できるようにした。",
+          "29種類のツールでレポート、キャンペーン管理、カタログ運用、診断、データ品質確認まで対応し、OAuthだけで数分で接続できる。",
+          "MCPは対話的な分析向き、CLIは再現性の高い一括実行向きで、MCP作成物は停止状態、CLIは明示しないと有効化される点が重要だ。"
+        ],
+        "detailed_summary": "Metaは広告領域で初めて本格的な公式MCPを公開し、従来のAds Manager中心の運用から、AIエージェントを正規クライアントとして扱う体制へ踏み込んだ。開発者向けアプリ審査なしでOAuth接続でき、導入負荷は大きく下がる。29の自然言語ツールで分析から編集まで広く扱える一方、実運用ではMCPを分析、CLIを実行に分ける使い方が現実的だ。特にCLIは停止指定を忘れると即時配信につながりうるため、ガードレール設計が鍵になる。",
+        "why_it_matters": "主要広告プラットフォームの操作面がUIからAIへ移り始めた象徴的な動きだからだ。広告運用の速度、権限設計、ヒューマンレビューのあり方が一段変わる。",
+        "headline": "MCPが広告運用まで伸びた差分が重要。開発だけでなく販促をAI社員化しやすい"
+      },
+      "selection_reason": "MCPが広告運用まで伸びた差分が重要。開発だけでなく販促をAI社員化しやすい",
+      "classification_reason": "MCPが広告運用まで伸びた差分が重要。開発だけでなく販促をAI社員化しやすい",
+      "knowledge_value": "主要広告プラットフォームの操作面がUIからAIへ移り始めた象徴的な動きだからだ。広告運用の速度、権限設計、ヒューマンレビューのあり方が一段変わる。",
+      "content_status": "content_ok",
+      "content_chars": 12551,
+      "source_access": "unknown"
+    },
+    {
+      "number": 8,
+      "title": "Notion、サービス障害後にAnthropicへのアクセスを復旧",
+      "source": "TechCrunch",
+      "description": "",
+      "url": "https://techcrunch.com/2026/06/07/notion-restores-access-to-anthropic-after-service-disruption/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-06-07",
+      "mode": "followup",
+      "summary": {
+        "article_index": 2,
+        "title_ja": "Notion、サービス障害後にAnthropicへのアクセスを復旧",
+        "key_points": [
+          "Notionは週末にAnthropicのOpus 4.7と4.8で障害が発生し、Notion AIでの失敗率上昇を確認した。",
+          "影響を受けて一時的にAnthropic製モデル全体の利用を停止したが、約12時間後にアクセスを復旧した。",
+          "Notion側もAnthropic側も、モデル品質問題ではなく短時間のインフラ障害だったと説明している。"
+        ],
+        "detailed_summary": "Notionは日曜早朝、AnthropicのOpus 4.7と4.8で性能低下が起き、Notion AI利用時の失敗率が上がっていると公表した。これを受け、同社はAnthropicの全モデルを一時停止。その後、プロダクト責任者のMax Schoening氏は、今回の件がモデルの質の問題として拡散されていることに驚きを示し、原因は一時的なサービス障害だと説明した。Anthropicも複数のClaudeモデルで短時間エラー率が上昇したインフラ問題だったと認め、現在は復旧済みとしている。",
+        "why_it_matters": "生成AIの実運用では、モデル性能そのものだけでなく接続先の可用性が製品体験を左右する。AI機能を組み込む企業にとって、複数モデル運用や障害時の切り替え設計は必須だ。",
+        "headline": "外部LLM依存の業務基盤が止まる実例。秘書役や記憶基盤の冗長化判断に効く"
+      },
+      "selection_reason": "外部LLM依存の業務基盤が止まる実例。秘書役や記憶基盤の冗長化判断に効く",
+      "classification_reason": "外部LLM依存の業務基盤が止まる実例。秘書役や記憶基盤の冗長化判断に効く",
+      "knowledge_value": "生成AIの実運用では、モデル性能そのものだけでなく接続先の可用性が製品体験を左右する。AI機能を組み込む企業にとって、複数モデル運用や障害時の切り替え設計は必須だ。",
+      "content_status": "content_ok",
+      "content_chars": 1193,
+      "source_access": "free"
+    },
+    {
+      "number": 9,
+      "title": "イランとイスラエルが攻撃停止を表明し、原油価格は1ドル高で取引終了",
+      "source": "Reuters via Yahoo Finance",
+      "description": "",
+      "url": "https://finance.yahoo.com/news/oil-prices-rise-more-2-223106619.html",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-06-08",
+      "mode": "followup",
+      "summary": {
+        "article_index": 3,
+        "title_ja": "イランとイスラエルが攻撃停止を表明し、原油価格は1ドル高で取引終了",
+        "key_points": [
+          "原油価格は一時5％超上昇した後、終値ではBrentが94.25ドル、WTIが91.30ドルまで上昇して引けた。",
+          "背景にはイスラエルとイランの攻撃応酬と、レバノン情勢を含む中東全体の緊張拡大がある。",
+          "両国は攻撃停止に言及したが、ホルムズ海峡の通航や今後の報復条件を巡る不透明感は残っている。"
+        ],
+        "detailed_summary": "ロイターによると、原油相場は中東情勢の緊迫で一時5％超上昇した後、攻撃停止の表明を受けて上げ幅を縮小しつつも続伸して取引を終えた。イスラエルはイラン南西部の石油化学施設を攻撃し、イランもハイファの類似施設への報復を主張。週末のベイルート空爆も重なり、戦闘終結への期待は後退した。市場はホルムズ海峡の物流制約を強く警戒しており、停戦が持続するかよりも、供給網への実害が広がるかを注視している。",
+        "why_it_matters": "原油価格はエネルギーだけでなく、物価、金利、株式市場にも連鎖する。停戦の言葉が出ても供給リスクが解消していない以上、市場の不安定さは続く。",
+        "headline": "中東テーマの続報として十分。停戦示唆でも原油が高止まりする構造を追える"
+      },
+      "selection_reason": "中東テーマの続報として十分。停戦示唆でも原油が高止まりする構造を追える",
+      "classification_reason": "中東テーマの続報として十分。停戦示唆でも原油が高止まりする構造を追える",
+      "knowledge_value": "原油価格はエネルギーだけでなく、物価、金利、株式市場にも連鎖する。停戦の言葉が出ても供給リスクが解消していない以上、市場の不安定さは続く。",
+      "content_status": "content_ok",
+      "content_chars": 2675,
+      "source_access": "free"
+    },
+    {
+      "number": 10,
+      "title": "ヘッドレス化へ向かうのか――Vertical AI企業の境界をめぐって",
+      "source": "arXiv",
+      "description": "",
+      "url": "https://arxiv.org/abs/2605.17812",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-18",
+      "mode": "deep_dive",
+      "summary": {
+        "article_index": 4,
+        "title_ja": "ヘッドレス化へ向かうのか――Vertical AI企業の境界をめぐって",
+        "key_points": [
+          "論文は、会計や法務、医療などのVertical AI企業が、エージェント時代にワークフローを手放すべきかを検討している。",
+          "結論は一律のヘッドレス化ではなく、価値の中核がUIではなく説明責任や規制対応にある企業は統合性を保つべきだというものだ。",
+          "著者は企業の立ち位置を部品型、統合プラットフォーム型、二重トラック型の3類型に整理し、rule debtという概念を提示している。"
+        ],
+        "detailed_summary": "この論文は、汎用AIエージェントの普及によって、Vertical AI企業が自社UIやワークフローを捨て、専門機能だけをAPI化する流れを批判的に整理している。著者は、動かせるのはインターフェース境界であって、専門家の承認、証跡、規制順守といった説明責任の境界は簡単に外へ出せないと論じる。さらに、ルールをシステム外のプロンプトへ逃がすと、顧客側に将来の統治負担が蓄積するrule debtが生まれると指摘し、企業は責任の所在で設計を分解すべきだと提案する。",
+        "why_it_matters": "AIエージェント時代の競争優位が、見た目のUIではなく責任、証跡、規制適合に移ることを示している。Vertical AIの事業設計や投資判断に直結する論点だ。",
+        "headline": "バーティカルAIがUIを捨ててどこまで食い込めるかを考える土台になる"
+      },
+      "selection_reason": "バーティカルAIがUIを捨ててどこまで食い込めるかを考える土台になる",
+      "classification_reason": "バーティカルAIがUIを捨ててどこまで食い込めるかを考える土台になる",
+      "knowledge_value": "AIエージェント時代の競争優位が、見た目のUIではなく責任、証跡、規制適合に移ることを示している。Vertical AIの事業設計や投資判断に直結する論点だ。",
+      "content_status": "content_ok",
+      "content_chars": 3297,
+      "source_access": "free"
+    },
+    {
+      "number": 11,
+      "title": "Agent-First Tool API――エンタープライズAIエージェント向けの意味論的インターフェースパラダイム",
+      "source": "arXiv",
+      "description": "",
+      "url": "https://arxiv.org/abs/2605.10555",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-11",
+      "mode": "deep_dive",
+      "summary": {
+        "article_index": 5,
+        "title_ja": "Agent-First Tool API――エンタープライズAIエージェント向けの意味論的インターフェースパラダイム",
+        "key_points": [
+          "論文は、従来のCRUD型APIが自律エージェントには合わず、識別子依存や曖昧なエラー処理など5つの構造的ミスマッチがあると整理する。",
+          "その解決策として、search、resolve、preview、execute、verify、recoverの6動詞プロトコルと、意思決定支援情報を含む標準契約を提案する。",
+          "実験では50業務タスクで成功率が64％から88％へ向上し、人手介入も大幅に減ったと報告している。"
+        ],
+        "detailed_summary": "この論文は、企業向けAIエージェントが使うツールAPIを、人間向け画面操作の延長として設計している点に限界があると指摘する。著者らは、単発処理前提、権限の粗さ、エラー意味の不透明さなどを問題化し、エージェント専用の意味論レイヤーとしてAgent-First Tool APIを提案した。中心は6段階の行為モデル、信頼度や根拠、次善策まで返すNormalized Tool Contract、静的ポリシーと動的リスク制御を組み合わせた統治機構だ。MCPのような通信規格を置き換えるのではなく、その上位層として機能する立場を取っている。",
+        "why_it_matters": "エージェント導入の失敗は、モデル性能よりAPI設計のまずさで起きる場面が多い。MCPだけでは足りず、その上でどう意味を渡すかが次の設計競争になる。",
+        "headline": "人間向けUIではなくエージェント向け接続面をどう設計するかの判断軸を足せる"
+      },
+      "selection_reason": "人間向けUIではなくエージェント向け接続面をどう設計するかの判断軸を足せる",
+      "classification_reason": "人間向けUIではなくエージェント向け接続面をどう設計するかの判断軸を足せる",
+      "knowledge_value": "エージェント導入の失敗は、モデル性能よりAPI設計のまずさで起きる場面が多い。MCPだけでは足りず、その上でどう意味を渡すかが次の設計競争になる。",
+      "content_status": "content_ok",
+      "content_chars": 2883,
+      "source_access": "free"
+    },
+    {
+      "number": 12,
+      "title": "エージェント型システムのためのデジタルアイデンティティ――自律エージェント向けポータブル認可標準へ",
+      "source": "arXiv",
+      "description": "",
+      "url": "https://arxiv.org/abs/2605.11487",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-05-12",
+      "mode": "adjacent",
+      "summary": {
+        "article_index": 6,
+        "title_ja": "エージェント型システムのためのデジタルアイデンティティ――自律エージェント向けポータブル認可標準へ",
+        "key_points": [
+          "論文は、企業AIがコパイロットから自律エージェントへ移る中で、本人確認だけでは不十分だと論じる。",
+          "必要なのは、明示的で制約付き、監査可能、取り消し可能な権限を組織間で一貫して解釈できる認可モデルだという主張だ。",
+          "提案モデルは、認可ペイロード、制約代数、委任の減衰、失敗時は閉じる処理などを備え、JWTやVC、OAuth RARとも両立する。"
+        ],
+        "detailed_summary": "この論文は、自律エージェントが企業間にまたがって業務を実行する時代には、IDの確認だけでは安全性も統制も足りないと出発点を置く。保険金請求やサプライチェーンの事例を通じて、現行の認証認可モデルでは、何をどこまで委任したかを受け手ごとに同じ意味で扱えない欠陥を示す。そこで著者は、発行者が定義した認可情報を携帯可能な形で持たせ、制約、委任縮小、監査、失効、事前発見を組み込んだ標準モデルを提案した。資格情報の入れ物と意味、執行基盤を分離する点が特徴だ。",
+        "why_it_matters": "AIエージェントに本当に仕事を任せるなら、認証より認可の標準化が先に必要になる。企業間連携の安全性と責任分界を整える土台になりうる。",
+        "headline": "AI社員を増やすほど避けて通れない論点。実行権限と監査可能性の土台を広げる"
+      },
+      "selection_reason": "AI社員を増やすほど避けて通れない論点。実行権限と監査可能性の土台を広げる",
+      "classification_reason": "AI社員を増やすほど避けて通れない論点。実行権限と監査可能性の土台を広げる",
+      "knowledge_value": "AIエージェントに本当に仕事を任せるなら、認証より認可の標準化が先に必要になる。企業間連携の安全性と責任分界を整える土台になりうる。",
+      "content_status": "content_ok",
+      "content_chars": 2504,
+      "source_access": "free",
+      "adjacent_field": "機械ID・監査ログ・権限委任基盤",
+      "adjacent_reasoning": "エージェント運用を本気で回すほど、次の差は賢いモデルではなく誰がどの権限で何を実行し、その痕跡をどう残すかに移ります。これは安全性の話であると同時に、将来の遠隔実行、定時運転、外部連携の拡張余地を決める土台です。"
+    }
+  ],
+  "status": "complete",
+  "failed_modes": []
+}
