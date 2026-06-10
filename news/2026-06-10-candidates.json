@@ -266,34 +266,6 @@
     },
     {
       "number": 10,
-      "title": "ヘッドレス化するべきか：バーティカルAI企業の境界をめぐって",
-      "source": "arXiv",
-      "description": "",
-      "url": "https://arxiv.org/abs/2605.17812",
-      "category": "AI・テクノロジー",
-      "published_at": "2026-05-18",
-      "mode": "deep_dive",
-      "summary": {
-        "article_index": 4,
-        "title_ja": "ヘッドレス化するべきか：バーティカルAI企業の境界をめぐって",
-        "key_points": [
-          "論文は、会計や法務、医療などのバーティカルAI企業がエージェント時代に「ヘッドレス化」すべきかを検討している",
-          "価値の境界はUIやワークフローではなく、説明責任や規制対応、証跡、承認責任といった中核資産にあると主張する",
-          "著者は企業の立ち位置をコンポーネント型、統合プラットフォーム型、デュアルトラック型の3類型で整理し、単一オーケストレーター依存を避けるべきだと提言する"
-        ],
-        "detailed_summary": "この論文は、業界特化型AI企業がエージェントにUIや業務導線を明け渡し、専門機能だけをAPIとして提供する「ヘッドレス化」が万能ではないと論じる。重要なのは画面や操作ではなく、最終責任をどこが負うかという境界であり、規制対応、専門家の承認、監査証跡、記録システムのような責任資産に価値が残るという。著者は、業種ではなくタスクと責任の重さで戦略を分けるべきだとし、ルールをプロンプト側へ逃がすことで顧客に将来の統治負担が積み上がる「rule debt」も警告している。",
-        "why_it_matters": "AIエージェントの普及で、何を開放し何を握るべきかがSaaS企業の収益性を左右する。単なるUI論ではなく、責任と統治を軸に事業境界を引き直す必要がある。",
-        "headline": "Vertical AIがUI企業か実行基盤かを見分ける整理軸として有効"
-      },
-      "selection_reason": "Vertical AIがUI企業か実行基盤かを見分ける整理軸として有効",
-      "classification_reason": "Vertical AIがUI企業か実行基盤かを見分ける整理軸として有効",
-      "knowledge_value": "AIエージェントの普及で、何を開放し何を握るべきかがSaaS企業の収益性を左右する。単なるUI論ではなく、責任と統治を軸に事業境界を引き直す必要がある。",
-      "content_status": "content_ok",
-      "content_chars": 3297,
-      "source_access": "free"
-    },
-    {
-      "number": 11,
       "title": "裁判所はAI生成の訴訟急増にどう対処しているか",
       "source": "MIT Technology Review",
       "description": "",
@@ -321,7 +293,7 @@
       "source_access": "unknown"
     },
     {
-      "number": 12,
+      "number": 11,
       "title": "仮想発電所はデータセンター向け電力をどう支え得るか",
       "source": "MIT Technology Review",
       "description": "",
@@ -349,7 +321,7 @@
       "source_access": "unknown"
     },
     {
-      "number": 13,
+      "number": 12,
       "title": "世界市場: 日銀の利上げ観測とインフレ懸念で日本国債利回りはまちまち",
       "source": "The Economic Times",
       "description": "",
@@ -377,7 +349,7 @@
       "source_access": "unknown"
     },
     {
-      "number": 14,
+      "number": 13,
       "title": "流れを守る: 相関し意思決定依存型の混乱下における海上エネルギー強靭性",
       "source": "arXiv",
       "description": "",
@@ -407,7 +379,7 @@
       "adjacent_reasoning": "地政学を見出しではなく供給網全体で読む傾向があるなら、軍事や原油価格だけでなく保険料率、航路変更、港湾混雑のような摩擦コストの市場に踏み込むと解像度が一段上がります。ここは投資判断にも生活コストにも波及し、構造変化を早めに拾いやすい領域です。"
     },
     {
-      "number": 15,
+      "number": 14,
       "title": "日本からほぼ地球の裏側、カナリア諸島でもゲーム開発が熱い？政府関係者に聞くスペインの離島のゲーム産業",
       "source": "AUTOMATON",
       "description": "日本のほぼ裏側からBitSummitPUNCHにはるばるやってきた、カナリア諸島のゲーム産業での取り組みをご紹介したい。",
@@ -437,7 +409,7 @@
       "adjacent_reasoning": ""
     },
     {
-      "number": 16,
+      "number": 15,
       "title": "『ファイナルファンタジー レゾナンス』先行プレイ感想。『FF』初のHD-2D作品、シネマティックピクセルでドラマや戦闘を彩る新たな挑戦",
       "source": "AUTOMATON",
       "description": "『ファイナルファンタジー レゾナンス』のメディア向け試遊会にて体験した、本作のプレイフィールをお届けする。",
@@ -467,7 +439,7 @@
       "adjacent_reasoning": ""
     },
     {
-      "number": 17,
+      "number": 16,
       "title": "検証可能なエージェント基盤: 主権AIシステムに向けた証明由来の認可",
       "source": "arXiv",
       "description": "",
