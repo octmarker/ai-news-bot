@@ -1,0 +1,475 @@
+{
+  "date": "2026-06-28",
+  "generated_at": "2026-06-28T09:03:54.512000+09:00",
+  "run_id": "20260628T090354+0900",
+  "mode_collection_counts": {
+    "breaking": 36,
+    "followup": 3,
+    "deep_dive": 5,
+    "adjacent": 2
+  },
+  "mode_errors": {},
+  "mode": "multimode",
+  "articles": [
+    {
+      "number": 1,
+      "title": "トランプ政権、AnthropicのMythosを一部の米国組織向けに再解禁",
+      "source": "WIRED",
+      "description": "",
+      "url": "https://www.wired.com/story/anthropic-restores-access-to-mythos/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-06-28",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 1,
+        "title_ja": "トランプ政権、AnthropicのMythosを一部の米国組織向けに再解禁",
+        "key_points": [
+          "米政府はAnthropicの高性能AIモデルClaude Mythos 5について、100超の米企業や政府機関など一部の信頼済み組織への提供を認めた。",
+          "6月の輸出規制指令で外国籍職員の利用制限が課され、AnthropicはMythosとFable 5を全面停止していたが、今回は一部緩和された。",
+          "消費者向けのClaude Fable 5はなお再開未定で、Anthropicとホワイトハウスの協議が続いている。"
+        ],
+        "detailed_summary": "米商務省はAnthropicに対し、最先端モデルClaude Mythos 5を信頼できる米国内組織へ限定的に再提供することを認めた。対象は大企業や政府機関など100超で、外国籍の従業員も条件付きで利用可能になる。発端は、中国との関係が疑われる韓国通信会社への提供を政権が問題視したことだった。全面再開ではなく、消費者向けFable 5は停止状態が続く。今回の対応は、先端AIの公開を国家安全保障の枠組みで管理する前例になり得る。",
+        "why_it_matters": "先端AIの公開可否が企業判断だけでなく政府承認に左右される流れが鮮明になった。今後のAIリリース政策や、米国籍・外国籍をまたぐ開発体制にも影響が広がる。",
+        "headline": "政府承認がモデル供給を左右する段階に入り、企業導入判断の前提が変わる"
+      },
+      "selection_reason": "政府承認がモデル供給を左右する段階に入り、企業導入判断の前提が変わる",
+      "classification_reason": "政府承認がモデル供給を左右する段階に入り、企業導入判断の前提が変わる",
+      "knowledge_value": "先端AIの公開可否が企業判断だけでなく政府承認に左右される流れが鮮明になった。今後のAIリリース政策や、米国籍・外国籍をまたぐ開発体制にも影響が広がる。",
+      "content_status": "content_ok",
+      "content_chars": 4676,
+      "source_access": "free",
+      "content_excerpt": "The US government has eased the restrictions it imposed on Anthropic’s most advanced AI model, Claude Mythos 5, allowing the company to grant access to..."
+    },
+    {
+      "number": 2,
+      "title": "OpenAIに新AIモデルはあるのに、なぜ使えないのか",
+      "source": "WIRED",
+      "description": "",
+      "url": "https://www.wired.com/story/openai-gpt-56-model-release-trump-admin-approval/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-06-28",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 2,
+        "title_ja": "OpenAIに新AIモデルはあるのに、なぜ使えないのか",
+        "key_points": [
+          "OpenAIは次世代モデルGPT-5.6の一般公開を延期し、まず米政府が事前承認した少数顧客に限定提供する方針を明らかにした。",
+          "背景には、トランプ大統領のAIサイバー安全保障に関する大統領令と、政府による事前共有プロセスの要請がある。",
+          "OpenAIはこの承認制を恒久化すべきでないと反発しつつ、数週間内の広範公開を目指して政権と協議を続けている。"
+        ],
+        "detailed_summary": "OpenAIはGPT-5.6の一般公開を延期し、米政府が認めた一部顧客から段階的に提供を始める。会社側は不本意ながらも一時的措置と説明し、将来的な全面公開を目指す。今月の大統領令では、強力なAIを広く公開する30日前に政府と共有する任意プロセスが示されたが、実際には枠組みが未整備なまま運用が先行している。Anthropicへの制限要請に続く動きで、米AI各社は事実上の許認可に近い不透明な環境へ置かれつつある。",
+        "why_it_matters": "米政府が最先端AIの公開時期と配布先に直接関与し始めた点が大きい。競争力確保を掲げてきた米国のAI政策が、国家安全保障を理由に急転換する可能性を示している。",
+        "headline": "性能競争より先に政治承認が発売時期を決める構図が露出した"
+      },
+      "selection_reason": "性能競争より先に政治承認が発売時期を決める構図が露出した",
+      "classification_reason": "性能競争より先に政治承認が発売時期を決める構図が露出した",
+      "knowledge_value": "米政府が最先端AIの公開時期と配布先に直接関与し始めた点が大きい。競争力確保を掲げてきた米国のAI政策が、国家安全保障を理由に急転換する可能性を示している。",
+      "content_status": "content_ok",
+      "content_chars": 4186,
+      "source_access": "free",
+      "content_excerpt": "OpenAI is delaying the public release of its next generation of AI models, GPT-5.6, at the request of Trump’s White House, the company confirmed on..."
+    },
+    {
+      "number": 3,
+      "title": "Apple、ブラックリスト入りした中国メモリ供給元からの調達許可を求める",
+      "source": "The Verge",
+      "description": "Apple is looking to alleviate some of the pressure on its supply chain by seeking an exception from the Trump administration to buy RAM chips from CXMT, a company blacklisted by the Pentagon over ties to the People's Liberation Army, according to the Financial Times. The skyrocketing prices of RAM and storage have driven Apple […]",
+      "url": "https://www.theverge.com/tech/958707/apple-ram-buy-memory-blacklisted-china-cxmt",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-06-27",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 3,
+        "title_ja": "Apple、ブラックリスト入りした中国メモリ供給元からの調達許可を求める",
+        "key_points": [
+          "Appleは供給網の圧迫を和らげるため、中国のメモリ企業CXMTからRAMを調達する例外扱いをトランプ政権に求めていると報じられた。",
+          "CXMTは中国人民解放軍との関係を理由に米国防総省のブラックリストに載っており、法的には購入可能でも評判面のリスクが大きい。",
+          "RAMやストレージ価格の高騰でAppleは今週ほぼ全製品を値上げしており、代替調達先の確保を急いでいる。"
+        ],
+        "detailed_summary": "Financial Timesによると、Appleはメモリ価格急騰で苦しくなった供給網を補うため、中国のCXMT製RAM調達について政権の理解を得ようとしている。CXMTとの取引自体は直ちに違法ではないが、中国軍との結び付きが指摘される企業だけに、Appleが採用すれば政治的反発と信用低下は避けにくい。CXMTは商務省のエンティティー・リスト候補にも挙がった経緯がある。価格圧力と地政学リスクの板挟みの中で、Appleの調達戦略が厳しく問われている。",
+        "why_it_matters": "半導体調達はコスト問題であると同時に安全保障問題でもある。Appleの判断は、米中対立下でグローバル企業がどこまで中国依存を続けられるかを測る試金石になる。",
+        "headline": "半導体調達が安全保障と直結し、供給網の脆さが再び表に出た"
+      },
+      "selection_reason": "半導体調達が安全保障と直結し、供給網の脆さが再び表に出た",
+      "classification_reason": "半導体調達が安全保障と直結し、供給網の脆さが再び表に出た",
+      "knowledge_value": "半導体調達はコスト問題であると同時に安全保障問題でもある。Appleの判断は、米中対立下でグローバル企業がどこまで中国依存を続けられるかを測る試金石になる。",
+      "content_status": "content_ok",
+      "content_chars": 2310,
+      "source_access": "free"
+    },
+    {
+      "number": 4,
+      "title": "ホルムズ海峡で商業タンカー被弾後、米軍がイラン目標を攻撃",
+      "source": "CNBC",
+      "description": "",
+      "url": "https://www.cnbc.com/2026/06/27/tanker-struck-in-strait-of-hormuz-as-us-iran-tensions-escalate.html",
+      "category": "経済・金融",
+      "published_at": "2026-06-27",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 4,
+        "title_ja": "ホルムズ海峡で商業タンカー被弾後、米軍がイラン目標を攻撃",
+        "key_points": [
+          "ホルムズ海峡付近を航行中の商業タンカーが飛翔体を受けたとされ、米軍は報復としてイランの複数目標を攻撃した。",
+          "米中央軍は監視設備、通信網、防空施設、ドローン保管施設、機雷敷設能力などを攻撃対象にしたと説明した。",
+          "米国とイランは60日停戦中とされるが、双方が相手の違反を主張し、地域の緊張はむしろ高まっている。"
+        ],
+        "detailed_summary": "米中央軍は、パナマ船籍の原油タンカーM/T Kikuがホルムズ海峡近くでイランの一方向攻撃ドローンに被弾したとして、イランの監視インフラや通信設備、防空拠点、ドローン保管施設、機雷関連能力への攻撃を実施した。前日にも米軍はイランのミサイル・ドローン関連拠点を攻撃しており、停戦合意後にも応酬が続く。イラン革命防衛隊は米国の先制違反だと反論した。世界の原油輸送の要衝で軍事衝突が再燃し、エネルギー供給不安が強まっている。",
+        "why_it_matters": "ホルムズ海峡は世界の原油物流の中枢であり、ここでの軍事衝突はエネルギー価格と海上保険、物流コストを一気に揺らす。停戦の形骸化は中東情勢の長期不安定化につながる。",
+        "headline": "海運と原油のリスクが軍事衝突へ直結し、市場前提を即日で動かす"
+      },
+      "selection_reason": "海運と原油のリスクが軍事衝突へ直結し、市場前提を即日で動かす",
+      "classification_reason": "海運と原油のリスクが軍事衝突へ直結し、市場前提を即日で動かす",
+      "knowledge_value": "ホルムズ海峡は世界の原油物流の中枢であり、ここでの軍事衝突はエネルギー価格と海上保険、物流コストを一気に揺らす。停戦の形骸化は中東情勢の長期不安定化につながる。",
+      "content_status": "content_ok",
+      "content_chars": 3349,
+      "source_access": "free"
+    },
+    {
+      "number": 5,
+      "title": "赤色警報の熱波が欧州の新たな日常に、投資家も注目",
+      "source": "CNBC",
+      "description": "",
+      "url": "https://www.cnbc.com/2026/06/27/europe-heatwave-uk-temperature-el-nino-invest.html",
+      "category": "経済・金融",
+      "published_at": "2026-06-27",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 5,
+        "title_ja": "赤色警報の熱波が欧州の新たな日常に、投資家も注目",
+        "key_points": [
+          "英国、フランス、ドイツ、スイス、イタリアなど西欧各国で命の危険を伴う赤色警報級の熱波が発生した。",
+          "空調普及の遅れや古い建物、暑さへの順応不足から、欧州社会は高温への耐性が低いと指摘されている。",
+          "投資家は気候適応を成長機会とみなし、保険、冷却設備、水管理、医療、金融包摂関連企業に資金配分を見直し始めている。"
+        ],
+        "detailed_summary": "欧州では各地で40度超の熱波が続き、英国やフランスなど複数国が赤色警報を発令した。古い住宅やインフラ、空調の普及不足が被害リスクを押し上げ、気候変動でこうした夏が例外ではなく常態へ向かうとの見方が強まっている。CNBCに対し運用会社Ninety Oneの担当者は、保険会社や冷却設備メーカー、水・公害対策、医療分野など、社会の適応力を高める企業が構造的な成長機会を持つと説明した。熱波はESGの話にとどまらず、投資テーマとして現実味を増している。",
+        "why_it_matters": "気候変動は抽象的な長期課題ではなく、資本配分を変える投資テーマになった。被害を受ける産業だけでなく、適応を支える企業が新たな勝ち組になる可能性がある。",
+        "headline": "気候が一時話題ではなく投資配分の制約条件になりつつある"
+      },
+      "selection_reason": "気候が一時話題ではなく投資配分の制約条件になりつつある",
+      "classification_reason": "気候が一時話題ではなく投資配分の制約条件になりつつある",
+      "knowledge_value": "気候変動は抽象的な長期課題ではなく、資本配分を変える投資テーマになった。被害を受ける産業だけでなく、適応を支える企業が新たな勝ち組になる可能性がある。",
+      "content_status": "content_ok",
+      "content_chars": 5968,
+      "source_access": "free"
+    },
+    {
+      "number": 6,
+      "title": "なぜApple製品の値上げをBig TechのAI熱のために負担しなければならないのか",
+      "source": "The Verge",
+      "description": "",
+      "url": "https://www.theverge.com/report/958678/apple-consumer-price-increase-ai-big-tech",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-06-27",
+      "mode": "followup",
+      "summary": {
+        "article_index": 6,
+        "title_ja": "なぜApple製品の値上げをBig TechのAI熱のために負担しなければならないのか",
+        "key_points": [
+          "AppleはMacBook ProやiPad Air、HomePod Miniなどを値上げし、その主因をAI向け需要によるRAMやストレージ価格の急騰にあると説明した。",
+          "半導体メーカーは、一般消費者向けDDR5より利益の大きいAIデータセンター向けHBM生産へラインを振り向けている。",
+          "Appleは高い利益率と記録的な業績を維持しており、消費者にコストを転嫁する妥当性に疑問が出ている。"
+        ],
+        "detailed_summary": "Appleは複数製品を一斉値上げし、ティム・クックCEOは価格改定を避けられなかったと説明した。背景には、OpenAIやGoogle、MicrosoftなどがAI競争のため巨額資金でメモリを買い集め、メーカーが高収益のAIサーバー向けHBMへ生産を寄せた結果、一般向けRAMや保存装置が不足している事情がある。専門家はこの逼迫が一時的ではなく数年続く可能性を指摘する。一方でAppleは高収益を維持しており、AIブームのコストを消費者が肩代わりさせられている構図への不満が強い。",
+        "why_it_matters": "AI投資ブームのしわ寄せが、データセンターではなく消費者向け製品価格として表面化している。AIの恩恵を受けない人まで負担を迫られる構図は、Big Techへの反発を強めかねない。",
+        "headline": "AI投資の請求先が企業から消費者へ移る流れを追える"
+      },
+      "selection_reason": "AI投資の請求先が企業から消費者へ移る流れを追える",
+      "classification_reason": "AI投資の請求先が企業から消費者へ移る流れを追える",
+      "knowledge_value": "AI投資ブームのしわ寄せが、データセンターではなく消費者向け製品価格として表面化している。AIの恩恵を受けない人まで負担を迫られる構図は、Big Techへの反発を強めかねない。",
+      "content_status": "content_ok",
+      "content_chars": 4802,
+      "source_access": "free"
+    },
+    {
+      "number": 7,
+      "title": "Amazon、主要AIクラウドサービスを値上げ",
+      "source": "Business Insider",
+      "description": "",
+      "url": "https://www.businessinsider.com/amazon-raises-ai-cloud-prices-memory-chip-costs-soar-2026-6",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-06-26",
+      "mode": "followup",
+      "summary": {
+        "article_index": 1,
+        "title_ja": "Amazon、主要AIクラウドサービスを値上げ",
+        "key_points": [
+          "AWSはAI向けGPU予約サービス EC2 Capacity Blocks for ML の料金を7月から約20%引き上げる",
+          "同サービスは1月にも約15%値上げされており、GPU需要の強さが改めて示された",
+          "背景には高帯域幅メモリ不足など物理的な供給制約があり、クラウド大手の価格決定力が高まっている"
+        ],
+        "detailed_summary": "AWSは、企業がAI学習や大規模ファインチューニング向けにGPUを事前確保できるEC2 Capacity Blocks for MLの料金を7月から約20%引き上げると発表した。1月の値上げに続く措置で、需給逼迫の深刻さを映している。背景には、先端AIチップに不可欠な高帯域幅メモリの不足があり、GPU供給とデータセンター増設の上限がコスト上昇を招いている。代替手段が乏しいため、AWSなどハイパースケーラーは顧客へ負担を転嫁しやすい状況にある。",
+        "why_it_matters": "AI競争はソフトウェアだけでなく、GPUとメモリの確保が勝敗を左右する局面に入った。クラウド料金の上昇は、AI開発コストと市場構造の両方に長く影響する。",
+        "headline": "需要増よりコスト転嫁の局面に入り、MVP採算線を見直させる"
+      },
+      "selection_reason": "需要増よりコスト転嫁の局面に入り、MVP採算線を見直させる",
+      "classification_reason": "需要増よりコスト転嫁の局面に入り、MVP採算線を見直させる",
+      "knowledge_value": "AI競争はソフトウェアだけでなく、GPUとメモリの確保が勝敗を左右する局面に入った。クラウド料金の上昇は、AI開発コストと市場構造の両方に長く影響する。",
+      "content_status": "content_ok",
+      "content_chars": 3296,
+      "source_access": "unknown"
+    },
+    {
+      "number": 8,
+      "title": "このmacOSマルウェアは、内部に隠したガスライティング用プロンプトでAI解析を回避できる",
+      "source": "TechRadar",
+      "description": "",
+      "url": "https://www.techradar.com/pro/security/this-macos-malware-can-avoid-ai-analysis-with-gaslighting-prompts-hidden-inside-its-architecture",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-06-26",
+      "mode": "followup",
+      "summary": {
+        "article_index": 2,
+        "title_ja": "このmacOSマルウェアは、内部に隠したガスライティング用プロンプトでAI解析を回避できる",
+        "key_points": [
+          "SentinelOneは、AI支援のマルウェア解析を妨害するmacOSマルウェア Gaslight を発見した",
+          "Gaslightは通常のバックドアや情報窃取機能に加え、LLM向けの偽システムメッセージを埋め込んでいる",
+          "研究者は、マルウェア検体を敵対的入力として扱い、AI解析基盤を厳格に分離すべきだと警告している"
+        ],
+        "detailed_summary": "SentinelOneが報告したmacOSマルウェアGaslightは、Telegram経由で攻撃者の指令を受け、端末情報の収集、任意コマンド実行、ファイル窃取、プロセス停止などを行う。加えて第2段階の情報窃取型マルウェアも配布する。特徴的なのは、検体内部にMarkdown形式の偽システム指示を埋め込み、AI支援の解析ツールに「認証切れ」「メモリ不足」「静的解析は危険」などと誤認させ、解析を止めようとする点だ。人間には不自然でも、隔離が不十分なLLMには効き得る。",
+        "why_it_matters": "AIをセキュリティ運用に組み込むほど、分析対象そのものがAIをだます攻撃面になる。防御側はAIの利便性だけでなく、入力分離と信頼境界の設計を急ぐ必要がある。",
+        "headline": "AI補助解析そのものが攻撃面になる点で、運用設計の差分が大きい"
+      },
+      "selection_reason": "AI補助解析そのものが攻撃面になる点で、運用設計の差分が大きい",
+      "classification_reason": "AI補助解析そのものが攻撃面になる点で、運用設計の差分が大きい",
+      "knowledge_value": "AIをセキュリティ運用に組み込むほど、分析対象そのものがAIをだます攻撃面になる。防御側はAIの利便性だけでなく、入力分離と信頼境界の設計を急ぐ必要がある。",
+      "content_status": "content_ok",
+      "content_chars": 3736,
+      "source_access": "unknown"
+    },
+    {
+      "number": 9,
+      "title": "イランがホルムズ海峡で進める保険利権の内幕と、西側海運を壊滅させかねない理由",
+      "source": "New York Post",
+      "description": "",
+      "url": "https://nypost.com/2026/06/22/business/inside-the-quiet-insurance-racket-iran-is-running-in-the-strait-of-hormuz/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-06-22",
+      "mode": "deep_dive",
+      "summary": {
+        "article_index": 3,
+        "title_ja": "イランがホルムズ海峡で進める保険利権の内幕と、西側海運を壊滅させかねない理由",
+        "key_points": [
+          "イランはホルムズ海峡を通る商船に対し、新設機関への登録とイラン承認保険への加入を求めている",
+          "西側の保険会社は、制裁違反や法的リスクを理由にこの枠組みへの参加を拒否している",
+          "業界関係者は、この仕組みが残れば海運の正常化は進まず、地域貿易の回復も妨げられるとみている"
+        ],
+        "detailed_summary": "ニューヨーク・ポストによると、イランは停戦を口実に新設したPGSAを通じ、ホルムズ海峡の国際水域を通る商船へ登録とイラン承認保険の取得を義務づけようとしている。海運・保険業界はこれを国際水域への一方的な管轄権主張とみなし、将来的な保険料支払いが米OFAC制裁に抵触しかねない点や、紛争時にイラン法へ従う危険を問題視している。結果として企業はオマーン経由や米軍保護下の航路を選び、従来水準の通航回復は難しいとの見方が強い。",
+        "why_it_matters": "ホルムズ海峡は世界のエネルギー物流の要衝で、通航条件の政治化は原油や保険料、輸送コスト全体を揺らす。安全保障と制裁が海運インフラに直結する典型例として重い。",
+        "headline": "戦争を保険料と航路支配で収益化する見方が、供給網理解を深める"
+      },
+      "selection_reason": "戦争を保険料と航路支配で収益化する見方が、供給網理解を深める",
+      "classification_reason": "戦争を保険料と航路支配で収益化する見方が、供給網理解を深める",
+      "knowledge_value": "ホルムズ海峡は世界のエネルギー物流の要衝で、通航条件の政治化は原油や保険料、輸送コスト全体を揺らす。安全保障と制裁が海運インフラに直結する典型例として重い。",
+      "content_status": "content_ok",
+      "content_chars": 6232,
+      "source_access": "unknown"
+    },
+    {
+      "number": 10,
+      "title": "エージェントをフィッシングする時代：AIガードレールだけでは不十分な理由",
+      "source": "TechRadar",
+      "description": "",
+      "url": "https://www.techradar.com/pro/phishing-the-agent-why-ai-guardrails-arent-enough",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-06-22",
+      "mode": "deep_dive",
+      "summary": {
+        "article_index": 4,
+        "title_ja": "エージェントをフィッシングする時代：AIガードレールだけでは不十分な理由",
+        "key_points": [
+          "企業ではAIエージェント導入が進む一方、明確なIT管理戦略を持つ組織は少ない",
+          "OpenClawのような自律型エージェントは、資格情報の露出や平文保存、通信経路の乗っ取りによる被害を招きやすい",
+          "ガードレールだけでは不十分で、権限管理、秘密情報の保護、通信路の防御が不可欠だと訴えている"
+        ],
+        "detailed_summary": "記事は、企業で急増するAIエージェントが高い自動化効果を持つ一方、機密システムへのアクセス権そのものが新たな攻撃面になると論じる。Oktaの調査では多くの組織が導入済みでも、管理方針が整っていない。研究ではOpenClaw上のエージェントが、認証情報をチャットで要求して文脈内に露出させたり、APIキーを暗号化されていない設定ファイルへ保存したりする危険が示された。さらに、操作用の通信チャネルが乗っ取られれば、攻撃者はエージェント権限をそのまま悪用できる。",
+        "why_it_matters": "AIエージェントは便利な自動化基盤であると同時に、企業内の新しい特権アカウントにもなる。導入拡大の前に、ID管理と秘密情報保護の設計をやり直す必要がある。",
+        "headline": "ガードレールより権限境界と監査設計が重要だと腹落ちしやすい"
+      },
+      "selection_reason": "ガードレールより権限境界と監査設計が重要だと腹落ちしやすい",
+      "classification_reason": "ガードレールより権限境界と監査設計が重要だと腹落ちしやすい",
+      "knowledge_value": "AIエージェントは便利な自動化基盤であると同時に、企業内の新しい特権アカウントにもなる。導入拡大の前に、ID管理と秘密情報保護の設計をやり直す必要がある。",
+      "content_status": "content_ok",
+      "content_chars": 6303,
+      "source_access": "unknown"
+    },
+    {
+      "number": 11,
+      "title": "エージェント型AIシステムにおける委任実行の可観測性",
+      "source": "arXiv",
+      "description": "",
+      "url": "https://arxiv.org/abs/2606.09692",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-06-08",
+      "mode": "deep_dive",
+      "summary": {
+        "article_index": 5,
+        "title_ja": "エージェント型AIシステムにおける委任実行の可観測性",
+        "key_points": [
+          "論文は、既存の監査ログや実行トレースだけでは、どの委任に基づく実行だったか特定できないと指摘する",
+          "LLMエージェントはツール選択やサブエージェント生成で実行経路が変動し、因果関係だけでは再構成が難しい",
+          "著者らは、委任コンテキストを実行時に結び付ける軽量ゲートウェイと共通情報モデルを提案している"
+        ],
+        "detailed_summary": "このarXiv論文は、エージェント型AIにおける委任単位の実行追跡が、従来の監査ログや分散トレーシングでは十分に復元できない問題を扱う。同じログでも複数の相反する委任割り当てが成り立ち得るため、誰の委任で何が実行されたかが不明瞭になる。とくにLLMエージェントは実行順序が毎回変わり、サブエージェントも生成するため、痕跡が断片化しやすい。論文は、委任コンテキストを横断的に付与する観測基盤を提案し、フォレンジック照会を容易にする狙いを示した。",
+        "why_it_matters": "AIエージェントが実運用に入るほど、説明責任と監査可能性は避けて通れない。安全に任せるには、何をしたかだけでなく、誰の委任で動いたかを証明できる仕組みが必要になる。",
+        "headline": "委任実行の可観測性を軸に、役割分担エージェントの土台を補強できる"
+      },
+      "selection_reason": "委任実行の可観測性を軸に、役割分担エージェントの土台を補強できる",
+      "classification_reason": "委任実行の可観測性を軸に、役割分担エージェントの土台を補強できる",
+      "knowledge_value": "AIエージェントが実運用に入るほど、説明責任と監査可能性は避けて通れない。安全に任せるには、何をしたかだけでなく、誰の委任で動いたかを証明できる仕組みが必要になる。",
+      "content_status": "content_ok",
+      "content_chars": 2470,
+      "source_access": "free"
+    },
+    {
+      "number": 12,
+      "title": "AIトレードは冷え込み、原油は下落　ウォール街の激しい1週間を読み解く",
+      "source": "CNBC",
+      "description": "",
+      "url": "https://www.cnbc.com/2026/06/27/the-ai-trade-cooled-and-oil-sank-a-closer-look-at-wall-streets-volatile-week.html",
+      "category": "経済・金融",
+      "published_at": "2026-06-27",
+      "mode": "deep_dive",
+      "summary": {
+        "article_index": 6,
+        "title_ja": "AIトレードは冷え込み、原油は下落　ウォール街の激しい1週間を読み解く",
+        "key_points": [
+          "今週の米市場ではAI関連株の過熱感と資金調達持続性への懸念が強まり、ナスダックは週間で4.6%下落した",
+          "Micronの好決算は一時的に半導体株を押し上げ、AI需要と価格決定力の強さを再確認させた",
+          "一方でOpenAIのIPO延期観測などがAIインフラ投資の継続性に疑問を生み、週末に再び半導体株が売られた"
+        ],
+        "detailed_summary": "ウォール街では、AIブームの勝者と敗者をめぐる見方が週を通じて激しく揺れた。韓国の半導体株急落が波及して週前半はAI関連銘柄が売られたが、Micronは売上急増と強い見通し、長期供給契約を示し、メモリ需要の強さを印象づけた。これを受けて半導体やAIデータセンター関連株は一時反発したものの、AI投資の負担がハイパースケーラーに重すぎるとの懸念は消えなかった。さらにOpenAIのIPO延期観測が資金循環不安を呼び、週末は再び半導体株が下落した。",
+        "why_it_matters": "AI相場は需要の強さだけでなく、その投資を誰がどこまで支え続けられるかで評価が変わる局面に入った。市場の焦点が成長期待から資本効率へ移りつつある。",
+        "headline": "AI相場と資源相場の資金移動を一枚で見られ、投資仮説を更新しやすい"
+      },
+      "selection_reason": "AI相場と資源相場の資金移動を一枚で見られ、投資仮説を更新しやすい",
+      "classification_reason": "AI相場と資源相場の資金移動を一枚で見られ、投資仮説を更新しやすい",
+      "knowledge_value": "AI相場は需要の強さだけでなく、その投資を誰がどこまで支え続けられるかで評価が変わる局面に入った。市場の焦点が成長期待から資本効率へ移りつつある。",
+      "content_status": "content_ok",
+      "content_chars": 8672,
+      "source_access": "free"
+    },
+    {
+      "number": 13,
+      "title": "適応的な迂回が海上チョークポイント寸断の影響を変える",
+      "source": "arXiv",
+      "description": "",
+      "url": "https://arxiv.org/abs/2606.13431",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-06-11",
+      "mode": "adjacent",
+      "summary": {
+        "article_index": 1,
+        "title_ja": "適応的な迂回が海上チョークポイント寸断の影響を変える",
+        "key_points": [
+          "世界の商船35,954隻と1,651港を再現したエージェントベースモデルで、海上要衝の閉鎖影響を分析した。",
+          "船舶の迂回は一部の直接被害港の損失を減らす一方、航路長期化で後続港や依存地域に遅延損失を広げる。",
+          "閉鎖が1日延びるごとに世界の到着量はスエズで3.0%、スエズ・パナマ・マラッカ同時閉鎖で7.7%減ると試算した。"
+        ],
+        "detailed_summary": "海上輸送の要衝が止まった時の経済影響を、固定的な航路図ではなく、実際に船がどう迂回するかまで含めて測った研究。著者らは世界の商船35,954隻と1,651港を再現した大規模モデルを構築し、スエズ運河などの閉鎖時に何が起きるかを検証した。結果は単純ではなく、迂回によって一部港の直撃損失は和らぐ半面、長い航路のしわ寄せで後続の寄港地や周辺地域に遅延が波及する。閉鎖期間が長いほど累積損失は増え、終期が分かっている障害と突発的な不確実ショックでは損失の出方も違った。",
+        "why_it_matters": "海上物流リスクは、地図上の要衝依存度だけでは測れないことを示した。港湾、荷主、政策当局は、迂回行動と情報の有無まで含めて供給網リスクを見直す必要がある。",
+        "headline": "AIインフラも市場も同じ海上ボトルネックに縛られる視点が増える"
+      },
+      "selection_reason": "AIインフラも市場も同じ海上ボトルネックに縛られる視点が増える",
+      "classification_reason": "AIインフラも市場も同じ海上ボトルネックに縛られる視点が増える",
+      "knowledge_value": "海上物流リスクは、地図上の要衝依存度だけでは測れないことを示した。港湾、荷主、政策当局は、迂回行動と情報の有無まで含めて供給網リスクを見直す必要がある。",
+      "content_status": "content_ok",
+      "content_chars": 2788,
+      "source_access": "free",
+      "adjacent_field": "海底ケーブル・港湾・海上保険のチョークポイント分析",
+      "adjacent_reasoning": "地政学を意思決定構造と供給網で読む姿勢があるなら、エネルギーだけでなく通信の物理ボトルネックまで視野を広げると判断モデルが一段深くなる。AIインフラ、金融市場、国家安全保障が同じ海上リスクに依存している構図も見えてくる。"
+    },
+    {
+      "number": 14,
+      "title": "SpaceX株は落ち着いたが、宇宙経済の求人熱は冷めていない",
+      "source": "CNBC",
+      "description": "",
+      "url": "https://www.cnbc.com/2026/06/27/spacex-jobs-stem-careers-labor-economy.html",
+      "category": "経済・金融",
+      "published_at": "2026-06-27",
+      "mode": "adjacent",
+      "summary": {
+        "article_index": 2,
+        "title_ja": "SpaceX株は落ち着いたが、宇宙経済の求人熱は冷めていない",
+        "key_points": [
+          "世界の宇宙経済は年9%で拡大し、米国では2025年Q2時点で総額6,130億ドルに達した。",
+          "米民間の宇宙関連雇用は約37.3万人で、2014年から2024年の10年で27%増と全体雇用の伸びを大きく上回った。",
+          "求人は前年比40%以上増え、年収中央値は10万〜13.5万ドル程度、ストックオプションも魅力になっている。"
+        ],
+        "detailed_summary": "SpaceX株の熱狂が一服しても、宇宙産業そのものの雇用拡大は続いているという記事だ。世界経済フォーラムによれば宇宙経済は年率9%で成長し、米国では2012年から2023年にかけて粗産出額が515億ドル近く増加した。民間部門だけでも約37.3万人が宇宙関連職に就き、過去10年の雇用増加率は27%と民間全体の14%を大きく上回る。35歳未満の若手流入も目立ち、求人データでは宇宙企業の募集件数が前年比40%以上増。給与水準も高く、株式報酬を含めた将来の上振れ期待が人材を引き寄せている。",
+        "why_it_matters": "宇宙産業は投機的な株価テーマではなく、実体経済として雇用を増やす段階に入っている。若手人材の流入と高賃金が続けば、米国の技術競争力や産業構造にも影響が広がる。",
+        "headline": "株価より採用が強い局面は、物理産業の本気度を見る補助線になる"
+      },
+      "selection_reason": "株価より採用が強い局面は、物理産業の本気度を見る補助線になる",
+      "classification_reason": "株価より採用が強い局面は、物理産業の本気度を見る補助線になる",
+      "knowledge_value": "宇宙産業は投機的な株価テーマではなく、実体経済として雇用を増やす段階に入っている。若手人材の流入と高賃金が続けば、米国の技術競争力や産業構造にも影響が広がる。",
+      "content_status": "content_ok",
+      "content_chars": 10216,
+      "source_access": "free",
+      "adjacent_field": "",
+      "adjacent_reasoning": ""
+    },
+    {
+      "number": 15,
+      "title": "新しい『スターフォックス』を待ちきれないインディー開発者たちが独自作を作り始めた",
+      "source": "The Verge",
+      "description": "Nostalgia remains a powerful force. So much so that, in exploring the echoes of a late-'90s childhood spent skimming the water of Corneria and sneering \"cocky little freaks!\" in time with a monkey encased in a Gundam suit, I'm simultaneously describing playing Star Fox 64 (Lylat Wars if you're nasty) in 1997 and streaming it […]",
+      "url": "https://www.theverge.com/entertainment/957679/indie-developers-star-fox-games",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-06-27",
+      "mode": "adjacent",
+      "summary": {
+        "article_index": 3,
+        "title_ja": "新しい『スターフォックス』を待ちきれないインディー開発者たちが独自作を作り始めた",
+        "key_points": [
+          "任天堂が長く新作を出していない間に、インディー開発者がStar Fox風のゲームで空白を埋めようとしている。",
+          "Rogue EclipseやWild Blue Skiesなど新作候補が登場し、元Star Fox開発者のGiles Goddardも参加している。",
+          "一方で出版社はこのジャンルを死んだ市場と見なしがちで、資金調達はクラウドファンディング頼みになっている。"
+        ],
+        "detailed_summary": "任天堂の『Star Fox』が新規タイトル不在のまま時間が過ぎる中、その穴を埋めようとするインディー開発者たちを追った記事。近年はEx-ZodiacやWhisker Squadron: Survivorが系譜をつなぎ、今後はHuskraftsのRogue Eclipseや、元Star FoxプログラマーのGiles Goddardが関わるWild Blue Skiesも控える。ただし、開発側が企画を持ち込んでも出版社はこの種のアーケード系フライトシューターを縮小市場と見なしやすく、資金集めは難航する。そこで開発者たちはクラウドファンディングに活路を見いだしつつ、Star Foxらしい高速で前進感のある戦闘体験の再現に挑んでいる。",
+        "why_it_matters": "大手が放置したジャンルをインディーが継承する構図は、ゲーム業界の供給の偏りをよく表している。懐古需要だけでなく、資金調達とジャンル復活の可能性を測る試金石にもなる。",
+        "headline": "待たずに作る文化が、AI時代の個人開発と創作発信に重なる"
+      },
+      "selection_reason": "待たずに作る文化が、AI時代の個人開発と創作発信に重なる",
+      "classification_reason": "待たずに作る文化が、AI時代の個人開発と創作発信に重なる",
+      "knowledge_value": "大手が放置したジャンルをインディーが継承する構図は、ゲーム業界の供給の偏りをよく表している。懐古需要だけでなく、資金調達とジャンル復活の可能性を測る試金石にもなる。",
+      "content_status": "content_ok",
+      "content_chars": 7481,
+      "source_access": "free",
+      "adjacent_field": "",
+      "adjacent_reasoning": ""
+    },
+    {
+      "number": 16,
+      "title": "インタビュー 亀山陽平、『Milky☆Subway』の大ヒットについて語る",
+      "source": "Anime News Network",
+      "description": "With millions of views on YouTube and a feature film adaptation, Milky☆Highway is largely the work of a single man: character designer, 3D modeler, animator, and director Yōhei Kameyama.",
+      "url": "https://www.animenewsnetwork.com/interview/2026-06-27/yohei-kameyama-on-his-breakout-hit-milky-subway/.238153",
+      "category": "漫画・アニメ・文化",
+      "published_at": "2026-06-27",
+      "mode": "adjacent",
+      "summary": {
+        "article_index": 4,
+        "title_ja": "インタビュー 亀山陽平、『Milky☆Subway』の大ヒットについて語る",
+        "key_points": [
+          "亀山陽平は米国留学後、日本の専門学校へ進み、卒業制作として『Milky☆Highway』を制作した。",
+          "最大の着想源は『蒸気船ウィリー』で、音楽と映像が強く結びつく作品を目指した。",
+          "初めて尽くしの制作で、声優手配や作曲陣との連携、音楽とアニメーションの同期が最大の難所だった。"
+        ],
+        "detailed_summary": "『Milky☆Subway』で注目を集めた亀山陽平へのインタビュー。映画好きだった亀山は高校卒業後にカリフォルニアへ留学し、美術史を学んだのち、日本の専門学校へ進路変更。卒業後は会社勤めになる見込みだったため、在学中の卒業制作『Milky☆Highway』に自分のやりたい要素をすべて入れ込んだ。発想の核になったのは『蒸気船ウィリー』で、音楽とアニメーションが一体化した表現を志向したという。日常的な風景より強い第一印象を優先した造形も特徴で、制作面では声優起用や音楽担当との調整など、未知の工程を一つずつ形にしていった。",
+        "why_it_matters": "個人主導の短編アニメが、明確な美意識と音楽設計で突き抜けられることを示している。新しいアニメ作家がどの発想と制作判断で頭角を現すのかを知る手がかりになる。",
+        "headline": "何が作家の跳ねる瞬間になるかを、作品より経路から拾える"
+      },
+      "selection_reason": "何が作家の跳ねる瞬間になるかを、作品より経路から拾える",
+      "classification_reason": "何が作家の跳ねる瞬間になるかを、作品より経路から拾える",
+      "knowledge_value": "個人主導の短編アニメが、明確な美意識と音楽設計で突き抜けられることを示している。新しいアニメ作家がどの発想と制作判断で頭角を現すのかを知る手がかりになる。",
+      "content_status": "content_ok",
+      "content_chars": 11078,
+      "source_access": "free",
+      "adjacent_field": "",
+      "adjacent_reasoning": ""
+    }
+  ],
+  "status": "complete",
+  "failed_modes": []
+}
