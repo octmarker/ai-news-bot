@@ -1,0 +1,243 @@
+{
+  "date": "2026-06-29",
+  "generated_at": "2026-06-29T09:07:09.530645+09:00",
+  "run_id": "20260629T090709+0900",
+  "mode_collection_counts": {
+    "breaking": 27,
+    "followup": 1,
+    "deep_dive": 4,
+    "adjacent": 3
+  },
+  "mode_errors": {},
+  "mode": "multimode",
+  "articles": [
+    {
+      "number": 1,
+      "title": "中東で米国とイランの攻撃再燃を受け、原油価格が上昇",
+      "source": "Yahoo Finance",
+      "description": "",
+      "url": "https://finance.yahoo.com/news/oil-climbs-following-renewed-us-233412520.html",
+      "category": "経済・金融",
+      "published_at": "2026-06-28",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 1,
+        "title_ja": "中東で米国とイランの攻撃再燃を受け、原油価格が上昇",
+        "key_points": [
+          "米国とイランの応酬的な攻撃で、ホルムズ海峡のエネルギー輸送が再び鈍化し、原油先物が上昇した。",
+          "前週は輸送回復期待でブレント原油が大きく下落していたが、船舶攻撃の再燃で供給正常化観測が後退した。",
+          "米イランは停戦とカタールでの協議再開で合意したとの報道もあるが、インフラ損傷や滞船で供給回復には時間がかかる見通しだ。"
+        ],
+        "detailed_summary": "ロイターによると、米国とイランの攻撃再燃で中東情勢の不安定さが改めて意識され、29日の原油相場は反発した。ホルムズ海峡では船舶攻撃の再発でエネルギー輸送が鈍り、市場はペルシャ湾からの供給が早期に正常化するとの見方を見直し始めている。米イランが戦闘停止と協議再開で合意したとの報道はあるものの、タンカー滞留や設備損傷、生産停止の影響が残り、供給が紛争前水準へ戻るには年内いっぱいかかる可能性がある。",
+        "why_it_matters": "ホルムズ海峡は世界のエネルギー供給の要衝であり、輸送停滞は原油価格だけでなくインフレや物流コストにも直結する。停戦報道があっても供給面の傷は残るため、市場は地政学リスクを織り込み続ける必要がある。",
+        "headline": "中東再緊張が原油と物流コストへ直結し、週明けの判断材料として即効性が高い"
+      },
+      "selection_reason": "中東再緊張が原油と物流コストへ直結し、週明けの判断材料として即効性が高い",
+      "classification_reason": "中東再緊張が原油と物流コストへ直結し、週明けの判断材料として即効性が高い",
+      "knowledge_value": "ホルムズ海峡は世界のエネルギー供給の要衝であり、輸送停滞は原油価格だけでなくインフレや物流コストにも直結する。停戦報道があっても供給面の傷は残るため、市場は地政学リスクを織り込み続ける必要がある。",
+      "content_status": "content_ok",
+      "content_chars": 2183,
+      "source_access": "free"
+    },
+    {
+      "number": 2,
+      "title": "中国が世界最速のスーパーコンピューターを主張",
+      "source": "The Verge",
+      "description": "Despite trade restrictions, China has reclaimed the title of the world's fastest supercomputer for the first time since 2018. LineShine has pushed El Capitan out of number one on the TOP500 ranking. That's despite strict limits on what high-powered computing components can be sold to China by US firms, which dominate the list, with America […]",
+      "url": "https://www.theverge.com/tech/958768/china-claims-the-worlds-fastest-supercomputer",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-06-28",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 2,
+        "title_ja": "中国が世界最速のスーパーコンピューターを主張",
+        "key_points": [
+          "中国のLineShineがTOP500で首位となり、2018年以来初めて世界最速の座を奪還したとされる。",
+          "米国の輸出規制下でも、GPUではなく約4万5000基の多コアCPUと独自高速ネットワークで性能を実現した。",
+          "2,000エクサフロップを初めて超え、2位のEl Capitanを約20％上回る一方、消費電力は42.2メガワットと大きい。"
+        ],
+        "detailed_summary": "中国は、LineShineがTOP500ランキングで首位に立ち、米国のEl Capitanを抜いたと打ち出した。注目点は、NVIDIA製GPUのような最先端加速器に頼らず、約4万5000基のLX2プロセッサーと独自の低遅延ネットワークLingQiで構成した点にある。米国の対中半導体規制を受け、中国が汎用CPU中心の設計へ舵を切った成果とも読める。ただし電力効率では劣り、性能向上の代償として消費電力はEl Capitanを大きく上回っている。",
+        "why_it_matters": "これは単なる性能競争ではなく、半導体規制下でも中国が代替設計で突破できることを示す政治的シグナルでもある。AIや科学計算の覇権争いが、チップ供給だけでなくシステム全体の設計力に広がっている。",
+        "headline": "米中AI競争を半導体規制ではなく計算資源の実効戦力で見直す材料になる"
+      },
+      "selection_reason": "米中AI競争を半導体規制ではなく計算資源の実効戦力で見直す材料になる",
+      "classification_reason": "米中AI競争を半導体規制ではなく計算資源の実効戦力で見直す材料になる",
+      "knowledge_value": "これは単なる性能競争ではなく、半導体規制下でも中国が代替設計で突破できることを示す政治的シグナルでもある。AIや科学計算の覇権争いが、チップ供給だけでなくシステム全体の設計力に広がっている。",
+      "content_status": "content_ok",
+      "content_chars": 1483,
+      "source_access": "free"
+    },
+    {
+      "number": 3,
+      "title": "検察がパリセーズ火災裁判でChatGPTの利用履歴を証拠として使用",
+      "source": "The Verge",
+      "description": "Jonathan Rinderknecht was facing arson charges for setting a fire on New Year's Day in 2025, which became one of the deadliest wildfires in LA history. To make their case, prosecutors turned to location data from his iPhone, security camera footage, and witness testimony. But they also turned to his ChatGPT logs. Prosecutors said that […]",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/958751/prosecutors-chatgpt-palisades-wildfire-arson-mistrial",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-06-28",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 3,
+        "title_ja": "検察がパリセーズ火災裁判でChatGPTの利用履歴を証拠として使用",
+        "key_points": [
+          "ロサンゼルスの大規模山火事に絡む放火裁判で、検察は被告のChatGPT利用履歴を証拠の一部として提示した。",
+          "火に関する画像生成や怒りに関する問い、たばこの火による責任を尋ねた画面録画などが示された。",
+          "陪審は説得されず、評決は10対2で弁護側寄りに割れ、裁判はハング・ジュリーによるミストライアルに終わった。"
+        ],
+        "detailed_summary": "2025年元日に発生し、ロサンゼルス史上でも最悪級の山火事に発展した事件の放火裁判で、検察は位置情報や防犯映像、証言に加え、被告のChatGPT利用履歴まで持ち出した。内容には火に関する画像生成、怒りについての相談、たばこの火で起きた火事の責任を問う質問が含まれていた。しかし陪審員は、それだけで犯意や性格を裏付ける証拠にはならないと判断し、審理は評決不一致で打ち切りになった。陪審員の一人は、ChatGPT利用を人格判断に結びつける発想に反発を示している。",
+        "why_it_matters": "生成AIとの対話履歴を法廷でどう位置付けるかという先例的な論点を突きつけた。デジタル痕跡が増えるほど、利用ログを意思や動機の証拠としてどこまで認めるかが司法の重要課題になる。",
+        "headline": "AI利用ログが法執行の証拠化へ進み、記録保持と監査設計の前提を変える"
+      },
+      "selection_reason": "AI利用ログが法執行の証拠化へ進み、記録保持と監査設計の前提を変える",
+      "classification_reason": "AI利用ログが法執行の証拠化へ進み、記録保持と監査設計の前提を変える",
+      "knowledge_value": "生成AIとの対話履歴を法廷でどう位置付けるかという先例的な論点を突きつけた。デジタル痕跡が増えるほど、利用ログを意思や動機の証拠としてどこまで認めるかが司法の重要課題になる。",
+      "content_status": "content_ok",
+      "content_chars": 1269,
+      "source_access": "free"
+    },
+    {
+      "number": 4,
+      "title": "SpaceXはインデックスファンド経由で数百万件の401(k)に組み入れられ、同じルールがOpenAIやAnthropicにも道を開く",
+      "source": "Yahoo Finance",
+      "description": "",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-landed-millions-401-k-214500017.html",
+      "category": "経済・金融",
+      "published_at": "2026-06-28",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 4,
+        "title_ja": "SpaceXはインデックスファンド経由で数百万件の401(k)に組み入れられ、同じルールがOpenAIやAnthropicにも道を開く",
+        "key_points": [
+          "SpaceXは上場直後にCRSP、FTSE Russell、MSCI、Nasdaq-100など主要指数へ順次採用され、広範なインデックスファンドに組み入れられつつある。",
+          "これにより、投資家が個別株を買わなくても401(k)や全米株式ファンドを通じてSpaceXを間接保有する構図が生まれた。",
+          "背景には、流通株比率が低い大型企業でも指数採用しやすくするルール変更があり、今後はOpenAIやAnthropicにも同様の道が開く可能性がある。"
+        ],
+        "detailed_summary": "記事は、SpaceXの上場後わずか数日で同社が主要株価指数に採用され、VTIやQQQのような人気インデックスファンドを通じて数百万の退職口座へ自動的に組み入れられていく流れを解説している。重要なのは株価の乱高下そのものではなく、春に進んだ指数ルール見直しだ。SpaceXのように流通株比率がわずか4％程度でも、巨大企業なら指数採用の対象になり得るようになった。これにより、未公開色の強い支配構造を残す大型成長企業でも、広くパッシブ資金を呼び込める環境が整いつつある。",
+        "why_it_matters": "指数ルールの変更は、個人投資家が意識しないまま特定の巨大テック企業へのエクスポージャーを持つことを意味する。未公開企業や支配株主色の強い企業までパッシブ資金が流れ込むなら、市場構造そのものが変わる。",
+        "headline": "未上場AI企業の資本市場接続が広がり、需給と評価軸の変化を先読みしやすい"
+      },
+      "selection_reason": "未上場AI企業の資本市場接続が広がり、需給と評価軸の変化を先読みしやすい",
+      "classification_reason": "未上場AI企業の資本市場接続が広がり、需給と評価軸の変化を先読みしやすい",
+      "knowledge_value": "指数ルールの変更は、個人投資家が意識しないまま特定の巨大テック企業へのエクスポージャーを持つことを意味する。未公開企業や支配株主色の強い企業までパッシブ資金が流れ込むなら、市場構造そのものが変わる。",
+      "content_status": "content_ok",
+      "content_chars": 2822,
+      "source_access": "free"
+    },
+    {
+      "number": 5,
+      "title": "AIと規制が欧州小売を再定義する",
+      "source": "Yahoo Finance",
+      "description": "",
+      "url": "https://finance.yahoo.com/technology/ai/articles/ai-regulation-redefine-european-retail-234738539.html",
+      "category": "経済・金融",
+      "published_at": "2026-06-28",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 5,
+        "title_ja": "AIと規制が欧州小売を再定義する",
+        "key_points": [
+          "欧州小売では95％がAIを導入または試験中だが、測定可能な投資効果を大規模に出せている企業は5％にとどまる。",
+          "成功企業は、AIを日常業務へ組み込み、部門横断で顧客データをつなぎ、運用できる組織体制を整えている。",
+          "2026年8月からEU AI Actの透明性要件が適用され、業界は日常的な商用AI利用まで過度にラベル表示義務を課さないよう規制明確化を求めている。"
+        ],
+        "detailed_summary": "欧州の小売業界では、AIが実験段階を超えてマーケティングや商品説明作成、パーソナライズ、バーチャルモデル活用などの標準業務に広がっている。一方で、導入企業の大半は本格的な収益化まで到達しておらず、成果の差は技術そのものより業務統合やデータ連携、組織能力で決まると記事は指摘する。そこへEU AI Actが加わり、2026年8月から一部のAI生成・加工コンテンツに透明性要件が課される見通しだ。業界団体は、悪質なディープフェイクと通常の販促用途を同列に扱えば、企業負担だけが増えると警告している。",
+        "why_it_matters": "小売におけるAI活用の競争軸が、導入の有無から運用成熟度と規制対応力へ移っている。欧州でのルール設計次第で、AIマーケティングのコスト構造と消費者体験の両方が変わる。",
+        "headline": "AI導入の成否がモデル性能より規制対応と業務実装へ移る流れを示している"
+      },
+      "selection_reason": "AI導入の成否がモデル性能より規制対応と業務実装へ移る流れを示している",
+      "classification_reason": "AI導入の成否がモデル性能より規制対応と業務実装へ移る流れを示している",
+      "knowledge_value": "小売におけるAI活用の競争軸が、導入の有無から運用成熟度と規制対応力へ移っている。欧州でのルール設計次第で、AIマーケティングのコスト構造と消費者体験の両方が変わる。",
+      "content_status": "content_ok",
+      "content_chars": 2604,
+      "source_access": "free"
+    },
+    {
+      "number": 6,
+      "title": "HP Inc.がOpenAIとのFrontier戦略的パートナーシップを開始",
+      "source": "OpenAI",
+      "description": "",
+      "url": "https://openai.com/index/hp-frontier-partnership/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-06-28",
+      "mode": "followup",
+      "summary": {
+        "article_index": 6,
+        "title_ja": "HP Inc.がOpenAIとのFrontier戦略的パートナーシップを開始",
+        "key_points": [
+          "HPはOpenAI Frontierとの戦略的提携を本格展開し、顧客対応、業務変革、従業員生産性、ソフトウェア開発へAI活用を広げる方針を示した。",
+          "試験導入では、あるエンジニアが数週間で122件のプルリクエストを処理し、セキュリティチームは本来1カ月かかるバグ修正を1日で進めたという。",
+          "HPはChatGPTやCodex、API利用を個別実験で終わらせず、Frontierを使ってアクセス権限、文脈、実行、評価を統合管理する運用基盤へ育てようとしている。"
+        ],
+        "detailed_summary": "HPは2026年2月から進めてきたOpenAI Frontierのパイロット導入で手応えを得たとして、戦略的提携の本格拡大を発表した。記事では、開発者が43プロジェクトにまたがる122件のプルリクエストを短期間で処理した事例や、セキュリティチームが複数のソフトウェア不具合を1日で修復した事例を紹介している。狙いは単発の効率化ではなく、顧客向け体験、分析、社内生産性、開発現場まで含めた全社的なAI運用への移行だ。Frontierは、その際に必要となる文脈管理、ツール接続、権限制御、成果評価を束ねる共通基盤として位置付けられている。",
+        "why_it_matters": "大企業のAI導入は、便利な個人利用から統制された全社運用へ移る段階に入っている。HPの事例は、生成AIの勝ち筋がモデル性能だけでなく、権限管理や評価基盤まで含む運用設計にあることを示している。",
+        "headline": "モデル競争の続報として、販売チャネルと企業導入導線の囲い込みが見える"
+      },
+      "selection_reason": "モデル競争の続報として、販売チャネルと企業導入導線の囲い込みが見える",
+      "classification_reason": "モデル競争の続報として、販売チャネルと企業導入導線の囲い込みが見える",
+      "knowledge_value": "大企業のAI導入は、便利な個人利用から統制された全社運用へ移る段階に入っている。HPの事例は、生成AIの勝ち筋がモデル性能だけでなく、権限管理や評価基盤まで含む運用設計にあることを示している。",
+      "content_status": "content_ok",
+      "content_chars": 5363,
+      "source_access": "free"
+    },
+    {
+      "number": 7,
+      "title": "湾岸で再燃した敵対行為は、米国とイランの覚書が広すぎる文言だったことを示す",
+      "source": "The Guardian",
+      "description": "",
+      "url": "https://www.theguardian.com/world/2026/jun/28/fresh-hostilities-gulf-us-iran-memorandum-interpretations-lebanon-ceasefire-strait-of-hormuz",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-06-28",
+      "mode": "deep_dive",
+      "summary": {
+        "article_index": 1,
+        "title_ja": "湾岸で再燃した敵対行為は、米国とイランの覚書が広すぎる文言だったことを示す",
+        "key_points": [
+          "米国とイランが停戦に向けた覚書を交わしてから10日で湾岸の緊張が再燃し、戦争回避の枠組みが揺らいでいる。",
+          "覚書はレバノン停戦とホルムズ海峡の扱いを意図的に曖昧にしたが、その曖昧さが双方の異なる解釈を招いた。",
+          "レバノンではイランとヒズボラを排除する新停戦合意が結ばれ、ホルムズ海峡でもイランの義務範囲が不明確なままで、覚書の実効性が崩れている。"
+        ],
+        "detailed_summary": "米国とイランは衝突回避へ覚書を結んだが、わずか10日後に湾岸で敵対行為が再燃した。原因は、レバノン停戦とホルムズ海峡通航という最難関論点を曖昧な文言で先送りした点にある。レバノンでは、イランに役割を与える案と、逆にイランとヒズボラを排除しイスラエル駐留を認める新合意が衝突。海峡でもイランの「最善努力」の定義がなく、双方が違反を主張する状態に陥った。",
+        "why_it_matters": "中東の安全保障は、曖昧な外交文書だけでは支えきれない現実を示している。停戦の解釈が食い違えば、軍事衝突と海上物流の混乱が一気に再拡大しかねない。",
+        "headline": "停戦文言の曖昧さが再衝突を招く構造を示し、地政学の読み筋を補強できる"
+      },
+      "selection_reason": "停戦文言の曖昧さが再衝突を招く構造を示し、地政学の読み筋を補強できる",
+      "classification_reason": "停戦文言の曖昧さが再衝突を招く構造を示し、地政学の読み筋を補強できる",
+      "knowledge_value": "中東の安全保障は、曖昧な外交文書だけでは支えきれない現実を示している。停戦の解釈が食い違えば、軍事衝突と海上物流の混乱が一気に再拡大しかねない。",
+      "content_status": "content_ok",
+      "content_chars": 5155,
+      "source_access": "unknown"
+    },
+    {
+      "number": 8,
+      "title": "ソニーが『共有現実』運営会社Cosmに1億ドルを投資する理由",
+      "source": "Page Six",
+      "description": "",
+      "url": "https://pagesix.com/2026/06/25/hollywood/why-sony-is-investing-100m-into-shared-reality-operator-cosm/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-06-25",
+      "mode": "adjacent",
+      "summary": {
+        "article_index": 2,
+        "title_ja": "ソニーが『共有現実』運営会社Cosmに1億ドルを投資する理由",
+        "key_points": [
+          "ソニーはCosmに1億ドルを投資し、2024年の10億ドル評価を前提に約10％を保有する見通しだ。",
+          "投資の主因は、スポーツファンを引きつけるCosmの没入型会場の人気と、映画以外にも音楽、アニメ、PlayStationとの連携余地が大きいことにある。",
+          "Cosmはスポーツ中継に加え『マトリックス』や『ハリー・ポッター』の共有現実体験にも広げており、ソニーの劇場事業拡張の一手とみられる。"
+        ],
+        "detailed_summary": "ソニーは、球体型の没入型会場を運営するCosmに1億ドルを出資した。関係者によると、スポーツ観戦での強い集客力が評価され、ソニー・ピクチャーズ会長のRavi Ahujaも以前から関心を寄せていたという。CosmはSoFi Stadium近くを皮切りにダラス、アトランタへ展開し、最近は映画作品の共有現実体験にも進出。音楽、アニメ、ゲームを持つソニーにとって、IPを体験型興行へ広げる足場になる。",
+        "why_it_matters": "映像IPの価値が配信だけでなく体験型施設へ広がる流れを示す投資だ。ソニーはコンテンツ企業から、スポーツやエンタメを束ねる没入型体験企業へ一段深く踏み込もうとしている。",
+        "headline": "IPを映像配信から体験消費へ広げる話で、創作と収益化の発想が広がる"
+      },
+      "selection_reason": "IPを映像配信から体験消費へ広げる話で、創作と収益化の発想が広がる",
+      "classification_reason": "IPを映像配信から体験消費へ広げる話で、創作と収益化の発想が広がる",
+      "knowledge_value": "映像IPの価値が配信だけでなく体験型施設へ広がる流れを示す投資だ。ソニーはコンテンツ企業から、スポーツやエンタメを束ねる没入型体験企業へ一段深く踏み込もうとしている。",
+      "content_status": "content_ok",
+      "content_chars": 1464,
+      "source_access": "unknown",
+      "adjacent_field": "没入型エンタメとIP物販の空間設計",
+      "adjacent_reasoning": "あなたの関心は作品そのものより、世界観をどこまで現実空間に持ち出して収益化できるかにも向いています。ポップアップ、テーマ施設、体験型小売は、希少性とファン熱量を価格に変える実験場として読めます。"
+    }
+  ],
+  "status": "complete",
+  "failed_modes": []
+}
