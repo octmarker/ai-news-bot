@@ -1,202 +1,3878 @@
 {
-    "selection_history": [
-        {
-            "date": "2026-02-11",
-            "selected": [
-                16,
-                17
-            ],
-            "rejected": [],
-            "selected_topics": [
-                "Google Gemini",
-                "コーディング支援",
-                "マルチモーダル入力",
-                "OpenAI",
-                "GPT-4o",
-                "AIエージェント"
-            ],
-            "selected_sources": [
-                "日本経済新聞 (仮想)",
-                "The Verge (仮想)"
-            ]
-        },
-        {
-            "date": "2026-02-10",
-            "selected": [
-                12,
-                13,
-                14,
-                15
-            ],
-            "rejected": [],
-            "selected_topics": [
-                "Google Gemini",
-                "パフォーマンス",
-                "マルチモーダル機能",
-                "AIチャットボット",
-                "健康アドバイス",
-                "日銀金融政策",
-                "利上げ",
-                "雇用統計",
-                "インフレ"
-            ],
-            "selected_sources": [
-                "[Tech Blog]",
-                "CTV News",
-                "KAB 熊本朝日放送",
-                "Morningstar / Interactive Brokers"
-            ]
-        },
-        {
-            "date": "2026-02-09",
-            "selected": [
-                6,
-                7,
-                8,
-                9,
-                10,
-                11
-            ],
-            "rejected": [],
-            "selected_topics": [
-                "AI駆動開発",
-                "Vercel",
-                "AIコーディングエージェント",
-                "AGENTS.md",
-                "AI論文",
-                "AIブーム",
-                "資源不足",
-                "ニューヨーク州議会",
-                "AIデータセンター",
-                "衆院選",
-                "AI生成フェイク"
-            ],
-            "selected_sources": [
-                "週刊AI駆動開発",
-                "Reddit (7min.ai recap)",
-                "AIDB"
-            ]
-        },
-        {
-            "date": "2026-02-08",
-            "selected": [
-                0,
-                1,
-                3,
-                4,
-                5
-            ],
-            "rejected": [
-                2
-            ],
-            "selected_topics": [
-                "Claude 4.5 Sonnet",
-                "コーディング能力",
-                "日銀",
-                "追加利上げ",
-                "Gemini 2.5 Flash",
-                "マルチモーダル性能",
-                "GPT-4o",
-                "Apple CarPlay",
-                "サードパーティ製AIチャットボット",
-                "AIの学習データ枯渇",
-                "サム・アルトマン",
-                "巨大モデル"
-            ],
-            "selected_sources": [
-                "Anthropic Blog",
-                "日経新聞",
-                "Google AI Blog",
-                "The Verge",
-                "Wired"
-            ]
-        }
+  "selection_history": [
+    {
+      "date": "2026-02-11",
+      "selected": [
+        16,
+        17
+      ],
+      "rejected": [],
+      "selected_topics": [
+        "Google Gemini",
+        "コーディング支援",
+        "マルチモーダル入力",
+        "OpenAI",
+        "GPT-4o",
+        "AIエージェント"
+      ],
+      "selected_sources": [
+        "日本経済新聞 (仮想)",
+        "The Verge (仮想)"
+      ]
+    },
+    {
+      "date": "2026-02-10",
+      "selected": [
+        12,
+        13,
+        14,
+        15
+      ],
+      "rejected": [],
+      "selected_topics": [
+        "Google Gemini",
+        "パフォーマンス",
+        "マルチモーダル機能",
+        "AIチャットボット",
+        "健康アドバイス",
+        "日銀金融政策",
+        "利上げ",
+        "雇用統計",
+        "インフレ"
+      ],
+      "selected_sources": [
+        "[Tech Blog]",
+        "CTV News",
+        "KAB 熊本朝日放送",
+        "Morningstar / Interactive Brokers"
+      ]
+    },
+    {
+      "date": "2026-02-09",
+      "selected": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "rejected": [],
+      "selected_topics": [
+        "AI駆動開発",
+        "Vercel",
+        "AIコーディングエージェント",
+        "AGENTS.md",
+        "AI論文",
+        "AIブーム",
+        "資源不足",
+        "ニューヨーク州議会",
+        "AIデータセンター",
+        "衆院選",
+        "AI生成フェイク"
+      ],
+      "selected_sources": [
+        "週刊AI駆動開発",
+        "Reddit (7min.ai recap)",
+        "AIDB"
+      ]
+    },
+    {
+      "date": "2026-02-08",
+      "selected": [
+        0,
+        1,
+        3,
+        4,
+        5
+      ],
+      "rejected": [
+        2
+      ],
+      "selected_topics": [
+        "Claude 4.5 Sonnet",
+        "コーディング能力",
+        "日銀",
+        "追加利上げ",
+        "Gemini 2.5 Flash",
+        "マルチモーダル性能",
+        "GPT-4o",
+        "Apple CarPlay",
+        "サードパーティ製AIチャットボット",
+        "AIの学習データ枯渇",
+        "サム・アルトマン",
+        "巨大モデル"
+      ],
+      "selected_sources": [
+        "Anthropic Blog",
+        "日経新聞",
+        "Google AI Blog",
+        "The Verge",
+        "Wired"
+      ]
+    }
+  ],
+  "learned_interests": {
+    "topics": {},
+    "sources": {
+      "田端大学　投資学部": 1.0,
+      "まさおAIじっくり解説ch": 1.0,
+      "起業の履歴書【AI解説】": 1.0,
+      "プログラミングチュートリアル": 1.0,
+      "クウキデザイン |  Kuuki Design": 1.0,
+      "NewsPicks /ニューズピックス": 1.0,
+      "TBS CROSS DIG with Bloomberg": 1.0,
+      "Kyohei - OSS, 外資IT": 1.0,
+      "テレ東AIアカデミー【公式】": 1.0,
+      "ばっちゃまの米国株": 1.0,
+      "聞いてわかる投資本チャンネル": 1.0,
+      "AIでサボろうチャンネル": 1.0,
+      "TECH WORLD": 1.0,
+      "TBS NEWS DIG Powered by JNN": 1.0,
+      "西住技研": 1.0,
+      "有隣堂しか知らない世界": 1.0,
+      "クロノITチャンネル": 1.0,
+      "テレ東BIZ ダイジェスト": 1.0,
+      "東浩紀が10倍わかりやすくなるゲンロンの切り抜き": 1.0,
+      "東浩紀が10倍わかりやすくなる切り抜き": 0.4,
+      "24 AI Editorial": 0.2,
+      "@ma_kanteishi": 0.2
+    }
+  },
+  "search_config": {
+    "boosted_keywords": [
+      "Claude Code",
+      "Agent Teams",
+      "MCP",
+      "CLAUDE.md",
+      "IMPORTANT IF",
+      "SessionStart",
+      "PostToolUse",
+      "Auto Dream",
+      "Computer Use",
+      "Dispatch",
+      "Channels",
+      "OpenClaw",
+      "Claude Cowork",
+      "Context Pruning",
+      "Compaction",
+      "Docker",
+      "Prompt Injection",
+      "Planner/Generator/Evaluator",
+      "Symphony",
+      "Linear",
+      "Codex",
+      "VIX",
+      "ホルムズ海峡",
+      "原油価格",
+      "PBR1倍割れ",
+      "DOE",
+      "マルチプル拡大",
+      "予想EPS",
+      "フリーキャッシュフロー",
+      "Nano Banana 2",
+      "GPT Image 1.5 Medium",
+      "Constitutional AI",
+      "Dario Amodei",
+      "長文コンテキスト",
+      "OSWorld",
+      "GDPval",
+      "Warp",
+      "Ghostty",
+      "cmux",
+      "配当権利日",
+      "dispatch.py",
+      "JSON Schema validator",
+      "ephemeral test sandbox",
+      "rollback mechanism",
+      "pre-deploy regression test",
+      "weekly oversight gate",
+      "multi-agent dispatch",
+      "git commit history",
+      "10年国債の利回り",
+      "短期プライムレート",
+      "長期プライムレート",
+      "金融政策決定会合",
+      "フラット35",
+      "長期調達コスト",
+      "5年ルール",
+      "125%ルール",
+      "基準金利の見直し",
+      "原油高",
+      "Claude MD",
+      "Claude Code Skills",
+      "Claude hooks",
+      "コンテキストウィンドウ",
+      "コンパクション",
+      "Anthropic",
+      "ダリオ・アモデイ",
+      "AIアラインメント",
+      "バーティカルAI",
+      "SaaS再編",
+      "ハーネス最適化",
+      "プロンプトインジェクション",
+      "ハイブリッド運用",
+      "GitHub Projects",
+      "Obsidian",
+      "Hacker News",
+      "Reddit",
+      "URLダイジェスト",
+      "HNサマリー",
+      "利益の質",
+      "50日移動平均線",
+      "ディフェンシブセクター"
     ],
-    "learned_interests": {
-        "topics": {
-            "AI": 1,
-            "Gemini": 1,
-            "日銀": 1,
-            "利上げ": 1,
-            "マルチモーダル": 0.9,
-            "AIチャットボット": 0.8,
-            "Claude": 0.7,
-            "衆院選": 0.7,
-            "AIエージェント": 0.6,
-            "学習データ": 0.5,
-            "サム・アルトマン": 0.5,
-            "雇用統計": 0.5,
-            "インフレ": 0.5,
-            "コーディング": 0.4,
-            "GPT-4o": 0.4,
-            "金融政策": 0.4,
-            "データセンター": 0.3,
-            "OpenAI": 0.3,
-            "Vercel": 0.3,
-            "AGENTS.md": 0.3,
-            "AI論文": 0.3,
-            "Apple": 0.2,
-            "フェイク": 0.2,
-            "健康アドバイス": 0.2,
-            "芸能人": 0,
-            "結婚": 0
+    "suppressed_keywords": [
+      "芸能人",
+      "結婚"
+    ],
+    "preferred_sources": [
+      "Reddit (7min.ai recap)",
+      "The Verge",
+      "Anthropic Blog",
+      "日経新聞",
+      "Google AI Blog"
+    ],
+    "category_distribution": {
+      "ai": 0.4,
+      "finance": 0.25,
+      "politics": 0.1,
+      "culture": 0.25
+    },
+    "serendipity_ratio": 0,
+    "collection_philosophy": "ニュース収集の目的は、世の中の主要ニュースを網羅することではなく、自分の判断モデルと好奇心を毎日更新すること。速報は今日の環境変化、追跡は既存テーマの差分、深掘りは自分の仮説や思想を深める構造記事・論文・実践記録、隣接発見は未来の制約条件や創作・事業・投資の種になる材料を拾う。",
+    "decision_interests": [
+      "AIエージェントを使った個人事業、AI社員、役割分担、実行ループの設計",
+      "MVP開発、市場検証、SNS発信、デモ公開、ユーザー反応を使った改善",
+      "Claude Code、Codex、MCP、Skills、Next.js、Vercelなどの開発基盤と実運用",
+      "AIツールのコスト、トークン消費量、ワークフロー自動化、権限管理、監査、セキュリティ",
+      "AI時代の投資判断、政治経済、規制、地政学、マーケット構造の変化",
+      "小規模チームや個人が大きな成果を出すための組織設計、外注、販売、運用"
+    ],
+    "curiosity_interests": [
+      "画像生成、ComfyUI、キャラクター表現、実写合成、漫画風画像、生成AIと創作表現",
+      "小説、アニメ、漫画、VTuber、ゲーム、キャラクタービジネス、ファン文化",
+      "エンタメ産業、メディア流通、コンテンツ配信、IP、SNSでの拡散、クリエイター経済",
+      "AIと芸術、物語、身体性、感情、文化変化が交差する話題",
+      "まだ実用に直結しないが、読んでみたい、違和感がある、未来の発信や創作の種になりそうな話題"
+    ],
+    "low_priority_patterns": [
+      "AI一般論、雇用不安、哲学的AI倫理だけで終わる記事",
+      "既存関心との接続を後付けでしか説明できない遠すぎる業界ニュース",
+      "有名企業の発表だが、運用、コスト、販売、規制、検証、創作のいずれにも具体的な示唆がない記事",
+      "速報性だけがあり、読後に判断や好奇心が更新されない記事"
+    ],
+    "curation_modes": {
+      "breaking": {
+        "count": 5,
+        "enabled": true
+      },
+      "followup": {
+        "count": 4,
+        "enabled": true
+      },
+      "deep_dive": {
+        "count": 5,
+        "enabled": true
+      },
+      "adjacent": {
+        "count": 4,
+        "enabled": true
+      }
+    },
+    "long_term_boosted_keywords": [
+      "OpenClaw",
+      "dispatch.py",
+      "JSON Schema validator",
+      "ephemeral test sandbox",
+      "rollback mechanism",
+      "pre-deploy regression test",
+      "weekly oversight gate",
+      "multi-agent dispatch",
+      "git commit history",
+      "10年国債の利回り",
+      "短期プライムレート",
+      "長期プライムレート",
+      "金融政策決定会合",
+      "フラット35",
+      "長期調達コスト",
+      "5年ルール",
+      "125%ルール",
+      "基準金利の見直し",
+      "原油高",
+      "Claude Code",
+      "Claude MD",
+      "CLAUDE.md",
+      "MCP",
+      "Claude Code Skills",
+      "Claude hooks",
+      "コンテキストウィンドウ",
+      "コンパクション",
+      "Dispatch",
+      "Channels",
+      "Computer Use",
+      "Symphony",
+      "Linear",
+      "Codex",
+      "Anthropic",
+      "ダリオ・アモデイ",
+      "Constitutional AI",
+      "AIアラインメント",
+      "バーティカルAI",
+      "SaaS再編",
+      "ハーネス最適化",
+      "プロンプトインジェクション",
+      "Docker",
+      "ハイブリッド運用",
+      "GitHub Projects",
+      "Obsidian",
+      "Hacker News",
+      "Reddit",
+      "URLダイジェスト",
+      "HNサマリー",
+      "マルチプル拡大",
+      "利益の質",
+      "予想EPS",
+      "フリーキャッシュフロー",
+      "VIX",
+      "50日移動平均線",
+      "ディフェンシブセクター",
+      "ホルムズ海峡",
+      "原油価格",
+      "日本銀行法4条",
+      "DOE",
+      "ROE",
+      "資本効率",
+      "イベントドリブン投資",
+      "逆指値",
+      "配当権利日",
+      "GDPval",
+      "OSWorld",
+      "AIエージェント",
+      "サブエージェント",
+      "ハーネスエンジニアリング",
+      "コンテキストエンジニアリング",
+      "長期記憶",
+      "パーソナライズ",
+      "Claude Dispatch",
+      "GitHub Pull Request",
+      "ライフリポジトリー",
+      "言語化",
+      "東証改革",
+      "PBR改善",
+      "地政学リスク",
+      "Dario Amodei",
+      "データセンター",
+      "電力インフラ",
+      "エージェントに選ばれるプロダクト",
+      "Nano Banana 2",
+      "日本語ラベル画像",
+      "Skills",
+      "Hooks",
+      "Compaction",
+      "Context pruning",
+      "Auto Dream",
+      "AGI",
+      "GDP-Bench",
+      "TOPIX100",
+      "PBR1倍割れ",
+      "Claude Code Agent Teams",
+      "3エージェント構成",
+      "ローカルAI",
+      "Prompt Injection",
+      "長文コンテキスト",
+      "Moonshot AI",
+      "データフライホイール",
+      "API化",
+      "日本語ラベル",
+      "Agent Teams",
+      "Claude.md",
+      "SessionStart",
+      "PostToolUse",
+      "Warp",
+      "Ghostty",
+      "cmux",
+      "セクターローテーション",
+      "軍事AI",
+      "強化学習",
+      "居抜き出店",
+      "委託販売制度",
+      "Claude Cowork",
+      "Google Drive",
+      "Gmail",
+      "Google Calendar"
+    ],
+    "recent_boosted_keywords": [
+      "Claude Code",
+      "Agent Teams",
+      "MCP",
+      "CLAUDE.md",
+      "IMPORTANT IF",
+      "SessionStart",
+      "PostToolUse",
+      "Auto Dream",
+      "Computer Use",
+      "Dispatch",
+      "Channels",
+      "OpenClaw",
+      "Claude Cowork",
+      "Context Pruning",
+      "Compaction",
+      "Docker",
+      "Prompt Injection",
+      "Planner/Generator/Evaluator",
+      "Symphony",
+      "Linear",
+      "Codex",
+      "VIX",
+      "ホルムズ海峡",
+      "原油価格",
+      "PBR1倍割れ",
+      "DOE",
+      "マルチプル拡大",
+      "予想EPS",
+      "フリーキャッシュフロー",
+      "Nano Banana 2",
+      "GPT Image 1.5 Medium",
+      "Constitutional AI",
+      "Dario Amodei",
+      "長文コンテキスト",
+      "OSWorld",
+      "GDPval",
+      "Warp",
+      "Ghostty",
+      "cmux",
+      "配当権利日"
+    ],
+    "category_priorities": {
+      "ai_agent_business_building": {
+        "priority": "daily_core",
+        "modes": [
+          "breaking",
+          "deep_dive"
+        ]
+      },
+      "claude_context_engineering": {
+        "priority": "daily_core",
+        "modes": [
+          "breaking",
+          "deep_dive"
+        ]
+      },
+      "vertical_ai_and_saas_disruption": {
+        "priority": "daily_core",
+        "modes": [
+          "breaking",
+          "deep_dive"
+        ]
+      },
+      "equity_valuation_and_quality": {
+        "priority": "daily_core",
+        "modes": [
+          "breaking",
+          "deep_dive"
+        ]
+      },
+      "macro_policy_and_business_cycles": {
+        "priority": "weekly",
+        "modes": [
+          "breaking",
+          "deep_dive"
+        ]
+      },
+      "market_risk_signals_and_sector_rotation": {
+        "priority": "weekly",
+        "modes": [
+          "breaking",
+          "deep_dive"
+        ]
+      },
+      "ai_labor_and_social_change": {
+        "priority": "weekly",
+        "modes": [
+          "deep_dive"
+        ]
+      },
+      "personal_brand_and_scarcity": {
+        "priority": "serendipity",
+        "modes": [
+          "adjacent"
+        ]
+      },
+      "information_automation_and_curated_feeds": {
+        "priority": "daily_core",
+        "modes": [
+          "breaking",
+          "deep_dive"
+        ]
+      }
+    },
+    "manual_interest_categories": {
+      "generative_ai_creation": {
+        "label": "生成AI創作・画像生成",
+        "priority": "weekly",
+        "modes": [
+          "deep_dive",
+          "adjacent"
+        ],
+        "confidence": 0.7,
+        "source_count": 1,
+        "insights": [
+          "画像生成、ComfyUI、キャラクター表現、実写合成、漫画風画像の実験に関心が高い。",
+          "生成AIを単なる効率化ではなく、創作表現、投稿、作品化、ワークフロー設計に接続して見る傾向がある。"
+        ]
+      },
+      "anime_manga_vtuber_games": {
+        "label": "漫画・アニメ・VTuber・ゲーム",
+        "priority": "serendipity",
+        "modes": [
+          "adjacent"
+        ],
+        "confidence": 0.65,
+        "source_count": 1,
+        "insights": [
+          "漫画、アニメ、VTuber、ゲーム、キャラクタービジネス、ファン文化を未来の創作や発信の種として拾いたい。",
+          "短期の実用性より、読んで面白い、違和感がある、物語や世界観づくりに転用できる話題を重視する。"
+        ]
+      },
+      "culture_media_distribution": {
+        "label": "文化・メディア流通・クリエイター経済",
+        "priority": "serendipity",
+        "modes": [
+          "adjacent"
+        ],
+        "confidence": 0.65,
+        "source_count": 1,
+        "insights": [
+          "コンテンツ配信、IP、SNS拡散、クリエイター経済、ファンコミュニティの変化に関心がある。",
+          "AI、創作、個人ブランド、メディア流通が交差するニュースを隣接発見として評価する。"
+        ]
+      }
+    },
+    "feedback": {
+      "saved": [
+        {
+          "url": "https://techcrunch.com/2026/05/28/anthropic-releases-opus-4-8-with-new-dynamic-workflow-tool/",
+          "title": "Anthropic、Opus 4.8と新機能「Dynamic Workflows」を公開",
+          "source": "TechCrunch",
+          "category": "AI・テクノロジー",
+          "date": "2026-05-29",
+          "action": "saved",
+          "added_at": "2026-05-29T13:20:51.376955+09:00"
         },
-        "sources": {
-            "Reddit (7min.ai recap)": 1,
-            "The Verge": 0.9,
-            "Anthropic Blog": 0.8,
-            "日経新聞": 0.8,
-            "東洋経済オンライン": 0.7,
-            "Google AI Blog": 0.6,
-            "Wired": 0.6,
-            "AIDB": 0.6,
-            "週刊AI駆動開発": 0.6,
-            "[Tech Blog]": 0.3,
-            "CTV News": 0.3,
-            "KAB 熊本朝日放送": 0.3,
-            "Morningstar / Interactive Brokers": 0.3,
-            "日本経済新聞 (仮想)": 0.3,
-            "The Verge (仮想)": 0.3,
-            "Yahoo!ニュース": 0
+        {
+          "url": "https://www.cnbc.com/2026/05/28/petraeus-unmanned-systems-autonomous-drones-defense-investment.html",
+          "title": "ドローン群",
+          "source": "CNBC",
+          "category": "経済・金融",
+          "date": "2026-05-29",
+          "action": "saved",
+          "added_at": "2026-05-29T13:21:28.758268+09:00"
+        },
+        {
+          "url": "https://claude.com/blog/introducing-dynamic-workflows-in-claude-code",
+          "title": "Claude Codeの動的ワークフローを発表",
+          "source": "Claude",
+          "category": "AI・テクノロジー",
+          "date": "2026-05-30",
+          "action": "saved",
+          "added_at": "2026-05-30T10:23:31.163900+09:00"
+        },
+        {
+          "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/05/29/explainer-how-far-have-the-u-s-and-iran-got-towards-ending-the-iran-war",
+          "title": "解説：米国とイランはイラン戦争終結に向けてどこまで進んだのか",
+          "source": "Reuters via Internazionale",
+          "category": "AI・テクノロジー",
+          "date": "2026-05-30",
+          "action": "saved",
+          "added_at": "2026-05-30T10:28:17.564430+09:00"
+        },
+        {
+          "url": "https://techcrunch.com/2026/05/30/i-put-googles-24-7-ai-assistant-gemini-spark-to-work-and-its-actually-pretty-useful/",
+          "title": "Googleの24時間稼働AIアシスタントGemini Sparkを使ってみたら、思ったより実用的だった",
+          "source": "TechCrunch",
+          "category": "AI・テクノロジー",
+          "date": "2026-05-31",
+          "action": "saved",
+          "added_at": "2026-05-31T10:52:38.007328+09:00"
+        },
+        {
+          "url": "https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/",
+          "title": "「冗談だろ」 GitHub Copilotの新しいトークン課金が開発者の反発を招く",
+          "source": "TechCrunch",
+          "category": "AI・テクノロジー",
+          "date": "2026-05-31",
+          "action": "saved",
+          "added_at": "2026-05-31T10:52:44.621440+09:00"
+        },
+        {
+          "url": "https://www.cnbc.com/2026/06/01/japan-pm-takaichis-budget-remarks-send-red-flag-to-bond-markets.html",
+          "title": "日本の国債利回りは40年ぶりの高水準に。補正予算と「危険信号」で市場が神経質に",
+          "source": "CNBC",
+          "category": "経済・金融",
+          "date": "2026-06-01",
+          "action": "saved",
+          "added_at": "2026-06-01T11:13:32.732395+09:00"
+        },
+        {
+          "url": "https://www.theverge.com/policy/941775/trump-ai-executive-order",
+          "title": "トランプ大統領、公開前のAIモデル審査を見直す大統領令に署名",
+          "source": "The Verge",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-03",
+          "action": "saved",
+          "added_at": "2026-06-03T12:26:05.684053+09:00"
+        },
+        {
+          "url": "https://techcrunch.com/2026/06/02/openai-launches-new-codex-tools-for-white-collar-work/",
+          "title": "OpenAI、ホワイトカラー業務向けの新しいCodexツールを公開",
+          "source": "TechCrunch",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-03",
+          "action": "saved",
+          "added_at": "2026-06-03T12:26:07.781901+09:00"
+        },
+        {
+          "url": "https://www.technologyreview.com/2026/06/03/1138350/virtual-power-plants-data-centers/",
+          "title": "仮想発電所はデータセンター向け電力をどう支えうるのか",
+          "source": "MIT Technology Review",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-04",
+          "action": "saved",
+          "added_at": "2026-06-04T11:10:54.509340+09:00"
+        },
+        {
+          "url": "https://claude.com/blog/a-harness-for-every-task-dynamic-workflows-in-claude-code",
+          "title": "あらゆるタスクに対応するハーネス: Claude Codeの動的ワークフロー",
+          "source": "Claude",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-04",
+          "action": "saved",
+          "added_at": "2026-06-04T11:12:17.276712+09:00"
+        },
+        {
+          "url": "https://openai.com/index/codex-for-every-role-tool-workflow/",
+          "title": "あらゆる役割・ツール・ワークフローに対応するCodex",
+          "source": "OpenAI",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-04",
+          "action": "saved",
+          "added_at": "2026-06-04T11:12:44.006174+09:00"
+        },
+        {
+          "url": "https://gauravagg2016.medium.com/build-production-ready-ai-agents-in-2026-mcp-cli-and-skills-d4c6e193b897",
+          "title": "2026年に本番運用可能なAIエージェントを構築する: MCP、CLI、スキル",
+          "source": "Medium",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-04",
+          "action": "saved",
+          "added_at": "2026-06-04T11:27:29.872392+09:00"
+        },
+        {
+          "url": "https://www.cnbc.com/2026/06/04/trump-iran-supreme-leader.html",
+          "title": "トランプ氏、合意成立ならイラン最高指導者と会談の可能性に言及",
+          "source": "CNBC",
+          "category": "経済・金融",
+          "date": "2026-06-05",
+          "action": "saved",
+          "added_at": "2026-06-05T11:10:32.968534+09:00"
+        },
+        {
+          "url": "https://www.cnbc.com/2026/06/04/broadcoms-outlook-sparked-a-selloff-for-chip-stocks-heres-why.html",
+          "title": "Broadcomが半導体株の売りを誘発、より大きな転換の始まりか",
+          "source": "CNBC",
+          "category": "経済・金融",
+          "date": "2026-06-05",
+          "action": "saved",
+          "added_at": "2026-06-05T11:10:55.013325+09:00"
+        },
+        {
+          "url": "https://www.nri.com/jp/media/column/kiuchi/20260604_2.html",
+          "title": "植田日銀総裁の講演は6月利上げを示唆したものか",
+          "source": "野村総合研究所(NRI)",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-05",
+          "action": "saved",
+          "added_at": "2026-06-05T11:17:04.939754+09:00"
+        },
+        {
+          "url": "https://www.cnbc.com/2026/06/05/jobs-report-may-2026.html",
+          "title": "米雇用者数は5月に17万2000人増、予想を大幅に上回る 失業率は4.3％",
+          "source": "CNBC",
+          "category": "経済・金融",
+          "date": "2026-06-06",
+          "action": "saved",
+          "added_at": "2026-06-06T11:40:39.020257+09:00"
+        },
+        {
+          "url": "https://techcrunch.com/2026/06/05/the-token-bill-comes-due-inside-the-industry-scramble-to-manage-ais-runaway-costs/",
+          "title": "請求の時が来た：AIの暴走コスト管理に追われる業界の舞台裏",
+          "source": "TechCrunch",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-06",
+          "action": "saved",
+          "added_at": "2026-06-06T11:40:41.711742+09:00"
+        },
+        {
+          "url": "https://www.cnbc.com/2026/06/05/asian-technology-stocks-sk-hynix-samsung-tsmc-advantest.html",
+          "title": "アジアのテック株売り",
+          "source": "CNBC",
+          "category": "経済・金融",
+          "date": "2026-06-06",
+          "action": "saved",
+          "added_at": "2026-06-06T11:41:42.386595+09:00"
+        },
+        {
+          "url": "https://www.cnbc.com/2026/06/05/iran-war-strait-of-hormuz-renewables-oil-gas.html",
+          "title": "変わらなければならない：ホルムズ海峡の対立がエネルギー安全保障の考え方を書き換えている",
+          "source": "CNBC",
+          "category": "経済・金融",
+          "date": "2026-06-06",
+          "action": "saved",
+          "added_at": "2026-06-06T11:43:37.508918+09:00"
+        },
+        {
+          "url": "https://www.newsweekjapan.jp/articles/-/324587?display=b",
+          "title": "日銀、次回会合で利上げ検討へ　中東リスク見極め最終判断",
+          "source": "Newsweek Japan",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-06",
+          "action": "saved",
+          "added_at": "2026-06-06T11:44:55.942762+09:00"
         }
-    },
-    "search_config": {
-        "boosted_keywords": [
-            "AI",
-            "Gemini",
-            "日銀",
-            "利上げ",
-            "マルチモーダル",
-            "AIチャットボット",
-            "Claude",
-            "AIエージェント",
-            "コーディング",
-            "GPT-4o",
-            "学習データ",
-            "サム・アルトマン",
-            "雇用統計",
-            "インフレ",
-            "金融政策"
-        ],
-        "suppressed_keywords": [
-            "芸能人",
-            "結婚"
-        ],
-        "preferred_sources": [
-            "Reddit (7min.ai recap)",
-            "The Verge",
-            "Anthropic Blog",
-            "日経新聞",
-            "Google AI Blog"
-        ],
-        "category_distribution": {
-            "ai": 0.88,
-            "finance": 0.12,
-            "politics": 0,
-            "other": 0
+      ],
+      "dismissed": [
+        {
+          "url": "https://techcrunch.com/2026/05/28/asana-acquires-no-code-agent-builder-stack-ai/",
+          "title": "Asana、ノーコードのエージェント構築企業StackAIを買収",
+          "source": "TechCrunch",
+          "category": "AI・テクノロジー",
+          "date": "2026-05-29",
+          "action": "dismissed",
+          "added_at": "2026-05-29T13:21:01.393146+09:00"
         },
-        "serendipity_ratio": 0
+        {
+          "url": "https://www.animenewsnetwork.com/news/2026-05-28/detective-conan-star-detective-precure-anime-preview-crossover-episodes-in-trailer/.237907",
+          "title": "『名探偵コナン』と『スター・ディテクティブ プリキュア！』のクロスオーバー回を予告映像で公開",
+          "source": "Anime News Network",
+          "category": "漫画・アニメ・文化",
+          "date": "2026-05-29",
+          "action": "dismissed",
+          "added_at": "2026-05-29T13:21:33.564147+09:00"
+        },
+        {
+          "url": "https://www.animenewsnetwork.com/news/2026-05-28/tomb-raider-king-korean-animated-series-reveals-new-character-videos-july-8-debut/.237906",
+          "title": "韓国アニメ版『Tomb Raider King』が新キャラクター映像を公開、7月8日放送開始",
+          "source": "Anime News Network",
+          "category": "漫画・アニメ・文化",
+          "date": "2026-05-29",
+          "action": "dismissed",
+          "added_at": "2026-05-29T13:21:35.527297+09:00"
+        },
+        {
+          "url": "https://www.animenewsnetwork.com/news/2026-05-28/takeshobo-to-release-melt-in-your-color-my-father-lover-more-manga-digitally-in-english/.237430",
+          "title": "竹書房が『Melt in Your Color』『My Father's Lover』などを英語でデジタル配信へ",
+          "source": "Anime News Network",
+          "category": "漫画・アニメ・文化",
+          "date": "2026-05-29",
+          "action": "dismissed",
+          "added_at": "2026-05-29T13:21:37.782994+09:00"
+        },
+        {
+          "url": "https://techcrunch.com/2026/06/03/meet-wander-a-stumbleupon-inspired-tool-for-discovering-the-small-web/",
+          "title": "小さなウェブを発見するStumbleUpon風ツール、Wander",
+          "source": "TechCrunch",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-04",
+          "action": "dismissed",
+          "added_at": "2026-06-04T11:30:40.834707+09:00"
+        }
+      ],
+      "deep_dive_more": [
+        {
+          "url": "https://techcrunch.com/2026/05/28/just-like-gold-and-oil-well-soon-be-able-to-trade-ai-token-futures/",
+          "title": "金や原油のように、AIトークン先物を取引できる時代が近づく",
+          "source": "TechCrunch",
+          "category": "AI・テクノロジー",
+          "date": "2026-05-29",
+          "action": "deep_dive_more",
+          "added_at": "2026-05-29T13:21:18.873967+09:00"
+        },
+        {
+          "url": "https://techcrunch.com/2026/05/28/rsi-is-the-new-agi-and-its-just-as-hard-to-pin-down/",
+          "title": "RSIは新たなAGIだが、その実態は同じくらい定義しにくい",
+          "source": "TechCrunch",
+          "category": "AI・テクノロジー",
+          "date": "2026-05-29",
+          "action": "deep_dive_more",
+          "added_at": "2026-05-29T13:21:21.698228+09:00"
+        },
+        {
+          "url": "https://www.wired.com/story/google-gemini-spark-ai-agent-hands-on/",
+          "title": "Gemini Sparkに自分の生活へのアクセスを与えたら、恋人が友達扱いされた",
+          "source": "WIRED",
+          "category": "AI・テクノロジー",
+          "date": "2026-05-30",
+          "action": "deep_dive_more",
+          "added_at": "2026-05-30T10:28:13.730332+09:00"
+        },
+        {
+          "url": "https://www.marketwatch.com/story/in-america-big-techs-ai-data-centers-come-first-and-your-community-will-be-last-to-know-06a3fce4",
+          "title": "ビッグテックの電力需要急増で、データセンターが公益企業に巨大な新たな利益源をもたらす",
+          "source": "MarketWatch",
+          "category": "経済・金融",
+          "date": "2026-05-31",
+          "action": "deep_dive_more",
+          "added_at": "2026-05-31T10:56:30.844076+09:00"
+        },
+        {
+          "url": "https://techcrunch.com/2026/06/03/publishers-will-be-able-to-opt-out-of-ai-search-thanks-to-new-regulation/",
+          "title": "出版社は新たな規制によりAI検索からの除外を選べるようになる",
+          "source": "TechCrunch",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-04",
+          "action": "deep_dive_more",
+          "added_at": "2026-06-04T11:11:14.336728+09:00"
+        },
+        {
+          "url": "https://claude.com/blog/lessons-from-building-claude-code-how-we-use-skills",
+          "title": "Claude Code構築から得た教訓: 私たちはスキルをどう使っているか",
+          "source": "Claude",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-04",
+          "action": "deep_dive_more",
+          "added_at": "2026-06-04T11:23:51.107017+09:00"
+        },
+        {
+          "url": "https://cobusgreyling.medium.com/agent-model-harness-0d018f3d5014",
+          "title": "エージェント = モデル + ハーネス",
+          "source": "Medium",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-04",
+          "action": "deep_dive_more",
+          "added_at": "2026-06-04T11:31:55.346546+09:00"
+        },
+        {
+          "url": "https://openai.com/index/chatgpt-memory-dreaming/",
+          "title": "Dreaming: より役立つChatGPTのための高度なメモリ",
+          "source": "OpenAI",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-06",
+          "action": "deep_dive_more",
+          "added_at": "2026-06-06T11:46:39.792119+09:00"
+        },
+        {
+          "url": "https://appscale.blog/en/blog/computer-use-agent-production-architecture-vm-sandbox-action-audit-2026",
+          "title": "本番運用におけるコンピュータ操作エージェント――VMサンドボックス、操作監査、復旧",
+          "source": "AppScale Blog",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-06",
+          "action": "deep_dive_more",
+          "added_at": "2026-06-06T12:23:00.598994+09:00"
+        },
+        {
+          "url": "https://arxiv.org/abs/2606.04896",
+          "title": "マルチエージェントオーケストレーションにおける、スケジュール型クロスエージェント記憶注入の設計上の盲点",
+          "source": "arXiv",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-06",
+          "action": "deep_dive_more",
+          "added_at": "2026-06-06T12:30:32.476105+09:00"
+        },
+        {
+          "url": "https://techcrunch.com/2026/06/11/coinbase-debuts-mcp-for-agent-trading/",
+          "title": "Coinbaseの新ツール、エージェントによる取引と有料リサーチ購入を可能に",
+          "source": "TechCrunch",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-12",
+          "action": "deep_dive_more",
+          "added_at": "2026-06-12T10:58:48.070384+09:00"
+        },
+        {
+          "url": "https://arxiv.org/abs/2605.23296",
+          "title": "長期運用LLMエージェント向け並列コンテキスト圧縮",
+          "source": "arXiv",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-13",
+          "action": "deep_dive_more",
+          "added_at": "2026-06-13T11:13:52.221015+09:00"
+        },
+        {
+          "url": "https://arxiv.org/abs/2606.06448",
+          "title": "エージェントメモリ：状態を持つ長期ワークロードの特性とシステム上の含意",
+          "source": "arXiv",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-13",
+          "action": "deep_dive_more",
+          "added_at": "2026-06-13T11:13:53.644907+09:00"
+        },
+        {
+          "url": "https://www.businessinsider.com/anthropic-trump-officials-meeting-fable-export-ban-2026-6",
+          "title": "トランプ政権当局者がAnthropicと休戦に向け協議",
+          "source": "Business Insider",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-16",
+          "action": "deep_dive_more",
+          "added_at": "2026-06-16T11:03:54.820859+09:00"
+        }
+      ],
+      "adjacent_interesting": [
+        {
+          "url": "https://techcrunch.com/2026/05/28/hackers-are-trying-to-steal-signal-users-backups-in-new-wave-of-phishing-attacks/",
+          "title": "ハッカーが新たなフィッシング攻撃でSignalユーザーのバックアップを狙う",
+          "source": "TechCrunch",
+          "category": "AI・テクノロジー",
+          "date": "2026-05-29",
+          "action": "adjacent_interesting",
+          "added_at": "2026-05-29T13:21:13.825179+09:00"
+        },
+        {
+          "url": "https://www.wired.com/story/story/amazon-is-making-an-ai-animated-good-advice-cupcake-tv-show-its-original-creator-is-furious/",
+          "title": "アマゾン、AIアニメ版『Good Advice Cupcake』を制作へ　原作者は激怒",
+          "source": "WIRED",
+          "category": "AI・テクノロジー",
+          "date": "2026-05-31",
+          "action": "adjacent_interesting",
+          "added_at": "2026-05-31T11:02:29.524738+09:00"
+        },
+        {
+          "url": "https://techcrunch.com/2026/05/30/this-weekends-two-biggest-movies-were-both-directed-by-youtubers/",
+          "title": "今週末の興行収入トップ2作品は、どちらもYouTuber出身監督の映画だった",
+          "source": "TechCrunch",
+          "category": "AI・テクノロジー",
+          "date": "2026-05-31",
+          "action": "adjacent_interesting",
+          "added_at": "2026-05-31T11:03:18.892670+09:00"
+        },
+        {
+          "url": "https://www.wired.com/story/nvidia-unitree-humanoid-robot-h2-plus/",
+          "title": "未来のヒューマノイドは、中国製の体と米国製の頭脳を持つ6フィートの巨体になる",
+          "source": "WIRED",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-04",
+          "action": "adjacent_interesting",
+          "added_at": "2026-06-04T11:29:58.350408+09:00"
+        },
+        {
+          "url": "https://www.technologyreview.com/2026/05/28/1138096/lithium-extraction-rock-zero/",
+          "title": "新しい抽出プロセスが世界のリチウムを解き放つ可能性",
+          "source": "MIT Technology Review",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-04",
+          "action": "adjacent_interesting",
+          "added_at": "2026-06-04T11:30:31.430097+09:00"
+        },
+        {
+          "url": "https://www.technologyreview.com/2026/05/28/1138067/climate-tech-ipos/",
+          "title": "気候テック企業が次々と上場、その次に何が来るのか",
+          "source": "MIT Technology Review",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-05",
+          "action": "adjacent_interesting",
+          "added_at": "2026-06-05T11:13:55.694488+09:00"
+        },
+        {
+          "url": "https://www.wired.com/story/why-apple-might-put-cameras-into-its-next-airpods/",
+          "title": "Appleが次世代AirPodsにカメラを搭載するかもしれない理由",
+          "source": "WIRED",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-06",
+          "action": "adjacent_interesting",
+          "added_at": "2026-06-06T12:26:06.893547+09:00"
+        }
+      ],
+      "direction_ok": [
+        {
+          "url": "https://techcrunch.com/2026/06/07/is-this-the-dawn-of-the-tokenpocalypse/",
+          "title": "これはトークン終末の始まりなのか？",
+          "source": "TechCrunch",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-08",
+          "action": "direction_ok",
+          "added_at": "2026-06-08T12:16:23.912956+09:00"
+        },
+        {
+          "url": "https://techcrunch.com/2026/06/07/openai-is-still-working-on-that-super-app/",
+          "title": "OpenAIはなお「スーパーアプリ」を目指している",
+          "source": "TechCrunch",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-08",
+          "action": "direction_ok",
+          "added_at": "2026-06-08T12:17:03.954804+09:00"
+        },
+        {
+          "url": "https://techcrunch.com/2026/06/07/the-worst-hacks-and-breaches-of-2026-so-far/",
+          "title": "ハッキング、流出、身代金要求――2026年前半で最悪の侵害事例",
+          "source": "TechCrunch",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-08",
+          "action": "direction_ok",
+          "added_at": "2026-06-08T12:17:36.671910+09:00"
+        },
+        {
+          "url": "https://ca.investing.com/news/commodities-news/russias-sechin-says-us-companies-benefit-from-strait-of-hormuz-closure-4678821",
+          "title": "ロシアのセチン氏、ホルムズ海峡封鎖で米企業が利益と主張",
+          "source": "Reuters via Investing.com",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-08",
+          "action": "direction_ok",
+          "added_at": "2026-06-08T12:18:55.004342+09:00"
+        },
+        {
+          "url": "https://www.technologyreview.com/2026/06/01/1138133/china-world-first-brain-chip/",
+          "title": "中国が世界初の侵襲型ブレイン・コンピューター・チップを承認、その次に来るもの",
+          "source": "MIT Technology Review",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-08",
+          "action": "direction_ok",
+          "added_at": "2026-06-08T12:20:07.055477+09:00"
+        },
+        {
+          "url": "https://hivesecurity.gitlab.io/blog/miasma-mini-shai-hulud-ai-agent-supply-chain-2026/",
+          "title": "MiasmaとMini Shai-Hulud: npmマルウェアがAIコーディングエージェントに永続化を学んだ時",
+          "source": "Hive Security",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-08",
+          "action": "direction_ok",
+          "added_at": "2026-06-08T12:21:53.427648+09:00"
+        },
+        {
+          "url": "https://finance.yahoo.com/news/oil-prices-rise-more-2-223106619.html",
+          "title": "イランとイスラエルが攻撃停止を表明し、原油価格は1ドル高で取引終了",
+          "source": "Reuters via Yahoo Finance",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-09",
+          "action": "direction_ok",
+          "added_at": "2026-06-09T11:31:30.535008+09:00"
+        },
+        {
+          "url": "https://www.wired.com/story/summer-travel-season-sustainable-aviation-fuel/",
+          "title": "この夏の旅行シーズンが持続可能な航空燃料の将来を大きく変えるかもしれない",
+          "source": "WIRED",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-09",
+          "action": "direction_ok",
+          "added_at": "2026-06-09T11:31:49.076072+09:00"
+        },
+        {
+          "url": "https://techcrunch.com/2026/06/08/following-anthropic-openai-files-confidentially-for-ipo/",
+          "title": "OpenAI、Anthropicに続き非公開でIPO申請",
+          "source": "TechCrunch",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-09",
+          "action": "direction_ok",
+          "added_at": "2026-06-09T11:32:00.182669+09:00"
+        },
+        {
+          "url": "https://arxiv.org/abs/2605.17812",
+          "title": "ヘッドレス化へ向かうのか――Vertical AI企業の境界をめぐって",
+          "source": "arXiv",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-09",
+          "action": "direction_ok",
+          "added_at": "2026-06-09T11:34:58.007836+09:00"
+        },
+        {
+          "url": "https://arxiv.org/abs/2605.10555",
+          "title": "Agent-First Tool API――エンタープライズAIエージェント向けの意味論的インターフェースパラダイム",
+          "source": "arXiv",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-09",
+          "action": "direction_ok",
+          "added_at": "2026-06-09T11:36:23.708569+09:00"
+        },
+        {
+          "url": "https://arxiv.org/abs/2605.11487",
+          "title": "エージェント型システムのためのデジタルアイデンティティ――自律エージェント向けポータブル認可標準へ",
+          "source": "arXiv",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-09",
+          "action": "direction_ok",
+          "added_at": "2026-06-09T11:38:47.406925+09:00"
+        },
+        {
+          "url": "https://techcrunch.com/2026/06/09/can-tech-companies-learn-to-love-cheaper-models/",
+          "title": "テック企業はより安いAIモデルを受け入れられるか",
+          "source": "TechCrunch",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-10",
+          "action": "direction_ok",
+          "added_at": "2026-06-10T11:22:59.661720+09:00"
+        },
+        {
+          "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japanese-bond-yields-mixed-as-boj-rate-hike-expectations-and-inflation-concerns-shape-sentiment/articleshow/131496201.cms",
+          "title": "世界市場: 日銀の利上げ観測とインフレ懸念で日本国債利回りはまちまち",
+          "source": "The Economic Times",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-10",
+          "action": "direction_ok",
+          "added_at": "2026-06-10T11:26:27.309329+09:00"
+        },
+        {
+          "url": "https://arxiv.org/abs/2605.15228",
+          "title": "検証可能なエージェント基盤: 主権AIシステムに向けた証明由来の認可",
+          "source": "arXiv",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-10",
+          "action": "direction_ok",
+          "added_at": "2026-06-10T11:32:37.353630+09:00"
+        },
+        {
+          "url": "https://techcrunch.com/2026/06/11/coinbase-debuts-mcp-for-agent-trading/",
+          "title": "Coinbaseの新ツール、エージェントによる取引と有料リサーチ購入を可能に",
+          "source": "TechCrunch",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-12",
+          "action": "direction_ok",
+          "added_at": "2026-06-12T10:46:13.164566+09:00"
+        },
+        {
+          "url": "https://www.cnbc.com/2026/06/11/trump-iran-strikes-deal.html",
+          "title": "トランプ氏、イラン戦争は最終調整次第で決着と主張　数日内の署名に期待",
+          "source": "CNBC",
+          "category": "経済・金融",
+          "date": "2026-06-12",
+          "action": "direction_ok",
+          "added_at": "2026-06-12T10:47:37.403346+09:00"
+        },
+        {
+          "url": "https://arxiv.org/abs/2605.26112",
+          "title": "モデルスケーリングからシステムスケーリングへ：エージェント型AIにおけるハーネス拡張",
+          "source": "arXiv",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-12",
+          "action": "direction_ok",
+          "added_at": "2026-06-12T10:51:44.872369+09:00"
+        },
+        {
+          "url": "https://openai.com/index/openai-to-acquire-ona/",
+          "title": "OpenAI、Onaを買収へ　Codex向けに安全な長時間実行基盤を強化",
+          "source": "OpenAI",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-13",
+          "action": "direction_ok",
+          "added_at": "2026-06-13T11:06:22.532144+09:00"
+        },
+        {
+          "url": "https://www.cnbc.com/2026/06/12/oil-prices-wti-brent-on-hopes-of-us-iran-deal-despite-tehran-pushback.html",
+          "title": "原油価格、ホルムズ海峡再開合意観測で下落",
+          "source": "CNBC",
+          "category": "経済・金融",
+          "date": "2026-06-13",
+          "action": "direction_ok",
+          "added_at": "2026-06-13T11:06:29.251787+09:00"
+        },
+        {
+          "url": "https://www.anthropic.com/news/dxc-anthropic-alliance",
+          "title": "DXCが銀行や航空会社など規制産業の中核システムにClaudeを統合へ",
+          "source": "Anthropic",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-13",
+          "action": "direction_ok",
+          "added_at": "2026-06-13T11:09:09.206267+09:00"
+        },
+        {
+          "url": "https://arxiv.org/abs/2605.23296",
+          "title": "長期運用LLMエージェント向け並列コンテキスト圧縮",
+          "source": "arXiv",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-13",
+          "action": "direction_ok",
+          "added_at": "2026-06-13T11:11:25.832816+09:00"
+        },
+        {
+          "url": "https://arxiv.org/abs/2605.26252",
+          "title": "エージェントメモリはデータベースか？ 長期AIエージェント記憶のためのデータ基盤再考",
+          "source": "arXiv",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-13",
+          "action": "direction_ok",
+          "added_at": "2026-06-13T11:15:13.923676+09:00"
+        },
+        {
+          "url": "https://apnews.com/article/iran-us-war-hormuz-blockade-analysis-4cd10138dcd340d0e710d85cc586e45f",
+          "title": "分析：湾岸アラブ産油国の原油が市場に届き始め、ホルムズ海峡を巡るイランの締め付けが緩む",
+          "source": "AP News",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-13",
+          "action": "direction_ok",
+          "added_at": "2026-06-13T11:22:28.031708+09:00"
+        },
+        {
+          "url": "https://arxiv.org/abs/2606.09426",
+          "title": "WeaveBench：ハイブリッド操作環境におけるコンピュータ利用エージェント向け長期実世界ベンチマーク",
+          "source": "arXiv",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-14",
+          "action": "direction_ok",
+          "added_at": "2026-06-14T10:25:57.151501+09:00"
+        },
+        {
+          "url": "https://techcrunch.com/2026/06/13/the-fbi-built-its-own-replica-small-town-to-simulate-real-world-cyberattacks/",
+          "title": "FBI、現実のサイバー攻撃を再現する小規模模擬都市を整備",
+          "source": "TechCrunch",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-14",
+          "action": "direction_ok",
+          "added_at": "2026-06-14T10:26:07.983576+09:00"
+        },
+        {
+          "url": "https://finance.yahoo.com/sectors/energy/articles/fuel-tax-changes-hit-six-210000819.html",
+          "title": "エネルギーインフレ加速の中、6州で燃料税改定",
+          "source": "Yahoo Finance",
+          "category": "経済・金融",
+          "date": "2026-06-14",
+          "action": "direction_ok",
+          "added_at": "2026-06-14T10:26:11.969785+09:00"
+        },
+        {
+          "url": "https://www.businessinsider.com/inworld-ceo-cuts-ai-model-prices-to-aid-consumer-startups-2026-6",
+          "title": "消費者向けAIスタートアップを救うため、AI音声企業が価格を50％超引き下げ",
+          "source": "Business Insider",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-14",
+          "action": "direction_ok",
+          "added_at": "2026-06-14T10:36:37.494867+09:00"
+        },
+        {
+          "url": "https://arxiv.org/abs/2605.26508",
+          "title": "自律AIエージェント向け、時間整合的な反実仮想保険数理ランタイムの基礎",
+          "source": "arXiv",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-14",
+          "action": "direction_ok",
+          "added_at": "2026-06-14T10:39:19.620453+09:00"
+        },
+        {
+          "url": "https://www.wired.com/story/anthropic-says-us-government-ordered-it-to-shut-down-mythos-models/",
+          "title": "Anthropic、米政府命令に従いClaude Fable 5を停止",
+          "source": "WIRED",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-15",
+          "action": "direction_ok",
+          "added_at": "2026-06-15T11:39:57.364323+09:00"
+        },
+        {
+          "url": "https://www.wired.com/story/strait-of-hormuz-closed-100-days-why-arent-oil-prices-higher/",
+          "title": "ホルムズ海峡が100日閉鎖されても、なぜ原油価格はもっと上がらないのか",
+          "source": "WIRED",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-15",
+          "action": "direction_ok",
+          "added_at": "2026-06-15T11:40:01.334148+09:00"
+        },
+        {
+          "url": "https://arxiv.org/abs/2606.12812",
+          "title": "AI音声クローン技術に脅かされる声のアイデンティティ",
+          "source": "arXiv",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-15",
+          "action": "direction_ok",
+          "added_at": "2026-06-15T11:42:03.926828+09:00"
+        },
+        {
+          "url": "https://apnews.com/article/new-york-ai-law-hochul-synthetic-performers-e433625bfb61c8abeab0d619869192ed",
+          "title": "ニューヨーク州でAI生成の合成出演者を使う広告に表示義務",
+          "source": "AP News",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-15",
+          "action": "direction_ok",
+          "added_at": "2026-06-15T11:42:42.448655+09:00"
+        },
+        {
+          "url": "https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/",
+          "title": "米政府によるAnthropicモデル禁止はAI脱獄が本質ではなかった",
+          "source": "TechCrunch",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-16",
+          "action": "direction_ok",
+          "added_at": "2026-06-16T11:00:30.708538+09:00"
+        },
+        {
+          "url": "https://www.cnbc.com/2026/06/15/us-iran-deal-stocks-bonds-gold-oil.html",
+          "title": "世界市場、米イラン和平合意でリスク後退",
+          "source": "CNBC",
+          "category": "経済・金融",
+          "date": "2026-06-16",
+          "action": "direction_ok",
+          "added_at": "2026-06-16T11:02:05.725702+09:00"
+        },
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/949644/china-white-house-anthropic-mythos",
+          "title": "中国がMythosにアクセスした可能性",
+          "source": "The Verge",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-16",
+          "action": "direction_ok",
+          "added_at": "2026-06-16T11:03:25.886086+09:00"
+        },
+        {
+          "url": "https://arxiv.org/abs/2605.18747",
+          "title": "Code as Agent Harness",
+          "source": "arXiv",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-16",
+          "action": "direction_ok",
+          "added_at": "2026-06-16T11:07:07.467463+09:00"
+        },
+        {
+          "url": "https://arxiv.org/abs/2605.18565",
+          "title": "MINTEval: 長期エージェントシステムにおける多対象干渉下の記憶評価",
+          "source": "arXiv",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-16",
+          "action": "direction_ok",
+          "added_at": "2026-06-16T11:17:21.620049+09:00"
+        },
+        {
+          "url": "https://arxiv.org/abs/2606.13431",
+          "title": "適応的な迂回が海上要衝の遮断による影響を再構成する",
+          "source": "arXiv",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-16",
+          "action": "direction_ok",
+          "added_at": "2026-06-16T11:19:53.958646+09:00"
+        },
+        {
+          "url": "https://arxiv.org/abs/2605.26136",
+          "title": "本物の音声への信頼が崩れる時：人間による音声ディープフェイク知覚の大規模研究",
+          "source": "arXiv",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-18",
+          "action": "direction_ok",
+          "added_at": "2026-06-18T23:43:34.568976+09:00"
+        },
+        {
+          "url": "https://www.technologyreview.com/2026/06/15/1138552/solid-state-acs-promise-cool-future/",
+          "title": "新しい固体冷房は涼しい未来を約束するが、科学者は懐疑的だ",
+          "source": "MIT Technology Review",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-18",
+          "action": "direction_ok",
+          "added_at": "2026-06-18T23:43:40.067658+09:00"
+        },
+        {
+          "url": "https://www.cnbc.com/2026/06/17/global-oil-demand-suppy-energy-prices-iea-inventories.html",
+          "title": "IEA、石油需要見通しを下方修正し来年の供給過剰リスクを警告",
+          "source": "CNBC",
+          "category": "経済・金融",
+          "date": "2026-06-18",
+          "action": "direction_ok",
+          "added_at": "2026-06-18T23:43:48.961146+09:00"
+        },
+        {
+          "url": "https://www.cnbc.com/2026/06/17/fed-interest-rate-decision-june-2026.html",
+          "title": "FRBは金利を据え置き、声明から利下げバイアスを外した",
+          "source": "CNBC",
+          "category": "経済・金融",
+          "date": "2026-06-18",
+          "action": "direction_ok",
+          "added_at": "2026-06-18T23:43:50.383398+09:00"
+        },
+        {
+          "url": "https://techcrunch.com/2026/06/17/collecting-robot-training-data-is-dirty-unglamorous-work-some-ai-labs-are-already-paying-xdof-to-do-it/",
+          "title": "ロボット訓練データの収集は泥くさく地味な仕事だ。すでに一部のAIラボはXDOFにその役割を任せている",
+          "source": "TechCrunch",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-18",
+          "action": "direction_ok",
+          "added_at": "2026-06-18T23:44:02.721071+09:00"
+        },
+        {
+          "url": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
+          "title": "あるスタートアップが、LLMの進化を妨げてきたボトルネックを突破したと主張",
+          "source": "MIT Technology Review",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-21",
+          "action": "direction_ok",
+          "added_at": "2026-06-21T11:48:46.915180+09:00"
+        },
+        {
+          "url": "https://www.technologyreview.com/2026/06/17/1138743/hacking-atmosphere-geoengineering-reality-check/",
+          "title": "大気をいじる試み、地球工学に現実的な検証が入る",
+          "source": "MIT Technology Review",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-21",
+          "action": "direction_ok",
+          "added_at": "2026-06-21T11:48:53.619366+09:00"
+        },
+        {
+          "url": "https://arxiv.org/abs/2606.09182",
+          "title": "企業はLLM駆動ソフトウェア工学でModel Context Protocolをどう採用するのか",
+          "source": "arXiv",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-21",
+          "action": "direction_ok",
+          "added_at": "2026-06-21T11:48:57.965323+09:00"
+        },
+        {
+          "url": "https://arxiv.org/abs/2606.03329",
+          "title": "InfoMem: 回答条件付き情報利得による長文コンテキスト記憶エージェントの学習",
+          "source": "arXiv",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-21",
+          "action": "direction_ok",
+          "added_at": "2026-06-21T11:48:59.532463+09:00"
+        },
+        {
+          "url": "https://www.theguardian.com/world/2026/jun/19/normal-shipping-will-not-resume-in-strait-of-hormuz-until-mines-cleared",
+          "title": "ホルムズ海峡の航路封鎖は約80個の機雷除去まで続く",
+          "source": "The Guardian",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-21",
+          "action": "direction_ok",
+          "added_at": "2026-06-21T11:49:03.072201+09:00"
+        },
+        {
+          "url": "https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/",
+          "title": "トランプ政権がAnthropicを締め付けると、誰が得をするのか",
+          "source": "TechCrunch",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-22",
+          "action": "direction_ok",
+          "added_at": "2026-06-22T12:09:56.504087+09:00"
+        },
+        {
+          "url": "https://arxiv.org/abs/2606.16465",
+          "title": "エージェント自動化はいつ採算に乗るのか: トレース経済アンダーライティングによる自律AIリスクの定量化と保険化",
+          "source": "arXiv",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-22",
+          "action": "direction_ok",
+          "added_at": "2026-06-22T12:24:15.263986+09:00"
+        },
+        {
+          "url": "https://arxiv.org/abs/2606.06448",
+          "title": "エージェント記憶: 状態を持つ長期タスクの特性評価とシステム上の含意",
+          "source": "arXiv",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-22",
+          "action": "direction_ok",
+          "added_at": "2026-06-22T12:55:29.007957+09:00"
+        },
+        {
+          "url": "https://www.theverge.com/tech/953285/polymarket-fake-viral-video-bets",
+          "title": "Polymarketが偽の賭け動画投稿に報酬を払っていたと報道",
+          "source": "The Verge",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-22",
+          "action": "direction_ok",
+          "added_at": "2026-06-22T12:59:02.534895+09:00"
+        },
+        {
+          "url": "https://arxiv.org/abs/2606.03771",
+          "title": "πCreds: 秘匿推論型クレデンシャル",
+          "source": "arXiv",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-22",
+          "action": "direction_ok",
+          "added_at": "2026-06-22T13:31:23.185441+09:00"
+        },
+        {
+          "url": "https://www.wired.com/story/openai-launches-full-scale-effort-to-patch-open-source-bugs-as-it-takes-on-anthropics-mythos/",
+          "title": "OpenAI、AnthropicのMythosに対抗しオープンソースの脆弱性修正を本格化",
+          "source": "WIRED",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-23",
+          "action": "direction_ok",
+          "added_at": "2026-06-23T11:22:54.226516+09:00"
+        },
+        {
+          "url": "https://techcrunch.com/2026/06/22/anthropic-says-claude-may-want-to-see-your-id/",
+          "title": "Anthropic、Claude利用者に身分証提示を求める可能性",
+          "source": "TechCrunch",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-23",
+          "action": "direction_ok",
+          "added_at": "2026-06-23T11:23:22.968178+09:00"
+        },
+        {
+          "url": "https://www.theverge.com/tech/954139/nvidia-data-centers-rubin-liquid-cooling",
+          "title": "Nvidia、AIデータセンター設計は高温運転で水使用を大幅削減できると主張",
+          "source": "The Verge",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-23",
+          "action": "direction_ok",
+          "added_at": "2026-06-23T11:25:12.936682+09:00"
+        },
+        {
+          "url": "https://www.theverge.com/entertainment/953596/google-deepmind-a24-studio-ai-partnership",
+          "title": "Google、AI映画制作ツール開発に向けA24へ出資",
+          "source": "The Verge",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-23",
+          "action": "direction_ok",
+          "added_at": "2026-06-23T11:25:43.883807+09:00"
+        },
+        {
+          "url": "https://arxiv.org/abs/2606.09090",
+          "title": "AI支援ソフトウェア開発におけるコンテキスト腐敗：AI設定アーティファクトに文書整合性研究を応用する",
+          "source": "arXiv",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-23",
+          "action": "direction_ok",
+          "added_at": "2026-06-23T11:50:47.960128+09:00"
+        },
+        {
+          "url": "https://finance.yahoo.com/technology/ai/articles/intel-ceo-gives-investors-reality-184700678.html",
+          "title": "インテルCEOが投資家に現実を突きつける",
+          "source": "Yahoo Finance",
+          "category": "経済・金融",
+          "date": "2026-06-24",
+          "action": "direction_ok",
+          "added_at": "2026-06-24T10:52:36.350412+09:00"
+        },
+        {
+          "url": "https://www.technologyreview.com/2026/06/23/1138837/asml-400-million-dollar-machine-powering-future-of-chipmaking/",
+          "title": "半導体製造の未来を支える4億ドルの装置",
+          "source": "MIT Technology Review",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-24",
+          "action": "direction_ok",
+          "added_at": "2026-06-24T10:52:41.139342+09:00"
+        },
+        {
+          "url": "https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/",
+          "title": "AnthropicのClaude、有料消費者市場でChatGPTに迫る勢い",
+          "source": "TechCrunch",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-26",
+          "action": "direction_ok",
+          "added_at": "2026-06-26T12:44:01.355404+09:00"
+        },
+        {
+          "url": "https://techcrunch.com/2026/06/25/databricks-former-ai-chief-thinks-he-can-cut-ais-power-bill-by-1000x/",
+          "title": "Databricks元AI責任者、AIの電力コストを1000分の1にできると主張",
+          "source": "TechCrunch",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-26",
+          "action": "direction_ok",
+          "added_at": "2026-06-26T12:46:23.951879+09:00"
+        },
+        {
+          "url": "https://www.cnbc.com/2026/06/27/europe-heatwave-uk-temperature-el-nino-invest.html",
+          "title": "赤色警報の熱波が欧州の新たな日常に、投資家も注目",
+          "source": "CNBC",
+          "category": "経済・金融",
+          "date": "2026-06-28",
+          "action": "direction_ok",
+          "added_at": "2026-06-28T12:14:47.341020+09:00"
+        },
+        {
+          "url": "https://www.theverge.com/report/958678/apple-consumer-price-increase-ai-big-tech",
+          "title": "なぜApple製品の値上げをBig TechのAI熱のために負担しなければならないのか",
+          "source": "The Verge",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-28",
+          "action": "direction_ok",
+          "added_at": "2026-06-28T12:16:27.890242+09:00"
+        },
+        {
+          "url": "https://nypost.com/2026/06/22/business/inside-the-quiet-insurance-racket-iran-is-running-in-the-strait-of-hormuz/",
+          "title": "イランがホルムズ海峡で進める保険利権の内幕と、西側海運を壊滅させかねない理由",
+          "source": "New York Post",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-28",
+          "action": "direction_ok",
+          "added_at": "2026-06-28T12:20:48.747134+09:00"
+        },
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/959174/openai-codex-hardware-work-louder",
+          "title": "OpenAI、Codex向け新ハードウェアを予告",
+          "source": "The Verge",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-30",
+          "action": "direction_ok",
+          "added_at": "2026-06-30T11:47:59.804233+09:00"
+        },
+        {
+          "url": "https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/",
+          "title": "Anthropic、エージェント実行を安価にするClaude Sonnet 5を投入",
+          "source": "TechCrunch",
+          "category": "AI・テクノロジー",
+          "date": "2026-07-01",
+          "action": "direction_ok",
+          "added_at": "2026-07-01T12:30:47.020664+09:00"
+        },
+        {
+          "url": "http://www3.nhk.or.jp/news/html/20260701/k10015165321000.html",
+          "title": "大企業製造業の景気判断 ＋22ポイント 5期連続の改善 日銀短観",
+          "source": "NHKニュース",
+          "category": "政治・経済",
+          "date": "2026-07-01",
+          "action": "direction_ok",
+          "added_at": "2026-07-01T12:40:40.077690+09:00"
+        },
+        {
+          "url": "https://www.wired.com/story/trump-administration-lifts-export-controls-on-anthropics-mythos-and-fable-ai-models/",
+          "title": "トランプ政権、AnthropicのMythosとFableの輸出規制を解除",
+          "source": "WIRED",
+          "category": "AI・テクノロジー",
+          "date": "2026-07-01",
+          "action": "direction_ok",
+          "added_at": "2026-07-01T12:42:46.915630+09:00"
+        },
+        {
+          "url": "https://techcrunch.com/2026/07/01/neocloud-together-ai-raises-800m-leaps-to-8-3b-valuation/",
+          "title": "AIネオクラウドのTogether AI、8億ドル調達で評価額83億ドルに急伸",
+          "source": "TechCrunch",
+          "category": "AI・テクノロジー",
+          "date": "2026-07-02",
+          "action": "direction_ok",
+          "added_at": "2026-07-02T11:23:27.799922+09:00"
+        },
+        {
+          "url": "https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash/",
+          "title": "Meta、SpaceXと同様に余剰AI計算資源の収益化を検討",
+          "source": "TechCrunch",
+          "category": "AI・テクノロジー",
+          "date": "2026-07-02",
+          "action": "direction_ok",
+          "added_at": "2026-07-02T11:24:06.691225+09:00"
+        },
+        {
+          "url": "https://www.businessinsider.com/dollar-yen-usd-japan-why-jpy-so-weak-us-treasuries-2026-7",
+          "title": "40年ぶり安値の円が米国債市場の問題になり得る",
+          "source": "Business Insider",
+          "category": "AI・テクノロジー",
+          "date": "2026-07-02",
+          "action": "direction_ok",
+          "added_at": "2026-07-02T11:27:16.985151+09:00"
+        },
+        {
+          "url": "https://apnews.com/article/boj-japan-yen-tankan-economy-inflation-5a909b80fca85adb3d53a8c899aa8c92",
+          "title": "調査で日本の企業景況感が5四半期連続で改善",
+          "source": "AP News",
+          "category": "AI・テクノロジー",
+          "date": "2026-07-02",
+          "action": "direction_ok",
+          "added_at": "2026-07-02T11:27:50.276399+09:00"
+        },
+        {
+          "url": "https://www.boj.or.jp/en/statistics/tk/yoshi/tk2606.htm",
+          "title": "短観概要（2026年6月）",
+          "source": "Bank of Japan",
+          "category": "AI・テクノロジー",
+          "date": "2026-07-02",
+          "action": "direction_ok",
+          "added_at": "2026-07-02T11:28:16.207477+09:00"
+        }
+      ],
+      "not_for_me": [
+        {
+          "url": "https://www.animenewsnetwork.com/news/2026-06-07/atlus-reveals-persona-6-game-in-new-teaser/.238253",
+          "title": "アトラスが新ティザーで『ペルソナ6』を発表（更新）",
+          "source": "Anime News Network",
+          "category": "漫画・アニメ・文化",
+          "date": "2026-06-08",
+          "action": "not_for_me",
+          "added_at": "2026-06-08T12:20:42.944666+09:00"
+        },
+        {
+          "url": "https://www.animenewsnetwork.com/news/2026-06-07/webtoon-based-live-action-series-teach-you-a-lesson-debuts-on-netflix-at-no-5-globally/.238236",
+          "title": "ウェブトゥーン原作の実写シリーズ『Teach You a Lesson』がNetflix世界5位でデビュー",
+          "source": "Anime News Network",
+          "category": "漫画・アニメ・文化",
+          "date": "2026-06-08",
+          "action": "not_for_me",
+          "added_at": "2026-06-08T12:22:00.066793+09:00"
+        },
+        {
+          "url": "https://www.animenewsnetwork.com/news/2026-06-07/sega-announces-crazy-taxi-world-tour-game-for-2027/.238254",
+          "title": "セガ、2027年発売予定の『クレイジータクシー：ワールドツアー』を発表",
+          "source": "Anime News Network",
+          "category": "漫画・アニメ・文化",
+          "date": "2026-06-08",
+          "action": "not_for_me",
+          "added_at": "2026-06-08T12:22:07.642808+09:00"
+        },
+        {
+          "url": "https://www.animenewsnetwork.com/news/2026-06-07/wo-long-2-wings-of-ember-game-announced/.238255",
+          "title": "『Wo Long 2: Wings of Ember』発表",
+          "source": "Anime News Network",
+          "category": "漫画・アニメ・文化",
+          "date": "2026-06-08",
+          "action": "not_for_me",
+          "added_at": "2026-06-08T12:22:18.604814+09:00"
+        },
+        {
+          "url": "https://www.animenewsnetwork.com/news/2026-06-07/castlevania-belmont-curse-game-announces-october-15-release-date/.238252",
+          "title": "『Castlevania: Belmont's Curse』が10月15日発売へ",
+          "source": "Anime News Network",
+          "category": "漫画・アニメ・文化",
+          "date": "2026-06-08",
+          "action": "not_for_me",
+          "added_at": "2026-06-08T12:22:20.237486+09:00"
+        },
+        {
+          "url": "https://techcrunch.com/2026/06/29/in-major-privacy-win-supreme-court-rules-geofence-warrants-are-protected-by-privacy-rights/",
+          "title": "最高裁、ジオフェンス令状にもプライバシー保護が及ぶと判断",
+          "source": "TechCrunch",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-30",
+          "action": "not_for_me",
+          "added_at": "2026-06-30T11:46:47.379948+09:00"
+        },
+        {
+          "url": "https://www.cnbc.com/2026/06/29/comcast-announces-it-will-spin-off-media-and-tech-wings-into-separate-public-companies.html",
+          "title": "コムキャスト、メディア事業を分離して新たな上場会社にする方針",
+          "source": "CNBC",
+          "category": "経済・金融",
+          "date": "2026-06-30",
+          "action": "not_for_me",
+          "added_at": "2026-06-30T11:46:49.357689+09:00"
+        }
+      ],
+      "strongly_interesting": [
+        {
+          "url": "https://techcrunch.com/2026/06/09/google-just-fired-a-warning-shot-in-the-ai-subscription-price-wars/",
+          "title": "GoogleがAIサブスク価格競争に警告弾を放った",
+          "source": "TechCrunch",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-10",
+          "action": "strongly_interesting",
+          "added_at": "2026-06-10T11:15:20.570155+09:00"
+        },
+        {
+          "url": "https://arxiv.org/abs/2605.11990",
+          "title": "流れを守る: 相関し意思決定依存型の混乱下における海上エネルギー強靭性",
+          "source": "arXiv",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-10",
+          "action": "strongly_interesting",
+          "added_at": "2026-06-10T11:31:32.264980+09:00"
+        },
+        {
+          "url": "https://arxiv.org/abs/2605.25707",
+          "title": "AgentHijack：一般的な環境劣化に対するコンピュータ利用エージェントの頑健性評価",
+          "source": "arXiv",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-14",
+          "action": "strongly_interesting",
+          "added_at": "2026-06-14T10:33:49.644783+09:00"
+        },
+        {
+          "url": "https://www.wired.com/story/china-opens-worlds-first-wind-powered-underwater-data-center/",
+          "title": "中国、世界初の風力発電式海中データセンターを稼働",
+          "source": "WIRED",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-14",
+          "action": "strongly_interesting",
+          "added_at": "2026-06-14T10:37:30.797160+09:00"
+        },
+        {
+          "url": "https://arxiv.org/abs/2605.30842",
+          "title": "CoMem: 分離型長文脈モデルによるコンテキスト管理",
+          "source": "arXiv",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-18",
+          "action": "strongly_interesting",
+          "added_at": "2026-06-18T23:38:19.287103+09:00"
+        },
+        {
+          "url": "https://techcrunch.com/2026/06/20/founders-funds-outlier-bet-on-humanely-killed-fish/",
+          "title": "Founders Fundによる人道的に魚を処理する企業への異色の投資",
+          "source": "TechCrunch",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-22",
+          "action": "strongly_interesting",
+          "added_at": "2026-06-22T12:32:16.234847+09:00"
+        },
+        {
+          "url": "https://techcrunch.com/2026/06/30/nvidia-competitor-etched-hits-5b-valuation-1b-in-sales-for-ai-chip/",
+          "title": "Nvidia競合のEtched、評価額50億ドル・AIチップ受注10億ドルに到達",
+          "source": "TechCrunch",
+          "category": "AI・テクノロジー",
+          "date": "2026-07-01",
+          "action": "strongly_interesting",
+          "added_at": "2026-07-01T14:05:25.625009+09:00"
+        }
+      ],
+      "summary_opened": [
+        {
+          "url": "https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/",
+          "title": "トランプ政権、OpenAIへの出資持分取得を検討か",
+          "source": "TechCrunch",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-07",
+          "action": "summary_opened",
+          "added_at": "2026-06-08T11:02:06.068549+09:00"
+        },
+        {
+          "url": "https://techcrunch.com/2026/06/07/is-this-the-dawn-of-the-tokenpocalypse/",
+          "title": "これはトークン終末の始まりなのか？",
+          "source": "TechCrunch",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-08",
+          "action": "summary_opened",
+          "added_at": "2026-06-08T12:15:39.094847+09:00"
+        },
+        {
+          "url": "https://techcrunch.com/2026/06/07/openai-is-still-working-on-that-super-app/",
+          "title": "OpenAIはなお「スーパーアプリ」を目指している",
+          "source": "TechCrunch",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-08",
+          "action": "summary_opened",
+          "added_at": "2026-06-08T12:16:32.683062+09:00"
+        },
+        {
+          "url": "https://techcrunch.com/2026/06/07/the-worst-hacks-and-breaches-of-2026-so-far/",
+          "title": "ハッキング、流出、身代金要求――2026年前半で最悪の侵害事例",
+          "source": "TechCrunch",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-08",
+          "action": "summary_opened",
+          "added_at": "2026-06-08T12:17:09.619436+09:00"
+        },
+        {
+          "url": "https://ca.investing.com/news/commodities-news/russias-sechin-says-us-companies-benefit-from-strait-of-hormuz-closure-4678821",
+          "title": "ロシアのセチン氏、ホルムズ海峡封鎖で米企業が利益と主張",
+          "source": "Reuters via Investing.com",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-08",
+          "action": "summary_opened",
+          "added_at": "2026-06-08T12:18:24.828133+09:00"
+        },
+        {
+          "url": "https://www.technologyreview.com/2026/06/03/1138350/virtual-power-plants-data-centers/",
+          "title": "仮想発電所はデータセンター向け電力をどう支えるのか",
+          "source": "MIT Technology Review",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-08",
+          "action": "summary_opened",
+          "added_at": "2026-06-08T12:19:07.967891+09:00"
+        },
+        {
+          "url": "https://www.technologyreview.com/2026/06/01/1138133/china-world-first-brain-chip/",
+          "title": "中国が世界初の侵襲型ブレイン・コンピューター・チップを承認、その次に来るもの",
+          "source": "MIT Technology Review",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-08",
+          "action": "summary_opened",
+          "added_at": "2026-06-08T12:19:44.753616+09:00"
+        },
+        {
+          "url": "https://hivesecurity.gitlab.io/blog/miasma-mini-shai-hulud-ai-agent-supply-chain-2026/",
+          "title": "MiasmaとMini Shai-Hulud: npmマルウェアがAIコーディングエージェントに永続化を学んだ時",
+          "source": "Hive Security",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-08",
+          "action": "summary_opened",
+          "added_at": "2026-06-08T12:20:57.180867+09:00"
+        },
+        {
+          "url": "https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/",
+          "title": "Microsoftのオープンソース開発ツールが侵害され、AI開発者のパスワード窃取に悪用",
+          "source": "TechCrunch",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-09",
+          "action": "summary_opened",
+          "added_at": "2026-06-09T11:27:17.730015+09:00"
+        },
+        {
+          "url": "https://techcrunch.com/2026/06/08/pentagon-says-alibaba-baidu-byd-and-unitree-support-chinas-military/",
+          "title": "米国防総省、Alibaba・Baidu・BYD・Unitreeを中国軍支援企業リストに追加",
+          "source": "TechCrunch",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-09",
+          "action": "summary_opened",
+          "added_at": "2026-06-09T11:27:47.987811+09:00"
+        },
+        {
+          "url": "https://www.wired.com/story/summer-travel-season-sustainable-aviation-fuel/",
+          "title": "この夏の旅行シーズンが持続可能な航空燃料の将来を大きく変えるかもしれない",
+          "source": "WIRED",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-09",
+          "action": "summary_opened",
+          "added_at": "2026-06-09T11:28:12.061782+09:00"
+        },
+        {
+          "url": "https://www.theverge.com/tech/946458/instagram-is-finally-letting-everyone-reorganize-their-grid",
+          "title": "Instagram、ついにプロフィールグリッドの並べ替えを全ユーザーに提供",
+          "source": "The Verge",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-09",
+          "action": "summary_opened",
+          "added_at": "2026-06-09T11:29:15.510223+09:00"
+        },
+        {
+          "url": "https://blog.getbind.co/claude-code-pricing-changes-june-15-what-youll-actually-pay-2026/",
+          "title": "Claude Codeの料金改定、2026年6月15日から実際にいくらかかるのか",
+          "source": "Bind AI",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-09",
+          "action": "summary_opened",
+          "added_at": "2026-06-09T11:29:30.873959+09:00"
+        },
+        {
+          "url": "https://finance.yahoo.com/news/oil-prices-rise-more-2-223106619.html",
+          "title": "イランとイスラエルが攻撃停止を表明し、原油価格は1ドル高で取引終了",
+          "source": "Reuters via Yahoo Finance",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-09",
+          "action": "summary_opened",
+          "added_at": "2026-06-09T11:30:20.313065+09:00"
+        },
+        {
+          "url": "https://arxiv.org/abs/2605.10555",
+          "title": "Agent-First Tool API――エンタープライズAIエージェント向けの意味論的インターフェースパラダイム",
+          "source": "arXiv",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-09",
+          "action": "summary_opened",
+          "added_at": "2026-06-09T11:35:04.140096+09:00"
+        },
+        {
+          "url": "https://arxiv.org/abs/2605.11487",
+          "title": "エージェント型システムのためのデジタルアイデンティティ――自律エージェント向けポータブル認可標準へ",
+          "source": "arXiv",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-09",
+          "action": "summary_opened",
+          "added_at": "2026-06-09T11:36:28.205094+09:00"
+        },
+        {
+          "url": "https://www.cnbc.com/2026/06/09/us-customs-agency-trade-judge-to-seek-path-to-final-tariff-refunds.html",
+          "title": "関税返金",
+          "source": "CNBC",
+          "category": "経済・金融",
+          "date": "2026-06-10",
+          "action": "summary_opened",
+          "added_at": "2026-06-10T11:09:45.705165+09:00"
+        },
+        {
+          "url": "https://www.cnbc.com/2026/06/09/stock-market-today-live-updates.html",
+          "title": "米国がイランに「自衛攻撃」を実施し、米株先物が下落",
+          "source": "CNBC",
+          "category": "経済・金融",
+          "date": "2026-06-10",
+          "action": "summary_opened",
+          "added_at": "2026-06-10T11:10:54.252029+09:00"
+        },
+        {
+          "url": "https://techcrunch.com/2026/06/09/google-just-fired-a-warning-shot-in-the-ai-subscription-price-wars/",
+          "title": "GoogleがAIサブスク価格競争に警告弾を放った",
+          "source": "TechCrunch",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-10",
+          "action": "summary_opened",
+          "added_at": "2026-06-10T11:11:53.385903+09:00"
+        },
+        {
+          "url": "https://techcrunch.com/2026/06/09/can-tech-companies-learn-to-love-cheaper-models/",
+          "title": "テック企業はより安いAIモデルを受け入れられるか",
+          "source": "TechCrunch",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-10",
+          "action": "summary_opened",
+          "added_at": "2026-06-10T11:15:22.154015+09:00"
+        },
+        {
+          "url": "https://arxiv.org/abs/2605.18414",
+          "title": "プロンプトでは守れない：MCPプロキシによるLLMツールアクセス制御のアーキテクチャ的強制",
+          "source": "arXiv",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-10",
+          "action": "summary_opened",
+          "added_at": "2026-06-10T11:23:30.711363+09:00"
+        },
+        {
+          "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japanese-bond-yields-mixed-as-boj-rate-hike-expectations-and-inflation-concerns-shape-sentiment/articleshow/131496201.cms",
+          "title": "世界市場: 日銀の利上げ観測とインフレ懸念で日本国債利回りはまちまち",
+          "source": "The Economic Times",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-10",
+          "action": "summary_opened",
+          "added_at": "2026-06-10T11:25:10.633510+09:00"
+        },
+        {
+          "url": "https://arxiv.org/abs/2605.11990",
+          "title": "流れを守る: 相関し意思決定依存型の混乱下における海上エネルギー強靭性",
+          "source": "arXiv",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-10",
+          "action": "summary_opened",
+          "added_at": "2026-06-10T11:27:14.279533+09:00"
+        },
+        {
+          "url": "https://arxiv.org/abs/2605.15228",
+          "title": "検証可能なエージェント基盤: 主権AIシステムに向けた証明由来の認可",
+          "source": "arXiv",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-10",
+          "action": "summary_opened",
+          "added_at": "2026-06-10T11:31:41.626993+09:00"
+        },
+        {
+          "url": "https://techcrunch.com/2026/06/11/coinbase-debuts-mcp-for-agent-trading/",
+          "title": "Coinbaseの新ツール、エージェントによる取引と有料リサーチ購入を可能に",
+          "source": "TechCrunch",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-12",
+          "action": "summary_opened",
+          "added_at": "2026-06-12T10:42:20.715443+09:00"
+        },
+        {
+          "url": "https://www.theverge.com/tech/948534/amazon-data-centers-water-use",
+          "title": "Amazonのデータセンター、昨年の水使用量は25億ガロン",
+          "source": "The Verge",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-12",
+          "action": "summary_opened",
+          "added_at": "2026-06-12T10:46:17.809980+09:00"
+        },
+        {
+          "url": "https://www.cnbc.com/2026/06/11/trump-iran-strikes-deal.html",
+          "title": "トランプ氏、イラン戦争は最終調整次第で決着と主張　数日内の署名に期待",
+          "source": "CNBC",
+          "category": "経済・金融",
+          "date": "2026-06-12",
+          "action": "summary_opened",
+          "added_at": "2026-06-12T10:47:16.217170+09:00"
+        },
+        {
+          "url": "https://techcrunch.com/2026/06/11/spacex-spv-investors-wont-know-their-true-holdings-until-post-ipo-lock-ups-lift/",
+          "title": "SpaceXのSPV投資家、IPO後のロックアップ解除まで本当の保有分が分からない可能性",
+          "source": "TechCrunch",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-12",
+          "action": "summary_opened",
+          "added_at": "2026-06-12T10:48:01.356889+09:00"
+        },
+        {
+          "url": "https://techcrunch.com/2026/06/10/xai-fired-an-engineer-who-raised-alarms-about-grok-safety-new-lawsuit-claims/",
+          "title": "xAIでGrokの安全性に警鐘を鳴らしたエンジニアが解雇されたと新たな訴訟が主張",
+          "source": "TechCrunch",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-12",
+          "action": "summary_opened",
+          "added_at": "2026-06-12T10:49:21.483302+09:00"
+        },
+        {
+          "url": "https://arxiv.org/abs/2605.26112",
+          "title": "モデルスケーリングからシステムスケーリングへ：エージェント型AIにおけるハーネス拡張",
+          "source": "arXiv",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-12",
+          "action": "summary_opened",
+          "added_at": "2026-06-12T10:50:00.283628+09:00"
+        },
+        {
+          "url": "https://arxiv.org/abs/2606.03163",
+          "title": "OpenAgenet／OAN：信頼に基づくエージェント識別と発見のための技術アーキテクチャ",
+          "source": "arXiv",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-12",
+          "action": "summary_opened",
+          "added_at": "2026-06-12T10:54:18.976263+09:00"
+        },
+        {
+          "url": "https://arxiv.org/abs/2605.17812",
+          "title": "ヘッドレス化するのか？ 垂直AI企業の境界を巡って",
+          "source": "arXiv",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-12",
+          "action": "summary_opened",
+          "added_at": "2026-06-12T10:55:46.198142+09:00"
+        },
+        {
+          "url": "https://techcrunch.com/2026/06/11/deezers-new-tool-can-identify-ai-music-from-spotify-apple-music-and-others/",
+          "title": "Deezerの新ツール、SpotifyやApple MusicなどのAI音楽を判別可能に",
+          "source": "TechCrunch",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-12",
+          "action": "summary_opened",
+          "added_at": "2026-06-12T10:57:11.085771+09:00"
+        },
+        {
+          "url": "https://techcrunch.com/2026/06/11/social-media-ban-children-countries-list/",
+          "title": "子どものSNS利用を禁止しようとしている国々",
+          "source": "TechCrunch",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-12",
+          "action": "summary_opened",
+          "added_at": "2026-06-12T10:57:23.345225+09:00"
+        },
+        {
+          "url": "https://openai.com/index/openai-to-acquire-ona/",
+          "title": "OpenAI、Onaを買収へ　Codex向けに安全な長時間実行基盤を強化",
+          "source": "OpenAI",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-13",
+          "action": "summary_opened",
+          "added_at": "2026-06-13T11:05:00.878391+09:00"
+        },
+        {
+          "url": "https://github.blog/news-insights/company-news/github-availability-report-may-2026/",
+          "title": "GitHub稼働状況レポート：2026年5月",
+          "source": "The GitHub Blog",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-13",
+          "action": "summary_opened",
+          "added_at": "2026-06-13T11:06:52.180457+09:00"
+        },
+        {
+          "url": "https://www.anthropic.com/news/dxc-anthropic-alliance",
+          "title": "DXCが銀行や航空会社など規制産業の中核システムにClaudeを統合へ",
+          "source": "Anthropic",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-13",
+          "action": "summary_opened",
+          "added_at": "2026-06-13T11:08:13.761121+09:00"
+        },
+        {
+          "url": "https://arxiv.org/abs/2605.23296",
+          "title": "長期運用LLMエージェント向け並列コンテキスト圧縮",
+          "source": "arXiv",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-13",
+          "action": "summary_opened",
+          "added_at": "2026-06-13T11:09:18.387747+09:00"
+        },
+        {
+          "url": "https://arxiv.org/abs/2605.26252",
+          "title": "エージェントメモリはデータベースか？ 長期AIエージェント記憶のためのデータ基盤再考",
+          "source": "arXiv",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-13",
+          "action": "summary_opened",
+          "added_at": "2026-06-13T11:14:00.821715+09:00"
+        },
+        {
+          "url": "https://apnews.com/article/iran-us-war-hormuz-blockade-analysis-4cd10138dcd340d0e710d85cc586e45f",
+          "title": "分析：湾岸アラブ産油国の原油が市場に届き始め、ホルムズ海峡を巡るイランの締め付けが緩む",
+          "source": "AP News",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-13",
+          "action": "summary_opened",
+          "added_at": "2026-06-13T11:15:23.617963+09:00"
+        },
+        {
+          "url": "https://www.houstonchronicle.com/business/energy/article/houston-execs-skeptical-energy-official-touts-22302474.php",
+          "title": "ホルムズ海峡を通る石油は増えているが、ヒューストンの業界幹部は懐疑的",
+          "source": "Houston Chronicle",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-13",
+          "action": "summary_opened",
+          "added_at": "2026-06-13T11:22:32.998934+09:00"
+        },
+        {
+          "url": "https://automaton-media.com/articles/reportjp/vtuber-discussion1-20260612-448634/",
+          "title": "「VTuberが産まれるまで」に立ちはだかる“依頼”の壁。VTuberの親になる覚悟と、産まれる覚悟を訊いた",
+          "source": "AUTOMATON",
+          "category": "ゲーム・エンタメ",
+          "date": "2026-06-13",
+          "action": "summary_opened",
+          "added_at": "2026-06-13T11:23:09.333720+09:00"
+        },
+        {
+          "url": "https://www.theverge.com/gadgets/949403/nothing-carl-pei-ram-phone-prices",
+          "title": "NothingのCEO、スマートフォン価格は今後も上がり続けると発言",
+          "source": "The Verge",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-13",
+          "action": "summary_opened",
+          "added_at": "2026-06-13T11:29:39.038740+09:00"
+        },
+        {
+          "url": "https://techcrunch.com/2026/06/13/the-fbi-built-its-own-replica-small-town-to-simulate-real-world-cyberattacks/",
+          "title": "FBI、現実のサイバー攻撃を再現する小規模模擬都市を整備",
+          "source": "TechCrunch",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-14",
+          "action": "summary_opened",
+          "added_at": "2026-06-14T10:21:34.851910+09:00"
+        },
+        {
+          "url": "https://finance.yahoo.com/sectors/energy/articles/fuel-tax-changes-hit-six-210000819.html",
+          "title": "エネルギーインフレ加速の中、6州で燃料税改定",
+          "source": "Yahoo Finance",
+          "category": "経済・金融",
+          "date": "2026-06-14",
+          "action": "summary_opened",
+          "added_at": "2026-06-14T10:23:15.129607+09:00"
+        },
+        {
+          "url": "https://arxiv.org/abs/2606.09426",
+          "title": "WeaveBench：ハイブリッド操作環境におけるコンピュータ利用エージェント向け長期実世界ベンチマーク",
+          "source": "arXiv",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-14",
+          "action": "summary_opened",
+          "added_at": "2026-06-14T10:24:46.656952+09:00"
+        },
+        {
+          "url": "https://www.theguardian.com/world/2026/jun/12/us-secret-mission-oil-hormuz-trump-iran-blockade",
+          "title": "米国は本当にホルムズ海峡で石油を通す秘密任務を行ったのか",
+          "source": "The Guardian",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-14",
+          "action": "summary_opened",
+          "added_at": "2026-06-14T10:34:13.635732+09:00"
+        },
+        {
+          "url": "https://www.businessinsider.com/inworld-ceo-cuts-ai-model-prices-to-aid-consumer-startups-2026-6",
+          "title": "消費者向けAIスタートアップを救うため、AI音声企業が価格を50％超引き下げ",
+          "source": "Business Insider",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-14",
+          "action": "summary_opened",
+          "added_at": "2026-06-14T10:35:42.278605+09:00"
+        },
+        {
+          "url": "https://www.wired.com/story/china-opens-worlds-first-wind-powered-underwater-data-center/",
+          "title": "中国、世界初の風力発電式海中データセンターを稼働",
+          "source": "WIRED",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-14",
+          "action": "summary_opened",
+          "added_at": "2026-06-14T10:36:41.024810+09:00"
+        },
+        {
+          "url": "https://arxiv.org/abs/2605.26508",
+          "title": "自律AIエージェント向け、時間整合的な反実仮想保険数理ランタイムの基礎",
+          "source": "arXiv",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-14",
+          "action": "summary_opened",
+          "added_at": "2026-06-14T10:37:34.108128+09:00"
+        },
+        {
+          "url": "https://www.theverge.com/tech/949648/fbi-fake-town-cyberattacks-kinetic-cyber-range",
+          "title": "FBI、サイバー攻撃を再現するための小さな町を建設",
+          "source": "The Verge",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-15",
+          "action": "summary_opened",
+          "added_at": "2026-06-15T11:23:38.643656+09:00"
+        },
+        {
+          "url": "https://www.wired.com/story/strait-of-hormuz-closed-100-days-why-arent-oil-prices-higher/",
+          "title": "ホルムズ海峡が100日閉鎖されても、なぜ原油価格はもっと上がらないのか",
+          "source": "WIRED",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-15",
+          "action": "summary_opened",
+          "added_at": "2026-06-15T11:38:52.158676+09:00"
+        },
+        {
+          "url": "https://finance.yahoo.com/sectors/energy/articles/oil-executives-send-blunt-message-200700286.html",
+          "title": "石油業界幹部、米国民にガソリン価格を巡る厳しい警告",
+          "source": "Yahoo Finance",
+          "category": "経済・金融",
+          "date": "2026-06-15",
+          "action": "summary_opened",
+          "added_at": "2026-06-15T11:39:37.830874+09:00"
+        },
+        {
+          "url": "https://arxiv.org/abs/2606.05233",
+          "title": "フロンティア級コンピュータ操作エージェントにおけるドメイン依存の安全性：793件のブラウザベンチマークとコーディング領域比較、再現性監査",
+          "source": "arXiv",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-15",
+          "action": "summary_opened",
+          "added_at": "2026-06-15T11:40:29.901985+09:00"
+        },
+        {
+          "url": "https://arxiv.org/abs/2606.12812",
+          "title": "AI音声クローン技術に脅かされる声のアイデンティティ",
+          "source": "arXiv",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-15",
+          "action": "summary_opened",
+          "added_at": "2026-06-15T11:41:22.857207+09:00"
+        },
+        {
+          "url": "https://apnews.com/article/new-york-ai-law-hochul-synthetic-performers-e433625bfb61c8abeab0d619869192ed",
+          "title": "ニューヨーク州でAI生成の合成出演者を使う広告に表示義務",
+          "source": "AP News",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-15",
+          "action": "summary_opened",
+          "added_at": "2026-06-15T11:42:08.574884+09:00"
+        },
+        {
+          "url": "https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/",
+          "title": "米政府によるAnthropicモデル禁止はAI脱獄が本質ではなかった",
+          "source": "TechCrunch",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-16",
+          "action": "summary_opened",
+          "added_at": "2026-06-16T10:59:22.973098+09:00"
+        },
+        {
+          "url": "https://techcrunch.com/2026/06/15/uk-unveils-sweeping-social-media-ban-for-users-under-16/",
+          "title": "英国、16歳未満のSNS利用を広範囲で禁止へ",
+          "source": "TechCrunch",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-16",
+          "action": "summary_opened",
+          "added_at": "2026-06-16T11:00:42.635706+09:00"
+        },
+        {
+          "url": "https://www.cnbc.com/2026/06/15/us-iran-deal-stocks-bonds-gold-oil.html",
+          "title": "世界市場、米イラン和平合意でリスク後退",
+          "source": "CNBC",
+          "category": "経済・金融",
+          "date": "2026-06-16",
+          "action": "summary_opened",
+          "added_at": "2026-06-16T11:01:22.824426+09:00"
+        },
+        {
+          "url": "https://www.cnbc.com/2026/06/15/spacex-ipo-spcx-greenshoe-overallotment.html",
+          "title": "SpaceXのIPO、グリーンシュー行使で調達額857億ドルに",
+          "source": "CNBC",
+          "category": "経済・金融",
+          "date": "2026-06-16",
+          "action": "summary_opened",
+          "added_at": "2026-06-16T11:02:24.292759+09:00"
+        },
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/949644/china-white-house-anthropic-mythos",
+          "title": "中国がMythosにアクセスした可能性",
+          "source": "The Verge",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-16",
+          "action": "summary_opened",
+          "added_at": "2026-06-16T11:02:53.899198+09:00"
+        },
+        {
+          "url": "https://www.businessinsider.com/anthropic-trump-officials-meeting-fable-export-ban-2026-6",
+          "title": "トランプ政権当局者がAnthropicと休戦に向け協議",
+          "source": "Business Insider",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-16",
+          "action": "summary_opened",
+          "added_at": "2026-06-16T11:03:31.669506+09:00"
+        },
+        {
+          "url": "https://arxiv.org/abs/2605.18747",
+          "title": "Code as Agent Harness",
+          "source": "arXiv",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-16",
+          "action": "summary_opened",
+          "added_at": "2026-06-16T11:05:53.413962+09:00"
+        },
+        {
+          "url": "https://arxiv.org/abs/2605.18565",
+          "title": "MINTEval: 長期エージェントシステムにおける多対象干渉下の記憶評価",
+          "source": "arXiv",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-16",
+          "action": "summary_opened",
+          "added_at": "2026-06-16T11:07:10.657144+09:00"
+        },
+        {
+          "url": "https://arxiv.org/abs/2606.13431",
+          "title": "適応的な迂回が海上要衝の遮断による影響を再構成する",
+          "source": "arXiv",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-16",
+          "action": "summary_opened",
+          "added_at": "2026-06-16T11:19:00.995873+09:00"
+        },
+        {
+          "url": "https://www.cnbc.com/2026/06/17/global-oil-demand-suppy-energy-prices-iea-inventories.html",
+          "title": "IEA、石油需要見通しを下方修正し来年の供給過剰リスクを警告",
+          "source": "CNBC",
+          "category": "経済・金融",
+          "date": "2026-06-18",
+          "action": "summary_opened",
+          "added_at": "2026-06-18T23:26:08.009559+09:00"
+        },
+        {
+          "url": "https://techcrunch.com/2026/06/17/collecting-robot-training-data-is-dirty-unglamorous-work-some-ai-labs-are-already-paying-xdof-to-do-it/",
+          "title": "ロボット訓練データの収集は泥くさく地味な仕事だ。すでに一部のAIラボはXDOFにその役割を任せている",
+          "source": "TechCrunch",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-18",
+          "action": "summary_opened",
+          "added_at": "2026-06-18T23:27:34.960696+09:00"
+        },
+        {
+          "url": "https://arxiv.org/abs/2605.30842",
+          "title": "CoMem: 分離型長文脈モデルによるコンテキスト管理",
+          "source": "arXiv",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-18",
+          "action": "summary_opened",
+          "added_at": "2026-06-18T23:28:16.583511+09:00"
+        },
+        {
+          "url": "https://www.technologyreview.com/2026/06/17/1138600/entrepreneurs-nairobi-case-for-going-solar/",
+          "title": "ナイロビの起業家たちが太陽光発電の有効性を示す",
+          "source": "MIT Technology Review",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-18",
+          "action": "summary_opened",
+          "added_at": "2026-06-18T23:39:14.029211+09:00"
+        },
+        {
+          "url": "https://www.technologyreview.com/2026/06/15/1138552/solid-state-acs-promise-cool-future/",
+          "title": "新しい固体冷房は涼しい未来を約束するが、科学者は懐疑的だ",
+          "source": "MIT Technology Review",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-18",
+          "action": "summary_opened",
+          "added_at": "2026-06-18T23:39:50.923592+09:00"
+        },
+        {
+          "url": "https://www.vanityfair.com/story/as-deep-as-the-grave-val-kilmer-ai-movie",
+          "title": "ヴァル・キルマーをAIで蘇らせる映画人たちが、AIによる死者搾取への不安に答える",
+          "source": "Vanity Fair",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-18",
+          "action": "summary_opened",
+          "added_at": "2026-06-18T23:41:00.510526+09:00"
+        },
+        {
+          "url": "https://arxiv.org/abs/2605.26136",
+          "title": "本物の音声への信頼が崩れる時：人間による音声ディープフェイク知覚の大規模研究",
+          "source": "arXiv",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-18",
+          "action": "summary_opened",
+          "added_at": "2026-06-18T23:42:35.654678+09:00"
+        },
+        {
+          "url": "https://arxiv.org/abs/2606.17383",
+          "title": "エージェントAIシステムのモデル検証: 信念状態・予測・方策を検証するPOMDPベースの枠組み",
+          "source": "arXiv",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-18",
+          "action": "summary_opened",
+          "added_at": "2026-06-18T23:46:16.995505+09:00"
+        },
+        {
+          "url": "https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo/",
+          "title": "OpenAI、IPOを前に大物人材を相次ぎ起用",
+          "source": "TechCrunch",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-19",
+          "action": "summary_opened",
+          "added_at": "2026-06-19T10:49:24.454761+09:00"
+        },
+        {
+          "url": "https://www.theguardian.com/business/2026/mar/20/risk-london-shipping-industry-iran-war-lloyds-of-london-premiums",
+          "title": "ホルムズ海峡の船舶往来が戦前水準に戻る前に必要な二つの条件",
+          "source": "Web Search",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-19",
+          "action": "summary_opened",
+          "added_at": "2026-06-19T10:51:45.278729+09:00"
+        },
+        {
+          "url": "https://techcrunch.com/2026/06/18/the-smartphone-era-created-an-attention-crisis-slowtech-is-fixing-it/",
+          "title": "スマホ時代が生んだ注意力危機を、スローテックが修復し始めている",
+          "source": "TechCrunch",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-19",
+          "action": "summary_opened",
+          "added_at": "2026-06-19T10:52:07.987963+09:00"
+        },
+        {
+          "url": "https://www.wired.com/story/anthropic-mythos-export-controls-ai-regulations/",
+          "title": "ホワイトハウスはAI規制のルールをその場で作っている",
+          "source": "WIRED",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-19",
+          "action": "summary_opened",
+          "added_at": "2026-06-19T10:53:06.162004+09:00"
+        },
+        {
+          "url": "https://www.theverge.com/gadgets/944084/best-early-prime-day-deals",
+          "title": "いま出ているAmazonプライムデー先行セールのおすすめ",
+          "source": "The Verge",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-19",
+          "action": "summary_opened",
+          "added_at": "2026-06-19T10:53:34.505546+09:00"
+        },
+        {
+          "url": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
+          "title": "あるスタートアップが、LLMの進化を妨げてきたボトルネックを突破したと主張",
+          "source": "MIT Technology Review",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-21",
+          "action": "summary_opened",
+          "added_at": "2026-06-21T11:40:23.870689+09:00"
+        },
+        {
+          "url": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
+          "title": "Signalのメレディス・ウィテカー、AIチャットボットは友達ではないと警告",
+          "source": "TechCrunch",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-21",
+          "action": "summary_opened",
+          "added_at": "2026-06-21T11:42:13.505672+09:00"
+        },
+        {
+          "url": "https://www.technologyreview.com/2026/06/17/1138743/hacking-atmosphere-geoengineering-reality-check/",
+          "title": "大気をいじる試み、地球工学に現実的な検証が入る",
+          "source": "MIT Technology Review",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-21",
+          "action": "summary_opened",
+          "added_at": "2026-06-21T11:42:54.680765+09:00"
+        },
+        {
+          "url": "https://www.theguardian.com/world/2026/jun/19/normal-shipping-will-not-resume-in-strait-of-hormuz-until-mines-cleared",
+          "title": "ホルムズ海峡の航路封鎖は約80個の機雷除去まで続く",
+          "source": "The Guardian",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-21",
+          "action": "summary_opened",
+          "added_at": "2026-06-21T11:43:57.392836+09:00"
+        },
+        {
+          "url": "https://www.theguardian.com/technology/2026/jun/16/pennsylvania-datacenters-debate-politicians",
+          "title": "米国のデータセンター争奪戦がこの州の政治をかき乱す: 住民は受け入れを拒否",
+          "source": "The Guardian",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-21",
+          "action": "summary_opened",
+          "added_at": "2026-06-21T11:45:08.784101+09:00"
+        },
+        {
+          "url": "https://arxiv.org/abs/2606.09182",
+          "title": "企業はLLM駆動ソフトウェア工学でModel Context Protocolをどう採用するのか",
+          "source": "arXiv",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-21",
+          "action": "summary_opened",
+          "added_at": "2026-06-21T11:45:46.802412+09:00"
+        },
+        {
+          "url": "https://arxiv.org/abs/2606.03329",
+          "title": "InfoMem: 回答条件付き情報利得による長文コンテキスト記憶エージェントの学習",
+          "source": "arXiv",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-21",
+          "action": "summary_opened",
+          "added_at": "2026-06-21T11:47:46.761466+09:00"
+        },
+        {
+          "url": "https://www.jpx.co.jp/english/equities/follow-up/02.html",
+          "title": "資本コストと株価を意識した経営の実現に向けた対応（プライム市場・スタンダード市場）",
+          "source": "Japan Exchange Group",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-21",
+          "action": "summary_opened",
+          "added_at": "2026-06-21T11:49:07.022439+09:00"
+        },
+        {
+          "url": "https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/",
+          "title": "トランプ政権がAnthropicを締め付けると、誰が得をするのか",
+          "source": "TechCrunch",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-22",
+          "action": "summary_opened",
+          "added_at": "2026-06-22T12:08:51.433555+09:00"
+        },
+        {
+          "url": "https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/",
+          "title": "Siriの先へ: iOS 27でiPhoneに来る実用AI機能",
+          "source": "TechCrunch",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-22",
+          "action": "summary_opened",
+          "added_at": "2026-06-22T12:09:16.597748+09:00"
+        },
+        {
+          "url": "https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/",
+          "title": "In the Weights、AI時代の新しい自己検索",
+          "source": "TechCrunch",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-22",
+          "action": "summary_opened",
+          "added_at": "2026-06-22T12:10:08.424669+09:00"
+        },
+        {
+          "url": "https://arxiv.org/abs/2606.16465",
+          "title": "エージェント自動化はいつ採算に乗るのか: トレース経済アンダーライティングによる自律AIリスクの定量化と保険化",
+          "source": "arXiv",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-22",
+          "action": "summary_opened",
+          "added_at": "2026-06-22T12:12:14.857569+09:00"
+        },
+        {
+          "url": "https://techcrunch.com/2026/06/20/founders-funds-outlier-bet-on-humanely-killed-fish/",
+          "title": "Founders Fundによる人道的に魚を処理する企業への異色の投資",
+          "source": "TechCrunch",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-22",
+          "action": "summary_opened",
+          "added_at": "2026-06-22T12:25:14.183545+09:00"
+        },
+        {
+          "url": "https://www.techradar.com/pro/intelligence-in-motion-the-next-logical-step-in-the-agentic-ai-journey",
+          "title": "Intelligence-in-Motionはエージェント型AIの次に来る論理的な一歩",
+          "source": "TechRadar Pro",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-22",
+          "action": "summary_opened",
+          "added_at": "2026-06-22T12:55:31.046131+09:00"
+        },
+        {
+          "url": "https://www.theverge.com/tech/953285/polymarket-fake-viral-video-bets",
+          "title": "Polymarketが偽の賭け動画投稿に報酬を払っていたと報道",
+          "source": "The Verge",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-22",
+          "action": "summary_opened",
+          "added_at": "2026-06-22T12:57:58.445869+09:00"
+        },
+        {
+          "url": "https://arxiv.org/abs/2605.29868",
+          "title": "Ciphera: 分散型生体認証アイデンティティ基盤",
+          "source": "arXiv",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-22",
+          "action": "summary_opened",
+          "added_at": "2026-06-22T12:59:24.202892+09:00"
+        },
+        {
+          "url": "https://arxiv.org/abs/2606.03771",
+          "title": "πCreds: 秘匿推論型クレデンシャル",
+          "source": "arXiv",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-22",
+          "action": "summary_opened",
+          "added_at": "2026-06-22T13:00:35.785163+09:00"
+        },
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/953183/the-atlantic-searchable-database-music-ai-training-data",
+          "title": "The AtlanticがAI学習用の音楽データベースを検索可能に公開",
+          "source": "The Verge",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-22",
+          "action": "summary_opened",
+          "added_at": "2026-06-22T13:31:46.569404+09:00"
+        },
+        {
+          "url": "https://www.theverge.com/column/950975/electric-air-taxis-lawsuits",
+          "title": "電動エアタクシーは法廷で足止めされている",
+          "source": "The Verge",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-22",
+          "action": "summary_opened",
+          "added_at": "2026-06-22T13:32:00.257191+09:00"
+        },
+        {
+          "url": "https://www.wired.com/story/siri-ai-hands-on-iphone/",
+          "title": "Siri AIにサンフランシスコを案内してもらった",
+          "source": "WIRED",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-22",
+          "action": "summary_opened",
+          "added_at": "2026-06-22T13:33:35.245931+09:00"
+        },
+        {
+          "url": "https://techcrunch.com/2026/06/20/every-new-ios-27-feature-thats-worth-knowing-about/",
+          "title": "知っておくべきiOS 27の注目新機能",
+          "source": "TechCrunch",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-22",
+          "action": "summary_opened",
+          "added_at": "2026-06-22T13:34:09.908879+09:00"
+        },
+        {
+          "url": "https://www.cnbc.com/2026/06/23/china-tech-crackdown-antitrust-tripcom-meituan-food-delivery-anti-involution-deflation-.html",
+          "title": "北京が再び幹部を呼び出し、それでも2021年ほど警戒されない理由",
+          "source": "CNBC",
+          "category": "経済・金融",
+          "date": "2026-06-23",
+          "action": "summary_opened",
+          "added_at": "2026-06-23T11:21:28.097613+09:00"
+        },
+        {
+          "url": "https://www.wired.com/story/openai-launches-full-scale-effort-to-patch-open-source-bugs-as-it-takes-on-anthropics-mythos/",
+          "title": "OpenAI、AnthropicのMythosに対抗しオープンソースの脆弱性修正を本格化",
+          "source": "WIRED",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-23",
+          "action": "summary_opened",
+          "added_at": "2026-06-23T11:22:06.265319+09:00"
+        },
+        {
+          "url": "https://techcrunch.com/2026/06/22/anthropic-says-claude-may-want-to-see-your-id/",
+          "title": "Anthropic、Claude利用者に身分証提示を求める可能性",
+          "source": "TechCrunch",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-23",
+          "action": "summary_opened",
+          "added_at": "2026-06-23T11:22:56.802144+09:00"
+        },
+        {
+          "url": "https://www.theverge.com/tech/954139/nvidia-data-centers-rubin-liquid-cooling",
+          "title": "Nvidia、AIデータセンター設計は高温運転で水使用を大幅削減できると主張",
+          "source": "The Verge",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-23",
+          "action": "summary_opened",
+          "added_at": "2026-06-23T11:24:41.074838+09:00"
+        },
+        {
+          "url": "https://www.theverge.com/entertainment/953596/google-deepmind-a24-studio-ai-partnership",
+          "title": "Google、AI映画制作ツール開発に向けA24へ出資",
+          "source": "The Verge",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-23",
+          "action": "summary_opened",
+          "added_at": "2026-06-23T11:25:16.792620+09:00"
+        },
+        {
+          "url": "https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/",
+          "title": "Anthropicと米政府の新たな対立で注視すべき3点",
+          "source": "MIT Technology Review",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-23",
+          "action": "summary_opened",
+          "added_at": "2026-06-23T11:25:45.592803+09:00"
+        },
+        {
+          "url": "https://www.technologyreview.com/2026/06/19/1138778/inevitable-weakness-metrics-quantified-life-book-review/",
+          "title": "メトリクスが避けられない弱さ",
+          "source": "MIT Technology Review",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-23",
+          "action": "summary_opened",
+          "added_at": "2026-06-23T11:26:09.879822+09:00"
+        },
+        {
+          "url": "https://techcrunch.com/2026/06/22/a-new-unpatchable-flaw-in-apple-chips-opens-the-door-to-an-iphone-jailbreak/",
+          "title": "修正不能な新たなAppleチップの欠陥がiPhone脱獄への道を開く",
+          "source": "TechCrunch",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-23",
+          "action": "summary_opened",
+          "added_at": "2026-06-23T11:27:54.447855+09:00"
+        },
+        {
+          "url": "https://www.technologyreview.com/2026/06/19/1139270/brain-computer-interface-trials-are-taking-off/",
+          "title": "ブレイン・コンピューター・インターフェースの治験が加速している",
+          "source": "MIT Technology Review",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-23",
+          "action": "summary_opened",
+          "added_at": "2026-06-23T11:28:40.782506+09:00"
+        },
+        {
+          "url": "https://www.technologyreview.com/2026/06/22/1138821/inside-worlds-deepest-longest-subsea-road-tunnel/",
+          "title": "世界最深・最長の海底道路トンネルの内部",
+          "source": "MIT Technology Review",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-23",
+          "action": "summary_opened",
+          "added_at": "2026-06-23T11:29:57.833019+09:00"
+        },
+        {
+          "url": "https://arxiv.org/abs/2605.25707",
+          "title": "AgentHijack：一般的な環境乱れに対するコンピュータ操作エージェントの頑健性ベンチマーク",
+          "source": "arXiv",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-23",
+          "action": "summary_opened",
+          "added_at": "2026-06-23T11:30:34.144470+09:00"
+        },
+        {
+          "url": "https://arxiv.org/abs/2606.09090",
+          "title": "AI支援ソフトウェア開発におけるコンテキスト腐敗：AI設定アーティファクトに文書整合性研究を応用する",
+          "source": "arXiv",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-23",
+          "action": "summary_opened",
+          "added_at": "2026-06-23T11:37:57.874400+09:00"
+        },
+        {
+          "url": "https://arxiv.org/abs/2606.19116",
+          "title": "エージェントファーストなWebへ：AIエージェントのためにWebを再設計する",
+          "source": "arXiv",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-23",
+          "action": "summary_opened",
+          "added_at": "2026-06-23T11:44:52.670919+09:00"
+        },
+        {
+          "url": "https://www.technologyreview.com/2026/06/23/1138837/asml-400-million-dollar-machine-powering-future-of-chipmaking/",
+          "title": "半導体製造の未来を支える4億ドルの装置",
+          "source": "MIT Technology Review",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-24",
+          "action": "summary_opened",
+          "added_at": "2026-06-24T10:50:58.035410+09:00"
+        },
+        {
+          "url": "https://finance.yahoo.com/technology/ai/articles/intel-ceo-gives-investors-reality-184700678.html",
+          "title": "インテルCEOが投資家に現実を突きつける",
+          "source": "Yahoo Finance",
+          "category": "経済・金融",
+          "date": "2026-06-24",
+          "action": "summary_opened",
+          "added_at": "2026-06-24T10:51:55.314125+09:00"
+        },
+        {
+          "url": "https://finance.yahoo.com/energy/articles/chubb-ceo-flags-threat-disrupting-200700323.html",
+          "title": "チャブCEO、世界の石油供給を乱す脅威に警鐘",
+          "source": "Yahoo Finance",
+          "category": "経済・金融",
+          "date": "2026-06-24",
+          "action": "summary_opened",
+          "added_at": "2026-06-24T10:53:07.846148+09:00"
+        },
+        {
+          "url": "https://www.theverge.com/podcast/952607/patreon-ceo-jack-conte",
+          "title": "PatreonのCEOジャック・コンテ、AIスロップ時代にアーティストをどう支えるかを語る",
+          "source": "The Verge",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-24",
+          "action": "summary_opened",
+          "added_at": "2026-06-24T10:54:23.787657+09:00"
+        },
+        {
+          "url": "https://www.techradar.com/pro/security/a-newbie-hacker-used-vague-low-skill-prompts-in-claude-and-codex-to-breach-14-companies-and-the-ai-agents-did-all-the-legwork",
+          "title": "初心者ハッカーがClaudeとCodexに曖昧で低スキルな指示を出し、14社を侵害。実務の大半はAIエージェントが実行",
+          "source": "TechRadar",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-24",
+          "action": "summary_opened",
+          "added_at": "2026-06-24T10:55:05.236405+09:00"
+        },
+        {
+          "url": "https://arxiv.org/abs/2606.23189",
+          "title": "有能だが不注意: コンピュータ操作エージェントはコンテクスト整合性を守れるのか",
+          "source": "arXiv",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-24",
+          "action": "summary_opened",
+          "added_at": "2026-06-24T10:57:13.180939+09:00"
+        },
+        {
+          "url": "https://arxiv.org/abs/2606.08867",
+          "title": "1億ユーザー規模で顧客サポートAIエージェントを構築するための評価駆動フレームワーク",
+          "source": "arXiv",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-24",
+          "action": "summary_opened",
+          "added_at": "2026-06-24T10:58:04.036474+09:00"
+        },
+        {
+          "url": "https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/",
+          "title": "AnthropicのClaude、有料消費者市場でChatGPTに迫る勢い",
+          "source": "TechCrunch",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-26",
+          "action": "summary_opened",
+          "added_at": "2026-06-26T12:42:59.651968+09:00"
+        },
+        {
+          "url": "https://techcrunch.com/2026/06/25/cellebrite-said-it-cut-off-russia-but-russia-used-is-tools-anyway/",
+          "title": "Cellebriteはロシア遮断を主張したが、ロシア側はその後も同社ツールを使用していた",
+          "source": "TechCrunch",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-26",
+          "action": "summary_opened",
+          "added_at": "2026-06-26T12:44:14.434783+09:00"
+        },
+        {
+          "url": "https://www.technologyreview.com/2026/06/25/1139690/europe-heat-wave-grid/",
+          "title": "欧州の熱波は電力網に何を意味するのか",
+          "source": "MIT Technology Review",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-26",
+          "action": "summary_opened",
+          "added_at": "2026-06-26T12:44:44.365595+09:00"
+        },
+        {
+          "url": "https://techcrunch.com/2026/06/25/databricks-former-ai-chief-thinks-he-can-cut-ais-power-bill-by-1000x/",
+          "title": "Databricks元AI責任者、AIの電力コストを1000分の1にできると主張",
+          "source": "TechCrunch",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-26",
+          "action": "summary_opened",
+          "added_at": "2026-06-26T12:45:33.711763+09:00"
+        },
+        {
+          "url": "https://arxiv.org/abs/2605.29082",
+          "title": "安全な自律エージェントにおける帯域外メタデータの重要性：Redpanda Agentic Data Plane",
+          "source": "arXiv",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-26",
+          "action": "summary_opened",
+          "added_at": "2026-06-26T12:46:26.748599+09:00"
+        },
+        {
+          "url": "https://www.theverge.com/tech/958707/apple-ram-buy-memory-blacklisted-china-cxmt",
+          "title": "Apple、ブラックリスト入りした中国メモリ供給元からの調達許可を求める",
+          "source": "The Verge",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-28",
+          "action": "summary_opened",
+          "added_at": "2026-06-28T12:12:28.149491+09:00"
+        },
+        {
+          "url": "https://www.cnbc.com/2026/06/27/tanker-struck-in-strait-of-hormuz-as-us-iran-tensions-escalate.html",
+          "title": "ホルムズ海峡で商業タンカー被弾後、米軍がイラン目標を攻撃",
+          "source": "CNBC",
+          "category": "経済・金融",
+          "date": "2026-06-28",
+          "action": "summary_opened",
+          "added_at": "2026-06-28T12:12:57.149851+09:00"
+        },
+        {
+          "url": "https://www.cnbc.com/2026/06/27/europe-heatwave-uk-temperature-el-nino-invest.html",
+          "title": "赤色警報の熱波が欧州の新たな日常に、投資家も注目",
+          "source": "CNBC",
+          "category": "経済・金融",
+          "date": "2026-06-28",
+          "action": "summary_opened",
+          "added_at": "2026-06-28T12:13:58.697718+09:00"
+        },
+        {
+          "url": "https://www.theverge.com/report/958678/apple-consumer-price-increase-ai-big-tech",
+          "title": "なぜApple製品の値上げをBig TechのAI熱のために負担しなければならないのか",
+          "source": "The Verge",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-28",
+          "action": "summary_opened",
+          "added_at": "2026-06-28T12:15:00.893424+09:00"
+        },
+        {
+          "url": "https://www.businessinsider.com/amazon-raises-ai-cloud-prices-memory-chip-costs-soar-2026-6",
+          "title": "Amazon、主要AIクラウドサービスを値上げ",
+          "source": "Business Insider",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-28",
+          "action": "summary_opened",
+          "added_at": "2026-06-28T12:16:29.690135+09:00"
+        },
+        {
+          "url": "https://www.techradar.com/pro/security/this-macos-malware-can-avoid-ai-analysis-with-gaslighting-prompts-hidden-inside-its-architecture",
+          "title": "このmacOSマルウェアは、内部に隠したガスライティング用プロンプトでAI解析を回避できる",
+          "source": "TechRadar",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-28",
+          "action": "summary_opened",
+          "added_at": "2026-06-28T12:18:26.269452+09:00"
+        },
+        {
+          "url": "https://nypost.com/2026/06/22/business/inside-the-quiet-insurance-racket-iran-is-running-in-the-strait-of-hormuz/",
+          "title": "イランがホルムズ海峡で進める保険利権の内幕と、西側海運を壊滅させかねない理由",
+          "source": "New York Post",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-28",
+          "action": "summary_opened",
+          "added_at": "2026-06-28T12:19:45.036820+09:00"
+        },
+        {
+          "url": "https://www.cnbc.com/2026/06/27/the-ai-trade-cooled-and-oil-sank-a-closer-look-at-wall-streets-volatile-week.html",
+          "title": "AIトレードは冷え込み、原油は下落　ウォール街の激しい1週間を読み解く",
+          "source": "CNBC",
+          "category": "経済・金融",
+          "date": "2026-06-28",
+          "action": "summary_opened",
+          "added_at": "2026-06-28T12:31:50.554420+09:00"
+        },
+        {
+          "url": "https://www.wired.com/story/openai-gpt-56-model-release-trump-admin-approval/",
+          "title": "OpenAIに新AIモデルはあるのに、なぜ使えないのか",
+          "source": "WIRED",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-28",
+          "action": "summary_opened",
+          "added_at": "2026-06-28T12:32:24.555600+09:00"
+        },
+        {
+          "url": "https://www.techradar.com/pro/phishing-the-agent-why-ai-guardrails-arent-enough",
+          "title": "エージェントをフィッシングする時代：AIガードレールだけでは不十分な理由",
+          "source": "TechRadar",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-28",
+          "action": "summary_opened",
+          "added_at": "2026-06-28T12:44:09.054721+09:00"
+        },
+        {
+          "url": "https://arxiv.org/abs/2606.09692",
+          "title": "エージェント型AIシステムにおける委任実行の可観測性",
+          "source": "arXiv",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-28",
+          "action": "summary_opened",
+          "added_at": "2026-06-28T12:45:03.178979+09:00"
+        },
+        {
+          "url": "https://techcrunch.com/2026/06/29/trump-administration-threatens-92-gw-of-new-electricity-supply-with-red-tape/",
+          "title": "トランプ政権の許認可手続き強化が新規電力供給92GWを脅かす",
+          "source": "TechCrunch",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-30",
+          "action": "summary_opened",
+          "added_at": "2026-06-30T11:44:50.972877+09:00"
+        },
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/959174/openai-codex-hardware-work-louder",
+          "title": "OpenAI、Codex向け新ハードウェアを予告",
+          "source": "The Verge",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-30",
+          "action": "summary_opened",
+          "added_at": "2026-06-30T11:47:22.709141+09:00"
+        },
+        {
+          "url": "https://www.cnbc.com/2026/06/29/ai-data-centers-heatwave-climate-risk-weather.html",
+          "title": "AIと熱波",
+          "source": "CNBC",
+          "category": "経済・金融",
+          "date": "2026-06-30",
+          "action": "summary_opened",
+          "added_at": "2026-06-30T11:48:01.319932+09:00"
+        },
+        {
+          "url": "https://www.animenewsnetwork.com/news/2026-06-29/japanese-govt-to-consider-providing-subsidies-for-ai-translation-overseas-sales-generation-to-/.239030",
+          "title": "日本政府、集英社やCrunchyroll級企業へのAI翻訳・海外売上拡大補助を検討",
+          "source": "Anime News Network",
+          "category": "漫画・アニメ・文化",
+          "date": "2026-06-30",
+          "action": "summary_opened",
+          "added_at": "2026-06-30T11:50:02.048609+09:00"
+        },
+        {
+          "url": "https://www.cnbc.com/2026/06/29/spacex-debt-diversification-equity-bond-investors-analysts.html",
+          "title": "SpaceXの社債発行",
+          "source": "CNBC",
+          "category": "経済・金融",
+          "date": "2026-06-30",
+          "action": "summary_opened",
+          "added_at": "2026-06-30T11:50:30.575566+09:00"
+        },
+        {
+          "url": "https://www.cnbc.com/2026/06/29/cnbcs-the-china-connection-newsletter-us-tech-rivalry-heats-up.html",
+          "title": "CNBC中国コネクション: 米中テック競争は第三国で激化",
+          "source": "CNBC",
+          "category": "経済・金融",
+          "date": "2026-06-30",
+          "action": "summary_opened",
+          "added_at": "2026-06-30T11:51:13.753999+09:00"
+        },
+        {
+          "url": "https://www.technologyreview.com/2026/06/29/1139849/ai-agents-are-not-your-coworkers/",
+          "title": "AIエージェントはあなたの「同僚」ではない",
+          "source": "MIT Technology Review",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-30",
+          "action": "summary_opened",
+          "added_at": "2026-06-30T11:51:58.865708+09:00"
+        },
+        {
+          "url": "https://arxiv.org/abs/2606.06448",
+          "title": "エージェント記憶：状態を持つ長期タスクの特性評価とシステム上の含意",
+          "source": "arXiv",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-30",
+          "action": "summary_opened",
+          "added_at": "2026-06-30T11:52:39.460631+09:00"
+        },
+        {
+          "url": "https://arxiv.org/abs/2606.07828",
+          "title": "Jas：AIペアド・エンジニアリングはNバージョンプログラミングの復活か",
+          "source": "arXiv",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-30",
+          "action": "summary_opened",
+          "added_at": "2026-06-30T12:00:50.275453+09:00"
+        },
+        {
+          "url": "https://www.cnbc.com/2026/07/01/china-ai-cyberattacks-startups-insider-risks-espionage.html",
+          "title": "米中AI競争の激化で、中国系アクターの標的は技術以外にも拡大",
+          "source": "CNBC",
+          "category": "経済・金融",
+          "date": "2026-07-01",
+          "action": "summary_opened",
+          "added_at": "2026-07-01T12:30:51.308151+09:00"
+        },
+        {
+          "url": "http://www3.nhk.or.jp/news/html/20260701/k10015165321000.html",
+          "title": "大企業製造業の景気判断 ＋22ポイント 5期連続の改善 日銀短観",
+          "source": "NHKニュース",
+          "category": "政治・経済",
+          "date": "2026-07-01",
+          "action": "summary_opened",
+          "added_at": "2026-07-01T12:32:39.886216+09:00"
+        },
+        {
+          "url": "https://www.cnbc.com/2026/07/01/-china-korea-hong-kong-and-india-struggle-to-create-mega-ipos.html",
+          "title": "アジアはなぜSpaceX級の巨大IPOを自前で生み出せないのか",
+          "source": "CNBC",
+          "category": "経済・金融",
+          "date": "2026-07-01",
+          "action": "summary_opened",
+          "added_at": "2026-07-01T12:40:41.504650+09:00"
+        },
+        {
+          "url": "https://www.wired.com/story/trump-administration-lifts-export-controls-on-anthropics-mythos-and-fable-ai-models/",
+          "title": "トランプ政権、AnthropicのMythosとFableの輸出規制を解除",
+          "source": "WIRED",
+          "category": "AI・テクノロジー",
+          "date": "2026-07-01",
+          "action": "summary_opened",
+          "added_at": "2026-07-01T12:42:04.119841+09:00"
+        },
+        {
+          "url": "https://techcrunch.com/2026/06/30/anthropics-claude-science-bets-on-workflow-not-a-new-model-to-win-over-scientists/",
+          "title": "AnthropicのClaude Science、勝負は新モデルではなく研究ワークフロー",
+          "source": "TechCrunch",
+          "category": "AI・テクノロジー",
+          "date": "2026-07-01",
+          "action": "summary_opened",
+          "added_at": "2026-07-01T12:42:48.768107+09:00"
+        },
+        {
+          "url": "https://techcrunch.com/2026/06/30/nvidia-competitor-etched-hits-5b-valuation-1b-in-sales-for-ai-chip/",
+          "title": "Nvidia競合のEtched、評価額50億ドル・AIチップ受注10億ドルに到達",
+          "source": "TechCrunch",
+          "category": "AI・テクノロジー",
+          "date": "2026-07-01",
+          "action": "summary_opened",
+          "added_at": "2026-07-01T12:44:09.470336+09:00"
+        },
+        {
+          "url": "https://www.itpro.com/technology/artificial-intelligence/what-were-seeing-right-now-is-just-rapid-escalation-in-ai-token-spend-accenture-tells-staff-to-stop-using-ai-for-unnecessary-tasks-amid-surging-costs",
+          "title": "アクセンチュア、急増するAIトークン費用を受け不要業務での利用停止を指示",
+          "source": "IT Pro",
+          "category": "AI・テクノロジー",
+          "date": "2026-07-01",
+          "action": "summary_opened",
+          "added_at": "2026-07-01T14:06:16.279320+09:00"
+        },
+        {
+          "url": "https://straitofhormuz.theasiagroup.com/",
+          "title": "安全な避難先はない: ホルムズ海峡混乱にさらされ続けるアジア",
+          "source": "The Asia Group",
+          "category": "AI・テクノロジー",
+          "date": "2026-07-01",
+          "action": "summary_opened",
+          "added_at": "2026-07-01T14:06:43.709575+09:00"
+        },
+        {
+          "url": "https://arxiv.org/abs/2606.04056",
+          "title": "Token Budgets: 63件のLLMエージェント予算超過事故の実証カタログと、Affine型Rustによる対策事例",
+          "source": "arXiv",
+          "category": "AI・テクノロジー",
+          "date": "2026-07-01",
+          "action": "summary_opened",
+          "added_at": "2026-07-01T14:07:55.405571+09:00"
+        },
+        {
+          "url": "https://www.vox.com/culture/492604/ai-deepfake-gay-influencers-tiktok-thirst-traps",
+          "title": "なぜゲイ男性たちはAIのセクシー釣り投稿に引っかかるのか",
+          "source": "Vox",
+          "category": "AI・テクノロジー",
+          "date": "2026-07-01",
+          "action": "summary_opened",
+          "added_at": "2026-07-01T14:09:37.246939+09:00"
+        },
+        {
+          "url": "https://techcrunch.com/2026/07/01/neocloud-together-ai-raises-800m-leaps-to-8-3b-valuation/",
+          "title": "AIネオクラウドのTogether AI、8億ドル調達で評価額83億ドルに急伸",
+          "source": "TechCrunch",
+          "category": "AI・テクノロジー",
+          "date": "2026-07-02",
+          "action": "summary_opened",
+          "added_at": "2026-07-02T10:57:07.957440+09:00"
+        },
+        {
+          "url": "https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash/",
+          "title": "Meta、SpaceXと同様に余剰AI計算資源の収益化を検討",
+          "source": "TechCrunch",
+          "category": "AI・テクノロジー",
+          "date": "2026-07-02",
+          "action": "summary_opened",
+          "added_at": "2026-07-02T11:23:29.896157+09:00"
+        },
+        {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/defense-stocks-rally-aerovironment-delivers-123423670.html",
+          "title": "AeroVironmentの過去最高決算を受け、防衛関連株が上昇",
+          "source": "Yahoo Finance",
+          "category": "経済・金融",
+          "date": "2026-07-02",
+          "action": "summary_opened",
+          "added_at": "2026-07-02T11:24:37.344014+09:00"
+        },
+        {
+          "url": "https://www.theguardian.com/world/2026/jun/30/china-clear-winner-trump-war-middle-east-report-iran-strait-of-hormuz",
+          "title": "トランプの中東戦争で中国が明確な勝者に、との報告",
+          "source": "The Guardian",
+          "category": "AI・テクノロジー",
+          "date": "2026-07-02",
+          "action": "summary_opened",
+          "added_at": "2026-07-02T11:25:23.242859+09:00"
+        },
+        {
+          "url": "https://www.businessinsider.com/dollar-yen-usd-japan-why-jpy-so-weak-us-treasuries-2026-7",
+          "title": "40年ぶり安値の円が米国債市場の問題になり得る",
+          "source": "Business Insider",
+          "category": "AI・テクノロジー",
+          "date": "2026-07-02",
+          "action": "summary_opened",
+          "added_at": "2026-07-02T11:26:32.013399+09:00"
+        },
+        {
+          "url": "https://apnews.com/article/boj-japan-yen-tankan-economy-inflation-5a909b80fca85adb3d53a8c899aa8c92",
+          "title": "調査で日本の企業景況感が5四半期連続で改善",
+          "source": "AP News",
+          "category": "AI・テクノロジー",
+          "date": "2026-07-02",
+          "action": "summary_opened",
+          "added_at": "2026-07-02T11:27:29.376056+09:00"
+        },
+        {
+          "url": "https://www.boj.or.jp/en/statistics/tk/yoshi/tk2606.htm",
+          "title": "短観概要（2026年6月）",
+          "source": "Bank of Japan",
+          "category": "AI・テクノロジー",
+          "date": "2026-07-02",
+          "action": "summary_opened",
+          "added_at": "2026-07-02T11:28:05.569191+09:00"
+        },
+        {
+          "url": "https://arxiv.org/abs/2606.04896",
+          "title": "Channel Fracture: マルチエージェントオーケストレーションにおける予約型クロスエージェント記憶注入のアーキテクチャ上の盲点",
+          "source": "arXiv",
+          "category": "AI・テクノロジー",
+          "date": "2026-07-02",
+          "action": "summary_opened",
+          "added_at": "2026-07-02T11:28:25.548641+09:00"
+        }
+      ],
+      "original_opened": [
+        {
+          "url": "https://techcrunch.com/2026/06/09/google-just-fired-a-warning-shot-in-the-ai-subscription-price-wars/",
+          "title": "GoogleがAIサブスク価格競争に警告弾を放った",
+          "source": "TechCrunch",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-10",
+          "action": "original_opened",
+          "added_at": "2026-06-10T11:11:55.682023+09:00"
+        },
+        {
+          "url": "https://techcrunch.com/2026/06/09/can-tech-companies-learn-to-love-cheaper-models/",
+          "title": "テック企業はより安いAIモデルを受け入れられるか",
+          "source": "TechCrunch",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-10",
+          "action": "original_opened",
+          "added_at": "2026-06-10T11:15:29.095800+09:00"
+        },
+        {
+          "url": "https://arxiv.org/abs/2605.11990",
+          "title": "流れを守る: 相関し意思決定依存型の混乱下における海上エネルギー強靭性",
+          "source": "arXiv",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-10",
+          "action": "original_opened",
+          "added_at": "2026-06-10T11:28:34.438131+09:00"
+        },
+        {
+          "url": "https://apnews.com/article/iran-us-war-hormuz-blockade-analysis-4cd10138dcd340d0e710d85cc586e45f",
+          "title": "分析：湾岸アラブ産油国の原油が市場に届き始め、ホルムズ海峡を巡るイランの締め付けが緩む",
+          "source": "AP News",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-13",
+          "action": "original_opened",
+          "added_at": "2026-06-13T11:15:28.256985+09:00"
+        },
+        {
+          "url": "https://automaton-media.com/articles/reportjp/vtuber-discussion1-20260612-448634/",
+          "title": "「VTuberが産まれるまで」に立ちはだかる“依頼”の壁。VTuberの親になる覚悟と、産まれる覚悟を訊いた",
+          "source": "AUTOMATON",
+          "category": "ゲーム・エンタメ",
+          "date": "2026-06-13",
+          "action": "original_opened",
+          "added_at": "2026-06-13T11:23:21.879808+09:00"
+        },
+        {
+          "url": "https://arxiv.org/abs/2605.30842",
+          "title": "CoMem: 分離型長文脈モデルによるコンテキスト管理",
+          "source": "arXiv",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-18",
+          "action": "original_opened",
+          "added_at": "2026-06-18T23:29:04.222902+09:00"
+        },
+        {
+          "url": "https://arxiv.org/abs/2606.17383",
+          "title": "エージェントAIシステムのモデル検証: 信念状態・予測・方策を検証するPOMDPベースの枠組み",
+          "source": "arXiv",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-18",
+          "action": "original_opened",
+          "added_at": "2026-06-18T23:47:58.163397+09:00"
+        },
+        {
+          "url": "https://www.jpx.co.jp/english/equities/follow-up/02.html",
+          "title": "資本コストと株価を意識した経営の実現に向けた対応（プライム市場・スタンダード市場）",
+          "source": "Japan Exchange Group",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-21",
+          "action": "original_opened",
+          "added_at": "2026-06-21T11:49:48.266182+09:00"
+        },
+        {
+          "url": "https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/",
+          "title": "In the Weights、AI時代の新しい自己検索",
+          "source": "TechCrunch",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-22",
+          "action": "original_opened",
+          "added_at": "2026-06-22T12:10:11.955331+09:00"
+        },
+        {
+          "url": "https://arxiv.org/abs/2606.16465",
+          "title": "エージェント自動化はいつ採算に乗るのか: トレース経済アンダーライティングによる自律AIリスクの定量化と保険化",
+          "source": "arXiv",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-22",
+          "action": "original_opened",
+          "added_at": "2026-06-22T12:12:24.351640+09:00"
+        },
+        {
+          "url": "https://techcrunch.com/2026/06/20/founders-funds-outlier-bet-on-humanely-killed-fish/",
+          "title": "Founders Fundによる人道的に魚を処理する企業への異色の投資",
+          "source": "TechCrunch",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-22",
+          "action": "original_opened",
+          "added_at": "2026-06-22T12:26:13.768064+09:00"
+        },
+        {
+          "url": "https://arxiv.org/abs/2606.03771",
+          "title": "πCreds: 秘匿推論型クレデンシャル",
+          "source": "arXiv",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-22",
+          "action": "original_opened",
+          "added_at": "2026-06-22T13:01:24.703349+09:00"
+        },
+        {
+          "url": "https://www.wired.com/story/siri-ai-hands-on-iphone/",
+          "title": "Siri AIにサンフランシスコを案内してもらった",
+          "source": "WIRED",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-22",
+          "action": "original_opened",
+          "added_at": "2026-06-22T13:33:46.695957+09:00"
+        },
+        {
+          "url": "https://techcrunch.com/2026/06/20/every-new-ios-27-feature-thats-worth-knowing-about/",
+          "title": "知っておくべきiOS 27の注目新機能",
+          "source": "TechCrunch",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-22",
+          "action": "original_opened",
+          "added_at": "2026-06-22T13:34:12.212696+09:00"
+        },
+        {
+          "url": "https://arxiv.org/abs/2605.25707",
+          "title": "AgentHijack：一般的な環境乱れに対するコンピュータ操作エージェントの頑健性ベンチマーク",
+          "source": "arXiv",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-23",
+          "action": "original_opened",
+          "added_at": "2026-06-23T11:30:36.155215+09:00"
+        },
+        {
+          "url": "https://arxiv.org/abs/2606.09090",
+          "title": "AI支援ソフトウェア開発におけるコンテキスト腐敗：AI設定アーティファクトに文書整合性研究を応用する",
+          "source": "arXiv",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-23",
+          "action": "original_opened",
+          "added_at": "2026-06-23T11:37:59.839395+09:00"
+        },
+        {
+          "url": "https://arxiv.org/abs/2606.19116",
+          "title": "エージェントファーストなWebへ：AIエージェントのためにWebを再設計する",
+          "source": "arXiv",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-23",
+          "action": "original_opened",
+          "added_at": "2026-06-23T11:44:55.354997+09:00"
+        },
+        {
+          "url": "https://arxiv.org/abs/2606.23189",
+          "title": "有能だが不注意: コンピュータ操作エージェントはコンテクスト整合性を守れるのか",
+          "source": "arXiv",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-24",
+          "action": "original_opened",
+          "added_at": "2026-06-24T10:57:14.737852+09:00"
+        },
+        {
+          "url": "https://arxiv.org/abs/2606.08867",
+          "title": "1億ユーザー規模で顧客サポートAIエージェントを構築するための評価駆動フレームワーク",
+          "source": "arXiv",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-24",
+          "action": "original_opened",
+          "added_at": "2026-06-24T10:58:12.759530+09:00"
+        },
+        {
+          "url": "https://arxiv.org/abs/2605.29082",
+          "title": "安全な自律エージェントにおける帯域外メタデータの重要性：Redpanda Agentic Data Plane",
+          "source": "arXiv",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-26",
+          "action": "original_opened",
+          "added_at": "2026-06-26T12:46:29.485275+09:00"
+        },
+        {
+          "url": "https://nypost.com/2026/06/22/business/inside-the-quiet-insurance-racket-iran-is-running-in-the-strait-of-hormuz/",
+          "title": "イランがホルムズ海峡で進める保険利権の内幕と、西側海運を壊滅させかねない理由",
+          "source": "New York Post",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-28",
+          "action": "original_opened",
+          "added_at": "2026-06-28T12:20:59.950192+09:00"
+        },
+        {
+          "url": "https://www.cnbc.com/2026/06/27/the-ai-trade-cooled-and-oil-sank-a-closer-look-at-wall-streets-volatile-week.html",
+          "title": "AIトレードは冷え込み、原油は下落　ウォール街の激しい1週間を読み解く",
+          "source": "CNBC",
+          "category": "経済・金融",
+          "date": "2026-06-28",
+          "action": "original_opened",
+          "added_at": "2026-06-28T12:31:52.246924+09:00"
+        },
+        {
+          "url": "https://www.wired.com/story/openai-gpt-56-model-release-trump-admin-approval/",
+          "title": "OpenAIに新AIモデルはあるのに、なぜ使えないのか",
+          "source": "WIRED",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-28",
+          "action": "original_opened",
+          "added_at": "2026-06-28T12:32:26.414716+09:00"
+        },
+        {
+          "url": "https://arxiv.org/abs/2606.09692",
+          "title": "エージェント型AIシステムにおける委任実行の可観測性",
+          "source": "arXiv",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-28",
+          "action": "original_opened",
+          "added_at": "2026-06-28T12:45:27.673477+09:00"
+        },
+        {
+          "url": "https://arxiv.org/abs/2606.06448",
+          "title": "エージェント記憶：状態を持つ長期タスクの特性評価とシステム上の含意",
+          "source": "arXiv",
+          "category": "AI・テクノロジー",
+          "date": "2026-06-30",
+          "action": "original_opened",
+          "added_at": "2026-06-30T11:52:51.555148+09:00"
+        },
+        {
+          "url": "https://techcrunch.com/2026/06/30/nvidia-competitor-etched-hits-5b-valuation-1b-in-sales-for-ai-chip/",
+          "title": "Nvidia競合のEtched、評価額50億ドル・AIチップ受注10億ドルに到達",
+          "source": "TechCrunch",
+          "category": "AI・テクノロジー",
+          "date": "2026-07-01",
+          "action": "original_opened",
+          "added_at": "2026-07-01T12:45:05.505799+09:00"
+        },
+        {
+          "url": "https://arxiv.org/abs/2606.04896",
+          "title": "Channel Fracture: マルチエージェントオーケストレーションにおける予約型クロスエージェント記憶注入のアーキテクチャ上の盲点",
+          "source": "arXiv",
+          "category": "AI・テクノロジー",
+          "date": "2026-07-02",
+          "action": "original_opened",
+          "added_at": "2026-07-02T11:28:32.808806+09:00"
+        }
+      ]
+    }
+  },
+  "last_updated": "2026-07-02T11:28:32.809300+09:00",
+  "learning_phase": 2,
+  "interest_summary": [
+    "Claude CodeやAgent TeamsでCEO、秘書、PM、調査、開発、販促を役割分担させ、一人で疑似組織を回しながら事業を立ち上げる発想に関心が高い。完成度よりMVPの早期公開、SNS発信、デモ公開を先行させ、市場反応で磨く進め方を重視する傾向がある。",
+    "AIで試作コストが下がったことでマイクロ事業を高速に試す姿勢に強く惹かれている一方、最終的には一つの事業へ選択と集中をかける判断も重視する傾向がある。事業計画やロードマップはAIに作らせても、人間が逐次レビューして意思決定を握る設計を好む。",
+    "CLAUDE.mdを毎回のオンボーディング資料として短く保ち、What、Why、How、完了条件、検証手段を明示して精度を上げる設計に関心が高い。常時守る指示と条件付き指示を分け、IMPORTANT IFのような条件ブロックで効かせる書き方を重視する傾向がある。",
+    "コンテキストは増やすより整える対象として捉え、プログレッシブディスクロージャー、/clear、/compact、コンパクション、動的コンテキスト注入で劣化を抑える運用に関心が高い。長い説明文より、AIが考える余白を残す軽い初期文脈を重視する傾向がある。",
+    "AIコーディングや業務自動化では、プロンプト単体よりエージェント、スキル、フック、ルール、MCPを束ねたハーネス全体の設計に関心が高い。SessionStartやPostToolUseの自動化、役割別モデル配分、ブラウザ検証まで含めた操縦系の堅さを重視する傾向がある。",
+    "長時間タスクは一体に任せるより、プランナー、ジェネレーター、評価者を分けたループや、Linear監視からPR作成まで閉じたオーケストレーションに関心が高い。生成性能そのものより、完了条件、エラーハンドリング、リトライ、復旧を重視する傾向がある。",
+    "Agent ManagerやWorkspace、Inbox、Browserのような画面群で、複数タスクの計画、承認、実行、検証を並行管理する運用に関心が高い。いきなり実装させるより、先に計画書とタスクリストを出させる流れを重視する傾向がある。",
+    "AIに任せ切るのではなく、コマンド実行、依存追加、投稿や売買のような高リスク処理では人間の承認を挟み、最後はブラウザで実物確認する運用に関心が高い。自律性より監督と責任分界を重視する傾向がある。",
+    "AIの差は知能そのものより、自分のログ、メモ、会議記録、判断履歴、日記をどれだけ長期記憶として渡せるかで決まるという発想に関心が高い。まず秘書役に思考やToDoを集約し、AIを分身に近づける運用を重視する傾向がある。",
+    "長期記憶は蓄積より整理が重要だと捉え、Auto Dreamのような非稼働時の統合、相対日付の絶対日付化、重複除去、短い索引化に関心が高い。最初に読む層を短く保ち、必要時だけ深掘りできる構造を重視する傾向がある。",
+    "AIエージェントの価値は権限とデータ量に比例する一方で、プロンプトインジェクション、誤削除、情報流出、無限ループ課金のリスクにも強い関心が高い。便利さより先に月額上限、ループ回数制限、Heartbeat停止、監査可能性を重視する傾向がある。",
+    "クラウドとローカルのハイブリッド運用、Docker隔離、対象フォルダ制限、トークン秘匿、危険なスキル監査のような実務的ガードレールに関心が高い。モデルの賢さに期待するより、被害範囲を物理的に狭める設計を重視する傾向がある。",
+    "AIをクラウドだけでなく自分のPC上で動かし、ローカルのファイル、アプリ、GUIに直接触れさせる運用に関心が高い。OpenClawのように専用端末へ高い権限を渡し、読めるデータ量と操作可能範囲を広げる発想を重視する傾向がある。",
+    "Computer UseやCoworkのように、APIがないアプリでも画面操作で仕事を閉じる実務自動化に関心が高い。即時性より、常時起動PCで時間のかかる定型作業を任せる現実的な運用を重視する傾向がある。",
+    "スマホやチャットアプリからローカルPC上のエージェントを呼び出し、遠隔で調査、投稿準備、ログイン必須画面の操作まで進める運用に関心が高い。Dispatch、Channels、WhatsApp、Telegram、Chrome連携のような外部導線を仕事の窓口にする発想を重視する傾向がある。",
+    "単発の自動化より、スキル化とスケジュール実行まで組み合わせて継続運用する形に関心が高い。投稿や売買のような外部影響が大きい処理には確認フローを挟む設計を重視する傾向がある。",
+    "AIエージェントを本格運用する前提で、単一ターミナルより複数ペイン、複数タブ、通知付きターミナルへ移す作業環境設計に関心が高い。長時間実行の待ち時間を他作業へ変える並列運用を重視する傾向がある。",
+    "ツール選定ではスペック表より、Warpでの導入しやすさ、Ghosttyやcmuxでの軽さ、レイアウト保存、進捗通知の実務効率に関心が高い。画面構成そのものを生産性の一部として扱う傾向がある。",
+    "汎用AIの性能競争そのものより、特定業界の深い課題を解くバーティカルAIと、既存SaaSがどこから置き換えられるかという構造変化に関心が高い。AIが補完する領域と破壊する領域を企業ごとに見分ける視点を重視する傾向がある。",
+    "業界分析では、AI関連企業を追うより、ソフトウェア、決済、配達、セキュリティ、旧基幹系のように自動化で収益構造が崩れる側を点検することに関心が高い。人間向けUIの強さより、API化とエージェント接続のしやすさを重視する傾向がある。",
+    "AIプロダクトの勝ち筋を、単発のSaaS機能追加より、2C接点から対話データを蓄積するデータフライホイールに見ているテーマに関心が高い。短期収益より、継続利用から学習資産を増やす戦略を重視する傾向がある。",
+    "将来は人に選ばれるUIだけでなくエージェントに選ばれるサービス設計が重要になるという見方に関心が高い。メモリー、パーソナライズ、API化された実行基盤を乗り換え障壁の中心と捉える傾向がある。",
+    "AIが新卒や定型ホワイトカラーを代替し、所得格差だけでなく承認格差まで拡大させる社会変化に関心が高い。労働市場の変化を雇用論ではなく実務代替の速度で見る傾向がある。",
+    "個人の生存戦略として、AI活用力、ニッチ創業、物理実行力、法的責任を負える立場、代替困難な判断力に関心が高い。作成者から承認者、実装者から設計者へ役割を移す視点を重視する傾向がある。",
+    "情報とコンテンツが無限に増える時代に、誰が発信するか、どんな思想や物語を背負っているかという個人ブランドに関心が高い。論理の正しさより、文脈と生き方が選好を決める世界観を重視する傾向がある。",
+    "AIで平均的な実行力が量産される前提で、責任、偏愛、失敗の履歴、リアル体験、オフライン性の高い希少なものの価値に関心が高い。量産型ではない自分だけの価値を作ることを重視する傾向がある。",
+    "Hacker News、Reddit、はてなブックマーク、各種Web記事をAIで要約し、自分専用のニュースフィードへ変換する仕組みに関心が高い。一般トレンドではなく、自分の役割や興味に合わせて情報を再編集することを重視する傾向がある。",
+    "情報収集ではブラウザ起動より軽量取得を優先し、URLダイジェストやコメント要約で消費時間を圧縮する運用に関心が高い。媒体ごとの取得特性を理解し、スキル改善で収集フローを速くしていく姿勢を重視する傾向がある。",
+    "GitHubやObsidianを、コード管理やメモ保存の枠を超えて人生全体の運用基盤にする発想に関心が高い。ライフリポジトリーとして一元管理し、コンテキストスイッチを減らすことを重視する傾向がある。",
+    "Todo上限の設定、IssuesとProjectsでの可視化、既存データの接続、定型業務のスキル化によって知識と仕事を再利用しやすくする運用に関心が高い。知識は溜めるだけでなく、次の行動へつながる構造に整えることを重視する傾向がある。",
+    "AI活用ではプロンプト技巧より、自分の意図や仮説をどれだけ言語化できるかに関心が高い。曖昧な理解を言葉に置き、矛盾や不足を更新していく反復プロセスを重視する傾向がある。",
+    "日記、探求テーマ、他者の知見、AIとの壁打ちを使って思考の精度を上げる実践に関心が高い。まだ言語化できていない感覚自体を手がかりにして考えを深めることを重視する傾向がある。",
+    "最新モデル固有の使い方を追うより、仕事を拡散、絞り込み、実装のような工程に分解し、入れ替え可能な箱として設計する発想に関心が高い。ツールよりワークフローを先に固定することを重視する傾向がある。",
+    "AIを使う前に、解く問題、成功条件、出力の使い道を先に決め、複数AIの出力を人間が評価して統合する運用に関心が高い。思考の主導権を自分に残したままAIを部品として使うことを重視する傾向がある。",
+    "個別株ではEPS成長だけでなく、利益の質、再投資の複利、フリーキャッシュフロー、市場認識の変化によるマルチプル拡大に関心が高い。高PERの正当化条件と低PERの危うさを見分ける視点を重視する傾向がある。",
+    "投資判断では実績より予想EPSや成長の持続可能性を見て、単なる割安に見える銘柄のバリュートラップを警戒する。値動きより企業価値との乖離を見に行く姿勢を重視する傾向がある。",
+    "短期売買では長期成長株探しより、決算、配当権利日、新薬、時間外取引、政策発言のようなイベント前後の需給変化に関心が高い。材料そのものより、いつ資金が入りいつ剥がれるかを読む発想を重視する傾向がある。",
+    "逆指値、損切りライン、保有期間、目標と制約に応じたルール変更など、守りを前提にしたポジション管理に関心が高い。AIを壁打ちに使ってシナリオの穴を先回りで潰す運用を重視する傾向がある。",
+    "政策金利、金融引き締めの遅れ、景気後退の型の変化、外部ショックによる体制転換に関心が高い。金融、財政、成長戦略を切り分けず、政策パッケージ全体で景気局面を見る傾向がある。",
+    "日銀では物価と景気だけでなく、日本銀行法、政府との距離感、人事、リーク、短い発言のシグナル性に関心が高い。制度と政治の駆け引きを含めて政策を読むことを重視する傾向がある。",
+    "相場急落時には指数の上下より、VIX、金利、ゴールド、50日移動平均線、引け位置、資金の逃避先セクターに関心が高い。センチメント、テクニカル、資金移動を組み合わせて地合いを判定する視点を重視する傾向がある。",
+    "AIや地政学のように将来シナリオが強く意識される局面では、業績悪化前でもバリュエーションが縮む銘柄群に関心が高い。ソフトウェアから電力、エネルギー、半導体へのローテーションを読む発想を重視する傾向がある。",
+    "日本株ではPBR改善や東証改革の恩恵が市場全体ではなく大型株に集中する構造変化に関心が高い。平均値ではなく、どの層で評価見直しが進んでいるかを見分ける視点を重視する傾向がある。",
+    "DOE、自社株買い、増配、ROE改善のような資本政策を、業績以上に重要な再評価ドライバーとして見ている。経営陣の株主還元姿勢と海外投資家圧力を定点観測することを重視する傾向がある。",
+    "軍事衝突では見出しや首脳発言より、部隊配置、外交期限、偶発事故の確率、戦争の出口条件に関心が高い。安全保障ニュースを軍事情勢だけでなく意思決定構造として読む傾向がある。",
+    "中東情勢では原油、LNG、保険、海運、ホルムズ海峡、淡水化設備、資源輸入国への波及に強い関心が高い。日本の生活コストや市場への伝播経路まで含めて供給網全体で捉えることを重視する傾向がある。",
+    "戦争や外交を、表向きの大義より誰が意思決定者に直接アクセスしているか、同盟国どうしで終戦条件が一致しているかという構造で読むテーマに関心が高い。公式説明と情報機関評価、私的な影響ルートのずれを点検する傾向がある。",
+    "首脳発言の一貫性より、リーク、側近、政治的演出、歴史的名声への訴求が政策をどう動かすかに関心が高い。軍事ニュースを作戦だけでなく権力構造と交渉技法の問題として捉える傾向がある。",
+    "AIの軍事利用を抽象的な倫理論ではなく、ドローン、自律攻撃、人間介在の設計、全領域データ統合の実装問題として捉えるテーマに関心が高い。性能より、どこまで人間を判断ループに残すかという統治設計を重視する傾向がある。",
+    "軍事AIの価値を単体兵器ではなく、陸海空や宇宙のセンサーデータを束ねて作戦を組む統合意思決定システムに見ている。国家安全保障とAI企業のガードレールが衝突する構図を追う傾向がある。",
+    "AGIを遠い未来ではなく現在の延長線上として捉え、事前学習、強化学習、文脈内学習のスケーリングでどこまで届くかに関心が高い。新発明待ちより、既存手法の伸びと時間軸の変化を見極めることを重視する傾向がある。",
+    "技術実現と社会実装は別問題として捉え、雇用転換、安全保障、アラインメント、コンピュート投資の破綻リスクまで含めて追うことに関心が高い。進歩の速さより社会の準備不足を強く警戒する傾向がある。",
+    "AnthropicとOpenAIの思想差、Constitutional AI、AI安全性、軍事利用の線引き、人格設計のような統治レイヤーに関心が高い。モデル性能だけでなく、どんな価値観で運用されるかを重視する傾向がある。",
+    "安全性を研究の足かせではなく、高信頼領域で採用されるための競争力と捉える視点に関心が高い。一般ユーザーの対話やフィードバックもアラインメント改善に参加できるという発想を重視する傾向がある。",
+    "AI競争はモデル単体ではなく、長いコンテキスト、ツール利用、PC操作性能、実務ベンチマークまで含む総力戦だと捉えている。数学ベンチより、GDPvalやOSWorldのような実務指標を重視する傾向がある。",
+    "勝敗は電力、データセンター、半導体、通信網、資本調達まで含むインフラ支配で決まるという見方に関心が高い。表の本命企業だけでなく、周辺インフラや長期投資の動きから勝ち筋を読むことを重視する傾向がある。",
+    "プログラミングを工学だけでなく創造行為として見る視点や、Lisp、DSL、マクロのような自己拡張性の高い言語設計に関心が高い。言語の良し悪しを絶対評価ではなく、用途とチーム規模で見る傾向がある。",
+    "AIがコードを書く時代ほど、コードを読めること、実行の抽象化階層を理解することに関心が高い。便利さの裏で何が起きているかを点検できる理解力を重視する傾向がある。",
+    "画像生成では単純な総合性能より、図解、日本語ラベル、サムネイル、資料挿絵のような用途別の得意不得意に関心が高い。見た目の美しさより、文字崩れ耐性と構造保持を重視する傾向がある。",
+    "モデル選定では1枚の品質だけでなく、量産時の単価、既存画像の改善用途、レイアウト指示への追従を含む運用全体の費用対効果に関心が高い。新モデルを盲信せず、用途別比較で決める姿勢を重視する傾向がある。",
+    "書店のような薄利業態では、在庫リスクの低さより粗利率の薄さと固定費の重さに関心が高い。売上ではなく粗利額で事業性を判断する視点を重視する傾向がある。",
+    "地域密着型ビジネスでは、居抜き出店、委託販売制度、多角化、棚の継続性のような実務オペレーションに関心が高い。急な変化より、既存顧客の文脈を守りながら少しずつ個性を足す運営を重視する傾向がある。",
+    "社内通貨、社内オークション、個人別管理会計のように、コスト意識と付加価値創出を現場まで浸透させる制度設計に関心が高い。抽象論より、日々の行動が変わる価格付けの仕組みを重視する傾向がある。",
+    "上司承認より小さな試作を増やす出資制度や内製文化に関心が高い。長い開発サイクルの業界ほど、少数の大企画より大量の小さな挑戦を回す組織設計を重視する傾向がある。",
+    "Claude Desktop、Cowork、Google Drive、Gmail、Google Calendar、Chrome連携のように、複数サービスをまたいで実務を閉じるAI業務代行に関心が高い。質問応答より、CSV整理、確定申告前処理、SNS分析、予定調整まで進める用途を重視する傾向がある。",
+    "単発で便利に使うより、定型業務をスキル化して再利用し、人間は確認と最終承認に寄る運用に関心が高い。バックオフィスや個人事業の雑務ほどAI監督者モデルで置き換えることを重視する傾向がある。",
+    "AIにUIを作らせる際、無難でAIっぽい見た目を避けるために、デザイン原則の言語化、参照画像、固有名詞、評価基準を先に与える設計に関心が高い。生成と採点を分けて反復改善する進め方を重視する傾向がある。",
+    "フロントエンド生成では、自然文の要望だけでなく、スプリントコントラクトのようなテスト可能な完了条件を先に合意する運用に関心が高い。見た目の良さだけでなく、ブラウザ検証まで含めた実装のズレの少なさを重視する傾向がある。"
+  ],
+  "interest_categories": {
+    "ai_agent_business_building": {
+      "label": "AIエージェント起業・MVP開発",
+      "insights": [
+        "Claude CodeやAgent TeamsでCEO、秘書、PM、調査、開発、販促を役割分担させ、一人で疑似組織を回しながら事業を立ち上げる発想に関心が高い。完成度よりMVPの早期公開、SNS発信、デモ公開を先行させ、市場反応で磨く進め方を重視する傾向がある。",
+        "AIで試作コストが下がったことでマイクロ事業を高速に試す姿勢に強く惹かれている一方、最終的には一つの事業へ選択と集中をかける判断も重視する傾向がある。事業計画やロードマップはAIに作らせても、人間が逐次レビューして意思決定を握る設計を好む。"
+      ],
+      "confidence": 1.0,
+      "source_count": 136
     },
-    "last_updated": "2026-02-11T23:58:42.543Z",
-    "learning_phase": 2
+    "claude_context_engineering": {
+      "label": "Claude運用設計・コンテキスト最適化",
+      "insights": [
+        "CLAUDE.mdを毎回のオンボーディング資料として短く保ち、What、Why、How、完了条件、検証手段を明示して精度を上げる設計に関心が高い。常時守る指示と条件付き指示を分け、IMPORTANT IFのような条件ブロックで効かせる書き方を重視する傾向がある。",
+        "コンテキストは増やすより整える対象として捉え、プログレッシブディスクロージャー、/clear、/compact、コンパクション、動的コンテキスト注入で劣化を抑える運用に関心が高い。長い説明文より、AIが考える余白を残す軽い初期文脈を重視する傾向がある。"
+      ],
+      "confidence": 1.0,
+      "source_count": 182
+    },
+    "ai_agent_ops_and_harness": {
+      "label": "AIエージェント運用・ハーネス設計",
+      "insights": [
+        "AIコーディングや業務自動化では、プロンプト単体よりエージェント、スキル、フック、ルール、MCPを束ねたハーネス全体の設計に関心が高い。SessionStartやPostToolUseの自動化、役割別モデル配分、ブラウザ検証まで含めた操縦系の堅さを重視する傾向がある。",
+        "長時間タスクは一体に任せるより、プランナー、ジェネレーター、評価者を分けたループや、Linear監視からPR作成まで閉じたオーケストレーションに関心が高い。生成性能そのものより、完了条件、エラーハンドリング、リトライ、復旧を重視する傾向がある。"
+      ],
+      "confidence": 1.0,
+      "source_count": 194
+    },
+    "agent_manager_supervision_and_approval": {
+      "label": "エージェント監督UI・承認フロー",
+      "insights": [
+        "Agent ManagerやWorkspace、Inbox、Browserのような画面群で、複数タスクの計画、承認、実行、検証を並行管理する運用に関心が高い。いきなり実装させるより、先に計画書とタスクリストを出させる流れを重視する傾向がある。",
+        "AIに任せ切るのではなく、コマンド実行、依存追加、投稿や売買のような高リスク処理では人間の承認を挟み、最後はブラウザで実物確認する運用に関心が高い。自律性より監督と責任分界を重視する傾向がある。"
+      ],
+      "confidence": 0.98,
+      "source_count": 57
+    },
+    "ai_agent_memory_and_personalization": {
+      "label": "AI記憶設計・パーソナライズ",
+      "insights": [
+        "AIの差は知能そのものより、自分のログ、メモ、会議記録、判断履歴、日記をどれだけ長期記憶として渡せるかで決まるという発想に関心が高い。まず秘書役に思考やToDoを集約し、AIを分身に近づける運用を重視する傾向がある。",
+        "長期記憶は蓄積より整理が重要だと捉え、Auto Dreamのような非稼働時の統合、相対日付の絶対日付化、重複除去、短い索引化に関心が高い。最初に読む層を短く保ち、必要時だけ深掘りできる構造を重視する傾向がある。"
+      ],
+      "confidence": 1.0,
+      "source_count": 145
+    },
+    "ai_agent_security_and_cost": {
+      "label": "AIエージェントの権限管理・コスト管理・安全性",
+      "insights": [
+        "AIエージェントの価値は権限とデータ量に比例する一方で、プロンプトインジェクション、誤削除、情報流出、無限ループ課金のリスクにも強い関心が高い。便利さより先に月額上限、ループ回数制限、Heartbeat停止、監査可能性を重視する傾向がある。",
+        "クラウドとローカルのハイブリッド運用、Docker隔離、対象フォルダ制限、トークン秘匿、危険なスキル監査のような実務的ガードレールに関心が高い。モデルの賢さに期待するより、被害範囲を物理的に狭める設計を重視する傾向がある。"
+      ],
+      "confidence": 1.0,
+      "source_count": 166
+    },
+    "local_ai_and_computer_use": {
+      "label": "ローカルAI・PC操作自動化",
+      "insights": [
+        "AIをクラウドだけでなく自分のPC上で動かし、ローカルのファイル、アプリ、GUIに直接触れさせる運用に関心が高い。OpenClawのように専用端末へ高い権限を渡し、読めるデータ量と操作可能範囲を広げる発想を重視する傾向がある。",
+        "Computer UseやCoworkのように、APIがないアプリでも画面操作で仕事を閉じる実務自動化に関心が高い。即時性より、常時起動PCで時間のかかる定型作業を任せる現実的な運用を重視する傾向がある。"
+      ],
+      "confidence": 1.0,
+      "source_count": 141
+    },
+    "remote_agent_interfaces_and_scheduled_ops": {
+      "label": "遠隔エージェント操作・定時実行",
+      "insights": [
+        "スマホやチャットアプリからローカルPC上のエージェントを呼び出し、遠隔で調査、投稿準備、ログイン必須画面の操作まで進める運用に関心が高い。Dispatch、Channels、WhatsApp、Telegram、Chrome連携のような外部導線を仕事の窓口にする発想を重視する傾向がある。",
+        "単発の自動化より、スキル化とスケジュール実行まで組み合わせて継続運用する形に関心が高い。投稿や売買のような外部影響が大きい処理には確認フローを挟む設計を重視する傾向がある。"
+      ],
+      "confidence": 1.0,
+      "source_count": 112
+    },
+    "terminal_and_parallel_workstation_ops": {
+      "label": "ターミナル運用・並列作業環境",
+      "insights": [
+        "AIエージェントを本格運用する前提で、単一ターミナルより複数ペイン、複数タブ、通知付きターミナルへ移す作業環境設計に関心が高い。長時間実行の待ち時間を他作業へ変える並列運用を重視する傾向がある。",
+        "ツール選定ではスペック表より、Warpでの導入しやすさ、Ghosttyやcmuxでの軽さ、レイアウト保存、進捗通知の実務効率に関心が高い。画面構成そのものを生産性の一部として扱う傾向がある。"
+      ],
+      "confidence": 1.0,
+      "source_count": 116
+    },
+    "vertical_ai_and_saas_disruption": {
+      "label": "バーティカルAI・SaaS再編",
+      "insights": [
+        "汎用AIの性能競争そのものより、特定業界の深い課題を解くバーティカルAIと、既存SaaSがどこから置き換えられるかという構造変化に関心が高い。AIが補完する領域と破壊する領域を企業ごとに見分ける視点を重視する傾向がある。",
+        "業界分析では、AI関連企業を追うより、ソフトウェア、決済、配達、セキュリティ、旧基幹系のように自動化で収益構造が崩れる側を点検することに関心が高い。人間向けUIの強さより、API化とエージェント接続のしやすさを重視する傾向がある。"
+      ],
+      "confidence": 1.0,
+      "source_count": 104
+    },
+    "ai_product_strategy_and_data_flywheel": {
+      "label": "AIプロダクト戦略・データフライホイール",
+      "insights": [
+        "AIプロダクトの勝ち筋を、単発のSaaS機能追加より、2C接点から対話データを蓄積するデータフライホイールに見ているテーマに関心が高い。短期収益より、継続利用から学習資産を増やす戦略を重視する傾向がある。",
+        "将来は人に選ばれるUIだけでなくエージェントに選ばれるサービス設計が重要になるという見方に関心が高い。メモリー、パーソナライズ、API化された実行基盤を乗り換え障壁の中心と捉える傾向がある。"
+      ],
+      "confidence": 1.0,
+      "source_count": 83
+    },
+    "ai_labor_and_social_change": {
+      "label": "AI時代の労働・格差・社会変化",
+      "insights": [
+        "AIが新卒や定型ホワイトカラーを代替し、所得格差だけでなく承認格差まで拡大させる社会変化に関心が高い。労働市場の変化を雇用論ではなく実務代替の速度で見る傾向がある。",
+        "個人の生存戦略として、AI活用力、ニッチ創業、物理実行力、法的責任を負える立場、代替困難な判断力に関心が高い。作成者から承認者、実装者から設計者へ役割を移す視点を重視する傾向がある。"
+      ],
+      "confidence": 1.0,
+      "source_count": 130
+    },
+    "personal_brand_and_scarcity": {
+      "label": "個人ブランド・希少性・ビジョン",
+      "insights": [
+        "情報とコンテンツが無限に増える時代に、誰が発信するか、どんな思想や物語を背負っているかという個人ブランドに関心が高い。論理の正しさより、文脈と生き方が選好を決める世界観を重視する傾向がある。",
+        "AIで平均的な実行力が量産される前提で、責任、偏愛、失敗の履歴、リアル体験、オフライン性の高い希少なものの価値に関心が高い。量産型ではない自分だけの価値を作ることを重視する傾向がある。"
+      ],
+      "confidence": 1.0,
+      "source_count": 110
+    },
+    "information_automation_and_curated_feeds": {
+      "label": "情報収集自動化・パーソナライズドニュース",
+      "insights": [
+        "Hacker News、Reddit、はてなブックマーク、各種Web記事をAIで要約し、自分専用のニュースフィードへ変換する仕組みに関心が高い。一般トレンドではなく、自分の役割や興味に合わせて情報を再編集することを重視する傾向がある。",
+        "情報収集ではブラウザ起動より軽量取得を優先し、URLダイジェストやコメント要約で消費時間を圧縮する運用に関心が高い。媒体ごとの取得特性を理解し、スキル改善で収集フローを速くしていく姿勢を重視する傾向がある。"
+      ],
+      "confidence": 1.0,
+      "source_count": 120
+    },
+    "personal_knowledge_and_task_ops": {
+      "label": "個人知識管理・タスク運用",
+      "insights": [
+        "GitHubやObsidianを、コード管理やメモ保存の枠を超えて人生全体の運用基盤にする発想に関心が高い。ライフリポジトリーとして一元管理し、コンテキストスイッチを減らすことを重視する傾向がある。",
+        "Todo上限の設定、IssuesとProjectsでの可視化、既存データの接続、定型業務のスキル化によって知識と仕事を再利用しやすくする運用に関心が高い。知識は溜めるだけでなく、次の行動へつながる構造に整えることを重視する傾向がある。"
+      ],
+      "confidence": 1.0,
+      "source_count": 96
+    },
+    "language_articulation_and_thinking": {
+      "label": "言語化・思考整理・AI壁打ち",
+      "insights": [
+        "AI活用ではプロンプト技巧より、自分の意図や仮説をどれだけ言語化できるかに関心が高い。曖昧な理解を言葉に置き、矛盾や不足を更新していく反復プロセスを重視する傾向がある。",
+        "日記、探求テーマ、他者の知見、AIとの壁打ちを使って思考の精度を上げる実践に関心が高い。まだ言語化できていない感覚自体を手がかりにして考えを深めることを重視する傾向がある。"
+      ],
+      "confidence": 1.0,
+      "source_count": 72
+    },
+    "tool_agnostic_ai_workflow_design": {
+      "label": "AIワークフロー抽象化・ツール非依存設計",
+      "insights": [
+        "最新モデル固有の使い方を追うより、仕事を拡散、絞り込み、実装のような工程に分解し、入れ替え可能な箱として設計する発想に関心が高い。ツールよりワークフローを先に固定することを重視する傾向がある。",
+        "AIを使う前に、解く問題、成功条件、出力の使い道を先に決め、複数AIの出力を人間が評価して統合する運用に関心が高い。思考の主導権を自分に残したままAIを部品として使うことを重視する傾向がある。"
+      ],
+      "confidence": 1.0,
+      "source_count": 88
+    },
+    "equity_valuation_and_quality": {
+      "label": "個別株評価・利益の質・マルチプル",
+      "insights": [
+        "個別株ではEPS成長だけでなく、利益の質、再投資の複利、フリーキャッシュフロー、市場認識の変化によるマルチプル拡大に関心が高い。高PERの正当化条件と低PERの危うさを見分ける視点を重視する傾向がある。",
+        "投資判断では実績より予想EPSや成長の持続可能性を見て、単なる割安に見える銘柄のバリュートラップを警戒する。値動きより企業価値との乖離を見に行く姿勢を重視する傾向がある。"
+      ],
+      "confidence": 1.0,
+      "source_count": 102
+    },
+    "event_driven_trading_and_position_management": {
+      "label": "イベントドリブン投資・売買ルール",
+      "insights": [
+        "短期売買では長期成長株探しより、決算、配当権利日、新薬、時間外取引、政策発言のようなイベント前後の需給変化に関心が高い。材料そのものより、いつ資金が入りいつ剥がれるかを読む発想を重視する傾向がある。",
+        "逆指値、損切りライン、保有期間、目標と制約に応じたルール変更など、守りを前提にしたポジション管理に関心が高い。AIを壁打ちに使ってシナリオの穴を先回りで潰す運用を重視する傾向がある。"
+      ],
+      "confidence": 1.0,
+      "source_count": 109
+    },
+    "macro_policy_and_business_cycles": {
+      "label": "金融政策・景気循環",
+      "insights": [
+        "政策金利、金融引き締めの遅れ、景気後退の型の変化、外部ショックによる体制転換に関心が高い。金融、財政、成長戦略を切り分けず、政策パッケージ全体で景気局面を見る傾向がある。",
+        "日銀では物価と景気だけでなく、日本銀行法、政府との距離感、人事、リーク、短い発言のシグナル性に関心が高い。制度と政治の駆け引きを含めて政策を読むことを重視する傾向がある。"
+      ],
+      "confidence": 1.0,
+      "source_count": 126
+    },
+    "market_risk_signals_and_sector_rotation": {
+      "label": "市場急落シグナル・セクターローテーション",
+      "insights": [
+        "相場急落時には指数の上下より、VIX、金利、ゴールド、50日移動平均線、引け位置、資金の逃避先セクターに関心が高い。センチメント、テクニカル、資金移動を組み合わせて地合いを判定する視点を重視する傾向がある。",
+        "AIや地政学のように将来シナリオが強く意識される局面では、業績悪化前でもバリュエーションが縮む銘柄群に関心が高い。ソフトウェアから電力、エネルギー、半導体へのローテーションを読む発想を重視する傾向がある。"
+      ],
+      "confidence": 1.0,
+      "source_count": 142
+    },
+    "japan_equity_reform_and_capital_efficiency": {
+      "label": "日本株の資本効率改革・大型株再評価",
+      "insights": [
+        "日本株ではPBR改善や東証改革の恩恵が市場全体ではなく大型株に集中する構造変化に関心が高い。平均値ではなく、どの層で評価見直しが進んでいるかを見分ける視点を重視する傾向がある。",
+        "DOE、自社株買い、増配、ROE改善のような資本政策を、業績以上に重要な再評価ドライバーとして見ている。経営陣の株主還元姿勢と海外投資家圧力を定点観測することを重視する傾向がある。"
+      ],
+      "confidence": 1.0,
+      "source_count": 105
+    },
+    "geopolitics_energy_and_security": {
+      "label": "地政学・エネルギー供給網・安全保障",
+      "insights": [
+        "軍事衝突では見出しや首脳発言より、部隊配置、外交期限、偶発事故の確率、戦争の出口条件に関心が高い。安全保障ニュースを軍事情勢だけでなく意思決定構造として読む傾向がある。",
+        "中東情勢では原油、LNG、保険、海運、ホルムズ海峡、淡水化設備、資源輸入国への波及に強い関心が高い。日本の生活コストや市場への伝播経路まで含めて供給網全体で捉えることを重視する傾向がある。"
+      ],
+      "confidence": 1.0,
+      "source_count": 171
+    },
+    "geopolitical_decision_making_and_war_aims": {
+      "label": "地政学の意思決定構造・戦争目的分析",
+      "insights": [
+        "戦争や外交を、表向きの大義より誰が意思決定者に直接アクセスしているか、同盟国どうしで終戦条件が一致しているかという構造で読むテーマに関心が高い。公式説明と情報機関評価、私的な影響ルートのずれを点検する傾向がある。",
+        "首脳発言の一貫性より、リーク、側近、政治的演出、歴史的名声への訴求が政策をどう動かすかに関心が高い。軍事ニュースを作戦だけでなく権力構造と交渉技法の問題として捉える傾向がある。"
+      ],
+      "confidence": 0.93,
+      "source_count": 24
+    },
+    "military_ai_and_autonomous_warfare": {
+      "label": "軍事AI・自律兵器・統合作戦",
+      "insights": [
+        "AIの軍事利用を抽象的な倫理論ではなく、ドローン、自律攻撃、人間介在の設計、全領域データ統合の実装問題として捉えるテーマに関心が高い。性能より、どこまで人間を判断ループに残すかという統治設計を重視する傾向がある。",
+        "軍事AIの価値を単体兵器ではなく、陸海空や宇宙のセンサーデータを束ねて作戦を組む統合意思決定システムに見ている。国家安全保障とAI企業のガードレールが衝突する構図を追う傾向がある。"
+      ],
+      "confidence": 1.0,
+      "source_count": 117
+    },
+    "agi_trajectory_and_societal_readiness": {
+      "label": "AGI到達見通し・社会準備不足",
+      "insights": [
+        "AGIを遠い未来ではなく現在の延長線上として捉え、事前学習、強化学習、文脈内学習のスケーリングでどこまで届くかに関心が高い。新発明待ちより、既存手法の伸びと時間軸の変化を見極めることを重視する傾向がある。",
+        "技術実現と社会実装は別問題として捉え、雇用転換、安全保障、アラインメント、コンピュート投資の破綻リスクまで含めて追うことに関心が高い。進歩の速さより社会の準備不足を強く警戒する傾向がある。"
+      ],
+      "confidence": 1.0,
+      "source_count": 134
+    },
+    "ai_model_governance_and_alignment": {
+      "label": "AI安全性・アラインメント・価値観",
+      "insights": [
+        "AnthropicとOpenAIの思想差、Constitutional AI、AI安全性、軍事利用の線引き、人格設計のような統治レイヤーに関心が高い。モデル性能だけでなく、どんな価値観で運用されるかを重視する傾向がある。",
+        "安全性を研究の足かせではなく、高信頼領域で採用されるための競争力と捉える視点に関心が高い。一般ユーザーの対話やフィードバックもアラインメント改善に参加できるという発想を重視する傾向がある。"
+      ],
+      "confidence": 1.0,
+      "source_count": 132
+    },
+    "ai_infrastructure_and_model_competition": {
+      "label": "AIモデル競争・長文コンテキスト・インフラ",
+      "insights": [
+        "AI競争はモデル単体ではなく、長いコンテキスト、ツール利用、PC操作性能、実務ベンチマークまで含む総力戦だと捉えている。数学ベンチより、GDPvalやOSWorldのような実務指標を重視する傾向がある。",
+        "勝敗は電力、データセンター、半導体、通信網、資本調達まで含むインフラ支配で決まるという見方に関心が高い。表の本命企業だけでなく、周辺インフラや長期投資の動きから勝ち筋を読むことを重視する傾向がある。"
+      ],
+      "confidence": 1.0,
+      "source_count": 134
+    },
+    "programming_language_and_code_literacy": {
+      "label": "プログラミング言語観・コード読解力",
+      "insights": [
+        "プログラミングを工学だけでなく創造行為として見る視点や、Lisp、DSL、マクロのような自己拡張性の高い言語設計に関心が高い。言語の良し悪しを絶対評価ではなく、用途とチーム規模で見る傾向がある。",
+        "AIがコードを書く時代ほど、コードを読めること、実行の抽象化階層を理解することに関心が高い。便利さの裏で何が起きているかを点検できる理解力を重視する傾向がある。"
+      ],
+      "confidence": 1.0,
+      "source_count": 90
+    },
+    "image_generation_model_selection": {
+      "label": "画像生成モデル選定・実務利用",
+      "insights": [
+        "画像生成では単純な総合性能より、図解、日本語ラベル、サムネイル、資料挿絵のような用途別の得意不得意に関心が高い。見た目の美しさより、文字崩れ耐性と構造保持を重視する傾向がある。",
+        "モデル選定では1枚の品質だけでなく、量産時の単価、既存画像の改善用途、レイアウト指示への追従を含む運用全体の費用対効果に関心が高い。新モデルを盲信せず、用途別比較で決める姿勢を重視する傾向がある。"
+      ],
+      "confidence": 1.0,
+      "source_count": 100
+    },
+    "retail_unit_economics_and_local_business": {
+      "label": "小売の粗利構造・地域密着経営",
+      "insights": [
+        "書店のような薄利業態では、在庫リスクの低さより粗利率の薄さと固定費の重さに関心が高い。売上ではなく粗利額で事業性を判断する視点を重視する傾向がある。",
+        "地域密着型ビジネスでは、居抜き出店、委託販売制度、多角化、棚の継続性のような実務オペレーションに関心が高い。急な変化より、既存顧客の文脈を守りながら少しずつ個性を足す運営を重視する傾向がある。"
+      ],
+      "confidence": 1.0,
+      "source_count": 85
+    },
+    "organizational_incentive_design": {
+      "label": "社内市場・報酬設計・試行回数経営",
+      "insights": [
+        "社内通貨、社内オークション、個人別管理会計のように、コスト意識と付加価値創出を現場まで浸透させる制度設計に関心が高い。抽象論より、日々の行動が変わる価格付けの仕組みを重視する傾向がある。",
+        "上司承認より小さな試作を増やす出資制度や内製文化に関心が高い。長い開発サイクルの業界ほど、少数の大企画より大量の小さな挑戦を回す組織設計を重視する傾向がある。"
+      ],
+      "confidence": 1.0,
+      "source_count": 98
+    },
+    "connector_ai_and_backoffice_automation": {
+      "label": "AI業務代行・コネクタ横断自動化",
+      "insights": [
+        "Claude Desktop、Cowork、Google Drive、Gmail、Google Calendar、Chrome連携のように、複数サービスをまたいで実務を閉じるAI業務代行に関心が高い。質問応答より、CSV整理、確定申告前処理、SNS分析、予定調整まで進める用途を重視する傾向がある。",
+        "単発で便利に使うより、定型業務をスキル化して再利用し、人間は確認と最終承認に寄る運用に関心が高い。バックオフィスや個人事業の雑務ほどAI監督者モデルで置き換えることを重視する傾向がある。"
+      ],
+      "confidence": 1.0,
+      "source_count": 72
+    },
+    "ai_generated_ui_evaluation_and_design_loops": {
+      "label": "AI生成UIの評価ループ・完成条件設計",
+      "insights": [
+        "AIにUIを作らせる際、無難でAIっぽい見た目を避けるために、デザイン原則の言語化、参照画像、固有名詞、評価基準を先に与える設計に関心が高い。生成と採点を分けて反復改善する進め方を重視する傾向がある。",
+        "フロントエンド生成では、自然文の要望だけでなく、スプリントコントラクトのようなテスト可能な完了条件を先に合意する運用に関心が高い。見た目の良さだけでなく、ブラウザ検証まで含めた実装のズレの少なさを重視する傾向がある。"
+      ],
+      "confidence": 0.81,
+      "source_count": 9
+    }
+  }
 }
