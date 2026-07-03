@@ -1,0 +1,212 @@
+{
+  "date": "2026-07-03",
+  "generated_at": "2026-07-03T09:02:18.518273+09:00",
+  "run_id": "20260703T090218+0900",
+  "mode_collection_counts": {
+    "breaking": 33,
+    "followup": 13,
+    "deep_dive": 2,
+    "adjacent": 0
+  },
+  "mode_errors": {
+    "adjacent": "no_candidates"
+  },
+  "mode": "multimode",
+  "articles": [
+    {
+      "number": 1,
+      "title": "A warning sign about AI’s real cost, courtesy of Google and Amazon",
+      "source": "TechCrunch",
+      "description": "",
+      "url": "https://techcrunch.com/2026/07/02/a-warning-sign-about-ais-real-cost-courtesy-of-google-and-amazon/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-02",
+      "mode": "breaking",
+      "summary": {
+        "headline": "AI料金競争の裏にある電力・水コスト圧力を、事業設計の制約として直視できる"
+      },
+      "selection_reason": "AI料金競争の裏にある電力・水コスト圧力を、事業設計の制約として直視できる",
+      "classification_reason": "AI料金競争の裏にある電力・水コスト圧力を、事業設計の制約として直視できる",
+      "knowledge_value": "",
+      "content_status": "content_ok",
+      "content_chars": 4886,
+      "source_access": "free"
+    },
+    {
+      "number": 2,
+      "title": "Microsoft launches its own AI deployment company with $2.5 billion commitment",
+      "source": "TechCrunch",
+      "description": "",
+      "url": "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-02",
+      "mode": "breaking",
+      "summary": {
+        "headline": "モデル競争から導入代行競争へ重心が移る流れを、企業戦略として確認できる"
+      },
+      "selection_reason": "モデル競争から導入代行競争へ重心が移る流れを、企業戦略として確認できる",
+      "classification_reason": "モデル競争から導入代行競争へ重心が移る流れを、企業戦略として確認できる",
+      "knowledge_value": "",
+      "content_status": "content_ok",
+      "content_chars": 1403,
+      "source_access": "free"
+    },
+    {
+      "number": 3,
+      "title": "Can Cursor Remain a Platform for OpenAI and Anthropic’s Models Inside SpaceX?",
+      "source": "WIRED",
+      "description": "",
+      "url": "https://www.wired.com/story/can-cursor-remain-an-open-platform-inside-of-spacex/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-03",
+      "mode": "breaking",
+      "summary": {
+        "headline": "AIコーディング基盤の中立性が失われるリスクを、実運用目線で点検できる"
+      },
+      "selection_reason": "AIコーディング基盤の中立性が失われるリスクを、実運用目線で点検できる",
+      "classification_reason": "AIコーディング基盤の中立性が失われるリスクを、実運用目線で点検できる",
+      "knowledge_value": "",
+      "content_status": "content_ok",
+      "content_chars": 7702,
+      "source_access": "unknown",
+      "content_excerpt": "When SpaceX announced last month that it had agreed to acquire the popular AI coding startup Cursor for $60 billion, investors believed the deal would..."
+    },
+    {
+      "number": 4,
+      "title": "Ukraine war",
+      "source": "CNBC",
+      "description": "",
+      "url": "https://www.cnbc.com/2026/07/02/russia-launches-missile-drone-strikes-ukraine-kyiv.html",
+      "category": "経済・金融",
+      "published_at": "2026-07-02",
+      "mode": "breaking",
+      "summary": {
+        "headline": "地政学ショックの再燃がエネルギー、保険、資源市況へ波及する起点として重要"
+      },
+      "selection_reason": "地政学ショックの再燃がエネルギー、保険、資源市況へ波及する起点として重要",
+      "classification_reason": "地政学ショックの再燃がエネルギー、保険、資源市況へ波及する起点として重要",
+      "knowledge_value": "",
+      "content_status": "content_ok",
+      "content_chars": 3511,
+      "source_access": "free"
+    },
+    {
+      "number": 5,
+      "title": "Jobs report",
+      "source": "CNBC",
+      "description": "",
+      "url": "https://www.cnbc.com/2026/07/02/jobs-report-june-2026-.html",
+      "category": "経済・金融",
+      "published_at": "2026-07-02",
+      "mode": "breaking",
+      "summary": {
+        "headline": "米雇用減速は金利観測と高PER成長株の許容度を動かす即時材料になる"
+      },
+      "selection_reason": "米雇用減速は金利観測と高PER成長株の許容度を動かす即時材料になる",
+      "classification_reason": "米雇用減速は金利観測と高PER成長株の許容度を動かす即時材料になる",
+      "knowledge_value": "",
+      "content_status": "content_ok",
+      "content_chars": 4133,
+      "source_access": "free"
+    },
+    {
+      "number": 6,
+      "title": "Meta introduces token-based pricing for WhatsApp Business",
+      "source": "The Economic Times",
+      "description": "",
+      "url": "https://economictimes.indiatimes.com/tech/technology/meta-introduces-token-based-pricing-for-whatsapp-business/articleshow/132141231.cms",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-02",
+      "mode": "followup",
+      "summary": {
+        "headline": "会話UIの課金が席数からトークンへ寄る流れを、販促導線の変化として追える"
+      },
+      "selection_reason": "会話UIの課金が席数からトークンへ寄る流れを、販促導線の変化として追える",
+      "classification_reason": "会話UIの課金が席数からトークンへ寄る流れを、販促導線の変化として追える",
+      "knowledge_value": "",
+      "content_status": "content_ok",
+      "content_chars": 3677,
+      "source_access": "unknown"
+    },
+    {
+      "number": 7,
+      "title": "Heat adds to strains on areas with data centers, raising the temperature on AI debates",
+      "source": "AP News",
+      "description": "",
+      "url": "https://apnews.com/article/data-center-heat-wave-lowell-5607b4ea8ef9776b28268561060752a8",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-03",
+      "mode": "followup",
+      "summary": {
+        "headline": "AIインフラの熱と電力制約が、地域政治と立地コストに直結する差分が取れる"
+      },
+      "selection_reason": "AIインフラの熱と電力制約が、地域政治と立地コストに直結する差分が取れる",
+      "classification_reason": "AIインフラの熱と電力制約が、地域政治と立地コストに直結する差分が取れる",
+      "knowledge_value": "",
+      "content_status": "content_ok",
+      "content_chars": 7141,
+      "source_access": "unknown"
+    },
+    {
+      "number": 8,
+      "title": "Redeploying Fable 5",
+      "source": "Anthropic",
+      "description": "",
+      "url": "https://www.anthropic.com/news/redeploying-fable-5",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-01",
+      "mode": "followup",
+      "summary": {
+        "headline": "安全懸念で止まった高性能モデルがどう復帰したか、運用判断の差分が見える"
+      },
+      "selection_reason": "安全懸念で止まった高性能モデルがどう復帰したか、運用判断の差分が見える",
+      "classification_reason": "安全懸念で止まった高性能モデルがどう復帰したか、運用判断の差分が見える",
+      "knowledge_value": "",
+      "content_status": "content_ok",
+      "content_chars": 18320,
+      "source_access": "free"
+    },
+    {
+      "number": 9,
+      "title": "The developer device is the new supply chain attack blind spot",
+      "source": "TechRadar",
+      "description": "",
+      "url": "https://www.techradar.com/pro/the-developer-device-is-the-new-supply-chain-attack-blind-spot",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-01",
+      "mode": "followup",
+      "summary": {
+        "headline": "エージェント開発の実害がCI以前の端末に寄る点を、守る場所の差分として学べる"
+      },
+      "selection_reason": "エージェント開発の実害がCI以前の端末に寄る点を、守る場所の差分として学べる",
+      "classification_reason": "エージェント開発の実害がCI以前の端末に寄る点を、守る場所の差分として学べる",
+      "knowledge_value": "",
+      "content_status": "content_ok",
+      "content_chars": 7271,
+      "source_access": "unknown"
+    },
+    {
+      "number": 10,
+      "title": "Cheap Code, Costly Judgment: A Case Study on Governable Agentic Software Engineering",
+      "source": "arXiv",
+      "description": "",
+      "url": "https://arxiv.org/abs/2607.01087",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-01",
+      "mode": "deep_dive",
+      "summary": {
+        "headline": "安価な生成と高価な監督をどう分離設計するか、統治可能な開発像を深められる"
+      },
+      "selection_reason": "安価な生成と高価な監督をどう分離設計するか、統治可能な開発像を深められる",
+      "classification_reason": "安価な生成と高価な監督をどう分離設計するか、統治可能な開発像を深められる",
+      "knowledge_value": "",
+      "content_status": "content_ok",
+      "content_chars": 2845,
+      "source_access": "free"
+    }
+  ],
+  "status": "partial",
+  "failed_modes": [
+    "adjacent"
+  ]
+}
