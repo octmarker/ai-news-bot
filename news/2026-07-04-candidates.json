@@ -1,0 +1,412 @@
+{
+  "date": "2026-07-04",
+  "generated_at": "2026-07-04T09:04:01.273071+09:00",
+  "run_id": "20260704T090401+0900",
+  "mode_collection_counts": {
+    "breaking": 35,
+    "followup": 5,
+    "deep_dive": 5,
+    "adjacent": 1
+  },
+  "mode_errors": {},
+  "mode": "multimode",
+  "articles": [
+    {
+      "number": 1,
+      "title": "ブラウザー戦争はもはや検索だけではない――ChromeとSafariに代わる有力候補",
+      "source": "TechCrunch",
+      "description": "",
+      "url": "https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-03",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 1,
+        "title_ja": "ブラウザー戦争はもはや検索だけではない――ChromeとSafariに代わる有力候補",
+        "key_points": [
+          "ブラウザー競争の主戦場が検索からAIエージェント機能へ移っている。",
+          "Perplexity、The Browser Company、Opera、OpenAIなどがAI搭載ブラウザーを投入している。",
+          "新興勢は作業代行、要約、調査、購買支援などを前面に出し、従来ブラウザーとの差別化を狙う。"
+        ],
+        "detailed_summary": "記事は、2026年のブラウザー市場で競争軸が大きく変わったと伝えている。従来は検索や表示速度が中心だったが、今はブラウザー内でどのAIが利用者の代わりに調べ、要約し、操作するかが焦点になった。PerplexityのComet、The Browser CompanyのDia、OperaのNeon、OpenAIのAtlasなどがその代表例で、メール要約、閲覧履歴を踏まえた支援、買い物や調査の代行、タスク実行まで担う。ブラウザーは単なる閲覧窓口から、行動を実行する個人アシスタントへ変わりつつある。",
+        "why_it_matters": "ウェブの入り口を握るブラウザーがAI実行基盤に変われば、検索、広告、購買、仕事の進め方まで一気に書き換わる。ChromeとSafariの寡占に対し、新しい勝ち筋が見え始めた点が大きい。",
+        "headline": "ブラウザ競争の主戦場が検索からAI実行面へ移り、エージェント配布の入口が変わる"
+      },
+      "selection_reason": "ブラウザ競争の主戦場が検索からAI実行面へ移り、エージェント配布の入口が変わる",
+      "classification_reason": "ブラウザ競争の主戦場が検索からAI実行面へ移り、エージェント配布の入口が変わる",
+      "knowledge_value": "ウェブの入り口を握るブラウザーがAI実行基盤に変われば、検索、広告、購買、仕事の進め方まで一気に書き換わる。ChromeとSafariの寡占に対し、新しい勝ち筋が見え始めた点が大きい。",
+      "content_status": "content_ok",
+      "content_chars": 8123,
+      "source_access": "free"
+    },
+    {
+      "number": 2,
+      "title": "Meta、AIで小さなゲームやアプリを作れる新アプリPocketをひっそり公開",
+      "source": "TechCrunch",
+      "description": "",
+      "url": "https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-02",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 2,
+        "title_ja": "Meta、AIで小さなゲームやアプリを作れる新アプリPocketをひっそり公開",
+        "key_points": [
+          "MetaがAIプロンプトで小規模なゲームや対話型アプリを作れるPocketを公開した。",
+          "Pocketは買収したGizmoチームの技術を基盤にしており、発見フィードも備える。",
+          "正式発表はなく、まずは実験的な段階で展開している可能性が高い。"
+        ],
+        "detailed_summary": "Metaは、文章プロンプトから小さな対話型アプリやゲームを生成できる新アプリPocketを公開した。App StoreとGoogle Playでは2026年6月29日に配信が始まっており、既存のvibe-codedゲーム基盤Gizmoとよく似た構成を持つ。ユーザーは自作したgizmoを共有でき、他人の作品を遊べるフィードも利用可能だ。Metaは画像生成、動画生成、SNS向けAI機能を広げてきたが、Pocketはその流れをさらに一歩進め、AI制作をゲームやミニアプリ領域まで日常化しようとする試みといえる。",
+        "why_it_matters": "Metaは生成AIを鑑賞ツールではなく創作プラットフォームとして広げようとしている。AIで作る遊びの敷居が下がれば、UGCとアプリ生成の境界が一段と薄くなる。",
+        "headline": "AIで小型ゲームを即生成する流れは、MVP公開と反応検証の速度を一段押し上げる"
+      },
+      "selection_reason": "AIで小型ゲームを即生成する流れは、MVP公開と反応検証の速度を一段押し上げる",
+      "classification_reason": "AIで小型ゲームを即生成する流れは、MVP公開と反応検証の速度を一段押し上げる",
+      "knowledge_value": "Metaは生成AIを鑑賞ツールではなく創作プラットフォームとして広げようとしている。AIで作る遊びの敷居が下がれば、UGCとアプリ生成の境界が一段と薄くなる。",
+      "content_status": "content_ok",
+      "content_chars": 1953,
+      "source_access": "free"
+    },
+    {
+      "number": 3,
+      "title": "お気に入りのガジェットはまた値上がりする",
+      "source": "WIRED",
+      "description": "",
+      "url": "https://www.wired.com/story/we-are-in-the-knockout-round-of-price-increases-for-consumer-electronics/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-04",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 3,
+        "title_ja": "お気に入りのガジェットはまた値上がりする",
+        "key_points": [
+          "AppleのMacBookやiPad、Xboxなど消費者向け電子機器の値上げが再び進んでいる。",
+          "主因はAIデータセンター向け需要を優先するメモリ不足で、供給逼迫が長引いていることだ。",
+          "新品の値上げを受け、中古や整備済み市場への需要が強まっている。"
+        ],
+        "detailed_summary": "記事は、消費者向け電子機器の再値上げが広がっている背景を、AI向け半導体需要に押されたメモリ不足にあると説明する。Appleは6月にMacBookとiPadを値上げし、Xboxも8月から価格を引き上げる予定で、昨年の関税や物流コスト上昇も重なっている。専門家は、今回は一時的な波ではなく、待てば下がる局面ではないとみる。その一方で、整備済み品や中古端末の市場は活況で、価格上昇に苦しむ消費者にとって現実的な代替手段として存在感を増している。",
+        "why_it_matters": "AI投資の拡大が企業向けだけでなく、一般消費者の端末価格にも跳ね返っている。技術トレンドの恩恵と負担が、家計レベルで直結し始めたことを示すニュースだ。",
+        "headline": "半導体入り消費財の再値上げは、端末更新コストと需要鈍化を同時に読み直させる"
+      },
+      "selection_reason": "半導体入り消費財の再値上げは、端末更新コストと需要鈍化を同時に読み直させる",
+      "classification_reason": "半導体入り消費財の再値上げは、端末更新コストと需要鈍化を同時に読み直させる",
+      "knowledge_value": "AI投資の拡大が企業向けだけでなく、一般消費者の端末価格にも跳ね返っている。技術トレンドの恩恵と負担が、家計レベルで直結し始めたことを示すニュースだ。",
+      "content_status": "content_ok",
+      "content_chars": 4091,
+      "source_access": "unknown",
+      "content_excerpt": "If you're in the market for anything with a memory chip in it, now might be the time to snag it. Another round of price..."
+    },
+    {
+      "number": 4,
+      "title": "『俺だけレベルアップな件』シリーズに新作アニメ映画『Solo Leveling: Beyond the System』",
+      "source": "Anime News Network",
+      "description": "Promotional concept video, teaser visual unveiled for Solo Leveling: Beyond the System film",
+      "url": "https://www.animenewsnetwork.com/news/2026-07-03/solo-leveling-series-gets-solo-leveling-beyond-the-system-anime-film/.239268",
+      "category": "漫画・アニメ・文化",
+      "published_at": "2026-07-03",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 4,
+        "title_ja": "『俺だけレベルアップな件』シリーズに新作アニメ映画『Solo Leveling: Beyond the System』",
+        "key_points": [
+          "Anime Expoで『Solo Leveling: Beyond the System』の制作が発表された。",
+          "物語はアニメ第2期の後を描き、A-1 Picturesが再び制作を担当する。",
+          "シリーズはアニメ、劇場展開、ゲーム、実写化まで広がる大型IPになっている。"
+        ],
+        "detailed_summary": "CrunchyrollはAnime Expoのパネルで、『Solo Leveling』の新作アニメ映画『Solo Leveling: Beyond the System』を発表した。作品は第2期の後日談にあたり、A-1 Picturesが再びアニメーションを手がける。監督は田島陶で、キャラクターデザインとメインアニメーターとして須藤智子も続投する。原作は韓国発の人気ウェブトゥーンで、2024年の第1期、2025年の第2期に続き、総集編映画やゲーム展開、韓国実写化も進む。映画化は、同作が一過性のヒットではなく、継続的に拡張される国際IPへ成長したことを裏づける。",
+        "why_it_matters": "アニメ第2期後の映画化は、シリーズ人気が依然として強い証拠だ。配信、劇場、ゲーム、実写を横断する展開が進み、グローバルIPとしての価値がさらに高まる。",
+        "headline": "強いIPがアニメから劇場へ拡張する流れは、ファン経済の収益化手順を見る材料になる"
+      },
+      "selection_reason": "強いIPがアニメから劇場へ拡張する流れは、ファン経済の収益化手順を見る材料になる",
+      "classification_reason": "強いIPがアニメから劇場へ拡張する流れは、ファン経済の収益化手順を見る材料になる",
+      "knowledge_value": "アニメ第2期後の映画化は、シリーズ人気が依然として強い証拠だ。配信、劇場、ゲーム、実写を横断する展開が進み、グローバルIPとしての価値がさらに高まる。",
+      "content_status": "content_ok",
+      "content_chars": 2568,
+      "source_access": "free"
+    },
+    {
+      "number": 5,
+      "title": "スパイク・チュンソフト、『Steins;Gate 比翼恋理のだーりん』ではなく『Steins;Gate: Octet of Shifting Space』を展開",
+      "source": "Anime News Network",
+      "description": "Steins;Gate Re:Boot game gets Digital Deluxe Edition",
+      "url": "https://www.animenewsnetwork.com/news/2026-07-03/spike-chunsoft-to-release-steins-gate-octet-of-shifting-space-graphic-adventure-game/.239262",
+      "category": "漫画・アニメ・文化",
+      "published_at": "2026-07-03",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 5,
+        "title_ja": "スパイク・チュンソフト、『Steins;Gate 比翼恋理のだーりん』ではなく『Steins;Gate: Octet of Shifting Space』を展開",
+        "key_points": [
+          "スパイク・チュンソフトが『Steins;Gate: Octet of Shifting Space』をSwitch 2、Switch、PS5、Steam向けに展開する。",
+          "1980年代風のテキストパーサー型アドベンチャーとして、コマンド入力で進行する点が特徴だ。",
+          "『Steins;Gate Re:Boot』には新ルート『Gamma Worldline』や豪華版特典が用意される。"
+        ],
+        "detailed_summary": "スパイク・チュンソフトはAnime Expoで、『Steins;Gate: Octet of Shifting Space』をNintendo Switch 2、Switch、PS5、Steam向けに展開すると発表した。2011年PC版を基にした作品で、現代的な選択肢方式ではなく、英語コマンドを自由入力する1980年代型テキストパーサーを再現している。8色RGB風の画面表現やFM音源風サウンドも売りだ。あわせて『Steins;Gate Re:Boot』のデジタルデラックス版や新規シナリオ『Gamma Worldline』も公開され、シリーズの懐古性と新規性を同時に押し出す構成になっている。",
+        "why_it_matters": "名作ADVを単なる移植で終わらせず、操作体験そのものまでレトロに再構成した点が面白い。シリーズの既存ファンだけでなく、古典的PCアドベンチャー文化を知らない層への再提示にもなる。",
+        "headline": "旧作IPの再活用が続く局面で、物語資産の長寿命化と再販売設計の参考になる"
+      },
+      "selection_reason": "旧作IPの再活用が続く局面で、物語資産の長寿命化と再販売設計の参考になる",
+      "classification_reason": "旧作IPの再活用が続く局面で、物語資産の長寿命化と再販売設計の参考になる",
+      "knowledge_value": "名作ADVを単なる移植で終わらせず、操作体験そのものまでレトロに再構成した点が面白い。シリーズの既存ファンだけでなく、古典的PCアドベンチャー文化を知らない層への再提示にもなる。",
+      "content_status": "content_ok",
+      "content_chars": 4703,
+      "source_access": "free"
+    },
+    {
+      "number": 6,
+      "title": "Microsoft、6000人の常駐エンジニアを擁する新部門『Microsoft Frontier Company』を設立",
+      "source": "The Times of India",
+      "description": "",
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/microsoft-launches-fde-division-microsoft-frontier-company-with-6000-resident-engineers-as-senior-exec-judson-althoff-admits-customers-want-measurable-/articleshow/132150752.cms",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-03",
+      "mode": "followup",
+      "summary": {
+        "article_index": 6,
+        "title_ja": "Microsoft、6000人の常駐エンジニアを擁する新部門『Microsoft Frontier Company』を設立",
+        "key_points": [
+          "Microsoftが25億ドルを投じ、企業向けAI導入を支援する新事業組織を立ち上げた。",
+          "6000人規模の業界専門家とAIエンジニアを顧客現場に配置し、成果重視で導入を進める。",
+          "狙いはAI投資の費用対効果を改善し、モデル選定や運用最適化まで含めてROIを可視化することだ。"
+        ],
+        "detailed_summary": "Microsoftは、企業のAI導入を現場密着で支援する新組織『Microsoft Frontier Company』を発表した。25億ドルを投じ、6000人の業界専門家とAIエンジニアを顧客企業に常駐させ、設計、導入、改善を継続的に回す体制を敷く。Judson Althoff氏は、企業がAIツールに資金を投じても成果が見えにくい現状を認め、より安価なモデルへの切り替えや、データ、ワークフロー、ガバナンスを含めた最適化でROIを高める必要があると説明した。単なるツール販売から、成果責任を伴う伴走型支援へ踏み込んだ形だ。",
+        "why_it_matters": "企業AIの課題が導入そのものから、成果の証明へ移ったことを象徴する。大手ベンダーが人員を大量投入してROI改善まで請け負う流れは、今後のエンタープライズAI競争の標準になりうる。",
+        "headline": "AI導入支援が製品販売から常駐実装へ移り、成果責任込みの企業戦略差分が見える"
+      },
+      "selection_reason": "AI導入支援が製品販売から常駐実装へ移り、成果責任込みの企業戦略差分が見える",
+      "classification_reason": "AI導入支援が製品販売から常駐実装へ移り、成果責任込みの企業戦略差分が見える",
+      "knowledge_value": "企業AIの課題が導入そのものから、成果の証明へ移ったことを象徴する。大手ベンダーが人員を大量投入してROI改善まで請け負う流れは、今後のエンタープライズAI競争の標準になりうる。",
+      "content_status": "content_ok",
+      "content_chars": 3955,
+      "source_access": "unknown"
+    },
+    {
+      "number": 7,
+      "title": "OpenAI、Anthropic、Amazon、そしてMicrosoftまで 大手テック各社が何千人もの社員を顧客オフィスに送り込む理由",
+      "source": "The Times of India",
+      "description": "",
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/openai-anthropic-amazon-and-now-microsoft-why-some-of-the-biggest-technology-companies-are-sending-thousands-of-their-employees-to-sit-in-customers-offices/articleshow/132155570.cms",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-03",
+      "mode": "followup",
+      "summary": {
+        "article_index": 1,
+        "title_ja": "OpenAI、Anthropic、Amazon、そしてMicrosoftまで 大手テック各社が何千人もの社員を顧客オフィスに送り込む理由",
+        "key_points": [
+          "Amazon、Microsoft、Meta、OpenAI、Anthropicが、顧客企業に自社エンジニアを常駐させる体制を拡大している。",
+          "背景には、生成AIの実証実験の多くが利益につながらず、原因がモデル性能ではなく既存システムへの統合不全にあるという認識がある。",
+          "API提供だけでは企業導入が進まず、現場で実装をやり切るFDEがAI業界の新たな競争軸になっている。"
+        ],
+        "detailed_summary": "大手テック企業は、AIソフトを売るだけでは企業の本格導入が進まないと判断し、顧客先に自社エンジニアを送り込む体制へ一斉に傾いている。Microsoftは25億ドルと6000人規模、AWSも10億ドルを投じ、OpenAIやAnthropic、Metaも同様の部署を整備した。背景には、企業向け生成AIの実証の大半が収益改善に結び付かず、障害がモデルではなくレガシー環境や社内調整にあるという現実がある。AIの勝負は性能比較から導入完遂力へ移った。",
+        "why_it_matters": "生成AI市場の主戦場がモデル提供から現場実装へ移ったことを示す。今後は優れたモデルより、企業の複雑な業務にAIを根付かせる運用力が競争優位になる。",
+        "headline": "モデル競争が現場常駐競争へ広がり、AI営業の勝ち筋が導入運用へ寄っている"
+      },
+      "selection_reason": "モデル競争が現場常駐競争へ広がり、AI営業の勝ち筋が導入運用へ寄っている",
+      "classification_reason": "モデル競争が現場常駐競争へ広がり、AI営業の勝ち筋が導入運用へ寄っている",
+      "knowledge_value": "生成AI市場の主戦場がモデル提供から現場実装へ移ったことを示す。今後は優れたモデルより、企業の複雑な業務にAIを根付かせる運用力が競争優位になる。",
+      "content_status": "content_ok",
+      "content_chars": 4878,
+      "source_access": "free"
+    },
+    {
+      "number": 8,
+      "title": "8月からCiscoが9万人の全社員にAIエージェントを展開 会社はそれが最も効率的だと語る",
+      "source": "The Times of India",
+      "description": "",
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/starting-august-cisco-is-rolling-out-ai-agents-to-all-its-90000-employees-as-company-says-we-feel-like-thats-the-most-/articleshow/132131639.cms",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-02",
+      "mode": "followup",
+      "summary": {
+        "article_index": 2,
+        "title_ja": "8月からCiscoが9万人の全社員にAIエージェントを展開 会社はそれが最も効率的だと語る",
+        "key_points": [
+          "Ciscoは2026年8月から全9万人の社員に個別最適化されたAIエージェントを提供する。",
+          "タスクごとに最適なAIモデルを自動選択し、トークン使用量の抑制とコスト管理、データ保護を重視している。",
+          "財務部門ではMD&A草案の8〜9割をAIが生成するなど、社内業務への実装がすでに進んでいる。"
+        ],
+        "detailed_summary": "Ciscoは8月から全社員9万人にAIエージェントを配布し、大企業としては最大級の社内展開に踏み切る。各エージェントは質問対応や業務処理を担い、用途に応じて最適なモデルを自動で呼び分ける。高コスト化しやすいエージェント処理に備え、オンプレ中心の基盤でトークン消費と安全性を管理する方針だ。財務領域では開示文書の草案作成やIR分析、業績予測ダッシュボードにもAIを使っており、AIを全社運営の標準装備に変える段階へ入った。",
+        "why_it_matters": "AI導入は実験段階から全社標準化へ進みつつある。大企業がコスト管理と業務再設計を両立できるかを占う先行事例として意味が大きい。",
+        "headline": "社内全社展開の事例として、AIエージェント導入の運用単位が実験から制度へ進む"
+      },
+      "selection_reason": "社内全社展開の事例として、AIエージェント導入の運用単位が実験から制度へ進む",
+      "classification_reason": "社内全社展開の事例として、AIエージェント導入の運用単位が実験から制度へ進む",
+      "knowledge_value": "AI導入は実験段階から全社標準化へ進みつつある。大企業がコスト管理と業務再設計を両立できるかを占う先行事例として意味が大きい。",
+      "content_status": "content_ok",
+      "content_chars": 3838,
+      "source_access": "unknown"
+    },
+    {
+      "number": 9,
+      "title": "データセンターが押し付けられていると怒る米住民たち 当局者のリコール運動に発展",
+      "source": "The Guardian",
+      "description": "",
+      "url": "https://www.theguardian.com/us-news/2026/jul/03/datacenter-recall-elections",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-03",
+      "mode": "followup",
+      "summary": {
+        "article_index": 3,
+        "title_ja": "データセンターが押し付けられていると怒る米住民たち 当局者のリコール運動に発展",
+        "key_points": [
+          "ミシガン州レノックス郡区では、秘密裏に進んでいるとみられたデータセンター計画を巡り住民が強く反発している。",
+          "全米でも新設データセンターに対し、電力・水の大量消費、騒音、大気汚染、資産価値低下への懸念から反対運動が広がっている。",
+          "AIインフラへの不安が、共和党と民主党をまたぐ珍しい地域連帯を生んでいる。"
+        ],
+        "detailed_summary": "米国ではAI需要を支えるデータセンター建設に対し、地域住民の反発が強まっている。ミシガン州レノックスでは、開発側が計画主体を明かさないまま当局と接触していたことが記録開示で判明し、住民は透明性欠如に抗議して長時間の公聴会やリコール請求に動いた。データセンターは大量の電力と水を消費し、騒音や大気汚染、料金上昇を招くとの懸念がある。AIブームの裏側で、地域社会が負担を押し付けられる構図への不満が全米で噴き出している。",
+        "why_it_matters": "AIの成長は計算資源なしに成り立たないが、そのコストは地域住民が負担する。インフラ拡張の社会的許容が崩れれば、AI産業の成長速度そのものが制約を受ける。",
+        "headline": "データセンター反発が政治行動へ進み、電力と土地の制約がAI成長の実務壁になる"
+      },
+      "selection_reason": "データセンター反発が政治行動へ進み、電力と土地の制約がAI成長の実務壁になる",
+      "classification_reason": "データセンター反発が政治行動へ進み、電力と土地の制約がAI成長の実務壁になる",
+      "knowledge_value": "AIの成長は計算資源なしに成り立たないが、そのコストは地域住民が負担する。インフラ拡張の社会的許容が崩れれば、AI産業の成長速度そのものが制約を受ける。",
+      "content_status": "content_ok",
+      "content_chars": 9235,
+      "source_access": "unknown"
+    },
+    {
+      "number": 10,
+      "title": "LLM統合アプリケーション向けMCPサーバーのアーキテクチャパターン",
+      "source": "arXiv",
+      "description": "",
+      "url": "https://arxiv.org/abs/2606.30317",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-06-29",
+      "mode": "deep_dive",
+      "summary": {
+        "article_index": 4,
+        "title_ja": "LLM統合アプリケーション向けMCPサーバーのアーキテクチャパターン",
+        "key_points": [
+          "この論文は、MCPサーバーの実運用例を調べ、5つの主要アーキテクチャパターンを整理している。",
+          "Resource Gateway、Tool Orchestrator、Stateful Session Server、Proxy Aggregator、Domain-Specific Adapterの5類型を提示した。",
+          "認証、バージョニング、可観測性といった横断課題に加え、ツール数が増えるとモデルの選択精度が落ちる点も定量評価している。"
+        ],
+        "detailed_summary": "Anthropicが2024年に提案したMCPについて、本論文は15の実装事例を調査し、運用現場で繰り返し現れる5つのサーバー設計パターンを整理した。加えて、避けるべき4つのアンチパターンや、認証、版管理、監視といった共通課題もまとめている。評価では、分類の再現性に加え、通信オーバーヘッドやツール数増加による選択精度低下も測定し、文脈内ツールが増えるほどLLMの判断性能が落ちる傾向を示した。MCP実装の設計知を体系化する初期の実務論文といえる。",
+        "why_it_matters": "MCPは急速に普及している一方、設計の共通知見が不足していた。実装パターンの整理は、LLM連携システムを壊れにくく保守しやすく作る土台になる。",
+        "headline": "MCPを単発接続でなく運用基盤として見る視点を補強し、ハーネス設計判断に効く"
+      },
+      "selection_reason": "MCPを単発接続でなく運用基盤として見る視点を補強し、ハーネス設計判断に効く",
+      "classification_reason": "MCPを単発接続でなく運用基盤として見る視点を補強し、ハーネス設計判断に効く",
+      "knowledge_value": "MCPは急速に普及している一方、設計の共通知見が不足していた。実装パターンの整理は、LLM連携システムを壊れにくく保守しやすく作る土台になる。",
+      "content_status": "content_ok",
+      "content_chars": 2892,
+      "source_access": "free"
+    },
+    {
+      "number": 11,
+      "title": "オープンソースにおけるAIコーディングエージェントの検出 1億8000万リポジトリを対象にした検証済みマルチメソッド国勢調査",
+      "source": "arXiv",
+      "description": "",
+      "url": "https://arxiv.org/abs/2606.24429",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-06-23",
+      "mode": "deep_dive",
+      "summary": {
+        "article_index": 5,
+        "title_ja": "オープンソースにおけるAIコーディングエージェントの検出 1億8000万リポジトリを対象にした検証済みマルチメソッド国勢調査",
+        "key_points": [
+          "研究者は1億8000万超のGitリポジトリを調べ、AIコーディングエージェントの痕跡を複数手法で検出した。",
+          "ボットアカウントだけを見る従来手法では採用実態を大幅に過小評価し、Claude Codeの検出では約30倍の見逃しが生じると示した。",
+          "PR中心のクラウド型エージェントと、コミット中心のエディタ内エージェントでは現れる作業内容が大きく異なる。"
+        ],
+        "detailed_summary": "この論文は、設定ファイル、コミット文、著者情報、ボット署名を組み合わせる多層的な検出法で、オープンソース内のAIコーディングエージェント利用を大規模分析した。単一シグナルでは活動の一部しか捉えられず、Claude Codeでは従来のボット検出が実態の3.3％しか拾えないことが分かった。2024年末から2026年春にかけて月32万件超のAI起点コミットが確認され、ツールごとの差以上に、PR経由かコミット経由かという導入形態が成果物の性質を左右していた。",
+        "why_it_matters": "AIコーディング導入の実態把握が甘いと、研究も政策も判断を誤る。開発現場で何がどの形で自動化されているのかを測る基準を更新する必要がある。",
+        "headline": "AIコーディングの浸透を感覚でなく分布で捉え直せる。市場成熟度の把握に向く"
+      },
+      "selection_reason": "AIコーディングの浸透を感覚でなく分布で捉え直せる。市場成熟度の把握に向く",
+      "classification_reason": "AIコーディングの浸透を感覚でなく分布で捉え直せる。市場成熟度の把握に向く",
+      "knowledge_value": "AIコーディング導入の実態把握が甘いと、研究も政策も判断を誤る。開発現場で何がどの形で自動化されているのかを測る基準を更新する必要がある。",
+      "content_status": "content_ok",
+      "content_chars": 3016,
+      "source_access": "free"
+    },
+    {
+      "number": 12,
+      "title": "安全な逃避先はない ホルムズ海峡の混乱にアジアがさらされ続ける理由",
+      "source": "The Asia Group",
+      "description": "",
+      "url": "https://straitofhormuz.theasiagroup.com/about/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-06-29",
+      "mode": "deep_dive",
+      "summary": {
+        "article_index": 6,
+        "title_ja": "安全な逃避先はない ホルムズ海峡の混乱にアジアがさらされ続ける理由",
+        "key_points": [
+          "2026年3月以降のホルムズ海峡の通航混乱は、石油やLNGだけでなく化学品、肥料、アルミ、ヘリウムなど広範な供給網に波及している。",
+          "特にアジアは、海峡通過エネルギーへの依存度が高く、中国、インド、日本、韓国、東南アジア諸国が不均等な打撃を受けた。",
+          "停戦後も検査や保険承認などを通じた制約が残り、供給混乱は一時的ショックではなく長期的な構造問題になりつつある。"
+        ],
+        "detailed_summary": "本稿は、ホルムズ海峡の混乱が単なる原油輸送問題ではなく、世界経済の広い分配網を揺らす供給網ショックだと論じる。海峡閉鎖前、通過する原油の約8割、LNGの約9割がアジア向けで、化学品や肥料、アルミなども地域経済に深く結び付いていた。各国は備蓄量や財政余力が異なるため影響は uneven で、産業や所得階層ごとの明暗も分かれた。停戦後も通航制約は残り、燃料、食料、医療品、製造コストに連鎖的な圧力が続く可能性が高い。",
+        "why_it_matters": "エネルギー安全保障は燃料価格だけの問題ではなく、生活必需品や製造業全体のコスト構造に直結する。アジアの脆弱性は、地政学リスクが供給網全体をどう揺らすかを改めて示している。",
+        "headline": "中東情勢を原油見出しでなく、海運と保険と輸入国脆弱性の連鎖で読めるようになる"
+      },
+      "selection_reason": "中東情勢を原油見出しでなく、海運と保険と輸入国脆弱性の連鎖で読めるようになる",
+      "classification_reason": "中東情勢を原油見出しでなく、海運と保険と輸入国脆弱性の連鎖で読めるようになる",
+      "knowledge_value": "エネルギー安全保障は燃料価格だけの問題ではなく、生活必需品や製造業全体のコスト構造に直結する。アジアの脆弱性は、地政学リスクが供給網全体をどう揺らすかを改めて示している。",
+      "content_status": "content_ok",
+      "content_chars": 7402,
+      "source_access": "unknown"
+    },
+    {
+      "number": 13,
+      "title": "AdMem: タスク解決エージェントのための高度な記憶機構",
+      "source": "arXiv",
+      "description": "",
+      "url": "https://arxiv.org/abs/2606.06787",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-06-05",
+      "mode": "deep_dive",
+      "summary": {
+        "article_index": 1,
+        "title_ja": "AdMem: タスク解決エージェントのための高度な記憶機構",
+        "key_points": [
+          "LLMエージェントの長期タスク性能を高めるため、意味記憶・エピソード記憶・手続き記憶を統合した枠組みを提案した。",
+          "短期記憶と長期記憶を組み合わせる二層構造に加え、actor・memory・critic の複数エージェントで記憶生成と評価を自動化する。",
+          "報酬に基づく評価、統合、刈り込みで長期記憶を管理し、多段の長い対話タスクで既存手法より高い成功率と頑健性を示した。"
+        ],
+        "detailed_summary": "この論文は、LLMを使ったツール利用エージェントが長い手順のタスクでつまずく原因を、知識の保持だけでなく整理と再利用の弱さにあると捉える。従来は事実の保存や過去の成功手順の再生に偏っていたが、AdMemは意味記憶、経験の記録、手順知識をまとめて扱う統一的な記憶基盤を設計した。短期と長期の二層メモリを持ち、複数エージェントが記憶の生成、報酬付け、検索を担うことで、失敗も踏まえた学習と継続的な改善を実現。複数環境の実験では、長いマルチターンタスクで成功率と安定性が向上した。",
+        "why_it_matters": "AIエージェントを実務で使ううえでは、その場しのぎではなく、過去の経験を整理して次に生かせることが重要になる。記憶の設計が性能のボトルネックだと示した点で、長期自律エージェントの実用化に直結する研究だ。",
+        "headline": "長期タスクで何を保持し何を圧縮するかを考える材料として、記憶設計の芯に触れる"
+      },
+      "selection_reason": "長期タスクで何を保持し何を圧縮するかを考える材料として、記憶設計の芯に触れる",
+      "classification_reason": "長期タスクで何を保持し何を圧縮するかを考える材料として、記憶設計の芯に触れる",
+      "knowledge_value": "AIエージェントを実務で使ううえでは、その場しのぎではなく、過去の経験を整理して次に生かせることが重要になる。記憶の設計が性能のボトルネックだと示した点で、長期自律エージェントの実用化に直結する研究だ。",
+      "content_status": "content_ok",
+      "content_chars": 2419,
+      "source_access": "free"
+    },
+    {
+      "number": 14,
+      "title": "偏波状態監視による海底ケーブルへの物理的接触の完全教師なし検出",
+      "source": "arXiv",
+      "description": "",
+      "url": "https://arxiv.org/abs/2607.01484",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-01",
+      "mode": "adjacent",
+      "summary": {
+        "article_index": 2,
+        "title_ja": "偏波状態監視による海底ケーブルへの物理的接触の完全教師なし検出",
+        "key_points": [
+          "海底ケーブル上で取得した偏波状態データを使い、ラベルなしで異常を検出する Fast-Slow DSVDD 手法を提案した。",
+          "122,174件の記録の中で、確認済みのトロール漁船接触5件を上位13件にランク付けし、高い検出力を示した。",
+          "既知イベントだけでなく、裏付けのある追加の接触事象も抽出しており、継続監視への応用可能性を示している。"
+        ],
+        "detailed_summary": "この研究は、実運用中の海底ケーブルを対象に、偏波状態の連続監視データから物理的接触を自動検出する完全教師なし手法を示した。学習時にイベントラベルを必要としないため、稀で記録が少ない事故にも対応しやすいのが特徴だ。提案する Fast-Slow DSVDD 検出器は、12万2174件の観測記録から、確認済みのトロール漁船による接触5件すべてを上位13件に入れる精度を達成した。さらに、別の裏付けが取れる追加接触イベントも見つけており、海底インフラ監視の省力化と早期対応に道を開く。",
+        "why_it_matters": "海底ケーブルは通信インフラの中核で、損傷の早期発見は障害や復旧コストの抑制につながる。教師なしで実環境データから有力候補を絞り込めるなら、監視体制の現実性が大きく上がる。",
+        "headline": "AI競争を通信、保険、海運、沿岸電力の接続面から見直せる。供給網の解像度が上がる"
+      },
+      "selection_reason": "AI競争を通信、保険、海運、沿岸電力の接続面から見直せる。供給網の解像度が上がる",
+      "classification_reason": "AI競争を通信、保険、海運、沿岸電力の接続面から見直せる。供給網の解像度が上がる",
+      "knowledge_value": "海底ケーブルは通信インフラの中核で、損傷の早期発見は障害や復旧コストの抑制につながる。教師なしで実環境データから有力候補を絞り込めるなら、監視体制の現実性が大きく上がる。",
+      "content_status": "content_ok",
+      "content_chars": 1666,
+      "source_access": "free",
+      "adjacent_field": "海底ケーブル・沿岸電力・冷却を含むデジタル物流",
+      "adjacent_reasoning": "AI競争をモデル性能ではなくインフラ支配で見る視点と、中東や海運を供給網で読む視点を、そのまま一段上の地図に引き上げる分野です。データセンター、海運、保険、電力、水、通信が一つの制約系としてつながり、投資と安全保障とAI運用を同時に読めるようになります。"
+    }
+  ],
+  "status": "complete",
+  "failed_modes": []
+}
