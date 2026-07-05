@@ -1,0 +1,385 @@
+{
+  "date": "2026-07-05",
+  "generated_at": "2026-07-05T09:16:07.327285+09:00",
+  "run_id": "20260705T091607+0900",
+  "mode_collection_counts": {
+    "breaking": 36,
+    "followup": 6,
+    "deep_dive": 4,
+    "adjacent": 3
+  },
+  "mode_errors": {},
+  "mode": "multimode",
+  "articles": [
+    {
+      "number": 1,
+      "title": "アリババ、従業員によるClaude Code利用を禁止へ",
+      "source": "TechCrunch",
+      "description": "",
+      "url": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-04",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 1,
+        "title_ja": "アリババ、従業員によるClaude Code利用を禁止へ",
+        "key_points": [
+          "アリババは7月10日からAnthropicの開発ツールClaude Codeの社内利用を禁止すると報じられた",
+          "Anthropicはもともと中国企業やその関連企業による自社モデル利用を禁じており、抜け道の封鎖を進めていた",
+          "アリババはClaude Codeを高リスクソフトに分類し、自社製ツールQoderの利用を社員に促している"
+        ],
+        "detailed_summary": "複数報道によると、アリババは7月10日から従業員によるClaude Codeの利用を禁じる。Anthropicは以前から中国企業やその傘下企業による自社モデル利用を禁止しており、中国ユーザーのアクセスを可能にしていた抜け道の遮断を進めてきた。Redditでは、中国ユーザーを密かに識別できるClaude Codeの存在も話題になったが、Anthropic側は不正再販業者対策と蒸留防止の実験だったと説明。最終的にアリババはリスクを重く見て、自社のQoderへ切り替える方針を明確にした。",
+        "why_it_matters": "米中AI規制の境界線が、企業向け開発ツールの利用制限として具体化している。グローバルAI企業の提供制限が、中国大手の内製化や国産ツール移行をさらに後押しする可能性が高い。",
+        "headline": "コーディングAIの導入可否が地政学と企業統制で割れる現実を直撃する差分"
+      },
+      "selection_reason": "コーディングAIの導入可否が地政学と企業統制で割れる現実を直撃する差分",
+      "classification_reason": "コーディングAIの導入可否が地政学と企業統制で割れる現実を直撃する差分",
+      "knowledge_value": "米中AI規制の境界線が、企業向け開発ツールの利用制限として具体化している。グローバルAI企業の提供制限が、中国大手の内製化や国産ツール移行をさらに後押しする可能性が高い。",
+      "content_status": "content_ok",
+      "content_chars": 1085,
+      "source_access": "free"
+    },
+    {
+      "number": 2,
+      "title": "マクロンからモディまで、各国政府がAI大手を厚遇",
+      "source": "CNBC",
+      "description": "",
+      "url": "https://www.cnbc.com/2026/07/04/macron-modi-ai-infrastructure-tech-ceos.html",
+      "category": "経済・金融",
+      "published_at": "2026-07-04",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 2,
+        "title_ja": "マクロンからモディまで、各国政府がAI大手を厚遇",
+        "key_points": [
+          "フランスのマクロン大統領とインドのモディ首相が、AI投資とインフラ誘致で個人的な働きかけを強めている",
+          "フランスではSoftBankが2031年までに大規模AIデータセンター建設を進める計画を打ち出した",
+          "インドではAmazonが過去最大級の480億ドル投資を表明し、そのうち210億ドルがAIとクラウド向けとされる"
+        ],
+        "detailed_summary": "各国がAI競争で出遅れまいとするなか、フランスのマクロン大統領とインドのモディ首相は、首脳本人が前面に出て巨大テック企業の投資を呼び込んでいる。マクロン氏はSoftBankの孫正義氏と直接交渉し、フランスでのAIデータセンター計画を後押し。G7ではOpenAIやAnthropic、Google DeepMindなどの幹部も招いた。モディ氏もAmazonやMicrosoft、Google、Intelの首脳と会談し、AIとクラウド基盤への巨額投資を確保しつつある。AI覇権が、技術だけでなく外交力と投資誘致競争の局面に入ったことを示す内容だ。",
+        "why_it_matters": "AIの競争軸がモデル性能だけでなく、電力、データセンター、資本、人材をどう集めるかに移っている。国家トップの政治力がAI産業の立地を左右する時代になってきた。",
+        "headline": "AI競争がモデル戦から国家ぐるみの設備誘致戦へ移ったことを示す"
+      },
+      "selection_reason": "AI競争がモデル戦から国家ぐるみの設備誘致戦へ移ったことを示す",
+      "classification_reason": "AI競争がモデル戦から国家ぐるみの設備誘致戦へ移ったことを示す",
+      "knowledge_value": "AIの競争軸がモデル性能だけでなく、電力、データセンター、資本、人材をどう集めるかに移っている。国家トップの政治力がAI産業の立地を左右する時代になってきた。",
+      "content_status": "content_ok",
+      "content_chars": 4374,
+      "source_access": "free"
+    },
+    {
+      "number": 3,
+      "title": "英国とフランス、オマーンと領海安全確保で合意",
+      "source": "CNBC",
+      "description": "",
+      "url": "https://www.cnbc.com/2026/07/04/uk-france-agree-with-oman-to-ensure-safety-of-its-territorial-waters.html",
+      "category": "経済・金融",
+      "published_at": "2026-07-04",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 3,
+        "title_ja": "英国とフランス、オマーンと領海安全確保で合意",
+        "key_points": [
+          "英国とフランスは、オマーンと協力して同国領海とホルムズ海峡の航行安全を確保する方針を示した",
+          "フランスは掃海艦2隻を含む機雷対策戦力やフリゲート艦、哨戒機を中東に展開した",
+          "イランは域外国による軍事的示威だとして反発し、深刻な警告を発した"
+        ],
+        "detailed_summary": "英国とフランスは7月5日、オマーンと連携して同国領海とホルムズ海峡の安全な航行を支える考えを表明した。背景には、6月17日に米国とイランが海峡再開へ向けた了解覚書を交わし、原油輸送が持ち直している事情がある。フランスは掃海艦2隻に加え、フリゲート艦や海上哨戒機を投入し、必要なら多国籍軍事ミッションの展開も辞さない姿勢を示した。一方でイランは、海峡の安全は沿岸国が担うべきだと反発。世界の石油の約2割が通る要衝だけに、緊張と安定化努力が同時進行している。",
+        "why_it_matters": "ホルムズ海峡は世界のエネルギー供給に直結するため、航行の不安定化は原油価格や物流に即座に波及する。欧州勢の関与強化は安全保障だけでなく、世界経済の安定確保という意味を持つ。",
+        "headline": "ホルムズ周辺の航行安全は原油、保険、海運コストの先行指標として重要"
+      },
+      "selection_reason": "ホルムズ周辺の航行安全は原油、保険、海運コストの先行指標として重要",
+      "classification_reason": "ホルムズ周辺の航行安全は原油、保険、海運コストの先行指標として重要",
+      "knowledge_value": "ホルムズ海峡は世界のエネルギー供給に直結するため、航行の不安定化は原油価格や物流に即座に波及する。欧州勢の関与強化は安全保障だけでなく、世界経済の安定確保という意味を持つ。",
+      "content_status": "content_ok",
+      "content_chars": 4604,
+      "source_access": "free"
+    },
+    {
+      "number": 4,
+      "title": "熱波が米国を襲うなか、ホワイトハウスが省エネ関連の数千ページを削除",
+      "source": "The Verge",
+      "description": "The US Department of Energy reportedly deleted about 6,000 pages related to energy conservation as a historic heatwave tears across the country. The deletion was suspiciously timed, following Republican outrage over Mayor Zohran Mamdani asking New Yorkers to help reduce strain on the grid by setting their AC to 78 degrees. Republicans like Ted Cruz […]",
+      "url": "https://www.theverge.com/policy/961449/white-house-mamdani-heatwave-deletion",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-04",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 4,
+        "title_ja": "熱波が米国を襲うなか、ホワイトハウスが省エネ関連の数千ページを削除",
+        "key_points": [
+          "米エネルギー省が省エネや節水などに関する約6000ページを削除したと報じられた",
+          "削除の時期は、ニューヨーク市長が冷房設定を78度にと呼びかけた後の政治的反発と重なった",
+          "猛暑時の適切な空調設定は停電防止に役立ち、極端な暑さは米国で大きな死亡要因でもある"
+        ],
+        "detailed_summary": "米国で歴史的熱波が続くなか、エネルギー省が省エネ関連ページを約6000件削除したと報じられた。削除対象には、猛暑時に冷房を華氏78度前後に設定する助言だけでなく、節水や断熱材、ソーラー関連の情報まで含まれていたという。きっかけとして、ニューヨーク市のマムダニ市長が電力網への負荷軽減を呼びかけたことに対し、共和党側が政治問題化した流れが指摘されている。ニューヨークでは95度超が4日連続、うち2日は100度超となり、停電回避のための節電策の重要性が増していた。極端な暑さは洪水や竜巻、ハリケーンを合わせた以上の死者を出す年もある。",
+        "why_it_matters": "猛暑対策の情報削除は、気候リスク対応を政治対立が上書きしていることを示す。公的な省エネ情報へのアクセス低下は、停電対策や住民の安全確保に直接影響しうる。",
+        "headline": "猛暑下での情報削除はエネルギー政策の実務と政治のねじれを映している"
+      },
+      "selection_reason": "猛暑下での情報削除はエネルギー政策の実務と政治のねじれを映している",
+      "classification_reason": "猛暑下での情報削除はエネルギー政策の実務と政治のねじれを映している",
+      "knowledge_value": "猛暑対策の情報削除は、気候リスク対応を政治対立が上書きしていることを示す。公的な省エネ情報へのアクセス低下は、停電対策や住民の安全確保に直接影響しうる。",
+      "content_status": "content_ok",
+      "content_chars": 2091,
+      "source_access": "free"
+    },
+    {
+      "number": 5,
+      "title": "Midjourney、ハリウッド各社に自社AI利用の詳細開示を要求",
+      "source": "TechCrunch",
+      "description": "",
+      "url": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-04",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 5,
+        "title_ja": "Midjourney、ハリウッド各社に自社AI利用の詳細開示を要求",
+        "key_points": [
+          "Disney、Universal、Warner Bros.との著作権訴訟で、Midjourneyが映画会社側のAI利用実態の開示を求めている",
+          "争点は、消費者向け生成物に限らず、社内用途の生成AI利用文書まで開示対象に含めるべきかどうか",
+          "Midjourneyは、映画会社自身も無許諾著作物でAIを訓練している可能性があれば、自社防御に有利だと主張している"
+        ],
+        "detailed_summary": "画像生成AIのMidjourneyは、Disney、Universal、Warner Bros.との著作権訴訟で、相手側が社内外でどのように生成AIを使っているのか幅広い資料の開示を求めている。裁判所はすでに、消費者向けの動画や画像に結びつくAI利用情報は提出対象だと判断したが、Midjourneyはその範囲では不十分だと反発。映画会社がストーリーボード作成や企画立案など社内用途で無許諾の著作物を学習に使っていれば、それは業界慣行やフェアユース主張を支える材料になるという立場だ。さらに、侵害とされる出力だけでなく、スタジオ側がMidjourneyで試した全プロンプトと結果の提出も求めている。",
+        "why_it_matters": "この訴訟は、生成AIの著作権問題だけでなく、コンテンツ企業自身のAI活用がどこまで許されるのかも問う。裁判の過程で業界内部の運用実態が明らかになれば、今後のルール形成に大きく影響する。",
+        "headline": "AI著作権訴訟が防御戦から制作現場の実態開示戦へ広がる節目だから"
+      },
+      "selection_reason": "AI著作権訴訟が防御戦から制作現場の実態開示戦へ広がる節目だから",
+      "classification_reason": "AI著作権訴訟が防御戦から制作現場の実態開示戦へ広がる節目だから",
+      "knowledge_value": "この訴訟は、生成AIの著作権問題だけでなく、コンテンツ企業自身のAI活用がどこまで許されるのかも問う。裁判の過程で業界内部の運用実態が明らかになれば、今後のルール形成に大きく影響する。",
+      "content_status": "content_ok",
+      "content_chars": 2373,
+      "source_access": "free"
+    },
+    {
+      "number": 6,
+      "title": "エージェント型AIが従来のSaaS席数課金モデルを壊す、ベンダーは旧来ダッシュボードを捨てる必要がある",
+      "source": "IT Pro",
+      "description": "",
+      "url": "https://www.itpro.com/software/agentic-ai-breaks-the-traditional-saas-seat-licensing-model-now-its-up-to-vendors-to-ditch-legacy-dashboards-and-build-with-agents-in-mind",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-03",
+      "mode": "followup",
+      "summary": {
+        "article_index": 6,
+        "title_ja": "エージェント型AIが従来のSaaS席数課金モデルを壊す、ベンダーは旧来ダッシュボードを捨てる必要がある",
+        "key_points": [
+          "Gartnerは、エージェント型AIの普及で従来のSaaS収益モデルが大きく揺らぐと予測している",
+          "2030年までに2340億ドル相当のアプリ支出が、AIエージェントによる代替圧力にさらされる可能性がある",
+          "既存ベンダーは画面中心の製品価値から、成果中心の価値提供へ転換しなければ競争力を失うとされる"
+        ],
+        "detailed_summary": "Gartnerは、エージェント型AIの普及によってSaaS業界が大きな転換点を迎えると分析した。従来のソフトはユーザーが複数の画面やツールを操作する前提で設計され、席数課金と利用者数の増加が収益拡大の軸だった。だが、エージェントが作業を直接実行するようになると、画面中心の体験は価値を失い、2030年までに2340億ドル分のアプリ支出が影響を受ける可能性があるという。Gartnerはこれを破局ではなく変態と表現し、既存ベンダーにはエージェント機能の組み込みと、成果ベースの価格設計や製品再構築が不可欠だと指摘している。",
+        "why_it_matters": "AIエージェントはソフトの使い方だけでなく、売り方まで変える可能性がある。企業ソフト市場では、UIを売る会社より、業務結果をそのまま渡せる会社が優位に立ちやすくなる。",
+        "headline": "SaaSの課金単位が席数から成果や自動化量へずれる論点を補強する"
+      },
+      "selection_reason": "SaaSの課金単位が席数から成果や自動化量へずれる論点を補強する",
+      "classification_reason": "SaaSの課金単位が席数から成果や自動化量へずれる論点を補強する",
+      "knowledge_value": "AIエージェントはソフトの使い方だけでなく、売り方まで変える可能性がある。企業ソフト市場では、UIを売る会社より、業務結果をそのまま渡せる会社が優位に立ちやすくなる。",
+      "content_status": "content_ok",
+      "content_chars": 6458,
+      "source_access": "unknown"
+    },
+    {
+      "number": 7,
+      "title": "Microsoft、企業向けAIに本格参入　25億ドル投資の新部門を発表",
+      "source": "Cinco Días",
+      "description": "",
+      "url": "https://cincodias.elpais.com/companias/2026-07-04/microsoft-entra-en-la-ia-para-empresas-y-anuncia-una-nueva-division-con-2500-millones-de-dolares-en-inversiones.html",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-04",
+      "mode": "followup",
+      "summary": {
+        "article_index": 1,
+        "title_ja": "Microsoft、企業向けAIに本格参入　25億ドル投資の新部門を発表",
+        "key_points": [
+          "Microsoftは企業向けAI導入を担う新部門「Microsoft Frontier Company」を設立した。",
+          "25億ドルを投じ、業界知見とAI実装力を持つ約6000人規模の体制を整える。",
+          "LSEG、Unilever、Land O’Lakes、Accentureとの協業を起点に、Fortune 500向け展開を加速させる。"
+        ],
+        "detailed_summary": "Microsoftは、企業の業務変革をAI実装で支援する新組織「Microsoft Frontier Company」を立ち上げ、25億ドルを投資すると発表した。体制は業界専門家とエンジニアを含む約6000人規模で、単なる技術提供ではなく、導入設計や変革管理まで担う。AWSやOpenAI、Anthropicも類似の展開を進めるなか、Microsoftは既に多くの大企業に技術者を送り込んでいる顧客基盤を強みにする。LSEG向けには金融データへの高度な質問応答を実装し、実運用の成果を示し始めている。",
+        "why_it_matters": "AIの競争軸がモデル性能から企業現場への実装力に移っていることを示す動きだ。Microsoftは既存顧客網を武器に、企業向けAI導入の主導権をさらに強める可能性がある。",
+        "headline": "大手が企業向けAIを独立事業として再編し始めた差分が読み取れる"
+      },
+      "selection_reason": "大手が企業向けAIを独立事業として再編し始めた差分が読み取れる",
+      "classification_reason": "大手が企業向けAIを独立事業として再編し始めた差分が読み取れる",
+      "knowledge_value": "AIの競争軸がモデル性能から企業現場への実装力に移っていることを示す動きだ。Microsoftは既存顧客網を武器に、企業向けAI導入の主導権をさらに強める可能性がある。",
+      "content_status": "content_ok",
+      "content_chars": 4814,
+      "source_access": "unknown"
+    },
+    {
+      "number": 8,
+      "title": "SAP、AI投資拡大へ新規採用や出張費を絞り、AI主導の新職種創出を促進",
+      "source": "TechRadar",
+      "description": "",
+      "url": "https://www.techradar.com/pro/sap-wants-workers-to-create-new-ai-powered-jobs-slashes-travel-and-expenses-budgets-to-up-ai-spend",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-03",
+      "mode": "followup",
+      "summary": {
+        "article_index": 2,
+        "title_ja": "SAP、AI投資拡大へ新規採用や出張費を絞り、AI主導の新職種創出を促進",
+        "key_points": [
+          "SAPはAI戦略に資金を振り向けるため、採用抑制や出張停止、外部支出の見直しを進めている。",
+          "削減一辺倒ではなく、既存社員をAI関連の新しい役割へ再配置する方針を重視している。",
+          "直近四半期の売上は増えた一方で、ソフトウェア事業の先行き不安から株価は大きく下落している。"
+        ],
+        "detailed_summary": "SAPは、AI競争に備えて社内支出の配分を見直し、AI関連の採用や技術投資を優先する方針を鮮明にした。報道によれば、AI案件や顧客対応に直結しない出張は停止され、採用や外部支出にも厳しい管理が入る。一方で、必要な人材を外から増やすだけでなく、既存社員をAIエンジニアや研究職に近い新たな役割へ再配置する考えだ。2023年から2024年にかけて約1万2000人を削減した後でも、経営陣は人員総数を減らすより、職種構成を大きく変える姿勢を示している。",
+        "why_it_matters": "企業ソフトウェア大手でも、AI投資を優先するために費用構造と人材配置を根本から組み替える段階に入った。これは今後、ホワイトカラーの仕事の中身そのものが変わる流れを強める。",
+        "headline": "AI投資の原資を既存経費削減で捻出する企業運営の現実が見える"
+      },
+      "selection_reason": "AI投資の原資を既存経費削減で捻出する企業運営の現実が見える",
+      "classification_reason": "AI投資の原資を既存経費削減で捻出する企業運営の現実が見える",
+      "knowledge_value": "企業ソフトウェア大手でも、AI投資を優先するために費用構造と人材配置を根本から組み替える段階に入った。これは今後、ホワイトカラーの仕事の中身そのものが変わる流れを強める。",
+      "content_status": "content_ok",
+      "content_chars": 2754,
+      "source_access": "unknown"
+    },
+    {
+      "number": 9,
+      "title": "AIエージェントのための意図統治型ツール認可",
+      "source": "arXiv",
+      "description": "",
+      "url": "https://arxiv.org/abs/2606.22916",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-06-22",
+      "mode": "deep_dive",
+      "summary": {
+        "article_index": 3,
+        "title_ja": "AIエージェントのための意図統治型ツール認可",
+        "key_points": [
+          "論文は、ユーザーの意図をツール実行権限の制約条件として扱うIGACを提案する。",
+          "静的な認証情報だけでは不十分で、現在の依頼内容に照らした正当性確認が必要だと主張する。",
+          "意図証明書、セッション単位の権限縮小、マニフェスト絞り込み、ペイロード整合性検査などを導入する。"
+        ],
+        "detailed_summary": "この論文は、AIエージェントが外部ツールを使う際の認可を、単なるAPIトークンやスコープ確認ではなく、ユーザーがその場で何を求めているかという意図に基づいて制御するIGACを提案する。たとえ資格情報がデータの閲覧や削除を許していても、要約依頼しか出ていないならエクスポートや削除まで許すべきではない、という考え方だ。提案手法では、意図証明書の発行、セッションごとの権限の絞り込み、意図に応じたツール候補の制限、要求内容と実際の操作内容の整合性検査を行い、既存の監査基盤OpenPortへの適用可能性も示している。",
+        "why_it_matters": "AIエージェントの安全性は、何ができるかだけでなく、今その操作をしてよいのかで決まる。実運用で重要になる権限最小化と監査可能性を、サーバー側で扱う設計として注目できる。",
+        "headline": "エージェントに権限をどう細かく委任するかの設計判断を深められる"
+      },
+      "selection_reason": "エージェントに権限をどう細かく委任するかの設計判断を深められる",
+      "classification_reason": "エージェントに権限をどう細かく委任するかの設計判断を深められる",
+      "knowledge_value": "AIエージェントの安全性は、何ができるかだけでなく、今その操作をしてよいのかで決まる。実運用で重要になる権限最小化と監査可能性を、サーバー側で扱う設計として注目できる。",
+      "content_status": "content_ok",
+      "content_chars": 2806,
+      "source_access": "free"
+    },
+    {
+      "number": 10,
+      "title": "VIGIL: AIエージェント技能における行動仕様の実行時強制",
+      "source": "arXiv",
+      "description": "",
+      "url": "https://arxiv.org/abs/2606.26524",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-06-25",
+      "mode": "deep_dive",
+      "summary": {
+        "article_index": 4,
+        "title_ja": "VIGIL: AIエージェント技能における行動仕様の実行時強制",
+        "key_points": [
+          "VIGILは、AIエージェントが第三者スキルを実行する際の行動仕様を実行時に監視・強制する枠組みである。",
+          "自然言語で書かれた許可条件や開示制限を、時間順序や値の流れまで扱える実行可能ポリシーへ変換する。",
+          "実タスク評価では、95%以上の再現率と10%未満の偽陽性率で違反検出を達成した。"
+        ],
+        "detailed_summary": "VIGILは、AIエージェントが文書操作や外部通信、デバイス制御などを行う際、スキル仕様に書かれた制約を実行時に守らせるためのエンドツーエンド監視基盤だ。従来方式は単発のイベントや固定的な監視点に依存しやすく、複数操作にまたがる違反を見逃しやすかった。VIGILは、前後関係、引数の条件、値の受け渡しを表現できるポリシー言語と、有限トレースをSMT制約に落とし込む評価規則を組み合わせる。これにより、1回の呼び出しだけでは見抜けない不正な動作も検知し、実運用に近いタスク群で高い検出性能を示した。",
+        "why_it_matters": "AIエージェントが複数ツールをまたいで動く時代には、単発のフィルタでは安全を守れない。行動全体を追跡して違反を止める実行時強制は、実サービスへの導入に直結する。",
+        "headline": "スキル実行時の監査、逸脱検知、復旧をどう組むかの芯に当たる"
+      },
+      "selection_reason": "スキル実行時の監査、逸脱検知、復旧をどう組むかの芯に当たる",
+      "classification_reason": "スキル実行時の監査、逸脱検知、復旧をどう組むかの芯に当たる",
+      "knowledge_value": "AIエージェントが複数ツールをまたいで動く時代には、単発のフィルタでは安全を守れない。行動全体を追跡して違反を止める実行時強制は、実サービスへの導入に直結する。",
+      "content_status": "content_ok",
+      "content_chars": 3233,
+      "source_access": "free"
+    },
+    {
+      "number": 11,
+      "title": "OSGuard: コンピュータ操作エージェントの安全性ベンチマーク",
+      "source": "arXiv",
+      "description": "",
+      "url": "https://arxiv.org/abs/2606.15034",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-06-13",
+      "mode": "deep_dive",
+      "summary": {
+        "article_index": 5,
+        "title_ja": "OSGuard: コンピュータ操作エージェントの安全性ベンチマーク",
+        "key_points": [
+          "OSGuardは、PCやWebを操作するエージェントの安全性を評価するための新しいベンチマークである。",
+          "局所的な行動判断と、タスク全体を通した安全性の両方を測る二層構造を採用する。",
+          "現在のガードレールは単発判断では強い一方、実行全体では依然として安全上の抜け穴が残ることを示した。"
+        ],
+        "detailed_summary": "OSGuardは、コンピュータ操作エージェントが現実的なデスクトップやWebタスクをこなす際、成功したかどうかだけでなく、安全に達成したかまで評価するためのベンチマークだ。構成は二段階で、まず各提案行動を許可、無関係、危険に分類するアクション単位の評価を行う。次に、元のタスクは達成可能なまま環境だけを改変し、上書き破壊などの潜在リスクを埋め込んだ実行スイートで、エンドツーエンドの安全性を測る。結果として、単発判断では高性能なガードレールでも、実際の長いタスクでは危険な近道を防ぎ切れない場合があると示された。",
+        "why_it_matters": "AIエージェントの安全性評価は、正解に到達したかだけでは不十分だ。実運用では、途中の危険な操作を避けながら完遂できるかを測る基準が不可欠になる。",
+        "headline": "PC操作エージェントの安全性を感覚でなく評価軸で比較する助けになる"
+      },
+      "selection_reason": "PC操作エージェントの安全性を感覚でなく評価軸で比較する助けになる",
+      "classification_reason": "PC操作エージェントの安全性を感覚でなく評価軸で比較する助けになる",
+      "knowledge_value": "AIエージェントの安全性評価は、正解に到達したかだけでは不十分だ。実運用では、途中の危険な操作を避けながら完遂できるかを測る基準が不可欠になる。",
+      "content_status": "content_ok",
+      "content_chars": 2992,
+      "source_access": "free"
+    },
+    {
+      "number": 12,
+      "title": "グラフ最適化事前情報と視覚追跡による海底ケーブルの自律探索・追跡",
+      "source": "arXiv",
+      "description": "",
+      "url": "https://arxiv.org/abs/2606.23606",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-06-22",
+      "mode": "adjacent",
+      "summary": {
+        "article_index": 6,
+        "title_ja": "グラフ最適化事前情報と視覚追跡による海底ケーブルの自律探索・追跡",
+        "key_points": [
+          "AUVが不確かな海底ケーブル地図をもとに、視覚情報で経路を補正しながら探索・追跡する手法を提案した。",
+          "物理ベースのカテナリーモデルで探索範囲を現実的な領域に絞り、追跡喪失時の再発見を効率化する。",
+          "実海域試験では、意図的に誤差を入れた地図でもケーブルを発見し、120メートル区間の最大59%を点検できた。"
+        ],
+        "detailed_summary": "この論文は、海底通信ケーブルを自律型潜水機AUVで探索し、継続的に追跡する新手法を示した。海底ケーブルは地図誤差や部分埋没、小さな径のため視覚追跡が難しい。提案法では、不確かな既存ルート情報をグラフ最適化で逐次更新し、観測から離れるほど不確実性を広げつつ、ケーブルの深さや密度を反映したカテナリーモデルで探索範囲を物理的に妥当な領域へ制約する。加えて、機上で動く半教師あり分類器が映像からケーブルを検出し、追跡と経路更新に利用する。サウサンプトン大学のSmarty200による実地試験では、追跡喪失後の再捕捉にも成功した。",
+        "why_it_matters": "海底ケーブルは世界通信の基盤であり、点検の自動化は障害対応と保守コストの両面で重要だ。不確かな事前地図と現場観測をうまく統合するこの手法は、長距離インフラ監視の実用性を押し上げる。",
+        "headline": "AIインフラも情報流通も海底ケーブルの物理制約に乗ると腹落ちしやすい"
+      },
+      "selection_reason": "AIインフラも情報流通も海底ケーブルの物理制約に乗ると腹落ちしやすい",
+      "classification_reason": "AIインフラも情報流通も海底ケーブルの物理制約に乗ると腹落ちしやすい",
+      "knowledge_value": "海底ケーブルは世界通信の基盤であり、点検の自動化は障害対応と保守コストの両面で重要だ。不確かな事前地図と現場観測をうまく統合するこの手法は、長距離インフラ監視の実用性を押し上げる。",
+      "content_status": "content_ok",
+      "content_chars": 3005,
+      "source_access": "free",
+      "adjacent_field": "海運保険・海底ケーブル・港湾のボトルネック管理",
+      "adjacent_reasoning": "地政学とAIインフラを供給網で見る癖があるなら、次に追うべきは原油だけでなく海底ケーブル、港湾、保険料率のような見えにくい詰まりどころだ。AIもコンテンツ流通も結局は物流と通信の物理制約の上に乗っていると実感しやすい。"
+    },
+    {
+      "number": 13,
+      "title": "Sovereign Assurance Boundary: エージェント型インフラ向け証明書拘束型アドミッション",
+      "source": "arXiv",
+      "description": "",
+      "url": "https://arxiv.org/abs/2606.11632",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-06-10",
+      "mode": "adjacent",
+      "summary": {
+        "article_index": 1,
+        "title_ja": "Sovereign Assurance Boundary: エージェント型インフラ向け証明書拘束型アドミッション",
+        "key_points": [
+          "自律エージェントが本番インフラに高リスクな変更を提案する際、従来のIAMや監査ログでは実行前の文脈付き統制が不十分だと指摘している。",
+          "提案されたSABは、エージェントの操作提案をいったん隔離し、型付き実行契約と証拠ハッシュ、ポリシー版に結び付けて審査する仕組みを導入する。",
+          "承認後は限定的な有効期間と失効条件を持つ署名済み証明書を発行し、実行直前にも失効確認や状態ドリフト検査を行うことで安全性を高める。"
+        ],
+        "detailed_summary": "この論文は、推論結果が非決定的なAIエージェントに本番インフラの変更権限を委ねる際、既存のIAMやポリシーエンジン、監査ログだけでは統制が弱いという問題を扱う。提案されたSABは、エージェントの提案を実行前に遮断し、証拠データのハッシュとポリシー版に紐づく型付き実行契約へ変換したうえで認証経路に流す。承認済みの操作だけに署名付き証明書を発行し、実行ブローカーが直前の失効確認とドリフト検査を経てAPIを呼ぶ。Go試作機では2500件の試行で実現性を検証した。",
+        "why_it_matters": "AIエージェントが直接インフラを書き換える危険を減らし、実行権限を暗号学的に検証可能な形へ落とし込む設計だからだ。エージェント運用を本番環境へ広げるうえで、信頼性と可監査性の土台になりうる。",
+        "headline": "遠隔実行やコネクタ自動化で最後に効くのは認証と監査の設計だから"
+      },
+      "selection_reason": "遠隔実行やコネクタ自動化で最後に効くのは認証と監査の設計だから",
+      "classification_reason": "遠隔実行やコネクタ自動化で最後に効くのは認証と監査の設計だから",
+      "knowledge_value": "AIエージェントが直接インフラを書き換える危険を減らし、実行権限を暗号学的に検証可能な形へ落とし込む設計だからだ。エージェント運用を本番環境へ広げるうえで、信頼性と可監査性の土台になりうる。",
+      "content_status": "content_ok",
+      "content_chars": 2968,
+      "source_access": "free",
+      "adjacent_field": "機械ID・委任認可・監査ログの実務基盤",
+      "adjacent_reasoning": "エージェントを本気で運用するなら、モデル性能より先にどのエージェントが何の権限で何を実行したかを残す基盤が競争力になる。権限管理、安全性、遠隔実行、コネクタ自動化を一段上の実務レイヤーで束ねられる分野だ。"
+    }
+  ],
+  "status": "complete",
+  "failed_modes": []
+}
