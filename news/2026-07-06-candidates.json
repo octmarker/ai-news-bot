@@ -1,0 +1,383 @@
+{
+  "date": "2026-07-06",
+  "generated_at": "2026-07-06T09:01:17.457054+09:00",
+  "run_id": "20260706T090117+0900",
+  "mode_collection_counts": {
+    "breaking": 35,
+    "followup": 5,
+    "deep_dive": 6,
+    "adjacent": 1
+  },
+  "mode_errors": {},
+  "mode": "multimode",
+  "articles": [
+    {
+      "number": 1,
+      "title": "アマゾン、Mechanical Turkの新規顧客受付を終了へ",
+      "source": "TechCrunch",
+      "description": "",
+      "url": "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-05",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 1,
+        "title_ja": "アマゾン、Mechanical Turkの新規顧客受付を終了へ",
+        "key_points": [
+          "Amazonは2026年7月30日にMechanical Turkの新規顧客受付を停止する",
+          "既存顧客は継続利用できるが、新機能追加の予定はなく事実上の縮小局面に入る",
+          "低賃金クラウド労働やAI学習データ作成を支えた一方、近年は不正やLLM利用で信頼性が揺らいでいた"
+        ],
+        "detailed_summary": "Amazon Web Servicesは、クラウドソーシングサービスMechanical Turkについて、2026年7月30日で新規顧客の受け入れを止めると発表した。既存顧客向け運用は続けるものの、新機能の投入予定はなく、サービスは延命状態に入ったとみられる。2005年開始の同サービスは、CAPTCHA対応や感情判定のような自動化しにくい単純作業を低報酬で処理する場として広がり、後にはAI学習用データのアノテーションにも使われた。だが近年はボットや詐欺、さらに作業者自身のLLM利用が増え、データ品質への疑念が強まっていた。",
+        "why_it_matters": "初期AIブームを陰で支えた人手インフラが曲がり角に入ったことを示す。AI開発が人間の低賃金作業に依存してきた構造と、その限界が改めて浮き彫りになった。",
+        "headline": "AI学習の下請け基盤が実質縮小。データ作成と人手補完の前提を見直す材料になる"
+      },
+      "selection_reason": "AI学習の下請け基盤が実質縮小。データ作成と人手補完の前提を見直す材料になる",
+      "classification_reason": "AI学習の下請け基盤が実質縮小。データ作成と人手補完の前提を見直す材料になる",
+      "knowledge_value": "初期AIブームを陰で支えた人手インフラが曲がり角に入ったことを示す。AI開発が人間の低賃金作業に依存してきた構造と、その限界が改めて浮き彫りになった。",
+      "content_status": "content_ok",
+      "content_chars": 2243,
+      "source_access": "free"
+    },
+    {
+      "number": 2,
+      "title": "Bending Spoonsとは何か　AOLやVimeoを持つ知られざる企業が上場",
+      "source": "TechCrunch",
+      "description": "",
+      "url": "https://techcrunch.com/2026/07/05/what-is-bending-spoons-everything-to-know-about-aols-acquirer/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-05",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 2,
+        "title_ja": "Bending Spoonsとは何か　AOLやVimeoを持つ知られざる企業が上場",
+        "key_points": [
+          "ミラノ拠点のBending SpoonsがNASDAQ上場し、時価総額は一時250億ドル超に達した",
+          "AOL、Vimeo、WeTransfer、Meetupなどを買収し、集中運営で収益改善を狙う戦略が評価されている",
+          "値上げや人員削減で批判も受けるが、利用維持率は安定し、月間5億人超が同社ポートフォリオを利用している"
+        ],
+        "detailed_summary": "Bending Spoonsは、AOLやVimeoなどのデジタルブランドを買収して再成長させる戦略で注目を集めるイタリア企業だ。今週NASDAQに上場し、時価総額は一時250億ドル超まで上昇した。プライベートエクイティに似るが、買収後も資産を保有し続け、製品、エンジニアリング、データ、収益化、AI運用を一元化する点が特徴とされる。2025年売上高は13.1億ドル。Evernoteなどでの値上げやレイオフは論争を招いたが、顧客維持は安定しているという。出発点は失敗したデンマークのスタートアップEvertaleで、そこから現在の買収集約モデルへ進化した。",
+        "why_it_matters": "古いネット企業を束ねて価値を再構築する新しいテック再編モデルとして市場が強く評価している。AIと運営効率化を武器にした買収後経営の成否を占う試金石でもある。",
+        "headline": "SaaS買収と再編を続けた企業の上場。AI時代のソフト再編を読む起点として重要"
+      },
+      "selection_reason": "SaaS買収と再編を続けた企業の上場。AI時代のソフト再編を読む起点として重要",
+      "classification_reason": "SaaS買収と再編を続けた企業の上場。AI時代のソフト再編を読む起点として重要",
+      "knowledge_value": "古いネット企業を束ねて価値を再構築する新しいテック再編モデルとして市場が強く評価している。AIと運営効率化を武器にした買収後経営の成否を占う試金石でもある。",
+      "content_status": "content_ok",
+      "content_chars": 8778,
+      "source_access": "free"
+    },
+    {
+      "number": 3,
+      "title": "ハメネイ氏の葬儀",
+      "source": "CNBC",
+      "description": "",
+      "url": "https://www.cnbc.com/2026/07/05/successor-to-irans-slain-leader-khamenei-does-not-appear-at-funeral.html",
+      "category": "経済・金融",
+      "published_at": "2026-07-05",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 3,
+        "title_ja": "ハメネイ氏の葬儀",
+        "key_points": [
+          "米国とイスラエルの空爆で死亡したアリ・ハメネイ師の大規模葬儀がテヘランで行われた",
+          "3人の息子は棺のそばで祈ったが、後継者となったモジタバ師は公の場に姿を見せなかった",
+          "戦争で3000人超が死亡し、停戦後も報復感情と政権支持の演出が続いている"
+        ],
+        "detailed_summary": "米国とイスラエルが2月28日に対イラン攻撃を開始した際の空爆で死亡したアリ・ハメネイ師と家族の葬儀が、テヘランで大規模に営まれた。国営テレビは3人の息子が棺のそばで祈る様子を伝えたが、父の後継として最高指導者に就いたモジタバ師は姿を見せなかった。彼は攻撃で重傷を負い、顔や脚に深刻な損傷を受けたと報じられている。式典には数万人が参加し、米国とイスラエルへの報復を訴える旗も目立った。4カ月に及ぶ戦争は停戦に入ったが、人的・物的被害は甚大で、体制の求心力を示す政治的儀式としての意味も大きい。",
+        "why_it_matters": "後継指導者モジタバ師の不在は、イラン権力中枢の安定性に疑問を投げかける。葬儀は追悼だけでなく、戦後の体制正統性を内外に示す場でもある。",
+        "headline": "後継権力の不透明さが中東リスクを押し上げる。原油と海運の判断に直結する"
+      },
+      "selection_reason": "後継権力の不透明さが中東リスクを押し上げる。原油と海運の判断に直結する",
+      "classification_reason": "後継権力の不透明さが中東リスクを押し上げる。原油と海運の判断に直結する",
+      "knowledge_value": "後継指導者モジタバ師の不在は、イラン権力中枢の安定性に疑問を投げかける。葬儀は追悼だけでなく、戦後の体制正統性を内外に示す場でもある。",
+      "content_status": "content_ok",
+      "content_chars": 4961,
+      "source_access": "free"
+    },
+    {
+      "number": 4,
+      "title": "紅海の貨物船が攻撃を受けたと通報　英海事機関が発表",
+      "source": "CNBC",
+      "description": "",
+      "url": "https://www.cnbc.com/2026/07/05/cargo-vessel-in-red-sea-reports-attack-uk-maritime-body-says.html",
+      "category": "経済・金融",
+      "published_at": "2026-07-05",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 4,
+        "title_ja": "紅海の貨物船が攻撃を受けたと通報　英海事機関が発表",
+        "key_points": [
+          "紅海で貨物船が正体不明の攻撃者から攻撃を受けたとして救難信号を発した",
+          "現場はイエメンのホデイダ南西約30海里で、英UKMTOが調査中として警戒を呼びかけた",
+          "ホルムズ海峡の再開後、紅海ルートの重要性が増す中で海上輸送リスクが再浮上した"
+        ],
+        "detailed_summary": "英国海上貿易行動機関UKMTOは、イエメンのホデイダ南西約30海里の紅海で貨物船が攻撃を受けたとの通報を受けたと発表した。攻撃者は不明で、当局が調査している。米国とイランの停戦は維持されているものの、中東の海上輸送を巡る緊張はなお脆弱だ。2023年から2025年にかけてフーシ派は紅海の商船を攻撃しており、今回の事案はその記憶を呼び起こす。ホルムズ海峡が一時機能不全に陥る中、サウジは東西パイプライン経由で紅海側に原油を振り向けていたため、バブ・エル・マンデブ海峡の安全確保はエネルギー市場に直結する。",
+        "why_it_matters": "中東停戦後も海上物流の安全は回復し切っていない。原油輸送の代替ルートが脅かされれば、エネルギー供給と運賃、保険コストにすぐ跳ね返る。",
+        "headline": "海上物流の実害が再点火。保険料、運賃、エネルギー供給網の再評価が必要になる"
+      },
+      "selection_reason": "海上物流の実害が再点火。保険料、運賃、エネルギー供給網の再評価が必要になる",
+      "classification_reason": "海上物流の実害が再点火。保険料、運賃、エネルギー供給網の再評価が必要になる",
+      "knowledge_value": "中東停戦後も海上物流の安全は回復し切っていない。原油輸送の代替ルートが脅かされれば、エネルギー供給と運賃、保険コストにすぐ跳ね返る。",
+      "content_status": "content_ok",
+      "content_chars": 2172,
+      "source_access": "free"
+    },
+    {
+      "number": 5,
+      "title": "今週の株式市場で注目すべき3つの大きなポイント",
+      "source": "CNBC",
+      "description": "",
+      "url": "https://www.cnbc.com/2026/07/05/here-are-the-3-big-things-were-watching-in-the-stock-market-this-week.html",
+      "category": "経済・金融",
+      "published_at": "2026-07-05",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 5,
+        "title_ja": "今週の株式市場で注目すべき3つの大きなポイント",
+        "key_points": [
+          "7月第1週は経済指標も決算も少なく、市場は本格的な決算シーズン前の小休止に入る",
+          "注目決算はLevi Strauss、PepsiCo、Delta Air Linesで、消費・食品インフレ・旅行需要の温度感を映す",
+          "原油価格は下落しているがガソリン価格の低下は遅く、消費者心理や支出配分への影響が焦点になる"
+        ],
+        "detailed_summary": "独立記念日で短縮された週を終え、市場は7月中旬に始まる第2四半期決算シーズンと6月インフレ指標を前に、比較的静かな1週間に入る。もっとも、Levi Strauss、PepsiCo、Delta Air Linesの決算は米国景気の地合いを測る重要材料だ。Levi'sからは、原油高による生活コスト上昇が裁量消費にどう響いているかが見える。PepsiCoは食品インフレやGLP-1普及下での需要動向を映す。Deltaは旅行需要や家計の余力を占う存在だ。原油相場は大きく下がった一方、ガソリン価格の低下は鈍く、消費者の負担感が残っている点も市場テーマになっている。",
+        "why_it_matters": "大手ハイテクや銀行決算の前でも、消費関連3社の数字から景気の実勢はかなり読める。インフレ鈍化が家計に本当に届いているかを見極める週になる。",
+        "headline": "雇用後の地合いから決算前の注目点まで整理済み。今週の相場観の土台として使える"
+      },
+      "selection_reason": "雇用後の地合いから決算前の注目点まで整理済み。今週の相場観の土台として使える",
+      "classification_reason": "雇用後の地合いから決算前の注目点まで整理済み。今週の相場観の土台として使える",
+      "knowledge_value": "大手ハイテクや銀行決算の前でも、消費関連3社の数字から景気の実勢はかなり読める。インフレ鈍化が家計に本当に届いているかを見極める週になる。",
+      "content_status": "content_ok",
+      "content_chars": 8047,
+      "source_access": "free"
+    },
+    {
+      "number": 6,
+      "title": "Anthropic、Claudeを使う科学者向けAI作業基盤「Claude Science」を発表",
+      "source": "TechRadar",
+      "description": "",
+      "url": "https://www.techradar.com/pro/anthropic-launches-ai-workbench-for-scientists-using-claude",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-04",
+      "mode": "followup",
+      "summary": {
+        "article_index": 6,
+        "title_ja": "Anthropic、Claudeを使う科学者向けAI作業基盤「Claude Science」を発表",
+        "key_points": [
+          "Anthropicが科学研究向けのベータ版AIワークベンチ「Claude Science」を公開した",
+          "文献調査から解析、図表作成、論文執筆までを単一環境にまとめ、断片化した研究フローの統合を狙う",
+          "研究室の自前インフラ上で動かせる設計で、機密データを外に出さずに使える点を強調している"
+        ],
+        "detailed_summary": "Anthropicは、科学者向けの新しいAI作業基盤Claude Scienceを公開ベータとして発表した。狙いは、PubMed、Jupyter、R、クラスタ端末など複数ツールに分断された研究フローを一つの環境へ集約することにある。文献レビュー、仮説検討、解析、図表生成、原稿作成、出版準備までを通しで扱え、生成結果には元コードや履歴、平易な説明も付けて監査しやすくする。さらに研究室内のPCやLinux環境、HPC上で動作し、機密性の高いデータを外部に出さず使える点を前面に出した。単一細胞RNA解析やCRISPR設計などでの試用例も紹介されている。",
+        "why_it_matters": "AIの勝負どころがモデル性能そのものから、現場の業務フローにどう埋め込むかへ移っていることを示す。研究用途では再現性、監査性、データ保護を満たせるかが導入の分水嶺になる。",
+        "headline": "Claude Scienceの位置づけを補強。汎用助手から業界特化へ寄せる戦略差分が見える"
+      },
+      "selection_reason": "Claude Scienceの位置づけを補強。汎用助手から業界特化へ寄せる戦略差分が見える",
+      "classification_reason": "Claude Scienceの位置づけを補強。汎用助手から業界特化へ寄せる戦略差分が見える",
+      "knowledge_value": "AIの勝負どころがモデル性能そのものから、現場の業務フローにどう埋め込むかへ移っていることを示す。研究用途では再現性、監査性、データ保護を満たせるかが導入の分水嶺になる。",
+      "content_status": "content_ok",
+      "content_chars": 4425,
+      "source_access": "free"
+    },
+    {
+      "number": 7,
+      "title": "セキュリティ専門家が警告、Claude Codeは善意で動くだけで悪用されうる",
+      "source": "TechRadar",
+      "description": "",
+      "url": "https://www.techradar.com/pro/security/agentic-coding-tools-have-access-to-everything-they-need-for-this-security-experts-warn-claude-code-can-be-exploited-simply-by-trying-to-be-helpful",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-04",
+      "mode": "followup",
+      "summary": {
+        "article_index": 1,
+        "title_ja": "セキュリティ専門家が警告、Claude Codeは善意で動くだけで悪用されうる",
+        "key_points": [
+          "Mozillaの0dinチームは、Claude Codeが通常の障害対応を装った指示で逆接続シェルを開かされる手法を示した。",
+          "攻撃コードはリポジトリ内に置かれず、実行時にDNSのTXTレコードから取得されるため、静的解析やファイアウォールをすり抜けた。",
+          "見慣れたセットアップ手順やエラーメッセージに従うだけで攻撃が成立し、SSH鍵設置やcron登録による永続化も可能だった。"
+        ],
+        "detailed_summary": "Mozillaの0dinチームは、Claude Codeのような自律型コーディング支援ツールが、善意の復旧行動を逆手に取られて侵害される危険を実証した。攻撃は一見普通のMarkdown手順書と初期化エラーから始まり、エージェントが案内どおりのセットアップコマンドを実行すると、外部DNSのTXTレコードから隠された命令を取得して逆接続シェルを起動する。コードレビューでは不審点が見えず、通信も通常のDNS参照に見えるため、既存の防御では検知しにくい点が問題視された。",
+        "why_it_matters": "開発AIに広い実行権限を与える設計そのものが新たな攻撃面になる。接続時の安全確認だけでなく、実行前に何が走るかを検証するランタイム防御が必要だ。",
+        "headline": "以前刺さったエージェント安全性テーマの実務版。権限設計と監査の差分把握に効く"
+      },
+      "selection_reason": "以前刺さったエージェント安全性テーマの実務版。権限設計と監査の差分把握に効く",
+      "classification_reason": "以前刺さったエージェント安全性テーマの実務版。権限設計と監査の差分把握に効く",
+      "knowledge_value": "開発AIに広い実行権限を与える設計そのものが新たな攻撃面になる。接続時の安全確認だけでなく、実行前に何が走るかを検証するランタイム防御が必要だ。",
+      "content_status": "content_ok",
+      "content_chars": 3914,
+      "source_access": "unknown"
+    },
+    {
+      "number": 8,
+      "title": "超党派法案ではデータセンターの本当のコストから米消費者を守れないと批判",
+      "source": "The Guardian",
+      "description": "",
+      "url": "https://www.theguardian.com/us-news/2026/jul/05/ratepayer-protection-act-datacenters",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-05",
+      "mode": "followup",
+      "summary": {
+        "article_index": 2,
+        "title_ja": "超党派法案ではデータセンターの本当のコストから米消費者を守れないと批判",
+        "key_points": [
+          "Ratepayer Protection Actは電気料金高騰から消費者を守るとされるが、州の公益事業委員会が従う義務が薄く、実効性に欠けると批判されている。",
+          "批評家は、この法案がデータセンター建設の迅速化や送電網接続の優先など、むしろビッグテック側に有利な仕組みを含むと指摘した。",
+          "AI向けデータセンター急増地域では電力価格や関連コストが大きく上昇しており、水使用や汚染、インフラ負荷といった外部不経済も無視されている。"
+        ],
+        "detailed_summary": "米議会で進む超党派のRatepayer Protection Actは、AIデータセンター拡大に伴う電気料金上昇から家計を守る名目だが、消費者団体は中身が不十分だと反発している。法案の多くは任意措置にとどまり、州規制当局が採用しなくてもよい一方、データセンターの建設促進や系統接続の優先、自己負担を主張しやすくする抜け道まで含むという。高集積地域では電力コストが過去5年で大きく跳ね上がっており、水資源や地域インフラへの負担も考慮していない点が問題視された。",
+        "why_it_matters": "AIインフラ拡大のコストを誰が負担するかという論点が鮮明になっている。電力料金だけでなく、水や環境、地域インフラへの影響まで含めた制度設計が問われる。",
+        "headline": "AI競争の外部費用が電力料金へ波及。計算資源の政治リスクを追う続報として有効"
+      },
+      "selection_reason": "AI競争の外部費用が電力料金へ波及。計算資源の政治リスクを追う続報として有効",
+      "classification_reason": "AI競争の外部費用が電力料金へ波及。計算資源の政治リスクを追う続報として有効",
+      "knowledge_value": "AIインフラ拡大のコストを誰が負担するかという論点が鮮明になっている。電力料金だけでなく、水や環境、地域インフラへの影響まで含めた制度設計が問われる。",
+      "content_status": "content_ok",
+      "content_chars": 5214,
+      "source_access": "unknown"
+    },
+    {
+      "number": 9,
+      "title": "ツール接続から実行制御へ：MCP型エージェント実行環境のセキュリティ不変条件をベンチマーク",
+      "source": "arXiv",
+      "description": "",
+      "url": "https://arxiv.org/abs/2606.29073",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-06-27",
+      "mode": "deep_dive",
+      "summary": {
+        "article_index": 3,
+        "title_ja": "ツール接続から実行制御へ：MCP型エージェント実行環境のセキュリティ不変条件をベンチマーク",
+        "key_points": [
+          "この論文は、MCP風エージェント実行環境で守るべき8つのセキュリティ不変条件を定義した。",
+          "著者らはHCPという参照ランタイムを実装し、接続層中心の2つのベースラインと比較した。",
+          "10件のベンチマークで、単純実装は全攻撃を許し、緩和策付きでも6件を許可した一方、HCPは全件を遮断し監査証跡も保持した。"
+        ],
+        "detailed_summary": "6月27日にarXivへ投稿された本論文は、MCP型のツール接続だけでは不十分で、実行段階の安全制御を明示的に設計すべきだと主張する。著者らはメタデータ非権威性、権限付与に基づく承認、主体の束縛、データフロー認可など8つの不変条件を定義し、それをHCPという参照ランタイムで実装した。比較実験では、接続層の慣習的対策だけでは攻撃を十分防げず、実行制御レイヤーを持つ構成がすべての想定攻撃を遮断した。性能面でもサブミリ秒級の遅延に収まったとしている。",
+        "why_it_matters": "エージェントの安全性は接続仕様だけでは担保できず、実行時の権限管理と監査が核心だと示した。MCP周辺の実運用設計に直接影響する研究といえる。",
+        "headline": "MCP系ランタイムで何を守るべきかを形式化。ハーネス設計の検証軸を増やせる"
+      },
+      "selection_reason": "MCP系ランタイムで何を守るべきかを形式化。ハーネス設計の検証軸を増やせる",
+      "classification_reason": "MCP系ランタイムで何を守るべきかを形式化。ハーネス設計の検証軸を増やせる",
+      "knowledge_value": "エージェントの安全性は接続仕様だけでは担保できず、実行時の権限管理と監査が核心だと示した。MCP周辺の実運用設計に直接影響する研究といえる。",
+      "content_status": "content_ok",
+      "content_chars": 3117,
+      "source_access": "free"
+    },
+    {
+      "number": 10,
+      "title": "エージェント相互運用プロトコルのガバナンス欠落：MCP、A2A、ACPでは何を表現できないのか",
+      "source": "arXiv",
+      "description": "",
+      "url": "https://arxiv.org/abs/2606.31498",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-06-30",
+      "mode": "deep_dive",
+      "summary": {
+        "article_index": 4,
+        "title_ja": "エージェント相互運用プロトコルのガバナンス欠落：MCP、A2A、ACPでは何を表現できないのか",
+        "key_points": [
+          "論文はMCP、A2A、ACPなど5つの相互運用プロトコルを、組織的ガバナンス要件の観点から比較した。",
+          "投票や少数意見の保存は全プロトコルで欠落し、熟議や人間へのエスカレーションも不十分だと整理した。",
+          "著者は、これは個別機能の不足ではなく、現行標準の上位に新しいガバナンス層が必要な構造的欠陥だと結論づけた。"
+        ],
+        "detailed_summary": "6月30日提出のarXiv論文は、エージェント同士の接続や能力発見を担う主要プロトコルが、企業で求められる統治や意思決定には対応していないと分析した。著者はメンバーシップ、熟議、投票、異論保存、人間エスカレーション、監査と再生の6軸で仕様を点検し、現行のMCP、A2A、ACP、ANP、ERC-8004はいずれもタスク連携には使えても、統治されたエージェント共同体を表現するには足りないと評価した。とくに投票と異論保存の欠落は共通で、拡張では埋まらない構造的不足があるとする。",
+        "why_it_matters": "複数エージェントを企業運用に載せるなら、接続性だけでは足りず、統治の仕組みを別レイヤーで設計する必要がある。今後の標準化や製品アーキテクチャの論点を先回りして示している。",
+        "headline": "接続できることと統治できることは別だと示す。承認フロー設計の穴を点検できる"
+      },
+      "selection_reason": "接続できることと統治できることは別だと示す。承認フロー設計の穴を点検できる",
+      "classification_reason": "接続できることと統治できることは別だと示す。承認フロー設計の穴を点検できる",
+      "knowledge_value": "複数エージェントを企業運用に載せるなら、接続性だけでは足りず、統治の仕組みを別レイヤーで設計する必要がある。今後の標準化や製品アーキテクチャの論点を先回りして示している。",
+      "content_status": "content_ok",
+      "content_chars": 2930,
+      "source_access": "free"
+    },
+    {
+      "number": 11,
+      "title": "ハメネイ師の葬儀と並行し、イランはホルムズ海峡の支配強化を模索",
+      "source": "The Guardian",
+      "description": "",
+      "url": "https://www.theguardian.com/world/2026/jul/05/iran-control-strait-of-hormuz-ali-khamenei-funeral",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-05",
+      "mode": "deep_dive",
+      "summary": {
+        "article_index": 5,
+        "title_ja": "ハメネイ師の葬儀と並行し、イランはホルムズ海峡の支配強化を模索",
+        "key_points": [
+          "イラン最高指導者アリ・ハメネイの死去を受けた混乱の中で、ホルムズ海峡の主導権争いが外交・軍事両面で激化している。",
+          "米支援のオマーン沿岸ルート利用が進んでいたが、革命防衛隊の警告で複数船舶が引き返し、海峡通航量も減少した。",
+          "英仏の掃海部隊構想やオマーンの新たな海峡ガバナンス案が浮上する一方、イランは介入だと反発している。"
+        ],
+        "detailed_summary": "ハメネイ師の死去に伴う国内の弔意ムードと並行して、ホルムズ海峡の支配を巡るせめぎ合いが強まっている。最近はイランが支配しにくいオマーン沿いの南側航路に船舶が流れていたが、革命防衛隊の直接警告を受けて少なくとも8隻が反転し、通航量も落ち込んだ。英国とフランスは掃海部隊派遣を進め、オマーンはマラッカ海峡型の料金制度を含む将来統治案を各国と協議中だが、イランは外部介入として反発している。原油価格は高値から下がったものの、海峡支配は依然として世界経済を左右する焦点だ。",
+        "why_it_matters": "ホルムズ海峡は世界のエネルギー物流の要衝で、通航管理の変化は原油価格とインフレに直結する。中東の政治変動が海上交通と資源市場にどう波及するかを示す典型例だ。",
+        "headline": "地政学を見出しでなく交渉カードとして読む材料。供給網と意思決定構造がつながる"
+      },
+      "selection_reason": "地政学を見出しでなく交渉カードとして読む材料。供給網と意思決定構造がつながる",
+      "classification_reason": "地政学を見出しでなく交渉カードとして読む材料。供給網と意思決定構造がつながる",
+      "knowledge_value": "ホルムズ海峡は世界のエネルギー物流の要衝で、通航管理の変化は原油価格とインフレに直結する。中東の政治変動が海上交通と資源市場にどう波及するかを示す典型例だ。",
+      "content_status": "content_ok",
+      "content_chars": 5600,
+      "source_access": "unknown"
+    },
+    {
+      "number": 12,
+      "title": "ガス供給の安定化を受け、LNG制限を解除",
+      "source": "The Times of India",
+      "description": "",
+      "url": "https://timesofindia.indiatimes.com/india/lng-curbs-removed-as-gas-supply-eases/articleshow/132191181.cms",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-05",
+      "mode": "deep_dive",
+      "summary": {
+        "article_index": 6,
+        "title_ja": "ガス供給の安定化を受け、LNG制限を解除",
+        "key_points": [
+          "インド政府は、西アジア紛争時に導入した緊急の天然ガス供給規制を解除し、通常配分へ戻した。",
+          "停戦とホルムズ海峡の海上交通再開を受け、肥料工場、製油所、都市ガス、産業向けの供給制限が外された。",
+          "この10日間でLPGや燃料販売規制も段階的に緩和されており、エネルギー供給正常化の流れが進んでいる。"
+        ],
+        "detailed_summary": "インド政府は7月5日、3月に西アジア情勢の悪化を受けて発動した天然ガスの緊急供給規制を撤回した。ホルムズ海峡経由のLNG輸送に対する懸念が停戦で和らぎ、交渉継続と海上交通の再開が確認されたためだ。これにより、肥料工場や製油所、都市ガス事業者、産業需要家への配分は通常体制へ戻る。政府は直近10日でも商業用LPG供給やディーゼル販売制限などを順次平時水準へ戻しており、紛争対応の非常措置を段階的に解除している。",
+        "why_it_matters": "中東情勢が落ち着けば、輸入依存国のエネルギー政策はすぐ正常化に向かう。インドの判断は、ホルムズ海峡の安定がアジアのガス・燃料供給にどれほど重要かを示している。",
+        "headline": "エネルギー制約が実需側でどう緩むかを確認できる。供給ショック後の伝播理解に効く"
+      },
+      "selection_reason": "エネルギー制約が実需側でどう緩むかを確認できる。供給ショック後の伝播理解に効く",
+      "classification_reason": "エネルギー制約が実需側でどう緩むかを確認できる。供給ショック後の伝播理解に効く",
+      "knowledge_value": "中東情勢が落ち着けば、輸入依存国のエネルギー政策はすぐ正常化に向かう。インドの判断は、ホルムズ海峡の安定がアジアのガス・燃料供給にどれほど重要かを示している。",
+      "content_status": "content_ok",
+      "content_chars": 1518,
+      "source_access": "unknown"
+    },
+    {
+      "number": 13,
+      "title": "『ちょっと待って。取り消して。逆にして』: Netflixが『ウォンカ』のリアリティ番組でAI生成のジーン・ワイルダー音声を使用",
+      "source": "Tom's Guide",
+      "description": "",
+      "url": "https://www.tomsguide.com/ai/wait-a-minute-strike-that-reverse-it-netflix-is-using-an-ai-generated-gene-wilder-voice-for-wonka-reality-show",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-01",
+      "mode": "adjacent",
+      "summary": {
+        "article_index": 1,
+        "title_ja": "『ちょっと待って。取り消して。逆にして』: Netflixが『ウォンカ』のリアリティ番組でAI生成のジーン・ワイルダー音声を使用",
+        "key_points": [
+          "Netflixは新番組『Wonka's The Golden Ticket』で、故ジーン・ワイルダーの声をElevenLabsと遺族の承認のもとAIで再現した。",
+          "番組は9月23日に配信開始予定で、12組の参加者が『夢のチョコレート工場』の世界観を下敷きにしたゲームで競う。",
+          "遺族は新世代に魔法を届けられるとして歓迎する一方、本人不在の同意や表現の倫理性を疑問視する批判が広がっている。"
+        ],
+        "detailed_summary": "Netflixはリアリティ競技番組『Wonka's The Golden Ticket』で、1971年版『夢のチョコレート工場』でウォンカを演じた故ジーン・ワイルダーの声をAIで再現する。制作には音声AI企業ElevenLabsと遺産管理側が関与し、新規ナレーションに使われる。番組は12人の当選者と同行者が9話にわたり競い合う構成で、旧作出演者ラスティ・ゴフも参加する。だが、遺族の承認があっても本人の意思を代替できるのかという倫理面の反発は強く、ハリウッドで進むAI音声活用の是非を改めて浮かび上がらせた。",
+        "why_it_matters": "AIが故人の声を商業作品で使う流れが、実験段階を越えて大手配信作品に入ったことを示す。権利処理だけでなく、本人同意や文化的受容をどう扱うかが今後の基準づくりに直結する。",
+        "headline": "声の再利用が創作表現より先に権利交渉を難しくする。IP設計の未来制約として重要"
+      },
+      "selection_reason": "声の再利用が創作表現より先に権利交渉を難しくする。IP設計の未来制約として重要",
+      "classification_reason": "声の再利用が創作表現より先に権利交渉を難しくする。IP設計の未来制約として重要",
+      "knowledge_value": "AIが故人の声を商業作品で使う流れが、実験段階を越えて大手配信作品に入ったことを示す。権利処理だけでなく、本人同意や文化的受容をどう扱うかが今後の基準づくりに直結する。",
+      "content_status": "content_ok",
+      "content_chars": 5375,
+      "source_access": "unknown",
+      "adjacent_field": "肖像権・声・人格のライセンス設計",
+      "adjacent_reasoning": "画像生成、実写合成、VTuber、個人ブランドを横断すると、表現力そのものより誰の顔・声・キャラ性をどう扱えるかが制約になる。ここを追うと、創作の自由度だけでなく将来のIP交渉力やプロダクト設計の勘所が見えてくる。"
+    }
+  ],
+  "status": "complete",
+  "failed_modes": []
+}
