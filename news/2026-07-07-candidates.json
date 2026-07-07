@@ -1,0 +1,273 @@
+{
+  "date": "2026-07-07",
+  "generated_at": "2026-07-07T09:12:49.903822+09:00",
+  "run_id": "20260707T091249+0900",
+  "mode_collection_counts": {
+    "breaking": 36,
+    "followup": 6,
+    "deep_dive": 4,
+    "adjacent": 2
+  },
+  "mode_errors": {},
+  "mode": "multimode",
+  "articles": [
+    {
+      "number": 1,
+      "title": "VercelのCEOギレルモ・ラウフ、モデルとエージェントを切り分ける戦いを語る",
+      "source": "TechCrunch",
+      "description": "",
+      "url": "https://techcrunch.com/2026/07/06/vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-06",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 1,
+        "title_ja": "VercelのCEOギレルモ・ラウフ、モデルとエージェントを切り分ける戦いを語る",
+        "key_points": [
+          "Vercelでは1日600万件のデプロイがあり、その半分はコーディングエージェント経由だという。",
+          "CEOはエージェントの主要用途を、コード生成と社内業務支援の2つに整理した。",
+          "社内向けではデータアクセス管理や監査が課題で、EveやSandboxで制御を強化している。"
+        ],
+        "detailed_summary": "Vercelのギレルモ・ラウフCEOは、AI活用が試作段階から実運用へ移り、課題がより具体化してきたと説明した。特に成果が大きいのはコーディングエージェントと社内業務支援エージェントの2分野で、後者では情報漏えいや操作履歴の監査が重要になる。Vercelは自然言語で指示を定義するEveや、アクセス可能なデータを制限するSandboxを通じて、安全に業務へ組み込む基盤を整えようとしている。",
+        "why_it_matters": "AIの価値がモデル性能だけでなく、運用基盤とガバナンスに移っていることを示す話だ。企業導入では、便利さより先にデータ統制をどう設計するかが競争力になる。",
+        "headline": "モデルとエージェントの分離が基盤競争になる流れを、Vercelの立場から具体化している"
+      },
+      "selection_reason": "モデルとエージェントの分離が基盤競争になる流れを、Vercelの立場から具体化している",
+      "classification_reason": "モデルとエージェントの分離が基盤競争になる流れを、Vercelの立場から具体化している",
+      "knowledge_value": "AIの価値がモデル性能だけでなく、運用基盤とガバナンスに移っていることを示す話だ。企業導入では、便利さより先にデータ統制をどう設計するかが競争力になる。",
+      "content_status": "content_ok",
+      "content_chars": 5898,
+      "source_access": "free"
+    },
+    {
+      "number": 2,
+      "title": "Reddit、LLMが生んだ問題をLLMで解決へ",
+      "source": "TechCrunch",
+      "description": "",
+      "url": "https://techcrunch.com/2026/07/06/reddit-is-using-llms-to-solve-a-problem-llms-largely-created/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-06",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 2,
+        "title_ja": "Reddit、LLMが生んだ問題をLLMで解決へ",
+        "key_points": [
+          "RedditはLLMを使ってスパム検出を強化し、1日2300万件のスパム閲覧を防いでいるという。",
+          "新たに約2万5000件のスパム投稿やコメントを毎日検出している。",
+          "1月から3月にかけて、直前3カ月比で利用者のスパム接触を20％減らしたと主張している。"
+        ],
+        "detailed_summary": "生成AIの普及でスパムやボット投稿が増えるなか、Redditはその対策にもLLMを導入した。従来の自動検出では見落としていた、巧妙で連携した偽装行動や不自然な盛り上がりを捉えられるといい、スパム露出の削減につながったとする。一方で、AI生成コンテンツの検出や違反投稿の監視は有望でも、誤判定や文脈理解の限界があるため、人手のモデレーションと組み合わせる必要性も改めて示された。",
+        "why_it_matters": "生成AIは荒らしの武器にも、防御側の道具にもなっている。今後のプラットフォーム運営は、AI対AIの監視体制と人間の最終判断をどう両立するかが焦点になる。",
+        "headline": "LLM普及で増えたスパムをLLMで抑える構図が、今後の情報流通コストを示している"
+      },
+      "selection_reason": "LLM普及で増えたスパムをLLMで抑える構図が、今後の情報流通コストを示している",
+      "classification_reason": "LLM普及で増えたスパムをLLMで抑える構図が、今後の情報流通コストを示している",
+      "knowledge_value": "生成AIは荒らしの武器にも、防御側の道具にもなっている。今後のプラットフォーム運営は、AI対AIの監視体制と人間の最終判断をどう両立するかが焦点になる。",
+      "content_status": "content_ok",
+      "content_chars": 1626,
+      "source_access": "free"
+    },
+    {
+      "number": 3,
+      "title": "ブラックロック系プライベートクレジット基金CEOが退任へ、評価調査と損失拡大が重なる",
+      "source": "Yahoo Finance",
+      "description": "",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/blackrock-private-credit-fund-ceo-123256145.html",
+      "category": "経済・金融",
+      "published_at": "2026-07-05",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 3,
+        "title_ja": "ブラックロック系プライベートクレジット基金CEOが退任へ、評価調査と損失拡大が重なる",
+        "key_points": [
+          "BlackRock TCP CapitalのCEOフィル・ツェン氏が退任する見通しだ。",
+          "同基金は不良債権圧力や資産評価引き下げで苦戦し、第1四半期の減損は3500万ドルに達した。",
+          "評価慣行を巡って米連邦当局の調査を受けており、投資家不安が強まっている。"
+        ],
+        "detailed_summary": "BlackRock TCP Capitalでは、損失拡大と資産評価の引き下げが続くなか、CEOの退任が報じられた。1月には純資産価値が推定19％下落し、eコマース関連や破綻企業向け投資の再編が重荷となった。5月には評価手法を巡ってマンハッタン連邦検察当局が幹部に聴取を行い、その後も基金価値は追加で約5％切り下げられた。ブラックロックはHPS買収を通じて民間信用市場を拡大しているが、その成長戦略に逆風が吹いている。",
+        "why_it_matters": "民間信用市場は近年の成長分野だが、評価の不透明さが表面化すると一気に信認が揺らぐ。大手運用会社でも例外ではないことを示す案件だ。",
+        "headline": "私募信用の評価問題が表面化し、高利回り資産の脆さと地合い悪化の火種を点検できる"
+      },
+      "selection_reason": "私募信用の評価問題が表面化し、高利回り資産の脆さと地合い悪化の火種を点検できる",
+      "classification_reason": "私募信用の評価問題が表面化し、高利回り資産の脆さと地合い悪化の火種を点検できる",
+      "knowledge_value": "民間信用市場は近年の成長分野だが、評価の不透明さが表面化すると一気に信認が揺らぐ。大手運用会社でも例外ではないことを示す案件だ。",
+      "content_status": "content_ok",
+      "content_chars": 4289,
+      "source_access": "free"
+    },
+    {
+      "number": 4,
+      "title": "Crunchyroll共同創業者のクン・ガオ氏、アニメライセンス向けAniBizを始動",
+      "source": "Anime News Network",
+      "description": "Platform is described as \"1st dedicated B2B marketplace built for the global anime industry\"",
+      "url": "https://www.animenewsnetwork.com/news/2026-07-06/crunchyroll-co-founder-former-ceo-kun-gao-launches-anibiz-platform-for-anime-licensing/.239248",
+      "category": "漫画・アニメ・文化",
+      "published_at": "2026-07-06",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 4,
+        "title_ja": "Crunchyroll共同創業者のクン・ガオ氏、アニメライセンス向けAniBizを始動",
+        "key_points": [
+          "AniBizは世界のアニメ業界に特化したB2Bライセンス仲介プラットフォームとして公開された。",
+          "権利者と、ブランド・メーカー・流通・ゲーム会社などのライセンシー候補を結び付ける。",
+          "基本無料に加え、月49ドルの有料プランや個別対応プランを用意している。"
+        ],
+        "detailed_summary": "Crunchyroll共同創業者で元CEOのクン・ガオ氏が、アニメIPのライセンス取引を効率化するB2BサービスAniBizを立ち上げた。従来は人脈頼みだった権利者探しや交渉の入口を、データベースとマッチング機能で可視化し、新規参入の障壁を下げる狙いがある。Aniplexや東映アニメーションなど多数の主要企業が掲載されており、今後さらに権利者を増やす計画だ。アニメIP活用の裾野を、既存業界の外まで広げたい考えがにじむ。",
+        "why_it_matters": "アニメ市場の成長を阻んでいたのは需要不足ではなく、取引の閉鎖性だった可能性がある。ライセンス流通の標準化が進めば、アニメIPの海外展開や異業種連携が加速しやすくなる。",
+        "headline": "アニメIP流通の取引基盤づくりで、創作経済とライセンス市場の再編を先回りできる"
+      },
+      "selection_reason": "アニメIP流通の取引基盤づくりで、創作経済とライセンス市場の再編を先回りできる",
+      "classification_reason": "アニメIP流通の取引基盤づくりで、創作経済とライセンス市場の再編を先回りできる",
+      "knowledge_value": "アニメ市場の成長を阻んでいたのは需要不足ではなく、取引の閉鎖性だった可能性がある。ライセンス流通の標準化が進めば、アニメIPの海外展開や異業種連携が加速しやすくなる。",
+      "content_status": "content_ok",
+      "content_chars": 3172,
+      "source_access": "free"
+    },
+    {
+      "number": 5,
+      "title": "スコットランドの大型AI計画、再生可能エネルギー公約の達成見通しなしと判明",
+      "source": "The Guardian",
+      "description": "",
+      "url": "https://www.theguardian.com/technology/2026/jul/06/lanarkshire-scotland-ai-datacentre-project-renewable-energy",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-06",
+      "mode": "followup",
+      "summary": {
+        "article_index": 5,
+        "title_ja": "スコットランドの大型AI計画、再生可能エネルギー公約の達成見通しなしと判明",
+        "key_points": [
+          "英政府が掲げた82億ポンド規模のAIデータセンター計画は、現地再エネだけで賄う見通しがないと報じられた。",
+          "内部文書では、表向きの説明と異なり電力供給に問題があることを関係者が認識していた。",
+          "結局は送電網接続が必要で、長い接続待ちや他案件との競合が避けられない。"
+        ],
+        "detailed_summary": "英ガーディアンの調査によると、スコットランド・ラナークシャーで進む大型AIデータセンター計画は、発表時に約束された現地再生可能エネルギーのみでの運用が現実的でない。情報公開請求で得られた文書では、政府と開発側が非公開では電力確保の難しさを認識していたことが示された。最終的には送電網への接続が必要となり、英国で慢性化する接続待ち問題に直面する。AIインフラ拡大の前提である膨大な電力供給に、政策が追いついていない実態が浮かぶ。",
+        "why_it_matters": "AI競争はモデル開発だけでは成り立たず、電力と送電網の整備がボトルネックになる。派手な投資発表より、実際に回るインフラ計画かどうかを見極める視点が欠かせない。",
+        "headline": "AIデータセンター拡張の裏で、電力調達の誇張と立地リスクが露出した続報として重要"
+      },
+      "selection_reason": "AIデータセンター拡張の裏で、電力調達の誇張と立地リスクが露出した続報として重要",
+      "classification_reason": "AIデータセンター拡張の裏で、電力調達の誇張と立地リスクが露出した続報として重要",
+      "knowledge_value": "AI競争はモデル開発だけでは成り立たず、電力と送電網の整備がボトルネックになる。派手な投資発表より、実際に回るインフラ計画かどうかを見極める視点が欠かせない。",
+      "content_status": "content_ok",
+      "content_chars": 10332,
+      "source_access": "unknown"
+    },
+    {
+      "number": 6,
+      "title": "有能だが不注意: コンピュータ操作エージェントは文脈的整合性を守るか",
+      "source": "arXiv",
+      "description": "",
+      "url": "https://arxiv.org/abs/2606.23189",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-06-22",
+      "mode": "deep_dive",
+      "summary": {
+        "article_index": 6,
+        "title_ja": "有能だが不注意: コンピュータ操作エージェントは文脈的整合性を守るか",
+        "key_points": [
+          "論文は、複数アプリを横断するコンピュータ操作エージェントのプライバシー漏えいリスクを評価した。",
+          "AgentCIBenchというベンチマークを提案し、視覚的近接や曖昧な指示、誤った受信者への共有を検証した。",
+          "最先端15エージェントのうち11が、半数超のシナリオで情報漏えいを起こしたと報告している。"
+        ],
+        "detailed_summary": "このarXiv論文は、メールやカレンダー、ToDoアプリをまたいで動くコンピュータ操作エージェントが、文脈に合わない個人情報を持ち出す危険を定量評価した。著者らはAgentCIBenchを作成し、画面上で近くにある情報を誤って拾う、曖昧な指示に対して過剰共有する、送信相手に不適切な内容を渡すといった失敗を検証した。その結果、15の先端エージェントの多くで高い漏えい率が確認され、実環境で最後まで操作させても同様の問題が残ったという。",
+        "why_it_matters": "コンピュータ操作エージェントは便利でも、アプリ横断の権限がそのまま漏えい経路になる。実運用前に、性能評価だけでなく文脈に応じた情報開示の安全性を検査する必要がある。",
+        "headline": "PC操作エージェントの有能さと権限逸脱を分けて測る枠組みで、監督設計を深められる"
+      },
+      "selection_reason": "PC操作エージェントの有能さと権限逸脱を分けて測る枠組みで、監督設計を深められる",
+      "classification_reason": "PC操作エージェントの有能さと権限逸脱を分けて測る枠組みで、監督設計を深められる",
+      "knowledge_value": "コンピュータ操作エージェントは便利でも、アプリ横断の権限がそのまま漏えい経路になる。実運用前に、性能評価だけでなく文脈に応じた情報開示の安全性を検査する必要がある。",
+      "content_status": "content_ok",
+      "content_chars": 2575,
+      "source_access": "free"
+    },
+    {
+      "number": 7,
+      "title": "SaaSの終末論は終わったのか。もしそうなら次に何が来るのか",
+      "source": "TechRadar",
+      "description": "",
+      "url": "https://www.techradar.com/pro/is-the-saaspocalypse-over-and-if-so-what-comes-next",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-03",
+      "mode": "deep_dive",
+      "summary": {
+        "article_index": 1,
+        "title_ja": "SaaSの終末論は終わったのか。もしそうなら次に何が来るのか",
+        "key_points": [
+          "AIはSaaSを消滅させるのではなく、競争力の弱い企業と強い企業を選別し始めている。",
+          "JPMorganやGoldman Sachsも、AI対応が進むSaaS分野にはなお成長余地があるとみている。",
+          "既存のソフトウェア企業は顧客データ、業務フローへの深い組み込み、長期契約といった強みを持ち、AI転換で有利になりやすい。"
+        ],
+        "detailed_summary": "AIが従来型ソフトを代替し、SaaS業界は終わるというSaaSpocalypse論が広がっていたが、現実はそこまで極端ではないと論じる記事。過去にもインターネット化やクラウド化のたびにソフトウェアは消えず、形を変えて進化してきた。今回も同じで、AIは市場そのものを縮小させるより、差別化や効率性の乏しい企業をあぶり出す役割を果たしている。とくに既存の中堅ソフト企業は、顧客基盤と蓄積データを武器にAI導入の恩恵を受けやすいと見る。",
+        "why_it_matters": "AIでSaaSは終わるという雑な見方では、投資判断も事業戦略も誤る。勝敗の軸は業界全体の消滅ではなく、誰がAIを使って価値を再設計できるかに移っている。",
+        "headline": "AIでSaaSが壊れる側と強化される側を整理でき、再編の見取り図づくりに効く"
+      },
+      "selection_reason": "AIでSaaSが壊れる側と強化される側を整理でき、再編の見取り図づくりに効く",
+      "classification_reason": "AIでSaaSが壊れる側と強化される側を整理でき、再編の見取り図づくりに効く",
+      "knowledge_value": "AIでSaaSは終わるという雑な見方では、投資判断も事業戦略も誤る。勝敗の軸は業界全体の消滅ではなく、誰がAIを使って価値を再設計できるかに移っている。",
+      "content_status": "content_ok",
+      "content_chars": 6825,
+      "source_access": "unknown"
+    },
+    {
+      "number": 8,
+      "title": "SaaSは深刻なアイデンティティ問題を抱えている",
+      "source": "IT Pro",
+      "description": "",
+      "url": "https://www.itpro.com/software/saas-has-a-big-identity-problem",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-01",
+      "mode": "adjacent",
+      "summary": {
+        "article_index": 2,
+        "title_ja": "SaaSは深刻なアイデンティティ問題を抱えている",
+        "key_points": [
+          "中小企業では、ライセンスユーザーよりゲストアクセスの方が多いSaaS環境が69%に達し、見えない侵入口になっている。",
+          "AI導入の加速でOAuth連携が乱立し、永続トークン経由でパスワード変更後も不正アクセスが残る危険が高まっている。",
+          "56%のアカウントでMFAが有効化されておらず、Microsoft 365では共有ファイルの45%が社外に送られていた。"
+        ],
+        "detailed_summary": "Kaseyaの2026年SaaS Security Reportは、中小企業のSaaS環境で外部ゲスト、OAuth連携、共有設定の管理不備が大きな攻撃面を生んでいると警告する。脅威側は従来の境界防御より、IDやコラボ基盤を狙う方向へ移行しており、AIによる自動化で休眠ゲスト口座の探索や悪用も高速化した。地理制限のような古い対策は効きにくく、MFA未適用や社外共有の多さも被害拡大を招く。継続監視、IDガバナンス、自動対応が必須だというのが記事の主張である。",
+        "why_it_matters": "SaaS利用の拡大は便利さと引き換えに、認証と権限管理のほころびを増やしている。中小企業でも、もはや境界防御だけでは守れず、ID管理を中核に据えた運用へ切り替える必要がある。",
+        "headline": "エージェント運用が進むほど認証より監査が重要になる現実を、SaaS側から捉え直せる"
+      },
+      "selection_reason": "エージェント運用が進むほど認証より監査が重要になる現実を、SaaS側から捉え直せる",
+      "classification_reason": "エージェント運用が進むほど認証より監査が重要になる現実を、SaaS側から捉え直せる",
+      "knowledge_value": "SaaS利用の拡大は便利さと引き換えに、認証と権限管理のほころびを増やしている。中小企業でも、もはや境界防御だけでは守れず、ID管理を中核に据えた運用へ切り替える必要がある。",
+      "content_status": "content_ok",
+      "content_chars": 5032,
+      "source_access": "unknown",
+      "adjacent_field": "非人間IDと特権アクセス監査",
+      "adjacent_reasoning": "エージェント運用を本格化するほど、問題はモデルの賢さより、どのエージェントがどの権限で何を触ったかを追跡できるかに移る。これはAI安全性の抽象論ではなく、監査ログ、承認フロー、被害範囲の限定をどう実装するかという運用基盤の話になる。"
+    },
+    {
+      "number": 9,
+      "title": "CAAの極秘AI『Vault』の内部。俳優は望めば永遠に生き続けられるのか",
+      "source": "Vanity Fair",
+      "description": "",
+      "url": "https://www.vanityfair.com/story/caa-vault-actors-ai-replica",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-06",
+      "mode": "adjacent",
+      "summary": {
+        "article_index": 3,
+        "title_ja": "CAAの極秘AI『Vault』の内部。俳優は望めば永遠に生き続けられるのか",
+        "key_points": [
+          "CAAは俳優や著名人の身体、表情、動き、声を高精度に記録し、AIによる本人そっくりのデジタル分身を作る施設を運営している。",
+          "用途は再撮影の削減、若返り表現、多言語対応、健康悪化時の声や容姿の保存、広告出演の効率化など多岐にわたる。",
+          "AIは俳優の仕事を奪いかねない脅威でもある一方、本人の肖像権やIPを守りつつ新たな収益源に変える手段としても位置づけられている。"
+        ],
+        "detailed_summary": "ロサンゼルスにあるCAAの施設The Vaultでは、俳優やアスリート、インフルエンサーの全身、表情、声を収集し、AIで再現可能なデジタル分身を構築している。CAAはこれを、AI時代における肖像や声、知的財産の防衛策であると同時に、新しい商機を生む基盤とみなす。再撮影不要の修正、若返り、多言語化、病気で声を失う俳優の支援、本人不在の大量広告制作まで応用範囲は広い。利便性と引き換えに、俳優の実演価値そのものが問われる時代の入口を描いた記事だ。",
+        "why_it_matters": "エンタメ業界におけるAIの論点は、効率化だけではなく、人格・権利・労働価値をどう扱うかに及んでいる。デジタル分身が標準化すれば、契約、収益分配、本人同意の設計が業界の根幹になる。",
+        "headline": "顔と声の権利管理が創作と個人ブランドの制約条件になる流れを早めに掴める"
+      },
+      "selection_reason": "顔と声の権利管理が創作と個人ブランドの制約条件になる流れを早めに掴める",
+      "classification_reason": "顔と声の権利管理が創作と個人ブランドの制約条件になる流れを早めに掴める",
+      "knowledge_value": "エンタメ業界におけるAIの論点は、効率化だけではなく、人格・権利・労働価値をどう扱うかに及んでいる。デジタル分身が標準化すれば、契約、収益分配、本人同意の設計が業界の根幹になる。",
+      "content_status": "content_ok",
+      "content_chars": 10503,
+      "source_access": "unknown",
+      "adjacent_field": "肖像権・声の権利・キャラクターライセンス市場",
+      "adjacent_reasoning": "キャラクター表現、VTuber、実写合成に関心があるなら、次に効いてくる制約は生成品質そのものより、誰の顔と声と人格をどう権利化して流通させるかになる。これは創作、投稿、IP展開、個人ブランド保護を一つの線でつなぐ分野。"
+    }
+  ],
+  "status": "complete",
+  "failed_modes": []
+}
