@@ -1,0 +1,414 @@
+{
+  "date": "2026-07-10",
+  "generated_at": "2026-07-10T12:37:05.504384+09:00",
+  "run_id": "20260710T123705+0900",
+  "mode_collection_counts": {
+    "breaking": 38,
+    "followup": 23,
+    "deep_dive": 8,
+    "adjacent": 3
+  },
+  "mode_errors": {},
+  "mode": "multimode",
+  "articles": [
+    {
+      "number": 1,
+      "title": "OpenAIがGPT-5.6の新モデル群を発表",
+      "source": "TechCrunch",
+      "description": "",
+      "url": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-09",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 1,
+        "title_ja": "OpenAIがGPT-5.6の新モデル群を発表",
+        "key_points": [
+          "OpenAIはGPT-5.6をSol、Terra、Lunaの3モデルで公開し、ChatGPT、Codex、APIで提供開始した。",
+          "同社はSolを最強のコーディングモデルと位置づけ、サイバーセキュリティ分野でも高性能かつ高効率だと主張している。",
+          "あわせて企業向け業務支援ツールChatGPT Workも発表し、Anthropic対抗を強く意識した展開を打ち出した。"
+        ],
+        "detailed_summary": "OpenAIは新たなモデル群GPT-5.6を発表し、主力のSol、中位のTerra、低価格のLunaを展開した。企業業務、コーディング、科学研究での活用を想定し、特にSolは従来よりトークン効率が高く、サイバー防御用途でも最強水準だと訴える。ベンチマークではAnthropicのFable 5を上回ると主張し、同時に文書や表計算の作成を助けるChatGPT Workも投入した。価格体系まで含め、法人市場での主導権争いを鮮明にした発表だ。",
+        "why_it_matters": "生成AIの競争が性能だけでなく、価格効率、業務統合、セキュリティ対応へ移っていることを示す。とくに法人向け市場でOpenAIとAnthropicの競争がさらに激しくなる。",
+        "headline": "モデル性能競争だけでなく、実運用の標準線と競争前提を今日更新する材料"
+      },
+      "selection_reason": "モデル性能競争だけでなく、実運用の標準線と競争前提を今日更新する材料",
+      "classification_reason": "モデル性能競争だけでなく、実運用の標準線と競争前提を今日更新する材料",
+      "knowledge_value": "生成AIの競争が性能だけでなく、価格効率、業務統合、セキュリティ対応へ移っていることを示す。とくに法人向け市場でOpenAIとAnthropicの競争がさらに激しくなる。",
+      "content_status": "content_ok",
+      "content_chars": 2843,
+      "source_access": "free"
+    },
+    {
+      "number": 2,
+      "title": "AnthropicはClaude Fable 5の利用に追加課金を求める",
+      "source": "WIRED",
+      "description": "",
+      "url": "https://www.wired.com/story/model-behavior-anthropic-will-charge-consumers-extra-to-use-claude-fable-5/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-10",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 2,
+        "title_ja": "AnthropicはClaude Fable 5の利用に追加課金を求める",
+        "key_points": [
+          "Anthropicは7月12日から、Claude Fable 5の利用に月額プランとは別の従量課金を導入する。",
+          "料金はAPIと同水準で、入力100万トークンあたり10ドル、出力100万トークンあたり50ドルとなる。",
+          "計算資源の制約やAIエージェント時代の高コスト化を背景に、定額制の見直しが進んでいる。"
+        ],
+        "detailed_summary": "Anthropicは消費者向けのClaude Fable 5について、月額20ドル、100ドル、200ドルの契約者にも従量課金を追加する方針を示した。これまで最先端AIは消費者向けには定額制が主流だったが、Fable 5ではAPIと同じ単価を適用する。高度なモデルほど内部推論で大量のトークンを消費しやすく、ヘビーユーザーの採算が悪化していることが背景にある。十分な計算能力が確保できれば再び定額枠に戻す意向も示しているが、AI料金体系の転換点になりうる。",
+        "why_it_matters": "先端AIの利用コストが見えにくい定額制から、実使用量に応じた課金へ移る流れを象徴している。消費者向けAIの使い方と価格感覚を大きく変える可能性がある。",
+        "headline": "高性能モデルの価格差別化が進み、個人利用と業務利用の線引きが変わる"
+      },
+      "selection_reason": "高性能モデルの価格差別化が進み、個人利用と業務利用の線引きが変わる",
+      "classification_reason": "高性能モデルの価格差別化が進み、個人利用と業務利用の線引きが変わる",
+      "knowledge_value": "先端AIの利用コストが見えにくい定額制から、実使用量に応じた課金へ移る流れを象徴している。消費者向けAIの使い方と価格感覚を大きく変える可能性がある。",
+      "content_status": "content_ok",
+      "content_chars": 6152,
+      "source_access": "free",
+      "content_excerpt": "AI model developers have long offered consumers a simple deal: Use our technology for free through an online chatbot, or pay a monthly subscription to..."
+    },
+    {
+      "number": 3,
+      "title": "米国で4基の原子炉が大きな節目を達成",
+      "source": "MIT Technology Review",
+      "description": "",
+      "url": "https://www.technologyreview.com/2026/07/09/1140235/nuclear-reactor-milestone-criticality/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-10",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 3,
+        "title_ja": "米国で4基の原子炉が大きな節目を達成",
+        "key_points": [
+          "米国のマイクロリアクター4基が臨界に到達し、政府目標を上回る成果となった。",
+          "これは連鎖反応を維持できることを示す技術的節目だが、まだ送電用の発電には直結しない。",
+          "今後は冷却設備など本格的な発電インフラの整備と、商用化に向けた技術課題の克服が必要になる。"
+        ],
+        "detailed_summary": "米国ではトランプ政権が掲げた期限までに3基の新型マイクロリアクターを臨界に到達させる目標に対し、実際には4社が達成した。DOEの実証支援制度が後押しし、2023年創業の新興企業も短期間で成果を出した点は注目される。ただし今回の多くはゼロ出力臨界で、連鎖反応の開始確認にとどまり、発電能力の実証ではない。今後は冷却系や燃料設計など、送電可能な原子炉へ進むための難しい工学的課題が待っている。",
+        "why_it_matters": "脱炭素と電力需要増に対応する新型原子力の前進としては明るい材料だ。ただし実用発電までの距離はまだあり、期待先行を避けて進捗を見極める必要がある。",
+        "headline": "AI計算資源の外側にある電力制約を、原子力供給の現実面から見直せる"
+      },
+      "selection_reason": "AI計算資源の外側にある電力制約を、原子力供給の現実面から見直せる",
+      "classification_reason": "AI計算資源の外側にある電力制約を、原子力供給の現実面から見直せる",
+      "knowledge_value": "脱炭素と電力需要増に対応する新型原子力の前進としては明るい材料だ。ただし実用発電までの距離はまだあり、期待先行を避けて進捗を見極める必要がある。",
+      "content_status": "content_ok",
+      "content_chars": 5610,
+      "source_access": "unknown"
+    },
+    {
+      "number": 4,
+      "title": "NATO首脳会議の異例の48時間が示したトランプの世界外交への支配力",
+      "source": "CNBC",
+      "description": "",
+      "url": "https://www.cnbc.com/2026/07/09/nato-trump-rutte-ukraine-russia-us-iran.html",
+      "category": "経済・金融",
+      "published_at": "2026-07-09",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 4,
+        "title_ja": "NATO首脳会議の異例の48時間が示したトランプの世界外交への支配力",
+        "key_points": [
+          "トランプ大統領を中心に、NATO首脳会議の空気が48時間で対立ムードから融和ムードへ急変した。",
+          "イラン、ウクライナ、欧州防衛費、グリーンランド問題など主要論点の多くがトランプの意向に左右された。",
+          "会議は米国という国家以上に、トランプ個人が外交の流れを決定づける現実を浮き彫りにした。"
+        ],
+        "detailed_summary": "トルコのアンカラで開かれたNATO首脳会議は、開始時にはトランプ大統領と同盟国の衝突が懸念されていた。欧州各国の防衛費不足、スペインへの圧力、ゼレンスキー大統領の立場、イラン情勢までが重なり、市場も不安定化した。ところが短時間で雰囲気は一変し、各国首脳はトランプとの会談が成功だったと語るようになった。会議全体は、現在の国際外交が制度よりもトランプ個人の機嫌や判断に強く引き寄せられていることを象徴する場になった。",
+        "why_it_matters": "同盟や市場の安定が、制度的な合意より一人の指導者の判断に左右される現実を示している。欧州安全保障やウクライナ支援の先行きにも直結する重要な変化だ。",
+        "headline": "地政学を首脳発言ではなく意思決定構造で読む視点に直結する速報性が高い"
+      },
+      "selection_reason": "地政学を首脳発言ではなく意思決定構造で読む視点に直結する速報性が高い",
+      "classification_reason": "地政学を首脳発言ではなく意思決定構造で読む視点に直結する速報性が高い",
+      "knowledge_value": "同盟や市場の安定が、制度的な合意より一人の指導者の判断に左右される現実を示している。欧州安全保障やウクライナ支援の先行きにも直結する重要な変化だ。",
+      "content_status": "content_ok",
+      "content_chars": 5548,
+      "source_access": "free"
+    },
+    {
+      "number": 5,
+      "title": "成田空港 新滑走路整備へ 用地を強制取得できる手続きに合意",
+      "source": "NHKニュース",
+      "description": "成田空港の3本目の滑走路の整備に向けて国や周辺自治体などからなる「四者協議会」が千葉県成田市で開かれ、交渉が難航している用地を法律に基づいて強制的に取得できる手続きを進めることで合意しました。空港会社は地権者との用地交渉は継続するとしていますが、いわゆる「成田闘争」の歴史を踏まえ強制的な取得を控えてきた方針を事実上、転換することになります。",
+      "url": "http://www3.nhk.or.jp/news/html/20260710/k10015173501000.html",
+      "category": "政治・経済",
+      "published_at": "2026-07-10",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 5,
+        "title_ja": "成田空港 新滑走路整備へ 用地を強制取得できる手続きに合意",
+        "key_points": [
+          "成田空港の3本目の滑走路整備に向け、国や自治体などで構成する四者協議会が重要な合意に達した。",
+          "交渉が難航している土地について、法律に基づく強制取得手続きを進める方針が確認された。",
+          "空港機能の拡張を急ぐ一方で、地元との合意形成と権利調整の難しさが改めて浮かんだ。"
+        ],
+        "detailed_summary": "成田空港の第3滑走路整備をめぐり、国、千葉県、周辺自治体などで構成する四者協議会は、用地交渉が進まない土地について法的な強制取得手続きを進めることで合意した。成田空港の機能強化は国際競争力や発着容量の拡大に直結する一方、長年にわたり地域住民との調整が難航してきた経緯がある。今回の合意は整備推進を前に進める節目だが、公共性と私権の調整という重い課題も同時に背負う判断となる。",
+        "why_it_matters": "首都圏空港の処理能力拡大に向けた重要な前進であり、物流や観光への影響も大きい。一方で、公共事業における強制取得の是非が改めて問われる。",
+        "headline": "日本の物流と観光の供給制約を、政治と制度で動かす典型例として重要"
+      },
+      "selection_reason": "日本の物流と観光の供給制約を、政治と制度で動かす典型例として重要",
+      "classification_reason": "日本の物流と観光の供給制約を、政治と制度で動かす典型例として重要",
+      "knowledge_value": "首都圏空港の処理能力拡大に向けた重要な前進であり、物流や観光への影響も大きい。一方で、公共事業における強制取得の是非が改めて問われる。",
+      "content_status": "content_ok",
+      "content_chars": 825,
+      "source_access": "free"
+    },
+    {
+      "number": 6,
+      "title": "ChatGPTブラウザーはすでに終わった",
+      "source": "The Verge",
+      "description": "",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/963654/openai-chatgpt-atlas-ai-browser-shut-down-sunset",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-09",
+      "mode": "followup",
+      "summary": {
+        "article_index": 6,
+        "title_ja": "ChatGPTブラウザーはすでに終わった",
+        "key_points": [
+          "OpenAIは、昨年10月に発表したタスク代行型ブラウザーAtlasを8月9日に終了すると明らかにした。",
+          "Atlas終了の背景には、機能を分散させるより生産性機能をChatGPT Workへ集約する方針がある。",
+          "Atlasで得た知見は、デスクトップ版ChatGPTの更新ブラウザーやクラウドブラウザー機能に引き継がれる。"
+        ],
+        "detailed_summary": "OpenAIは、ユーザーに代わって作業を行うブラウザーとして投入したChatGPT Atlasを、公開から1年足らずで終了させる。新たに発表したChatGPT Workの一環として、ブラウザー機能を単独製品ではなくデスクトップアプリやクラウド上の業務モードに統合する戦略へ切り替えたためだ。報道では、ChatGPT、Codex、Atlasをまとめたスーパーアプリ構想が以前から検討されていたとされる。OpenAIは周辺プロダクトを整理し、本命の業務支援体験に集中し始めている。",
+        "why_it_matters": "AI企業が実験的な周辺製品を早期に畳み、勝ち筋のある業務支援領域へ資源を集中していることが分かる。ユーザーにとっては、単独アプリより統合型AIワークスペースが主流になる兆しだ。",
+        "headline": "ブラウザ常駐型エージェントの失敗要因と、次の実装方針を追う価値がある"
+      },
+      "selection_reason": "ブラウザ常駐型エージェントの失敗要因と、次の実装方針を追う価値がある",
+      "classification_reason": "ブラウザ常駐型エージェントの失敗要因と、次の実装方針を追う価値がある",
+      "knowledge_value": "AI企業が実験的な周辺製品を早期に畳み、勝ち筋のある業務支援領域へ資源を集中していることが分かる。ユーザーにとっては、単独アプリより統合型AIワークスペースが主流になる兆しだ。",
+      "content_status": "content_ok",
+      "content_chars": 1475,
+      "source_access": "free"
+    },
+    {
+      "number": 7,
+      "title": "独占: OpenAIの導入支援部門がNorthslopeを買収へ",
+      "source": "Axios",
+      "description": "",
+      "url": "https://www.axios.com/2026/07/08/openai-deployment-company-northslope-acquisition",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-08",
+      "mode": "followup",
+      "summary": {
+        "article_index": 1,
+        "title_ja": "独占: OpenAIの導入支援部門がNorthslopeを買収へ",
+        "key_points": [
+          "OpenAIの導入支援会社が応用AI企業Northslopeの買収で合意した",
+          "Tomoroに続く2件目の買収で、顧客企業に常駐してAI導入を進める技術者体制を強化する",
+          "生成AI競争がモデル性能だけでなく、企業現場での実装力へ移っていることを示す動きだ"
+        ],
+        "detailed_summary": "OpenAIが5月に立ち上げた企業向け導入支援部門が、応用AI企業Northslopeを買収する。条件は非公表だが、OpenAI主導の同部門は40億ドル規模の買収資金を持ち、今回でTomoroに続く2件目の案件となる。狙いは、顧客企業の現場に入り込んでAIシステムを構築するFDEを数百人規模に拡充し、技術部門と事業部門の橋渡しを強めることにある。モデル性能の差が縮まる中、AI企業がコンサル的役割まで担い、導入実務そのもので競争する局面に入ったことがうかがえる。",
+        "why_it_matters": "AIの勝敗がモデル性能だけで決まらなくなり、企業内で実際に使わせる導入支援力が差別化要因になっている。OpenAIがその領域に本格投資している点は、業界の収益構造の変化を示す。",
+        "headline": "モデル販売から導入実装まで抱え込む企業戦略の変化を追跡できる"
+      },
+      "selection_reason": "モデル販売から導入実装まで抱え込む企業戦略の変化を追跡できる",
+      "classification_reason": "モデル販売から導入実装まで抱え込む企業戦略の変化を追跡できる",
+      "knowledge_value": "AIの勝敗がモデル性能だけで決まらなくなり、企業内で実際に使わせる導入支援力が差別化要因になっている。OpenAIがその領域に本格投資している点は、業界の収益構造の変化を示す。",
+      "content_status": "content_ok",
+      "content_chars": 2455,
+      "source_access": "free"
+    },
+    {
+      "number": 8,
+      "title": "報道各社、重大なAI著作権訴訟でOpenAIへの制裁を裁判所に要求",
+      "source": "AP News",
+      "description": "",
+      "url": "https://apnews.com/article/openai-new-york-times-ai-copyright-lawsuit-7ce19c7a25aad60d4c94556d36e96cc9",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-10",
+      "mode": "followup",
+      "summary": {
+        "article_index": 2,
+        "title_ja": "報道各社、重大なAI著作権訴訟でOpenAIへの制裁を裁判所に要求",
+        "key_points": [
+          "ニューヨーク・タイムズなどが、証拠開示を巡りOpenAIへの制裁を求めた",
+          "争点は、ニュース記事を学習に使った経緯やChatGPTの利用記録が適切に開示されているかどうかだ",
+          "OpenAIはユーザーのプライバシー保護とフェアユースの原則を理由に反論している"
+        ],
+        "detailed_summary": "ニューヨーク・タイムズやデイリーニューズなど複数の報道機関が、著作権訴訟でOpenAIが重要証拠の開示を妨げているとして、連邦判事に制裁を求めた。原告側は、学習データセットやChatGPTログの提出を巡る説明に矛盾があり、著作物利用の実態を隠していると主張する。一方のOpenAIは、ログ開示には無関係な利用者のプライバシー侵害が伴うと反発し、フェアユースの法理を改めて強調した。AI学習と報道コンテンツ利用の境界線を左右する象徴的な訴訟として重みが増している。",
+        "why_it_matters": "この裁判は、AI企業がニュース記事を学習に使う行為が合法かどうかを左右しうる。判決次第で、報道機関の収益構造と生成AIの開発慣行の両方に影響が及ぶ。",
+        "headline": "学習データ訴訟の圧力が強まり、生成AI事業の法務コストが一段上がる"
+      },
+      "selection_reason": "学習データ訴訟の圧力が強まり、生成AI事業の法務コストが一段上がる",
+      "classification_reason": "学習データ訴訟の圧力が強まり、生成AI事業の法務コストが一段上がる",
+      "knowledge_value": "この裁判は、AI企業がニュース記事を学習に使う行為が合法かどうかを左右しうる。判決次第で、報道機関の収益構造と生成AIの開発慣行の両方に影響が及ぶ。",
+      "content_status": "content_ok",
+      "content_chars": 4619,
+      "source_access": "free"
+    },
+    {
+      "number": 9,
+      "title": "バージニア州、全米初とみられるデータセンター電力消費税を承認",
+      "source": "Kiplinger",
+      "description": "",
+      "url": "https://www.kiplinger.com/taxes/virginia-approves-first-data-center-power-tax",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-08",
+      "mode": "followup",
+      "summary": {
+        "article_index": 3,
+        "title_ja": "バージニア州、全米初とみられるデータセンター電力消費税を承認",
+        "key_points": [
+          "バージニア州がデータセンターの電力使用に1.1セント/kWhの新税を導入した",
+          "長年業界を支えてきた設備向け売上税免除は2035年まで維持された",
+          "税収上限は年6億ドルで、超過分は事業者に返還される仕組みだ"
+        ],
+        "detailed_summary": "世界最大級のデータセンター集積地を抱えるバージニア州で、データセンターの電力消費に課税する新制度が承認された。2026年7月1日から月次で1.1セント/kWhを徴収し、年6億ドルを超えた分は返還する。一方で、2008年導入の設備向け売上税免除は撤廃されず、2035年まで維持される見通しだ。州議会では、年間15億ドル超の税収減を招く優遇措置を見直すべきだという声と、投資先としての安定性を損ねたくないという声が衝突していた。妥協案として、成長産業の誘致と地域負担の分配を両立させようとしている。",
+        "why_it_matters": "AIとクラウド需要で電力を大量消費するデータセンター産業に、自治体がどう負担を求めるかの先例になる。今後は税制だけでなく、送電網や地域インフラの受益と負担の議論が広がりやすい。",
+        "headline": "データセンター拡張が税と電力政策で縛られ始めた差分として重要"
+      },
+      "selection_reason": "データセンター拡張が税と電力政策で縛られ始めた差分として重要",
+      "classification_reason": "データセンター拡張が税と電力政策で縛られ始めた差分として重要",
+      "knowledge_value": "AIとクラウド需要で電力を大量消費するデータセンター産業に、自治体がどう負担を求めるかの先例になる。今後は税制だけでなく、送電網や地域インフラの受益と負担の議論が広がりやすい。",
+      "content_status": "content_ok",
+      "content_chars": 5830,
+      "source_access": "unknown"
+    },
+    {
+      "number": 10,
+      "title": "AIエージェントの実行時コンプライアンス検証",
+      "source": "arXiv",
+      "description": "",
+      "url": "https://arxiv.org/abs/2606.19242",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-06-17",
+      "mode": "deep_dive",
+      "summary": {
+        "article_index": 4,
+        "title_ja": "AIエージェントの実行時コンプライアンス検証",
+        "key_points": [
+          "論文はGDPR順守を実行時に監視するC-Traceという枠組みを提案している",
+          "同意、目的限定、データ最小化、削除権などを実行トレース上の形式的ポリシーとして表現する",
+          "ツール呼び出しやモデル出力を都度監視し、違反行為を遮断することで攻撃成功率を抑えた"
+        ],
+        "detailed_summary": "この論文は、AIエージェントが個人データを扱う際のGDPR違反を、実行中に検知して防ぐC-Traceを提案する。従来のレッドチーミングや静的レビューでは、実運用中の振る舞いまでは保証できないという問題意識がある。C-Traceは、同意取得、目的外利用の禁止、データ最小化、削除権といった要件を実行トレース上の述語として定義し、各ツール呼び出しとモデル出力を監視して不適切な行為を拒否する。4つのケーススタディでは、抽出ノイズがあっても攻撃成功率を低く抑え、完全抽出時には0％まで下げたと報告している。",
+        "why_it_matters": "AIエージェントの安全性を事前テストだけでなく、本番実行中の統制で担保する方向性を示している。規制対応が厳しくなる中、実務で使える監査可能な仕組みとして注目される。",
+        "headline": "エージェントを動かす前に、権限逸脱と手続き違反を検証する設計を深める"
+      },
+      "selection_reason": "エージェントを動かす前に、権限逸脱と手続き違反を検証する設計を深める",
+      "classification_reason": "エージェントを動かす前に、権限逸脱と手続き違反を検証する設計を深める",
+      "knowledge_value": "AIエージェントの安全性を事前テストだけでなく、本番実行中の統制で担保する方向性を示している。規制対応が厳しくなる中、実務で使える監査可能な仕組みとして注目される。",
+      "content_status": "content_ok",
+      "content_chars": 2585,
+      "source_access": "free"
+    },
+    {
+      "number": 11,
+      "title": "一度の攻撃、一つの警告: 世界のエネルギー生命線はなお脆弱だ",
+      "source": "The Economic Times",
+      "description": "",
+      "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/qatar-lng-tanker-attack-hormuz-shipping-risks-oil-markets-one-attack-one-warning-the-worlds-energy-lifeline-is-still-vulnerable-iran-us-deal/articleshow/132232591.cms",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-08",
+      "mode": "deep_dive",
+      "summary": {
+        "article_index": 5,
+        "title_ja": "一度の攻撃、一つの警告: 世界のエネルギー生命線はなお脆弱だ",
+        "key_points": [
+          "イラン革命防衛隊がホルムズ海峡を通過する商船に少なくとも2発のミサイルを発射したと報じられた",
+          "カタールのLNG船Al Rekayyatが被弾し、別のLNG船も航路変更するなど市場に緊張が走った",
+          "全面戦争への懸念は和らいでも、海上輸送の断続的な混乱リスクがエネルギー市場を揺らしている"
+        ],
+        "detailed_summary": "Axiosなどによると、イラン革命防衛隊は月曜夜、ホルムズ海峡を航行中の商船に少なくとも2発のミサイルを発射した。報道では、カタール国営系のLNG船Al Rekayyatがオマーン沖で被弾し、火災が発生した可能性がある。別のLNG船Al Areeshも積み荷後に進路を変更し、市場では欧州ガス価格が一時4.5％上昇、ブレント原油も反発した。米国とイランの暫定的な和平枠組みで大規模戦闘は沈静化しつつあるが、ホルムズ海峡の安全通航はなお不安定で、商船の判断とエネルギー価格を繰り返し揺さぶっている。",
+        "why_it_matters": "ホルムズ海峡は世界の原油・LNG輸送の要所であり、単発の攻撃でも価格と物流の両方に即時の影響が出る。戦争終結の有無より、継続的な妨害リスクの方が市場には重い。",
+        "headline": "ホルムズ海峡を単発事件でなく、海運保険と供給網の脆弱性として捉え直す"
+      },
+      "selection_reason": "ホルムズ海峡を単発事件でなく、海運保険と供給網の脆弱性として捉え直す",
+      "classification_reason": "ホルムズ海峡を単発事件でなく、海運保険と供給網の脆弱性として捉え直す",
+      "knowledge_value": "ホルムズ海峡は世界の原油・LNG輸送の要所であり、単発の攻撃でも価格と物流の両方に即時の影響が出る。戦争終結の有無より、継続的な妨害リスクの方が市場には重い。",
+      "content_status": "content_ok",
+      "content_chars": 9827,
+      "source_access": "unknown"
+    },
+    {
+      "number": 12,
+      "title": "イラン戦争によるエネルギー転換の追い風は限定的かもしれない",
+      "source": "Axios",
+      "description": "",
+      "url": "https://www.axios.com/2026/07/09/iran-war-hormuz-oil-natural-gas-energy-transition",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-09",
+      "mode": "deep_dive",
+      "summary": {
+        "article_index": 6,
+        "title_ja": "イラン戦争によるエネルギー転換の追い風は限定的かもしれない",
+        "key_points": [
+          "イラン戦争は再エネ需要を押し上げつつも、脱化石燃料を急加速させるほどではないと見る向きが強い",
+          "市場は中東以外の供給、戦略備蓄、米国輸出、代替パイプラインで衝撃を吸収した",
+          "UAEなどはホルムズ海峡を迂回する輸送網拡充を進め、依存低下が進む可能性がある"
+        ],
+        "detailed_summary": "Axiosは、イラン戦争が世界のエネルギー転換を後押しする効果は限定的になりそうだと報じた。危機を受けて再エネや電気自動車、非ホルムズ経由の供給網への関心は高まったが、原油価格は一部予想されたような1バレル150〜200ドルには届かなかった。背景には、中国の輸入減少、米国の輸出増、各国の戦略備蓄放出、中東域内パイプラインの活用といった緩衝材があった。Bloomberg Intelligenceは、UAEの増強計画を含む迂回インフラ投資で、将来的な海峡通過量が大きく減る可能性を指摘する。結果として、危機は再エネ需要を押し上げつつも、世界の石油システムのしぶとさも同時に浮き彫りにした。",
+        "why_it_matters": "エネルギー安全保障の危機が直ちに脱石油を加速させるとは限らない現実を示している。政策や投資は再エネ拡大だけでなく、化石燃料供給網の多様化にも向かいやすい。",
+        "headline": "地政学ショックがそのまま脱炭素加速にならない現実的な因果を確認できる"
+      },
+      "selection_reason": "地政学ショックがそのまま脱炭素加速にならない現実的な因果を確認できる",
+      "classification_reason": "地政学ショックがそのまま脱炭素加速にならない現実的な因果を確認できる",
+      "knowledge_value": "エネルギー安全保障の危機が直ちに脱石油を加速させるとは限らない現実を示している。政策や投資は再エネ拡大だけでなく、化石燃料供給網の多様化にも向かいやすい。",
+      "content_status": "content_ok",
+      "content_chars": 3749,
+      "source_access": "unknown"
+    },
+    {
+      "number": 13,
+      "title": "AIで数分あれば声は複製できる。テイラー・スウィフトは自分の声を守ろうとしているが、私たち一般人にはどんな権利があるのか",
+      "source": "TechRadar",
+      "description": "",
+      "url": "https://www.techradar.com/ai-platforms-assistants/your-voice-can-be-cloned-in-minutes-using-ai-and-taylor-swift-is-trying-to-protect-hers-but-what-rights-do-the-rest-of-us-have",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-07",
+      "mode": "adjacent",
+      "summary": {
+        "article_index": 1,
+        "title_ja": "AIで数分あれば声は複製できる。テイラー・スウィフトは自分の声を守ろうとしているが、私たち一般人にはどんな権利があるのか",
+        "key_points": [
+          "AI音声クローン技術は数分の音声から本人そっくりの声を再現でき、著名人だけでなく一般人にも影響が広がっている。",
+          "テイラー・スウィフトやマシュー・マコノヒーは商標で保護を試みているが、声そのものを単純に所有できるわけではない。",
+          "著作権、商標権、プライバシー権、パブリシティ権など既存法は部分的にしか対応できず、地域差も大きい。"
+        ],
+        "detailed_summary": "この記事は、AIによる音声クローンが急速に普及するなかで、人は自分の声にどこまで法的権利を持てるのかを検証している。テイラー・スウィフトら著名人は録音フレーズやキャッチコピーを商標で守ろうとしているが、法律の専門家によれば、声そのものは楽曲や録音物のように明確な所有物として扱われにくい。現行法は著作権や実演家の権利、プライバシー保護などで一部対応できても、AI学習や無断模倣を包括的に規制するには不十分で、法整備の遅れが浮き彫りになっている。",
+        "why_it_matters": "声は個人認証、信用、収入源に直結するため、無断複製の被害は詐欺やなりすましにもつながる。著名人だけでなく、音声を公開している一般人も保護の空白地帯に置かれている点が重要だ。",
+        "headline": "創作と個人ブランドを伸ばすほど、声の権利処理が事業制約になると分かる"
+      },
+      "selection_reason": "創作と個人ブランドを伸ばすほど、声の権利処理が事業制約になると分かる",
+      "classification_reason": "創作と個人ブランドを伸ばすほど、声の権利処理が事業制約になると分かる",
+      "knowledge_value": "声は個人認証、信用、収入源に直結するため、無断複製の被害は詐欺やなりすましにもつながる。著名人だけでなく、音声を公開している一般人も保護の空白地帯に置かれている点が重要だ。",
+      "content_status": "content_ok",
+      "content_chars": 9899,
+      "source_access": "unknown",
+      "adjacent_field": "合成メディアの権利処理と肖像・音声ライセンス",
+      "adjacent_reasoning": "生成AI創作を作品や事業に伸ばすほど、表現力そのものより誰の顔・声・作風をどう扱えるかが制約になります。創作、個人ブランド、エージェント実務を横断して、法務と保険が次のボトルネックになる分野です。"
+    },
+    {
+      "number": 14,
+      "title": "クリエイターエコノミーの巨大ビジネスの内幕と、それを動かすエージェントたち",
+      "source": "The Verge",
+      "description": "",
+      "url": "https://www.theverge.com/podcast/961603/raina-penchansky-ali-berman-dba-uta-influencer-cliff-marketing",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-06",
+      "mode": "adjacent",
+      "summary": {
+        "article_index": 2,
+        "title_ja": "クリエイターエコノミーの巨大ビジネスの内幕と、それを動かすエージェントたち",
+        "key_points": [
+          "UTAのクリエイター部門は、人気インフルエンサーや配信者を支援し、従来の芸能マネジメントとは異なる事業づくりを担っている。",
+          "収益源は広告案件だけでなく、自社商品立ち上げや複数事業への展開に広がり、トップクリエイターはマルチミリオン規模の事業体になっている。",
+          "AIやプラットフォーム変化は不安定要因だが、担当エージェントは新しい環境への適応を前提に比較的冷静に見ている。"
+        ],
+        "detailed_summary": "この記事は、カンヌ・ライオンズで収録されたポッドキャスト番組をもとに、UTAのAli Berman氏とRaina Penchansky氏が率いるクリエイター部門の実像を追う内容だ。彼女たちは新興クリエイターを見極め、ブランド案件の仲介にとどまらず、商品開発や事業立ち上げまで支援している。いまの有力クリエイターは単なる発信者ではなく、複数の収益ラインを持つ経営者に近い存在になっている。記事は、ハリウッド型のエージェント業務との違いを示しつつ、AIやプラットフォーム変動の時代に人間のクリエイターをどう成長させるかを掘り下げている。",
+        "why_it_matters": "クリエイターエコノミーは個人発信の話ではなく、IP、商品、広告を束ねる大きな産業へ変わっている。AI時代でも、人間の個性を事業に変える支援の仕組みが競争力を左右することが見えてくる。",
+        "headline": "発信者本人より、裏側の交渉と流通設計が価値を決める構図を学べる"
+      },
+      "selection_reason": "発信者本人より、裏側の交渉と流通設計が価値を決める構図を学べる",
+      "classification_reason": "発信者本人より、裏側の交渉と流通設計が価値を決める構図を学べる",
+      "knowledge_value": "クリエイターエコノミーは個人発信の話ではなく、IP、商品、広告を束ねる大きな産業へ変わっている。AI時代でも、人間の個性を事業に変える支援の仕組みが競争力を左右することが見えてくる。",
+      "content_status": "content_ok",
+      "content_chars": 62334,
+      "source_access": "free",
+      "adjacent_field": "合成メディアの権利処理と肖像・音声ライセンス",
+      "adjacent_reasoning": "生成AI創作を作品や事業に伸ばすほど、表現力そのものより誰の顔・声・作風をどう扱えるかが制約になります。創作、個人ブランド、エージェント実務を横断して、法務と保険が次のボトルネックになる分野です。"
+    }
+  ],
+  "status": "complete",
+  "failed_modes": []
+}
