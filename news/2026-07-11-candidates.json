@@ -1,0 +1,501 @@
+{
+  "date": "2026-07-11",
+  "generated_at": "2026-07-11T09:00:06.606184+09:00",
+  "run_id": "20260711T090006+0900",
+  "mode_collection_counts": {
+    "breaking": 38,
+    "followup": 17,
+    "deep_dive": 4,
+    "adjacent": 2
+  },
+  "mode_errors": {},
+  "mode": "multimode",
+  "articles": [
+    {
+      "number": 1,
+      "title": "アップル、営業秘密の窃取疑惑でOpenAIを提訴",
+      "source": "TechCrunch",
+      "description": "",
+      "url": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-10",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 1,
+        "title_ja": "アップル、営業秘密の窃取疑惑でOpenAIを提訴",
+        "key_points": [
+          "AppleはOpenAIと元Apple幹部らが営業秘密を不正取得したとして提訴した。",
+          "訴状では採用面接で機密コード名や部品、未発表製品情報を持ち込ませた疑いが指摘された。",
+          "OpenAIのハードウェア開発がiPhone事業への脅威になり得る中で、両社の対立が表面化した。"
+        ],
+        "detailed_summary": "Appleは、OpenAIが元Apple社員を通じて営業秘密を不正に取得し、契約にも違反したとして米連邦地裁に提訴した。訴状では、OpenAIのTang Tan氏らが採用過程でAppleの機密コード名を使い、候補者に部品や未発表製品情報の持参を求めた疑いを列挙。元社員Chang Liu氏による機密文書の持ち出しや共有も問題視している。OpenAIが独自ハードを開発中とされる中、Appleは自社情報が競合製品に利用された可能性まで主張している。",
+        "why_it_matters": "AI企業とスマホ大手の競争が、知財と人材流出を巡る法廷闘争に発展した。OpenAIのハードウェア戦略が本格化すれば、Appleの中核事業に直接ぶつかる可能性がある。",
+        "headline": "モデル競争が訴訟戦に入り、人材流動と機密管理の前提を即座に見直させる"
+      },
+      "selection_reason": "モデル競争が訴訟戦に入り、人材流動と機密管理の前提を即座に見直させる",
+      "classification_reason": "モデル競争が訴訟戦に入り、人材流動と機密管理の前提を即座に見直させる",
+      "knowledge_value": "AI企業とスマホ大手の競争が、知財と人材流出を巡る法廷闘争に発展した。OpenAIのハードウェア戦略が本格化すれば、Appleの中核事業に直接ぶつかる可能性がある。",
+      "content_status": "content_ok",
+      "content_chars": 4732,
+      "source_access": "free"
+    },
+    {
+      "number": 2,
+      "title": "SKハイニックス、米史上最大の外国企業IPOで265億ドル調達 米新工場建設も要請される",
+      "source": "TechCrunch",
+      "description": "",
+      "url": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-10",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 2,
+        "title_ja": "SKハイニックス、米史上最大の外国企業IPOで265億ドル調達 米新工場建設も要請される",
+        "key_points": [
+          "SKハイニックスは米上場で265億ドルを調達し、外国企業として米国史上最大のIPOとなった。",
+          "AI向けHBM需要の追い風で、韓国企業特有の割安評価を跳ね返す強い人気を集めた。",
+          "米政府は同社やSamsungに対し、米国内での新工場建設も働きかけている。"
+        ],
+        "detailed_summary": "SKハイニックスは米国市場デビューで265億ドルを調達し、Alibabaの2014年IPOを上回る外国企業として史上最大の米上場案件となった。AI向けGPUに不可欠なHBMの主要供給者としてNvidiaを支える立場が評価され、需要は募集株数の7倍超に達した。調達資金は韓国内の新工場、先端パッケージ施設、EUV装置に充てる計画。一方で米商務長官は、半導体供給網の国内回帰を狙って同社やSamsungに米国内投資を促している。",
+        "why_it_matters": "AI半導体ブームが資本市場と製造拠点の再編を同時に押し進めている。メモリー供給の主導権が、韓国・米国間の産業政策や地政学に直結する局面に入った。",
+        "headline": "AI半導体への資本流入規模と米国内製造圧力が、供給網再編を一段進めた"
+      },
+      "selection_reason": "AI半導体への資本流入規模と米国内製造圧力が、供給網再編を一段進めた",
+      "classification_reason": "AI半導体への資本流入規模と米国内製造圧力が、供給網再編を一段進めた",
+      "knowledge_value": "AI半導体ブームが資本市場と製造拠点の再編を同時に押し進めている。メモリー供給の主導権が、韓国・米国間の産業政策や地政学に直結する局面に入った。",
+      "content_status": "content_ok",
+      "content_chars": 2921,
+      "source_access": "free"
+    },
+    {
+      "number": 3,
+      "title": "中国、イーロン・マスクの再使用型ロケットに急接近",
+      "source": "TechCrunch",
+      "description": "",
+      "url": "https://techcrunch.com/2026/07/10/china-is-catching-up-to-elon-musks-reusable-rockets/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-10",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 3,
+        "title_ja": "中国、イーロン・マスクの再使用型ロケットに急接近",
+        "key_points": [
+          "中国国有宇宙企業は長征ロケットのブースターを洋上回収船に着地させる実証に成功した。",
+          "年内の再使用を目指しており、打ち上げコストを大きく下げる可能性がある。",
+          "衛星通信や宇宙インフラでStarlinkに対抗する力が強まり、米国の優位性を揺さぶり得る。"
+        ],
+        "detailed_summary": "中国の国有宇宙企業CASCは、長征ロケットのブースターを海上の回収船へ制御着地させることに成功し、再使用型ロケット実現へ大きく前進した。SpaceXのFalcon 9のように打ち上げコストを引き下げる技術で、中国は年内の再使用試験も視野に入れる。独自の回収方式として船上フレームのネットで機体を受け止める点も特徴だ。実現すれば中国の衛星通信網や将来の軌道上データセンターが競争力を増し、Starlinkや米国の宇宙優位に新たな圧力をかける。",
+        "why_it_matters": "再使用技術は宇宙開発の採算を根本から変える。中国がこの分野で実用化を進めれば、通信、軍事、国際影響力の面でSpaceXと米国にとって無視できない競争相手になる。",
+        "headline": "中国の再使用ロケット前進は、宇宙産業の米中差縮小と軍民両面の圧力を示す"
+      },
+      "selection_reason": "中国の再使用ロケット前進は、宇宙産業の米中差縮小と軍民両面の圧力を示す",
+      "classification_reason": "中国の再使用ロケット前進は、宇宙産業の米中差縮小と軍民両面の圧力を示す",
+      "knowledge_value": "再使用技術は宇宙開発の採算を根本から変える。中国がこの分野で実用化を進めれば、通信、軍事、国際影響力の面でSpaceXと米国にとって無視できない競争相手になる。",
+      "content_status": "content_ok",
+      "content_chars": 3298,
+      "source_access": "free"
+    },
+    {
+      "number": 4,
+      "title": "イーロン・マスクとSECの和解に裁判官が懸念を表明",
+      "source": "Yahoo Finance",
+      "description": "",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-sec-settlement-raises-164700167.html",
+      "category": "経済・金融",
+      "published_at": "2026-07-10",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 4,
+        "title_ja": "イーロン・マスクとSECの和解に裁判官が懸念を表明",
+        "key_points": [
+          "SECはTwitter買収時の株式保有開示を巡り、マスク氏と和解した。",
+          "裁判所は150万ドルの制裁金を承認したが、裁判官は内容に強い疑問を示した。",
+          "推定で1億5000万ドルの利益に対し制裁が1％にすぎず、実効性への批判が出ている。"
+        ],
+        "detailed_summary": "米SECは、マスク氏が2022年のTwitter買収時に保有比率の開示を怠り、買収価格を約1億5000万ドル有利にしたとする訴訟で和解に達した。裁判所は150万ドルの制裁金を含む和解案を承認したが、担当判事は公正さと合理性に大きな疑念があると明記。それでも司法権を愚弄する水準とまでは言えないとして、最低限の基準は満たすと判断した。トランプ政権下のSECが修正訴状を提出した経緯もあり、規制当局の姿勢にも注目が集まっている。",
+        "why_it_matters": "巨額取引に対する制裁が軽すぎれば、市場規律そのものが揺らぐ。著名経営者への監督の実効性と、SECの執行姿勢を測る象徴的な案件になっている。",
+        "headline": "大物経営者と規制当局の摩擦再燃は、市場心理と統治リスクの再点検材料になる"
+      },
+      "selection_reason": "大物経営者と規制当局の摩擦再燃は、市場心理と統治リスクの再点検材料になる",
+      "classification_reason": "大物経営者と規制当局の摩擦再燃は、市場心理と統治リスクの再点検材料になる",
+      "knowledge_value": "巨額取引に対する制裁が軽すぎれば、市場規律そのものが揺らぐ。著名経営者への監督の実効性と、SECの執行姿勢を測る象徴的な案件になっている。",
+      "content_status": "content_ok",
+      "content_chars": 2700,
+      "source_access": "free"
+    },
+    {
+      "number": 5,
+      "title": "宮古島・八重山地方 11日明け方～夕方 線状降水帯発生のおそれ",
+      "source": "NHKニュース",
+      "description": "沖縄県の宮古島地方と八重山地方では、11日明け方から夕方にかけて、線状降水帯が発生して、災害の危険度が急激に高まる可能性があり、気象庁が厳重に警戒するよう呼びかけています。",
+      "url": "http://www3.nhk.or.jp/news/html/20260710/k10015174141000.html",
+      "category": "政治・経済",
+      "published_at": "2026-07-10",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 5,
+        "title_ja": "宮古島・八重山地方 11日明け方～夕方 線状降水帯発生のおそれ",
+        "key_points": [
+          "台風9号の接近に伴い、宮古島地方と八重山地方で線状降水帯が発生する恐れがある。",
+          "11日明け方から夕方にかけて災害危険度が急激に高まる可能性があると気象庁が警戒を呼びかけた。",
+          "暴風や大雨による土砂災害、浸水、河川増水への厳重な警戒が必要な状況だ。"
+        ],
+        "detailed_summary": "気象庁は、台風9号の接近により沖縄県の宮古島地方と八重山地方で11日明け方から夕方にかけて線状降水帯が発生し、災害の危険度が急激に高まる恐れがあるとして厳重警戒を呼びかけた。先島諸島ではすでに暴風域に入る見込みで、暴風、高波、土砂災害、低い土地の浸水、河川の増水が重なる可能性がある。住民には最新の台風情報や自治体の避難情報を確認し、外出を控えるなど早めの安全確保が求められている。",
+        "why_it_matters": "線状降水帯は短時間で被害を一気に拡大させる。離島地域では避難や移動の選択肢が限られるため、事前の判断が人命を左右しやすい。",
+        "headline": "国内で即日影響が出る災害リスクで、生活と物流の制約条件として優先度が高い"
+      },
+      "selection_reason": "国内で即日影響が出る災害リスクで、生活と物流の制約条件として優先度が高い",
+      "classification_reason": "国内で即日影響が出る災害リスクで、生活と物流の制約条件として優先度が高い",
+      "knowledge_value": "線状降水帯は短時間で被害を一気に拡大させる。離島地域では避難や移動の選択肢が限られるため、事前の判断が人命を左右しやすい。",
+      "content_status": "content_ok",
+      "content_chars": 820,
+      "source_access": "free"
+    },
+    {
+      "number": 6,
+      "title": "ChatGPTは今、最も大きな仕事に取り組むためのパートナーになった",
+      "source": "OpenAI",
+      "description": "",
+      "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-09",
+      "mode": "followup",
+      "summary": {
+        "article_index": 6,
+        "title_ja": "ChatGPTは今、最も大きな仕事に取り組むためのパートナーになった",
+        "key_points": [
+          "OpenAIは、アプリやファイルを横断して長時間作業を進められる新機能ChatGPT Workを発表した。",
+          "新モデルGPT-5.6を搭載し、資料作成や分析、複数ステップの業務遂行を自律的に進める。",
+          "営業や財務など社内実例では、従来数日から数週間かかっていた業務を大幅に短縮したという。"
+        ],
+        "detailed_summary": "OpenAIは、ChatGPT内で動くエージェント機能ChatGPT Workを発表した。これはアプリやファイルをまたいで情報を集め、表計算、スライド、文書、Webアプリなど完成物まで作成できる機能で、複雑な案件を数時間単位で継続して処理する。基盤には最新モデルGPT-5.6を採用し、多段階の推論やテンプレート順守も強化した。さらにScheduled Tasksにより、離席中でもTeamsやSlackの更新を資料に反映できる。OpenAI社内では営業や財務部門で既に広く活用され、生産性向上の具体例も示された。",
+        "why_it_matters": "生成AIが単発回答から実務遂行へ進化し、業務ソフトの役割そのものを取り込み始めた。知識労働の進め方を変える可能性が高く、企業導入の競争も一段と加速しそうだ。",
+        "headline": "単発対話から長期案件伴走へ舵を切り、実行型エージェントの商品設計差分が見える"
+      },
+      "selection_reason": "単発対話から長期案件伴走へ舵を切り、実行型エージェントの商品設計差分が見える",
+      "classification_reason": "単発対話から長期案件伴走へ舵を切り、実行型エージェントの商品設計差分が見える",
+      "knowledge_value": "生成AIが単発回答から実務遂行へ進化し、業務ソフトの役割そのものを取り込み始めた。知識労働の進め方を変える可能性が高く、企業導入の競争も一段と加速しそうだ。",
+      "content_status": "content_ok",
+      "content_chars": 10963,
+      "source_access": "free"
+    },
+    {
+      "number": 7,
+      "title": "AIへの野心とインフラの現実のギャップが拡大、Google Cloud報告書は83%の組織がエージェント型AI活用へインフラ刷新が必要と指摘",
+      "source": "TechRadar",
+      "description": "",
+      "url": "https://www.techradar.com/pro/the-gap-between-ai-ambition-and-infrastructure-reality-is-widening-google-cloud-report-finds-83-percent-of-organizations-must-overhaul-their-infrastructure-in-order-to-maximize-the-agentic-ai-opportunity",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-09",
+      "mode": "followup",
+      "summary": {
+        "article_index": 1,
+        "title_ja": "AIへの野心とインフラの現実のギャップが拡大、Google Cloud報告書は83%の組織がエージェント型AI活用へインフラ刷新が必要と指摘",
+        "key_points": [
+          "Googleが1,400人超の上級ITリーダーを調査し、83%が本番レベルのエージェント型AI活用にはインフラ刷新が必要と回答した。",
+          "62%がデータ転送料金やストレージ肥大化、遊休ハードウェアによる推論コスト増を経験し、82%は運用の複雑化コストを懸念している。",
+          "Googleは流動的な計算資源の活用、エンタープライズ向けガバナンス導入、統合データレイヤー整備を改善策として提案した。"
+        ],
+        "detailed_summary": "Google Cloudの調査は、多くの企業がエージェント型AIの導入意欲を持ちながら、既存インフラが足かせになっている現実を示した。回答企業の大半は、旧来環境のままでは大規模推論や長いコンテキスト処理に耐えられず、データ転送費、保存コスト、専用ハードの遊休化といった見えにくい負担も膨らんでいるという。加えて、セキュリティやガバナンス、MLOpsの未整備が拡張の障壁になっており、AIの価値はモデル性能だけでなく基盤設計で決まる段階に入ったことを示している。",
+        "why_it_matters": "AI導入の成否がモデル選定ではなく基盤刷新の速度に左右されることを示す内容だ。企業にとっては、実験導入から本番運用へ進む際のコスト構造と組織設計を見直す材料になる。",
+        "headline": "導入の詰まり所がモデル性能より基盤改修へ移っており、実装現場の現実差分が拾える"
+      },
+      "selection_reason": "導入の詰まり所がモデル性能より基盤改修へ移っており、実装現場の現実差分が拾える",
+      "classification_reason": "導入の詰まり所がモデル性能より基盤改修へ移っており、実装現場の現実差分が拾える",
+      "knowledge_value": "AI導入の成否がモデル選定ではなく基盤刷新の速度に左右されることを示す内容だ。企業にとっては、実験導入から本番運用へ進む際のコスト構造と組織設計を見直す材料になる。",
+      "content_status": "content_ok",
+      "content_chars": 4988,
+      "source_access": "unknown"
+    },
+    {
+      "number": 8,
+      "title": "AI責任追及アジェンダ、米上院議員がテック被害を抑える法案パッケージを公表",
+      "source": "The Guardian",
+      "description": "",
+      "url": "https://www.theguardian.com/technology/2026/jul/10/us-senator-unveils-ai-accountability-agenda-bills",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-10",
+      "mode": "followup",
+      "summary": {
+        "article_index": 2,
+        "title_ja": "AI責任追及アジェンダ、米上院議員がテック被害を抑える法案パッケージを公表",
+        "key_points": [
+          "民主党のエド・マーキー上院議員が、AIの環境負荷や監視、差別、労働への悪影響を抑えるための包括的な法案群を打ち出した。",
+          "近く提出予定の法案では、AI向けデータセンターに対しFCC認証を義務づけ、建設前から公共利益への影響を審査する案が示された。",
+          "雇用判断の自動化規制や子ども向けチャットボットの安全対策など、個別被害に対応する複数の立法も含まれている。"
+        ],
+        "detailed_summary": "米上院議員エド・マーキーは、AIの急速な普及に対し連邦レベルの規制が遅れているとして、新たなAI責任追及アジェンダを公表した。中心となるのは、AIブームを支えるデータセンターに対してFCCの事前認証を求める構想で、大気や水質、騒音、電力料金、送電網の安定性、地域経済への影響まで審査対象に含める。加えて、採用や昇進での自動判断の抑制、子どもを守るチャットボット規制なども進める考えで、AIの便益だけでなく社会的損失を政策で是正しようとする姿勢が鮮明だ。",
+        "why_it_matters": "米国のAI規制は断片的だったが、今回は環境、労働、人権を横断して一括で扱おうとしている点が大きい。今後の連邦規制のたたき台になれば、AI企業の事業コストと責任範囲が大きく変わる。",
+        "headline": "規制論が抽象批判でなく法案群に進み、電力や著作権や監査の追跡軸になる"
+      },
+      "selection_reason": "規制論が抽象批判でなく法案群に進み、電力や著作権や監査の追跡軸になる",
+      "classification_reason": "規制論が抽象批判でなく法案群に進み、電力や著作権や監査の追跡軸になる",
+      "knowledge_value": "米国のAI規制は断片的だったが、今回は環境、労働、人権を横断して一括で扱おうとしている点が大きい。今後の連邦規制のたたき台になれば、AI企業の事業コストと責任範囲が大きく変わる。",
+      "content_status": "content_ok",
+      "content_chars": 5402,
+      "source_access": "unknown"
+    },
+    {
+      "number": 9,
+      "title": "ベン・バーナンキ氏がAnthropicの長期公益信託に加入",
+      "source": "Anthropic",
+      "description": "",
+      "url": "https://www.anthropic.com/news/ben-bernanke",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-09",
+      "mode": "followup",
+      "summary": {
+        "article_index": 3,
+        "title_ja": "ベン・バーナンキ氏がAnthropicの長期公益信託に加入",
+        "key_points": [
+          "元FRB議長でノーベル経済学賞受賞者のベン・バーナンキ氏が、AnthropicのLong-Term Benefit Trustの新メンバーに就任した。",
+          "同信託は、Anthropicが長期的な公益と商業利益の均衡を保つよう監督する独立機関で、取締役選任権限も持つ。",
+          "AnthropicはAIが雇用や経済に与える影響を見据え、危機対応と制度設計の知見を持つ人物を迎えたと説明している。"
+        ],
+        "detailed_summary": "Anthropicは、長期的に公益を守るための独立統治組織Long-Term Benefit Trustに、元FRB議長のベン・バーナンキ氏を加えた。バーナンキ氏は2008年の金融危機対応を主導した実績を持ち、経済ショック時の制度設計に強みがある。Anthropicは公益企業として、営利追求と社会的責任の両立を掲げており、この信託は経営陣や投資家から独立した立場でその均衡を監視する。AIが労働市場やマクロ経済に与える影響が大きくなる中、経済ガバナンスの視点を社内統治に組み込む動きとして注目される。",
+        "why_it_matters": "AI企業の競争が激化する中で、技術力だけでなく統治構造そのものが差別化要因になり始めている。経済政策の重鎮を迎えたことは、Anthropicが安全性と社会的影響の議論で主導権を握ろうとしている表れだ。",
+        "headline": "安全性統治に危機対応の実務家が入る動きで、AI企業の governance 差分を追える"
+      },
+      "selection_reason": "安全性統治に危機対応の実務家が入る動きで、AI企業の governance 差分を追える",
+      "classification_reason": "安全性統治に危機対応の実務家が入る動きで、AI企業の governance 差分を追える",
+      "knowledge_value": "AI企業の競争が激化する中で、技術力だけでなく統治構造そのものが差別化要因になり始めている。経済政策の重鎮を迎えたことは、Anthropicが安全性と社会的影響の議論で主導権を握ろうとしている表れだ。",
+      "content_status": "content_ok",
+      "content_chars": 4014,
+      "source_access": "free"
+    },
+    {
+      "number": 10,
+      "title": "Anthropic、Claudeが概念をどう捉えるかを示す隠れ空間を発見",
+      "source": "MIT Technology Review",
+      "description": "",
+      "url": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-11",
+      "mode": "deep_dive",
+      "summary": {
+        "article_index": 4,
+        "title_ja": "Anthropic、Claudeが概念をどう捉えるかを示す隠れ空間を発見",
+        "key_points": [
+          "AnthropicはJ-lensという新手法を開発し、Claude Opus 4.6内部の隠れた表現空間J-spaceを観測した。",
+          "J-spaceには、モデルが次に出力しそうな語に関連する内部表現が現れ、表向きの説明と実際の内部処理が異なる場合があることが示された。",
+          "この研究は大規模言語モデルの解釈可能性を前進させ、理解と制御の両面で新しい手がかりを与えるとして評価されている。"
+        ],
+        "detailed_summary": "Anthropicは、大規模言語モデルの内部状態をより深く読み解くためにJ-lensを開発し、Claude Opus 4.6内にJ-spaceと呼ぶ隠れた領域を見いだした。そこには、モデルが近く出力しそうな単語や概念に結びつく内部表現が現れ、外部に説明している手順と実際の計算過程が一致しない例も観測されたという。従来のlogit lensより深い中間層を覗ける点が特徴で、モデルの判断理由の把握や挙動制御、安全対策の改善につながる可能性がある。ブラックボックス性を崩す研究として、AIの信頼性向上に直結する一歩といえる。",
+        "why_it_matters": "AIを実運用で信頼するには、答えの精度だけでなく内部で何が起きているかを理解する手段が欠かせない。この研究は、安全性監査やモデル制御の基盤を一段深くする可能性がある。",
+        "headline": "解釈可能性を機能説明でなく内部表現の層で捉え直せて、安全性理解を深められる"
+      },
+      "selection_reason": "解釈可能性を機能説明でなく内部表現の層で捉え直せて、安全性理解を深められる",
+      "classification_reason": "解釈可能性を機能説明でなく内部表現の層で捉え直せて、安全性理解を深められる",
+      "knowledge_value": "AIを実運用で信頼するには、答えの精度だけでなく内部で何が起きているかを理解する手段が欠かせない。この研究は、安全性監査やモデル制御の基盤を一段深くする可能性がある。",
+      "content_status": "content_ok",
+      "content_chars": 7763,
+      "source_access": "free"
+    },
+    {
+      "number": 11,
+      "title": "SelfMem: AIエージェントのための自己最適化メモリ",
+      "source": "arXiv",
+      "description": "",
+      "url": "https://arxiv.org/abs/2607.03726",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-04",
+      "mode": "deep_dive",
+      "summary": {
+        "article_index": 5,
+        "title_ja": "SelfMem: AIエージェントのための自己最適化メモリ",
+        "key_points": [
+          "SelfMemは、固定的な保存・検索・要約方式に頼らず、エージェント自身が最適な記憶戦略を学ぶメモリフレームワークとして提案された。",
+          "BEAMベンチマークで100Kから1Mトークンの会話規模において、既存の検索型、圧縮型、エージェントメモリ型の手法を一貫して上回った。",
+          "最強ベースライン比で公式スコアを100Kで48.7%、500Kで40.8%、1Mで41.9%改善し、長文タスクでの有効性を示した。"
+        ],
+        "detailed_summary": "arXivに投稿されたSelfMemは、長いコンテキストやツール実行に対応するAIエージェントでも、過去の経験を生かすには記憶機構が依然重要だという問題意識から生まれた。既存手法は保存形式や検索方法が固定されがちだが、SelfMemはメモリ操作用ツールとフィードバック環境を与え、エージェント自身に戦略を探索、評価、改善させる。結果として、BEAMベンチマークの大規模会話条件で主要ベースラインを大きく上回り、質問タイプが異なっても頑健だった。長期タスクに強い実用的なエージェント設計へ近づく研究として価値が高い。",
+        "why_it_matters": "AIエージェントの実力差は、モデル本体より記憶の扱い方で広がりつつある。この研究は、長期的な対話や複雑な業務フローを支えるメモリ設計の有力な方向性を示している。",
+        "headline": "長時間エージェントの記憶自己最適化は、文脈圧縮と運用コスト判断に直結する"
+      },
+      "selection_reason": "長時間エージェントの記憶自己最適化は、文脈圧縮と運用コスト判断に直結する",
+      "classification_reason": "長時間エージェントの記憶自己最適化は、文脈圧縮と運用コスト判断に直結する",
+      "knowledge_value": "AIエージェントの実力差は、モデル本体より記憶の扱い方で広がりつつある。この研究は、長期的な対話や複雑な業務フローを支えるメモリ設計の有力な方向性を示している。",
+      "content_status": "content_ok",
+      "content_chars": 2599,
+      "source_access": "free"
+    },
+    {
+      "number": 12,
+      "title": "AIエージェントはSaaSの終わりではなく、次の成長局面を生み出している",
+      "source": "TechRadar Pro",
+      "description": "",
+      "url": "https://www.techradar.com/pro/ai-agents-arent-the-end-of-saas-theyre-driving-its-next-phase-of-growth",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-09",
+      "mode": "deep_dive",
+      "summary": {
+        "article_index": 6,
+        "title_ja": "AIエージェントはSaaSの終わりではなく、次の成長局面を生み出している",
+        "key_points": [
+          "AIエージェントがSaaSを不要にするという見方が広がる一方で、記事はそれをSaaS消滅ではなく進化だと位置づけている。",
+          "API中心で深く統合された製品、記録システム、権限管理、監査証跡、状態管理を担う基盤はむしろ重要性が増すと論じている。",
+          "座席課金モデルは圧迫されるが、消費量課金や成果連動型への移行が進み、弱い製品と強い製品の差が広がると指摘した。"
+        ],
+        "detailed_summary": "この記事は、AIエージェントが企業向けソフトを置き換えるという通説に一定の妥当性を認めつつ、実際にはSaaSの価値が消えるのではなく再編されると論じている。UI中心で浅い業務フローしか持たない製品は、エージェントがAPI経由で直接作業できるようになるほど脆くなる。一方で、構造化データの管理、権限制御、監査証跡、ワークフロー実行、セキュリティを担う基盤型SaaSは、AI時代ほど必要性が高まる。つまり価値の源泉は画面から裏側の運用基盤へ移り、SaaS企業には価格モデルと製品設計の抜本的な見直しが迫られる。",
+        "why_it_matters": "SaaS企業にとって重要なのは、AIを脅威として恐れることではなく、自社がUI製品なのか業務基盤なのかを見極めることだ。勝つのは、エージェントに使われる前提で再設計されたサービスになる。",
+        "headline": "SaaS崩壊論より再編論として読むと、残る付加価値と消える層を整理しやすい"
+      },
+      "selection_reason": "SaaS崩壊論より再編論として読むと、残る付加価値と消える層を整理しやすい",
+      "classification_reason": "SaaS崩壊論より再編論として読むと、残る付加価値と消える層を整理しやすい",
+      "knowledge_value": "SaaS企業にとって重要なのは、AIを脅威として恐れることではなく、自社がUI製品なのか業務基盤なのかを見極めることだ。勝つのは、エージェントに使われる前提で再設計されたサービスになる。",
+      "content_status": "content_ok",
+      "content_chars": 9634,
+      "source_access": "unknown"
+    },
+    {
+      "number": 13,
+      "title": "カタールがイランを非難、ホルムズ海峡で24時間に3隻目のタンカー被害　世界のエネルギー輸送路に懸念拡大",
+      "source": "The Times of India",
+      "description": "",
+      "url": "https://timesofindia.indiatimes.com/world/middle-east/third-tanker-hit-in-strait-of-hormuz-in-24-hours-as-qatar-blames-iran-raising-fears-over-global-energy-route/articleshow/132243252.cms",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-07",
+      "mode": "deep_dive",
+      "summary": {
+        "article_index": 1,
+        "title_ja": "カタールがイランを非難、ホルムズ海峡で24時間に3隻目のタンカー被害　世界のエネルギー輸送路に懸念拡大",
+        "key_points": [
+          "ホルムズ海峡で24時間以内に商業タンカー3隻が攻撃を受け、いずれも死傷者や油流出は確認されていない。",
+          "カタールはLNG船「Al-Rekayyat」への攻撃についてイランに法的責任があると明言した。",
+          "世界の原油・LNG輸送の要衝である同海峡の航行安全への不安が再燃し、地域安定とエネルギー市場への影響が懸念されている。"
+        ],
+        "detailed_summary": "ホルムズ海峡で24時間以内に3隻の商業タンカーが相次いで攻撃され、緊張が急速に高まった。英国海事貿易機関UKMTOによると、最新の事案ではタンカーが正体不明の無人機に攻撃され軽微な損傷を受けた。前2件でも発射体による火災や構造損傷が報告されている。カタールは自国のLNG船への攻撃を国際航行への容認できない脅威だとしてイランを名指しで非難した。イランは関与を認めていないが、海峡通航ルートを巡る対立もあり、世界的なエネルギー供給不安が再び強まっている。",
+        "why_it_matters": "ホルムズ海峡は世界の石油とLNG輸送の大動脈であり、攻撃の連続はエネルギー価格や供給網に直結する。中東の安全保障リスクが再燃すれば、各国経済への波及も避けにくい。",
+        "headline": "中東情勢を海運保険とエネルギー供給路の連鎖で読む訓練になり、投資判断にも効く"
+      },
+      "selection_reason": "中東情勢を海運保険とエネルギー供給路の連鎖で読む訓練になり、投資判断にも効く",
+      "classification_reason": "中東情勢を海運保険とエネルギー供給路の連鎖で読む訓練になり、投資判断にも効く",
+      "knowledge_value": "ホルムズ海峡は世界の石油とLNG輸送の大動脈であり、攻撃の連続はエネルギー価格や供給網に直結する。中東の安全保障リスクが再燃すれば、各国経済への波及も避けにくい。",
+      "content_status": "content_ok",
+      "content_chars": 6231,
+      "source_access": "unknown"
+    },
+    {
+      "number": 14,
+      "title": "aiAuthZ: AIエージェント向けのオフホスト・本人性連動型認可",
+      "source": "arXiv",
+      "description": "",
+      "url": "https://arxiv.org/abs/2607.05518",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-06",
+      "mode": "adjacent",
+      "summary": {
+        "article_index": 2,
+        "title_ja": "aiAuthZ: AIエージェント向けのオフホスト・本人性連動型認可",
+        "key_points": [
+          "論文は、AIエージェントが信頼できない文脈に基づいてツール実行を判断するため、権限偽装に弱いと指摘している。",
+          "提案手法aiAuthZは、エージェント外部の認可ゲートウェイで本人確認、nonceと時刻窓付きHMAC署名、役割・引数単位のポリシー評価を行う。",
+          "15モデルと複数ケースの実験で、導入後の攻撃成功率を0%に抑えつつ、追加遅延は最大0.03msにとどめたと報告している。"
+        ],
+        "detailed_summary": "この論文は、AIエージェントが読み取るテキスト文脈自体を検証できないため、攻撃者が権限を持つように見せかけて不正なツール呼び出しを誘導できる問題を扱う。著者は15の言語モデルを8つの攻撃シナリオで評価し、拒否性能に大きなばらつきがあると示したうえで、認可判断をエージェントの外に出すaiAuthZを提案した。ゲートウェイはHMAC署名、単回nonce、時刻制約、不可視のRBACと引数ポリシー、監査ログを用いて検証し、銀行タスクなどの実験では全攻撃を遮断した。モデルを騙されにくくするのではなく、騙されても越権実行させない設計が核になっている。",
+        "why_it_matters": "AIエージェントの実運用では、推論精度よりも越権実行を防ぐ制御層が重要になる。外部認可で行動を縛る発想は、業務システムや自動化基盤の安全設計に直結する。",
+        "headline": "エージェント実務化の壁を、性能ではなく権限委任と監査基盤の側から捉え直せる"
+      },
+      "selection_reason": "エージェント実務化の壁を、性能ではなく権限委任と監査基盤の側から捉え直せる",
+      "classification_reason": "エージェント実務化の壁を、性能ではなく権限委任と監査基盤の側から捉え直せる",
+      "knowledge_value": "AIエージェントの実運用では、推論精度よりも越権実行を防ぐ制御層が重要になる。外部認可で行動を縛る発想は、業務システムや自動化基盤の安全設計に直結する。",
+      "content_status": "content_ok",
+      "content_chars": 3228,
+      "source_access": "free",
+      "adjacent_field": "機械ID・委任認可・監査ログ基盤",
+      "adjacent_reasoning": "エージェント運用、権限管理、遠隔実行に関心が集中しているなら、次に効くのはモデル性能ではなく、誰がどの資格で何を実行したかを証明する基盤だ。この分野は、AI業務代行が便利止まりで終わるか、実務に入れるかの境界になる。"
+    },
+    {
+      "number": 15,
+      "title": "デジタルキャラクターの未来は高精細なグラフィックだけでなく、より優れた演技にある",
+      "source": "Creative Bloq",
+      "description": "",
+      "url": "https://www.creativebloq.com/3d/vfx-cgi/the-future-of-digital-characters-isnt-just-better-graphics-its-better-performances",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-08",
+      "mode": "adjacent",
+      "summary": {
+        "article_index": 3,
+        "title_ja": "デジタルキャラクターの未来は高精細なグラフィックだけでなく、より優れた演技にある",
+        "key_points": [
+          "パフォーマンスキャプチャは特殊技術から、映画・テレビ・ゲーム制作の中核工程へと発展している。",
+          "CentroidのKathleen Squireは、企画初期から演出意図と技術実装をつなぐ役割の重要性が増していると語る。",
+          "観客の期待が上がる中、リアルな見た目だけでなく自然な動きや演技表現がデジタルキャラクターの説得力を左右している。"
+        ],
+        "detailed_summary": "記事は、映画やゲームで使われるパフォーマンスキャプチャの進化を、CentroidのShoot SupervisorであるKathleen Squireの視点から描く。かつては限定的な用途の専門技術だったが、今では制作初期から導入を前提に検討される重要工程になった。Squireは、脚本やプリビズを具体的な撮影設計へ落とし込み、作品に合った技術や運用体制を整える役割を担っているという。ツールの進歩で写実性は高まった一方、観客の目も厳しくなり、見た目の精細さだけでは不十分になった。今後は演者のニュアンスをどう自然に伝えるかが、魅力あるデジタルキャラクター制作の中心課題だと示している。",
+        "why_it_matters": "映像とゲームの競争力は、CGの品質だけでなく感情の伝わる演技表現で決まる段階に入っている。制作現場では技術導入そのものより、演出と実装を早期に結びつける体制づくりが差になる。",
+        "headline": "静止画生成の先にある身体表現とライブ体験を知ると、IP展開の発想が広がる"
+      },
+      "selection_reason": "静止画生成の先にある身体表現とライブ体験を知ると、IP展開の発想が広がる",
+      "classification_reason": "静止画生成の先にある身体表現とライブ体験を知ると、IP展開の発想が広がる",
+      "knowledge_value": "映像とゲームの競争力は、CGの品質だけでなく感情の伝わる演技表現で決まる段階に入っている。制作現場では技術導入そのものより、演出と実装を早期に結びつける体制づくりが差になる。",
+      "content_status": "content_ok",
+      "content_chars": 7566,
+      "source_access": "unknown",
+      "adjacent_field": "バーチャルライブ演出と空間キャプチャ制作基盤",
+      "adjacent_reasoning": "漫画、VTuber、ゲーム、実写合成への関心は、静止画の先にあるライブ体験と身体性の設計へ自然につながる。ここを知ると、キャラクターが絵からイベント、配信、物販、熱狂へ変わる変換装置が見えてくる。"
+    },
+    {
+      "number": 16,
+      "title": "アニメ黄金期は終わったが、業界のベテランたちは『ZAN』に賭けている",
+      "source": "Anime News Network",
+      "description": "Experienced animators and directors share how much in the industry has changed, what remains the same, and why they've gathered for one last ride.",
+      "url": "https://www.animenewsnetwork.com/convention/2026/all-the-news-and-reviews-from-anime-expo/the-golden-age-of-anime-is-over-but-industry-veterans-are-betting-on-zan/.239499",
+      "category": "漫画・アニメ・文化",
+      "published_at": "2026-07-10",
+      "mode": "adjacent",
+      "summary": {
+        "article_index": 4,
+        "title_ja": "アニメ黄金期は終わったが、業界のベテランたちは『ZAN』に賭けている",
+        "key_points": [
+          "Anime Expo 2026のパネルでは、『ZAN』に関わるベテランたちが日本アニメの過去・現在・未来を語った。",
+          "『装甲騎兵ボトムズ』や『太陽の牙ダグラム』などの作品群が、リアルロボット表現と後進アニメーター育成に大きな影響を与えたと振り返られた。",
+          "1980年代の過酷な制作環境は終わった一方で、業界の転換期に新作『ZAN』が次世代への賭けとして位置づけられている。"
+        ],
+        "detailed_summary": "Anime Expo 2026のパネルでは、天野喜孝の新作アニメ『ZAN』に関わる業界ベテランが集まり、日本アニメ史を振り返った。高橋良輔や吉田徹らは、『ダグラム』や『ボトムズ』でロボットの可動や軍事的リアリズムを模索した制作裏話を語り、その表現が後のアニメーターや作品群に与えた影響を強調した。松本辰芳は、森谷谷口のもとで育った人材が現在のアニメ界を形づくったと説明する。高橋は1980年代の“黄金時代”を、創造性と引き換えに過酷な労働を伴う時代だったと回顧しつつ、現在はその延長線上ではなく、新しい局面に入ったという含みを持たせた。そこで『ZAN』が次の時代を占う挑戦作として期待されている。",
+        "why_it_matters": "アニメ産業は拡大していても、かつてと同じ作り方では持続しないという認識が共有されている。過去の資産を継ぎつつ次の制作思想を示せるかが、新作や業界全体の将来を左右する。",
+        "headline": "単なる新作告知でなく、アニメ産業の次の勝ち筋と座組変化を読める"
+      },
+      "selection_reason": "単なる新作告知でなく、アニメ産業の次の勝ち筋と座組変化を読める",
+      "classification_reason": "単なる新作告知でなく、アニメ産業の次の勝ち筋と座組変化を読める",
+      "knowledge_value": "アニメ産業は拡大していても、かつてと同じ作り方では持続しないという認識が共有されている。過去の資産を継ぎつつ次の制作思想を示せるかが、新作や業界全体の将来を左右する。",
+      "content_status": "content_ok",
+      "content_chars": 6824,
+      "source_access": "free",
+      "adjacent_field": "",
+      "adjacent_reasoning": ""
+    },
+    {
+      "number": 17,
+      "title": "Disney+が無料視聴プランを検討中と報道",
+      "source": "TechCrunch",
+      "description": "",
+      "url": "https://techcrunch.com/2026/07/10/disney-is-considering-a-free-streaming-tier-report-says/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-10",
+      "mode": "adjacent",
+      "summary": {
+        "article_index": 5,
+        "title_ja": "Disney+が無料視聴プランを検討中と報道",
+        "key_points": [
+          "Disney+は一部作品を無料で視聴できるプランの導入を検討していると報じられた。",
+          "無料配信の狙いは、YouTubeやTubiのような無料サービスに流れる視聴時間を取り戻すことにある。",
+          "米国では無料ストリーミングの視聴シェアが2024年12.7%から2026年4月18.7%へ伸びており、広告付き・無料モデルへの需要が高まっている。"
+        ],
+        "detailed_summary": "Business Insiderの報道によると、Disney+は配信ライブラリの一部を無料で開放する案を検討している。社内タウンホールで最高製品・技術責任者のAdam Smithが可能性に言及したとされるが、対象作品や開始時期は未定だ。背景には、値上げが続く有料配信市場で、消費者が広告付きや無料サービスへ移っている現状がある。Nielsenのデータでは、米国のテレビ視聴時間に占める無料ストリーミングの比率は2024年4月の12.7%から2026年4月には18.7%まで上昇した。Disney+が無料枠を設ければ、NetflixやPrime Videoとの差別化だけでなく、Apple TV+やParamount+に続く新たな集客策になる可能性がある。",
+        "why_it_matters": "ストリーミング競争は契約者数だけでなく、無料導線をどう設計するかの勝負に移りつつある。Disney+の判断は、配信各社の価格戦略と広告モデルの再編を加速させる可能性がある。",
+        "headline": "コンテンツ流通が再び広告寄りへ動く兆しで、IP収益化と配信競争の見方が広がる"
+      },
+      "selection_reason": "コンテンツ流通が再び広告寄りへ動く兆しで、IP収益化と配信競争の見方が広がる",
+      "classification_reason": "コンテンツ流通が再び広告寄りへ動く兆しで、IP収益化と配信競争の見方が広がる",
+      "knowledge_value": "ストリーミング競争は契約者数だけでなく、無料導線をどう設計するかの勝負に移りつつある。Disney+の判断は、配信各社の価格戦略と広告モデルの再編を加速させる可能性がある。",
+      "content_status": "content_ok",
+      "content_chars": 1110,
+      "source_access": "free",
+      "adjacent_field": "",
+      "adjacent_reasoning": ""
+    }
+  ],
+  "status": "complete",
+  "failed_modes": []
+}
