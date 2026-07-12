@@ -1,0 +1,385 @@
+{
+  "date": "2026-07-12",
+  "generated_at": "2026-07-12T09:00:03.389748+09:00",
+  "run_id": "20260712T090003+0900",
+  "mode_collection_counts": {
+    "breaking": 37,
+    "followup": 7,
+    "deep_dive": 4,
+    "adjacent": 4
+  },
+  "mode_errors": {},
+  "mode": "multimode",
+  "articles": [
+    {
+      "number": 1,
+      "title": "アップル、ハードウェア機密を盗んだとしてOpenAIを提訴",
+      "source": "WIRED",
+      "description": "",
+      "url": "https://www.wired.com/story/apple-sues-openai-allegedly-stealing-ip-hardware/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-12",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 1,
+        "title_ja": "アップル、ハードウェア機密を盗んだとしてOpenAIを提訴",
+        "key_points": [
+          "AppleがOpenAIと同社ハードウェア責任者のTang Tanらを営業秘密の不正取得で提訴した。",
+          "訴状では、未発表部品や試作品、極秘設計書をApple退職者に持ち出させた疑いが示されている。",
+          "両社は2024年に提携したが、AI搭載デバイス分野では競争が激化している。"
+        ],
+        "detailed_summary": "Appleは金曜日、OpenAIとハードウェア責任者Tang Tan、関連企業io Productsなどを相手取り、未発表の部品や試作品、極秘設計書を含む営業秘密を不正に持ち出したとして米サンノゼ連邦地裁に提訴した。訴状では、TanがAppleを離れる社員候補に対し、社内のデータ保護を回避する方法を助言し、面接時に機密部品を持参するよう促したと主張している。両社はChatGPTのApple製品搭載で提携してきたが、AIハード市場では競合色が強まり、今回の訴訟はシリコンバレーの知財紛争として大きな波紋を呼びそうだ。",
+        "why_it_matters": "生成AI企業がハードウェアに本格進出する局面で、知財管理と人材流動の境界線が厳しく問われる。AppleとOpenAIの関係悪化は、今後のAIデバイス競争にも直接影響する。",
+        "headline": "OpenAIのデバイス戦略と法務リスクが同時に動き、競争地図が変わる節目だから"
+      },
+      "selection_reason": "OpenAIのデバイス戦略と法務リスクが同時に動き、競争地図が変わる節目だから",
+      "classification_reason": "OpenAIのデバイス戦略と法務リスクが同時に動き、競争地図が変わる節目だから",
+      "knowledge_value": "生成AI企業がハードウェアに本格進出する局面で、知財管理と人材流動の境界線が厳しく問われる。AppleとOpenAIの関係悪化は、今後のAIデバイス競争にも直接影響する。",
+      "content_status": "content_ok",
+      "content_chars": 6555,
+      "source_access": "free",
+      "content_excerpt": "Apple filed a lawsuit against OpenAI and its hardware chief on Friday for allegedly stealing the iPhone maker’s trade secrets, including unreleased parts and prototypes,..."
+    },
+    {
+      "number": 2,
+      "title": "OpenAIの安全部門トップが退社へ",
+      "source": "WIRED",
+      "description": "",
+      "url": "https://www.wired.com/story/openai-head-of-safety-leaving/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-12",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 2,
+        "title_ja": "OpenAIの安全部門トップが退社へ",
+        "key_points": [
+          "OpenAIの安全システム責任者Johannes Heideckeが退社すると社内に通知した。",
+          "安全チームは研究部門との統合が進み、Mia Glaeseが研究と安全の双方を統括する体制になる。",
+          "安全分野の幹部離脱が続いており、OpenAIのガバナンス体制に注目が集まっている。"
+        ],
+        "detailed_summary": "OpenAIの安全システム責任者Johannes Heideckeが退社することが明らかになった。社内メモによると、安全チームは研究組織との統合が進められ、今後は研究担当副社長のMia Glaeseが安全も含めて統括し、Saachi Jainが暫定的に安全システム部門を率いる。背景には、モデル開発と公開サイクルの高速化で安全確認の調整負荷が急増している事情がある。直近では安全研究に関わる他の幹部や、AGI展開部門のFidji Simoの退任も重なっており、OpenAIは高性能モデル投入を急ぐ一方で、安全体制の再編と人材流出に直面している。",
+        "why_it_matters": "最先端モデルの性能競争が激しくなるほど、安全評価の独立性と実効性が重要になる。安全部門の再編と離職は、OpenAIのリスク管理能力そのものへの評価につながる。",
+        "headline": "安全性トップの退任は統治と出荷判断の変化を示し、導入側の警戒線に直結するため"
+      },
+      "selection_reason": "安全性トップの退任は統治と出荷判断の変化を示し、導入側の警戒線に直結するため",
+      "classification_reason": "安全性トップの退任は統治と出荷判断の変化を示し、導入側の警戒線に直結するため",
+      "knowledge_value": "最先端モデルの性能競争が激しくなるほど、安全評価の独立性と実効性が重要になる。安全部門の再編と離職は、OpenAIのリスク管理能力そのものへの評価につながる。",
+      "content_status": "content_ok",
+      "content_chars": 2584,
+      "source_access": "free",
+      "content_excerpt": "OpenAI’s head of safety systems, Johannes Heidecke, told staff this week that he’s leaving the company, WIRED has learned. Heidecke’s departure follows a reorganization that..."
+    },
+    {
+      "number": 3,
+      "title": "トランプ氏、暗殺を試みればイランを壊滅させると警告　米財務省は資金提供者とされる人物を制裁",
+      "source": "CNBC",
+      "description": "",
+      "url": "https://www.cnbc.com/2026/07/11/trump-threat.html",
+      "category": "経済・金融",
+      "published_at": "2026-07-11",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 3,
+        "title_ja": "トランプ氏、暗殺を試みればイランを壊滅させると警告　米財務省は資金提供者とされる人物を制裁",
+        "key_points": [
+          "トランプ大統領が、自身への暗殺が実行されればイランを壊滅させると強く警告した。",
+          "米財務省はイラン系の資金提供者とされる人物に制裁を科し、イラン側は暫定合意違反だと反発した。",
+          "ホルムズ海峡の航行問題やオマーンでの仲介協議が、原油供給と地域安定の焦点になっている。"
+        ],
+        "detailed_summary": "トランプ大統領は、イランが自身の暗殺を試みれば、米軍がイランを徹底的に破壊するとSNSで警告した。これに合わせて米財務省は、イランの資金調達に関与したとされる人物を制裁対象に指定したが、イラン政府は先月の暫定合意に反すると反発している。報道では、イスラエルがイランによる暗殺計画の情報を共有したとされ、イラン国内では最高指導者殺害への報復を求める声も強い。オマーンでは停戦と海上輸送再開に向けた協議が続く一方、ホルムズ海峡の通航を巡る緊張が再燃し、エネルギー市場と中東情勢を不安定化させている。",
+        "why_it_matters": "米イラン対立が個人への報復警告と海上輸送問題に直結し、軍事衝突リスクを一段と高めている。ホルムズ海峡の不安定化は原油価格と世界経済にすぐ波及する。",
+        "headline": "中東リスクの再拡大が制裁と軍事発言で重なり、原油と市場心理への波及が大きいため"
+      },
+      "selection_reason": "中東リスクの再拡大が制裁と軍事発言で重なり、原油と市場心理への波及が大きいため",
+      "classification_reason": "中東リスクの再拡大が制裁と軍事発言で重なり、原油と市場心理への波及が大きいため",
+      "knowledge_value": "米イラン対立が個人への報復警告と海上輸送問題に直結し、軍事衝突リスクを一段と高めている。ホルムズ海峡の不安定化は原油価格と世界経済にすぐ波及する。",
+      "content_status": "content_ok",
+      "content_chars": 5643,
+      "source_access": "free"
+    },
+    {
+      "number": 4,
+      "title": "不安定なAI相場は上昇したが、原油が先週のウォール街を揺さぶった",
+      "source": "CNBC",
+      "description": "",
+      "url": "https://www.cnbc.com/2026/07/11/the-volatile-ai-rally-marched-higher-but-oil-kept-wall-street-on-edge-last-week.html",
+      "category": "経済・金融",
+      "published_at": "2026-07-11",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 4,
+        "title_ja": "不安定なAI相場は上昇したが、原油が先週のウォール街を揺さぶった",
+        "key_points": [
+          "米株は週初に記録更新したが、AI関連株の変動と米イラン緊張で値動きが荒くなった。",
+          "半導体株はSamsung決算やDeepSeekの報道で下落した一方、AppleとBroadcomの大型提携が支えになった。",
+          "投資家の間ではAI相場の過熱感が意識され、利益確定の動きも強まっている。"
+        ],
+        "detailed_summary": "先週の米株市場は、AI関連株と原油相場が主な変動要因となった。ダウ平均は週初に史上初の5万3000ドル台へ乗せたが、米イラン関係の緊張再燃で上げを失い、週では下落した。一方、NasdaqとS&P500は上昇を維持した。半導体株は週初に買い戻されたものの、Samsung決算への失望や中国DeepSeekの独自AIチップ開発報道で急落。その後、AppleがBroadcomと300億ドル超規模の複数年契約を結び、米国内で150億個超のチップを生産すると発表したことで持ち直した。AI投資は続くが、過熱感と値動きの激しさから選別色が強まっている。",
+        "why_it_matters": "AI相場はなお市場の中心だが、期待だけでは株価を支えにくくなってきた。地政学リスクと企業実績が重なる局面では、半導体銘柄のボラティリティがさらに高まりやすい。",
+        "headline": "AI物色の継続と原油主導の不安定化を同時に捉え、資金移動の地合い判断に使えるため"
+      },
+      "selection_reason": "AI物色の継続と原油主導の不安定化を同時に捉え、資金移動の地合い判断に使えるため",
+      "classification_reason": "AI物色の継続と原油主導の不安定化を同時に捉え、資金移動の地合い判断に使えるため",
+      "knowledge_value": "AI相場はなお市場の中心だが、期待だけでは株価を支えにくくなってきた。地政学リスクと企業実績が重なる局面では、半導体銘柄のボラティリティがさらに高まりやすい。",
+      "content_status": "content_ok",
+      "content_chars": 9802,
+      "source_access": "free"
+    },
+    {
+      "number": 5,
+      "title": "大手ファストフードのバーガーチェーン加盟企業が連邦破産法11条を申請",
+      "source": "Yahoo Finance",
+      "description": "",
+      "url": "https://finance.yahoo.com/small-business/articles/big-fast-food-burger-chain-164700124.html",
+      "category": "経済・金融",
+      "published_at": "2026-07-11",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 5,
+        "title_ja": "大手ファストフードのバーガーチェーン加盟企業が連邦破産法11条を申請",
+        "key_points": [
+          "Hardee's加盟店運営会社Superior Starが、資金貸付を巡る紛争を背景に連邦破産法11条を申請した。",
+          "同社は2023年に93店舗を取得したが、現在の運営は59店舗に縮小し、2025年には約12店舗を閉鎖した。",
+          "フランチャイザーのCKEは他加盟店とも手数料や賃料を巡る争いを抱えている。"
+        ],
+        "detailed_summary": "Hardee'sの加盟店を運営するSuperior Star LLCが、数百万ドル規模の売主金融を巡る対立を受け、米連邦破産法11条の適用を申請した。裁判資料によると、資産と負債はいずれも1000万ドルから5000万ドルで、最大債権者は約704万ドルの売主ノートを巡って争うStarcorpだ。Superior Starは2023年に10州で93店舗を取得したが、現在は中西部を中心に59店舗を運営し、2025年には約12店舗を閉鎖している。Hardee's本部は個別事情による申請だと説明する一方、親会社CKEは他の加盟店とも加盟料や広告費、賃料回収を巡って対立しており、フランチャイズ網全体の収益圧力がにじむ。",
+        "why_it_matters": "外食フランチャイズでは本部と加盟店の資金負担の綱引きが経営破綻に直結しやすい。店舗閉鎖が広がれば、雇用や地域の消費、ブランド再建にも影響が及ぶ。",
+        "headline": "金利と債務条件が実店舗の脆弱性を露出し、小規模事業の資本構造を見る材料になるため"
+      },
+      "selection_reason": "金利と債務条件が実店舗の脆弱性を露出し、小規模事業の資本構造を見る材料になるため",
+      "classification_reason": "金利と債務条件が実店舗の脆弱性を露出し、小規模事業の資本構造を見る材料になるため",
+      "knowledge_value": "外食フランチャイズでは本部と加盟店の資金負担の綱引きが経営破綻に直結しやすい。店舗閉鎖が広がれば、雇用や地域の消費、ブランド再建にも影響が及ぶ。",
+      "content_status": "content_ok",
+      "content_chars": 2649,
+      "source_access": "free"
+    },
+    {
+      "number": 6,
+      "title": "OpenAI、ホワイトハウスのサイバー安全保障上の懸念で延期後に最新ChatGPTモデルを公開",
+      "source": "The Guardian",
+      "description": "",
+      "url": "https://www.theguardian.com/technology/2026/jul/09/trump-administration-openai-chatgpt-cybersecurity",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-10",
+      "mode": "followup",
+      "summary": {
+        "article_index": 6,
+        "title_ja": "OpenAI、ホワイトハウスのサイバー安全保障上の懸念で延期後に最新ChatGPTモデルを公開",
+        "key_points": [
+          "OpenAIは、米政府のサイバー安全保障懸念で公開を延期していたChatGPT 5.6をリリースした。",
+          "当初は政府承認を受けた限定ユーザーのみに提供され、その後に一般公開へ拡大された。",
+          "高度AIモデルの公開を巡り、米政府の審査介入と同盟国・産業界への影響が議論になっている。"
+        ],
+        "detailed_summary": "OpenAIは木曜日、最新の高性能モデルChatGPT 5.6を公開した。これは先月、ホワイトハウスがサイバー安全保障上の懸念から一般公開を抑えるよう求めたため、一度は政府承認済みの限定利用者向けに絞られていた製品だ。OpenAIは政府に能力を説明し、追加テストを経て公開範囲を広げたという。今回の措置はAnthropicの新モデルにも及んでおり、トランプ政権がAI開発競争を後押しする一方、重大なサイバー攻撃リスクには介入を強めている実態が浮き彫りになった。高度モデルへのアクセス制限は、産業界や同盟国、IPOを控える主要AI企業の競争にも影響を与えている。",
+        "why_it_matters": "最先端AIの公開判断が企業だけでなく政府審査に左右される段階に入ったことを示している。安全保障と技術競争のせめぎ合いは、今後のAI規制と市場構造を決める。",
+        "headline": "モデル競争が性能だけでなく政府調整と安全審査で遅延する現実を示す差分だから"
+      },
+      "selection_reason": "モデル競争が性能だけでなく政府調整と安全審査で遅延する現実を示す差分だから",
+      "classification_reason": "モデル競争が性能だけでなく政府調整と安全審査で遅延する現実を示す差分だから",
+      "knowledge_value": "最先端AIの公開判断が企業だけでなく政府審査に左右される段階に入ったことを示している。安全保障と技術競争のせめぎ合いは、今後のAI規制と市場構造を決める。",
+      "content_status": "content_ok",
+      "content_chars": 2696,
+      "source_access": "free"
+    },
+    {
+      "number": 7,
+      "title": "データセンター拡張で巨大テック3社の炭素排出量がフランスの3分の1規模に",
+      "source": "The Guardian",
+      "description": "",
+      "url": "https://www.theguardian.com/us-news/2026/jul/11/microsoft-amazon-google-datacentre-carbon-emissions-france",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-11",
+      "mode": "followup",
+      "summary": {
+        "article_index": 1,
+        "title_ja": "データセンター拡張で巨大テック3社の炭素排出量がフランスの3分の1規模に",
+        "key_points": [
+          "Microsoft、Amazon、Googleの合計排出量は2026年3月期に1億1900万mTCO2eへ増加した",
+          "増加の主因はAI需要に対応するデータセンター建設と関連するサプライチェーン活動だった",
+          "3社はなおネットゼロ目標を維持する一方、環境配慮をうたう姿勢との矛盾が強まっている"
+        ],
+        "detailed_summary": "Microsoft、Amazon、Googleの炭素排出量は、2026年3月期に前年の約1億100万mTCO2eから1億1900万mTCO2eへと大きく増え、フランスの排出量の約3分の1に達した。背景には、生成AIやクラウド需要の急拡大を受けたデータセンター建設ラッシュがある。Microsoftは25％増、Googleは18％増、Amazonは16％増を報告し、いずれも設備拡張や供給網の活動増が要因と説明した。各社は2030年または2040年のネットゼロ目標を掲げるが、AI投資と気候公約の両立の難しさが鮮明になっている。",
+        "why_it_matters": "AIブームの裏で、デジタル化が環境負荷を外部化しながら進んでいる現実を示す。企業のAI導入判断でも、性能やコストだけでなく炭素排出の実態が無視できなくなる。",
+        "headline": "AI拡大の裏で電力と排出制約が強まり、インフラ投資の限界条件を追う価値が高いため"
+      },
+      "selection_reason": "AI拡大の裏で電力と排出制約が強まり、インフラ投資の限界条件を追う価値が高いため",
+      "classification_reason": "AI拡大の裏で電力と排出制約が強まり、インフラ投資の限界条件を追う価値が高いため",
+      "knowledge_value": "AIブームの裏で、デジタル化が環境負荷を外部化しながら進んでいる現実を示す。企業のAI導入判断でも、性能やコストだけでなく炭素排出の実態が無視できなくなる。",
+      "content_status": "content_ok",
+      "content_chars": 4304,
+      "source_access": "unknown"
+    },
+    {
+      "number": 8,
+      "title": "OpenAI、金融・データ分析・エンジニアリング業務を担うAIツール「ChatGPT Work」を発表",
+      "source": "TechRadar",
+      "description": "",
+      "url": "https://www.techradar.com/pro/openai-unveils-chatgpt-work-an-ai-tool-capable-of-handling-workloads-across-finance-data-analytics-engineering-and-more",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-10",
+      "mode": "followup",
+      "summary": {
+        "article_index": 2,
+        "title_ja": "OpenAI、金融・データ分析・エンジニアリング業務を担うAIツール「ChatGPT Work」を発表",
+        "key_points": [
+          "OpenAIはChatGPT内に新しいエージェント型インターフェース「ChatGPT Work」を追加した",
+          "最新のGPT-5.6とCodexを組み合わせ、情報収集から成果物作成、長時間タスクまで扱う",
+          "デスクトップ版では無料利用者も使え、外部プラグイン連携やPC操作権限にも対応する"
+        ],
+        "detailed_summary": "OpenAIは、知識労働者向けの新機能「ChatGPT Work」を発表した。金融、データ分析、エンジニアリングなどの業務で、調査、資料作成、長時間の自律タスク実行を一つの画面で担う設計だという。中核にはGPT-5.6とCodexがあり、従来の生成AIから、より自律的に仕事を進めるエージェント型AIへの転換を打ち出している。macOSとWindowsのデスクトップ利用者は無料で使え、上位プランはモバイルやWebから先行利用可能。外部プラグイン連携やPC操作機能も加わり、ChatGPTの統合ワークスペース化が進んでいる。",
+        "why_it_matters": "AIが単なる質問応答ではなく、実務そのものを代行する段階に入ったことを示す動きだ。業務ソフトとAIの境界が薄れ、職場の生産性ツールの主導権争いが一段と激しくなる。",
+        "headline": "役割分担型の業務代行へ踏み込む製品化で、疑似組織運用の実装像に近い差分だから"
+      },
+      "selection_reason": "役割分担型の業務代行へ踏み込む製品化で、疑似組織運用の実装像に近い差分だから",
+      "classification_reason": "役割分担型の業務代行へ踏み込む製品化で、疑似組織運用の実装像に近い差分だから",
+      "knowledge_value": "AIが単なる質問応答ではなく、実務そのものを代行する段階に入ったことを示す動きだ。業務ソフトとAIの境界が薄れ、職場の生産性ツールの主導権争いが一段と激しくなる。",
+      "content_status": "content_ok",
+      "content_chars": 2918,
+      "source_access": "free"
+    },
+    {
+      "number": 9,
+      "title": "サイバー防御用AIエージェントが逆用される恐れ、「Friendly Fire」攻撃で悪意あるコード実行の可能性",
+      "source": "IT Pro",
+      "description": "",
+      "url": "https://www.itpro.com/security/the-agents-you-use-to-beef-up-cybersecurity-could-be-turned-against-you-friendly-fire-attacks-can-manipulate-openai-and-anthropic-models-into-running-malicious-code",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-10",
+      "mode": "followup",
+      "summary": {
+        "article_index": 3,
+        "title_ja": "サイバー防御用AIエージェントが逆用される恐れ、「Friendly Fire」攻撃で悪意あるコード実行の可能性",
+        "key_points": [
+          "AI Now Instituteの検証で、Claude CodeやCodexが自律モード時に悪意あるコードを実行し得ることが示された",
+          "攻撃はOSSのREADMEやドキュメントに埋め込んだプロンプトインジェクションだけで成立する",
+          "研究者や専門家は、AIセキュリティ運用の急速な普及に対して未解決の根本リスクがあると警告している"
+        ],
+        "detailed_summary": "AI Now Instituteは、セキュリティ点検を担うAIエージェントが、逆に攻撃者の指示で悪意あるバイナリを実行させられる「Friendly Fire」攻撃の概念実証を公表した。対象はClaude Codeのauto-modeやCodexのauto-reviewのように、エージェント自身がコマンド承認まで行う設定で、READMEや文書に埋め込んだプロンプトインジェクションだけで成立するという。研究ではOpenAI系とAnthropic系の複数モデルが影響を受けた。問題の核心は、エージェントがレビュー対象のコードと命令文を確実に区別できない点にあり、単純なモデル修正では解決しにくいと指摘されている。",
+        "why_it_matters": "AIを守りに使うほど、AI自体が新しい攻撃面になる。自律権限を持つエージェントを本番運用する企業は、利便性より隔離設計と承認設計を先に固める必要がある。",
+        "headline": "防御用エージェント自体が攻撃面になる話で、権限設計と監査導線の再点検に効くため"
+      },
+      "selection_reason": "防御用エージェント自体が攻撃面になる話で、権限設計と監査導線の再点検に効くため",
+      "classification_reason": "防御用エージェント自体が攻撃面になる話で、権限設計と監査導線の再点検に効くため",
+      "knowledge_value": "AIを守りに使うほど、AI自体が新しい攻撃面になる。自律権限を持つエージェントを本番運用する企業は、利便性より隔離設計と承認設計を先に固める必要がある。",
+      "content_status": "content_ok",
+      "content_chars": 6119,
+      "source_access": "free"
+    },
+    {
+      "number": 10,
+      "title": "欧州、ホルムズ海峡での航行 शुल्क導入案を検討",
+      "source": "The Guardian",
+      "description": "",
+      "url": "https://www.theguardian.com/world/2026/jul/11/europe-considers-proposals-navigational-fees-strait-of-hormuz-iran-us",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-11",
+      "mode": "deep_dive",
+      "summary": {
+        "article_index": 4,
+        "title_ja": "欧州、ホルムズ海峡での航行 शुल्क導入案を検討",
+        "key_points": [
+          "欧州は、国連海事機関の支持を条件に非強制的な航行料金の仕組みを検討している",
+          "英国内では強制徴収への反対がある一方、特定の航行サービス対価は認められ得るとの見方もある",
+          "イラン、オマーン、米国を巻き込む緊張の中で、海峡の安全確保と外交交渉が並行して進んでいる"
+        ],
+        "detailed_summary": "欧州は、ホルムズ海峡での航行安全対策として、義務ではない形の航行料金制度を認める案を検討している。英国のデービッド・ラミー副首相は強制的な通行料に否定的だが、マラッカ海峡や英仏海峡のように特定サービスへの対価は自然水路でも成り立つとの意見がある。オマーンは英国の法律家と制度案を作成し、イランへの説明支援も申し出ている。一方で、米国はイランに海峡開放の明言を要求し、トランプ前大統領の強硬発言やイラン指導部の報復姿勢が重なり、外交と軍事の緊張はむしろ高まっている。",
+        "why_it_matters": "世界のエネルギー輸送の要衝であるホルムズ海峡の安定は、原油価格と海運保険、地政学全体に直結する。小さな制度変更でも、市場と安全保障に大きな波及を生み得る。",
+        "headline": "戦争そのものではなく海峡通行の制度設計を読み、資源と保険の伝播経路を深められる"
+      },
+      "selection_reason": "戦争そのものではなく海峡通行の制度設計を読み、資源と保険の伝播経路を深められる",
+      "classification_reason": "戦争そのものではなく海峡通行の制度設計を読み、資源と保険の伝播経路を深められる",
+      "knowledge_value": "世界のエネルギー輸送の要衝であるホルムズ海峡の安定は、原油価格と海運保険、地政学全体に直結する。小さな制度変更でも、市場と安全保障に大きな波及を生み得る。",
+      "content_status": "content_ok",
+      "content_chars": 8050,
+      "source_access": "unknown"
+    },
+    {
+      "number": 11,
+      "title": "エージェント型クローラー対策として文脈圧縮を突く保護手法「CAPE」を提案",
+      "source": "arXiv",
+      "description": "",
+      "url": "https://arxiv.org/abs/2607.08180",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-09",
+      "mode": "deep_dive",
+      "summary": {
+        "article_index": 5,
+        "title_ja": "エージェント型クローラー対策として文脈圧縮を突く保護手法「CAPE」を提案",
+        "key_points": [
+          "arXiv論文は、LLMエージェントが行う文脈圧縮を防御層として利用する発想を示した",
+          "CAPEは人間には見えない微小な摂動を加え、圧縮時に情報が大きく失われるよう誘導する",
+          "実験では既存手法より最大75.8％高い情報損失を実現し、LangGraphやGitHub Copilotにも転用可能性を示した"
+        ],
+        "detailed_summary": "7月9日に投稿されたarXiv論文は、LLMベースのエージェントが要約や推論の前段で行う文脈圧縮に着目し、高価値なテキストを守る新手法「CAPE」を提案した。アクセス制御はブラウザを装うエージェントに迂回されやすく、従来のインジェクション系防御は可読性を損ないがちだった。CAPEは、人間には見えない摂動を本文に埋め込み、圧縮後の情報欠落を意図的に増やす。代理圧縮器から有効な摂動を抽出し、問い合わせ回数を抑えて他の圧縮器にも適応する仕組みで、複数条件の実験や実運用環境で有効性を示した。",
+        "why_it_matters": "AIエージェント時代には、閲覧を止めるより理解を崩す防御が重要になる。コンテンツ保護の設計が、アクセス制御中心から推論妨害を含む方向へ広がる可能性がある。",
+        "headline": "エージェント時代のクロール防御を圧縮耐性から扱い、公開戦略と保護設計を考えられる"
+      },
+      "selection_reason": "エージェント時代のクロール防御を圧縮耐性から扱い、公開戦略と保護設計を考えられる",
+      "classification_reason": "エージェント時代のクロール防御を圧縮耐性から扱い、公開戦略と保護設計を考えられる",
+      "knowledge_value": "AIエージェント時代には、閲覧を止めるより理解を崩す防御が重要になる。コンテンツ保護の設計が、アクセス制御中心から推論妨害を含む方向へ広がる可能性がある。",
+      "content_status": "content_ok",
+      "content_chars": 2837,
+      "source_access": "free"
+    },
+    {
+      "number": 12,
+      "title": "企業はAI優位を築いているのではなく、借り物の知能を使っているにすぎない",
+      "source": "TechRadar Pro",
+      "description": "",
+      "url": "https://www.techradar.com/pro/enterprises-are-not-building-ai-advantage-they-are-leasing-it",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-10",
+      "mode": "deep_dive",
+      "summary": {
+        "article_index": 6,
+        "title_ja": "企業はAI優位を築いているのではなく、借り物の知能を使っているにすぎない",
+        "key_points": [
+          "多くの企業は独自のUIや業務フローを持っていても、知能の中核は外部モデルに依存している",
+          "その結果、差別化の縮小、利益率圧迫、モデル提供者への依存、将来の競合化リスクを抱える",
+          "記事は、真のAI優位には学習システムや知能資産の自社保有が必要だと論じている"
+        ],
+        "detailed_summary": "この記事は、多くの企業がAI導入を競争優位の構築と捉えている一方、実際には外部モデルの知能を借りているだけだと批判する。企業は独自アプリ、固有の業務フロー、機密データを持ちながら、判断や応答の中心は外部の基盤モデルに委ねている。すると顧客接点や運用コスト、失敗リスクは自社が負うのに、学習成果や知能そのものはモデル提供者側に蓄積される。記事は、こうした構造が差別化の希薄化、マージン悪化、提供者の上位レイヤー進出による競合化を招くとし、AI時代の真の資産は自社が所有する知能基盤だと訴えている。",
+        "why_it_matters": "AI導入の成否は、機能を載せたかどうかではなく、学習と知能の主導権を誰が持つかで決まる。企業戦略として見れば、外部モデル依存は短期の加速剤であって長期の堀にはなりにくい。",
+        "headline": "企業のAI優位が内製知能ではなく借り物依存だと捉え、SaaS再編の見方を補強するため"
+      },
+      "selection_reason": "企業のAI優位が内製知能ではなく借り物依存だと捉え、SaaS再編の見方を補強するため",
+      "classification_reason": "企業のAI優位が内製知能ではなく借り物依存だと捉え、SaaS再編の見方を補強するため",
+      "knowledge_value": "AI導入の成否は、機能を載せたかどうかではなく、学習と知能の主導権を誰が持つかで決まる。企業戦略として見れば、外部モデル依存は短期の加速剤であって長期の堀にはなりにくい。",
+      "content_status": "content_ok",
+      "content_chars": 8079,
+      "source_access": "unknown"
+    },
+    {
+      "number": 13,
+      "title": "ハリウッド級のスタジオなしで、2人の映画制作者はいかに300ショットのVFXパイプラインを築いたか",
+      "source": "Creative Bloq",
+      "description": "",
+      "url": "https://www.creativebloq.com/3d/vfx-cgi/how-two-filmmakers-built-a-300-shot-vfx-pipeline-without-a-hollywood-studio",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-06",
+      "mode": "adjacent",
+      "summary": {
+        "article_index": 1,
+        "title_ja": "ハリウッド級のスタジオなしで、2人の映画制作者はいかに300ショットのVFXパイプラインを築いたか",
+        "key_points": [
+          "ドイツのLoreley Productionsは、Star Trekのファン映画で約300のVFXショットを実質2人で処理した。",
+          "DaVinci Resolve、Blackmagic Fusion、Unreal Engineを軸に、複雑な資産管理を避けた単純な運用で効率を確保した。",
+          "元のSonyカメラのファイル名をそのまま使い、ノードツリーの流用や自動更新で小規模でも高品質な制作を回した。"
+        ],
+        "detailed_summary": "ドイツの小規模スタジオLoreley Productionsは、Star Trekを題材にしたファン映画三部作の制作で、約300のVFXショットを監督Benjamin Schulzと撮影監督Heiko Thiesの2人だけで後処理した。特徴は、大規模スタジオのような複雑な管理体制を持たず、DaVinci ResolveとFusion、Unreal Engineを一貫してつなぐ単純な流れに絞った点だ。命名規則も増やさず、元のSony A7 IV素材のファイル名を維持し、既存のノード構成を別ショットへコピーして微調整することで工数を圧縮。少人数でも再現性の高い設計を徹底すれば、重いVFX制作は成立することを示した。",
+        "why_it_matters": "高額な設備や大人数のチームがなくても、工程を単純化してツール連携を揃えれば本格的なVFX制作は可能だと示した。インディー映像制作や小規模スタジオにとって、現実的な制作モデルとして参考になる。",
+        "headline": "少人数で映像制作を閉じる実践例で、創作MVPとキャラ表現の運用発想を広げられる"
+      },
+      "selection_reason": "少人数で映像制作を閉じる実践例で、創作MVPとキャラ表現の運用発想を広げられる",
+      "classification_reason": "少人数で映像制作を閉じる実践例で、創作MVPとキャラ表現の運用発想を広げられる",
+      "knowledge_value": "高額な設備や大人数のチームがなくても、工程を単純化してツール連携を揃えれば本格的なVFX制作は可能だと示した。インディー映像制作や小規模スタジオにとって、現実的な制作モデルとして参考になる。",
+      "content_status": "content_ok",
+      "content_chars": 5096,
+      "source_access": "unknown",
+      "adjacent_field": "リアルタイム身体表現・パフォーマンスキャプチャ",
+      "adjacent_reasoning": "キャラクター表現や実写合成への関心を一段広げるなら、絵作りだけでなく身体性や演技をどうデジタル化するかを見るべきです。ここはVTuber、ゲーム、映像制作、感情表現の交点で、創作の解像度を上げやすい分野です。"
+    }
+  ],
+  "status": "complete",
+  "failed_modes": []
+}
