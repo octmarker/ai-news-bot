@@ -1,0 +1,441 @@
+{
+  "date": "2026-07-13",
+  "generated_at": "2026-07-13T09:00:03.563281+09:00",
+  "run_id": "20260713T090003+0900",
+  "mode_collection_counts": {
+    "breaking": 36,
+    "followup": 7,
+    "deep_dive": 8,
+    "adjacent": 7
+  },
+  "mode_errors": {},
+  "mode": "multimode",
+  "articles": [
+    {
+      "number": 1,
+      "title": "「爆笑……面白すぎる」 Apple、元エンジニアが機密を盗み同僚にも同様の方法を教えたと主張 現在はOpenAI勤務",
+      "source": "Yahoo Finance",
+      "description": "",
+      "url": "https://finance.yahoo.com/technology/ai/articles/lol-funny-apple-says-ex-190000424.html",
+      "category": "経済・金融",
+      "published_at": "2026-07-12",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 1,
+        "title_ja": "「爆笑……面白すぎる」 Apple、元エンジニアが機密を盗み同僚にも同様の方法を教えたと主張 現在はOpenAI勤務",
+        "key_points": [
+          "Appleは7月10日、元エンジニアのChang LiuとOpenAI側を相手取り機密流出訴訟を提起した",
+          "訴状では、Liuが退職後も認証不具合を悪用して社内機密にアクセスし、資料を大量に取得したとされる",
+          "Appleは、在職中の同僚に検知を避ける複製方法や閲覧すべき機密資料まで助言したと主張している"
+        ],
+        "detailed_summary": "Appleは、8年間在籍した元上級システム電気エンジニアのChang Liuが2026年1月にOpenAIへ移った後も、認証不具合を突いてAppleの機密ハードウェア資料へアクセスし続けたとして提訴した。訴状では、Liuが不具合を報告せず、千ページ超の技術資料や基板の製造・試験資料を取得し、在職中の同僚Yu-Ting Pengにも検知回避の複製方法や面接準備用の機密資料を教えたとされる。現時点ではApple側の主張段階で、被告側の反論はまだ示されていない。",
+        "why_it_matters": "AI人材の争奪が、知財保護と訴訟リスクの問題に直結していることを示す案件だ。大手AI企業とプラットフォーム企業の競争が、採用だけでなく機密管理の厳格化にも波及する。",
+        "headline": "Apple対OpenAIの人材・知財訴訟は、モデル競争が雇用と法務へ波及した転換点"
+      },
+      "selection_reason": "Apple対OpenAIの人材・知財訴訟は、モデル競争が雇用と法務へ波及した転換点",
+      "classification_reason": "Apple対OpenAIの人材・知財訴訟は、モデル競争が雇用と法務へ波及した転換点",
+      "knowledge_value": "AI人材の争奪が、知財保護と訴訟リスクの問題に直結していることを示す案件だ。大手AI企業とプラットフォーム企業の競争が、採用だけでなく機密管理の厳格化にも波及する。",
+      "content_status": "content_ok",
+      "content_chars": 2791,
+      "source_access": "free"
+    },
+    {
+      "number": 2,
+      "title": "Salesforce、AI製品を巡ってダブルの打撃を受ける",
+      "source": "Yahoo Finance",
+      "description": "",
+      "url": "https://finance.yahoo.com/technology/ai/articles/salesforce-receives-double-blow-over-181700627.html",
+      "category": "経済・金融",
+      "published_at": "2026-07-11",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 2,
+        "title_ja": "Salesforce、AI製品を巡ってダブルの打撃を受ける",
+        "key_points": [
+          "KeyBancとBernsteinが同時にSalesforce株を引き下げ、株価は一時3〜4％下落した",
+          "両社はAIエージェント製品Agentforceの導入進展が見た目ほど速くない点を懸念している",
+          "顧客データの未整備や従量課金モデルの不確実性が、将来収益の遅れにつながるとみられている"
+        ],
+        "detailed_summary": "Salesforceは7月9日、KeyBancとBernsteinの2社から同時に投資判断を引き下げられた。焦点は同社の主力AIエージェント基盤Agentforceで、顧客企業のデータが十分整理されておらず、本格運用の前提が整っていないという見方が共通している。AIエージェントが人の作業を代替すれば従来の席数課金は逆風になり得るため、Salesforceは成果ベース課金へ移ろうとしているが、その収益モデルはまだ大規模には実証されていない。期待先行の評価を現実が試している局面だ。",
+        "why_it_matters": "AI機能を載せればすぐ収益化できるわけではなく、顧客側のデータ整備と料金設計が成否を分ける。SaaS企業全体のAI成長ストーリーを見直す材料になる。",
+        "headline": "AI期待だけでSaaS評価は維持できず、導入成果と収益化が再び問われ始めた"
+      },
+      "selection_reason": "AI期待だけでSaaS評価は維持できず、導入成果と収益化が再び問われ始めた",
+      "classification_reason": "AI期待だけでSaaS評価は維持できず、導入成果と収益化が再び問われ始めた",
+      "knowledge_value": "AI機能を載せればすぐ収益化できるわけではなく、顧客側のデータ整備と料金設計が成否を分ける。SaaS企業全体のAI成長ストーリーを見直す材料になる。",
+      "content_status": "content_ok",
+      "content_chars": 2451,
+      "source_access": "free"
+    },
+    {
+      "number": 3,
+      "title": "Appleの失敗した自動運転車計画は強力なAIチップという遺産を残した",
+      "source": "The Verge",
+      "description": "Apple's self-driving car program never really got off the ground, but it may have been what made the company's chips the powerful AI performers they are. Early in the development of the self-driving platform, Apple realized that it would need powerful on-device AI processing. While the car processor was never finished, as Mark Gurman details […]",
+      "url": "https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-12",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 3,
+        "title_ja": "Appleの失敗した自動運転車計画は強力なAIチップという遺産を残した",
+        "key_points": [
+          "頓挫したAppleの自動運転車計画が、のちのNeural Engine開発の土台になったとされる",
+          "Neural EngineはiPhone XのA11 Bionicで登場し、Face IDやAR機能を支えてきた",
+          "Appleは今後、M6の派生版を飛ばしてM7を前倒しし、AI向けサーバー製品も強化する見通しだ"
+        ],
+        "detailed_summary": "Appleの自動運転車計画は製品化に至らなかったが、車載向けに必要だった高性能なオンデバイスAI処理の研究が、結果としてNeural Engineの誕生につながったと記事は伝える。Neural EngineはA11 BionicとともにiPhone Xで初搭載され、Face IDやAnimoji、AR機能を支え、その後はMシリーズにも広がってAppleのAIハード戦略の中核となった。ソフト面では出遅れが指摘される一方、プライバシーを保ちながら端末内で処理できる強みを武器に、AppleはM7と大容量RAM対応サーバーで次の布石を打とうとしている。",
+        "why_it_matters": "失敗した大型案件でも、基盤技術として別の競争力を生むことがある好例だ。今後のAI競争では、モデルだけでなく端末内処理と専用半導体の差がますます重要になる。",
+        "headline": "自動運転撤退がAI半導体優位へ転化した構図は、失敗投資の回収経路を見る材料"
+      },
+      "selection_reason": "自動運転撤退がAI半導体優位へ転化した構図は、失敗投資の回収経路を見る材料",
+      "classification_reason": "自動運転撤退がAI半導体優位へ転化した構図は、失敗投資の回収経路を見る材料",
+      "knowledge_value": "失敗した大型案件でも、基盤技術として別の競争力を生むことがある好例だ。今後のAI競争では、モデルだけでなく端末内処理と専用半導体の差がますます重要になる。",
+      "content_status": "content_ok",
+      "content_chars": 1765,
+      "source_access": "free"
+    },
+    {
+      "number": 4,
+      "title": "韓国で今もっとも人気の独身者は半導体労働者だ",
+      "source": "MIT Technology Review",
+      "description": "",
+      "url": "https://www.technologyreview.com/2026/07/06/1140000/south-korea-bachelors-samsung-skhynix-chip-workers/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-13",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 4,
+        "title_ja": "韓国で今もっとも人気の独身者は半導体労働者だ",
+        "key_points": [
+          "SK HynixやSamsungの従業員はAI半導体ブームで巨額ボーナスを得て、結婚市場で人気が急上昇している",
+          "SK Hynixでは営業利益の10％を従業員に分配する合意があり、今年は1人あたり約47万6000ドルの上乗せに相当する",
+          "半導体景気は新たな富裕層を生む一方、韓国社会で格差拡大への不安や不平等論争を強めている"
+        ],
+        "detailed_summary": "韓国ではAI半導体ブームでSK HynixやSamsungの業績が急拡大し、従業員へのボーナスも異例の規模に膨らんでいる。その結果、半導体企業の社員は見合いや紹介の場で最も人気の高い職種になり、制服でさえ好印象の象徴として語られるほどだ。背景には、HBM需要の急増で両社が世界的な供給の要を握り、国内景気や株式市場まで押し上げている現実がある。華やかな消費拡大の一方で、平均所得を大きく上回る新エリート層の誕生が、韓国社会の格差意識をさらに鋭くしている。",
+        "why_it_matters": "AIブームの恩恵が企業収益だけでなく、結婚市場や住宅需要まで変えていることが分かる。技術産業の成功が社会的な階層差を一段と可視化する局面でもある。",
+        "headline": "AIブームの果実が賃金と婚姻市場へ漏れ出し、半導体人材の希少性を可視化した"
+      },
+      "selection_reason": "AIブームの果実が賃金と婚姻市場へ漏れ出し、半導体人材の希少性を可視化した",
+      "classification_reason": "AIブームの果実が賃金と婚姻市場へ漏れ出し、半導体人材の希少性を可視化した",
+      "knowledge_value": "AIブームの恩恵が企業収益だけでなく、結婚市場や住宅需要まで変えていることが分かる。技術産業の成功が社会的な階層差を一段と可視化する局面でもある。",
+      "content_status": "content_ok",
+      "content_chars": 8544,
+      "source_access": "unknown"
+    },
+    {
+      "number": 5,
+      "title": "Anthropic、Fable 5へのアクセスを7月19日まで延長",
+      "source": "The Economic Times",
+      "description": "",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-extends-fable-5-access-through-july-19/articleshow/132350610.cms",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-12",
+      "mode": "followup",
+      "summary": {
+        "article_index": 5,
+        "title_ja": "Anthropic、Fable 5へのアクセスを7月19日まで延長",
+        "key_points": [
+          "Anthropicは有料Claude契約者向けにFable 5の提供期間とClaude Codeの高いレート制限を7月19日まで延長した",
+          "Fable 5は週次上限の半分まで追加料金なしで使える仕組みが継続される",
+          "延期の背景には、発売直後の停止など不安定な立ち上がりと、OpenAIとの競争激化があると記事はみている"
+        ],
+        "detailed_summary": "Anthropicは7月13日、有料Claude契約者に対する主力モデルFable 5の提供と、Claude Codeの週次レート制限を50％高めた措置を7月19日まで延長すると発表した。Fable 5は週次利用上限の半分まで追加費用なしで使えるが、その後はクレジット消費に切り替わる。記事は、6月9日の投入後に米政府の安全保障上の理由で3日後に停止され、7月1日に復帰した経緯を踏まえ、相次ぐ土壇場延長はユーザーのつなぎ止めと信頼回復の両面を狙った対応だと位置づけている。",
+        "why_it_matters": "最先端モデルの競争は性能だけでなく、供給の安定性と開発者への配慮でも決まる。Anthropicの延長措置は、利用者維持が事業戦略の中心課題になっていることを示す。",
+        "headline": "Fable 5延長とClaude Code上限緩和は、需要逼迫と価格設計の手探りを示す"
+      },
+      "selection_reason": "Fable 5延長とClaude Code上限緩和は、需要逼迫と価格設計の手探りを示す",
+      "classification_reason": "Fable 5延長とClaude Code上限緩和は、需要逼迫と価格設計の手探りを示す",
+      "knowledge_value": "最先端モデルの競争は性能だけでなく、供給の安定性と開発者への配慮でも決まる。Anthropicの延長措置は、利用者維持が事業戦略の中心課題になっていることを示す。",
+      "content_status": "content_ok",
+      "content_chars": 2811,
+      "source_access": "free"
+    },
+    {
+      "number": 6,
+      "title": "適切なOpenAI GPT-5.6モデルの選び方",
+      "source": "Axios",
+      "description": "",
+      "url": "https://www.axios.com/2026/07/12/openai-chatgpt-work-luna-terra-sol",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-12",
+      "mode": "followup",
+      "summary": {
+        "article_index": 6,
+        "title_ja": "適切なOpenAI GPT-5.6モデルの選び方",
+        "key_points": [
+          "OpenAIはGPT-5.6の3モデルSol、Terra、Lunaと、新しいChatGPT Workを統合アプリ内で提供し始めた",
+          "Solは最上位、Terraは速度と性能のバランス型、Lunaは高速型で、利用可能なプランも異なる",
+          "同じプロンプトでも推論レベルとモデルの組み合わせ次第でコストが大きく変わるため、まず低い推論設定から試すべきだと記事は勧めている"
+        ],
+        "detailed_summary": "OpenAIは新しい統合ChatGPTアプリの中で、長めの多段タスクを処理するChatGPT Workと、3種類のGPT-5.6モデルSol、Terra、Lunaを公開した。記事は、非開発者ならCodexを使わずWork中心で十分だと整理しつつ、モデル選択ではまず利用可能な最上位モデルを最低推論設定で試し、結果が足りない場合だけ推論量を上げるのが妥当だと説明する。入力と出力トークン単価はLunaが最安、Solが最高だが、実際の請求額は推論の深さで大きくぶれ、同じ課題でもコスト差が何十倍にも広がる点が強調されている。",
+        "why_it_matters": "生成AIの使い勝手は、単純な性能比較よりもモデル名、推論量、料金体系をどう組み合わせるかで決まる。AI活用を実務に落とす側にとって、設定の理解そのものが生産性とコスト管理に直結する。",
+        "headline": "GPT-5.6の階層化で、モデル選定が性能比較より運用設計の問題になった"
+      },
+      "selection_reason": "GPT-5.6の階層化で、モデル選定が性能比較より運用設計の問題になった",
+      "classification_reason": "GPT-5.6の階層化で、モデル選定が性能比較より運用設計の問題になった",
+      "knowledge_value": "生成AIの使い勝手は、単純な性能比較よりもモデル名、推論量、料金体系をどう組み合わせるかで決まる。AI活用を実務に落とす側にとって、設定の理解そのものが生産性とコスト管理に直結する。",
+      "content_status": "content_ok",
+      "content_chars": 3482,
+      "source_access": "free"
+    },
+    {
+      "number": 7,
+      "title": "Google CEOスンダー・ピチャイ、AnthropicとOpenAIに遅れている唯一のAI競争はエージェント型コーディングだと認める",
+      "source": "The Times of India",
+      "description": "",
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/google-ceo-sundar-pichai-on-the-one-ai-race-google-is-losing-to-anthropic-and-openai-says-we-maybe-didnt-quite-have-the-/articleshow/132331311.cms",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-11",
+      "mode": "followup",
+      "summary": {
+        "article_index": 1,
+        "title_ja": "Google CEOスンダー・ピチャイ、AnthropicとOpenAIに遅れている唯一のAI競争はエージェント型コーディングだと認める",
+        "key_points": [
+          "ピチャイCEOは、Googleが長期的なツール利用型コーディングで競合に後れを取っていると認めた",
+          "原因はモデル性能より、開発者が実際に使う作業面を握れず学習用の実運用データが不足した点にあると説明した",
+          "GoogleはI/O 2026でAntigravity 2.0とGemini 3.5 Flashを打ち出し、巻き返しを狙っている"
+        ],
+        "detailed_summary": "Googleのスンダー・ピチャイCEOは、テキスト、音声、マルチモーダル、推論では最前線にいる一方、ツール利用や長期タスクを伴うエージェント型コーディングではAnthropicやOpenAIに遅れていると認めた。理由は基盤モデルの弱さではなく、Claude Codeのように開発者が日常的に使う接点を持てず、改善に必要な利用データが十分に戻らなかったためだという。GoogleはAntigravity 2.0やGemini 3.5 Flashで反撃を図るが、収益化が進む領域だけに遅れの重みは大きい。",
+        "why_it_matters": "AI競争の主戦場がチャットから実務用コーディングへ移ったことを示す発言だ。開発者向けの作業面を押さえる企業が、収益と改善速度の両方で優位に立つ。",
+        "headline": "Googleが劣後を認めたことで、勝負軸が検索連携より開発生産性へ寄った"
+      },
+      "selection_reason": "Googleが劣後を認めたことで、勝負軸が検索連携より開発生産性へ寄った",
+      "classification_reason": "Googleが劣後を認めたことで、勝負軸が検索連携より開発生産性へ寄った",
+      "knowledge_value": "AI競争の主戦場がチャットから実務用コーディングへ移ったことを示す発言だ。開発者向けの作業面を押さえる企業が、収益と改善速度の両方で優位に立つ。",
+      "content_status": "content_ok",
+      "content_chars": 4065,
+      "source_access": "free"
+    },
+    {
+      "number": 8,
+      "title": "AIデータセンター拡張で米国の変圧器不足が深刻化、電力会社は最長5年前倒しで発注",
+      "source": "The Times of India",
+      "description": "",
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/ai-data-center-expansion-is-creating-transformer-shortages-across-the-us-forcing-power-companies-to-order-up-to-five-years-in-advance/articleshow/132331511.cms",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-11",
+      "mode": "followup",
+      "summary": {
+        "article_index": 2,
+        "title_ja": "AIデータセンター拡張で米国の変圧器不足が深刻化、電力会社は最長5年前倒しで発注",
+        "key_points": [
+          "AIデータセンター建設の急増で、変圧器、遮断器、開閉装置の不足が全米で深刻化している",
+          "高圧変圧器の納期は2020年ごろの約1年から数年規模へ伸び、価格も今後4〜10％上がる見通しだ",
+          "電力会社や開発業者は数年前倒しで機器を確保し、古い設備の改修や供給先の分散も進めている"
+        ],
+        "detailed_summary": "Reutersによると、AIデータセンターの建設ラッシュが米国の送配電設備市場を逼迫させている。変圧器不足はコロナ後の需要回復で始まっていたが、AI向け電力需要がそこに追い打ちをかけ、発電所用昇圧変圧器の納期は2026年1Qに160週超へ長期化した。Wood Mackenzieは、米データセンター容量が現在の24GWから2030年に110GWへ拡大すると予測する。大手は長期契約で対応できても、小規模電力会社は資金力と調達力で不利になりやすい。",
+        "why_it_matters": "AIインフラの制約は半導体だけではなく、電力機器の供給網にも広がっている。送電設備の不足は、データセンター計画の遅延や電力コスト上昇を通じて地域経済にも波及する。",
+        "headline": "変圧器を五年前倒しで押さえる現実が、AI投資の制約を送配電へ広げた"
+      },
+      "selection_reason": "変圧器を五年前倒しで押さえる現実が、AI投資の制約を送配電へ広げた",
+      "classification_reason": "変圧器を五年前倒しで押さえる現実が、AI投資の制約を送配電へ広げた",
+      "knowledge_value": "AIインフラの制約は半導体だけではなく、電力機器の供給網にも広がっている。送電設備の不足は、データセンター計画の遅延や電力コスト上昇を通じて地域経済にも波及する。",
+      "content_status": "content_ok",
+      "content_chars": 4346,
+      "source_access": "unknown"
+    },
+    {
+      "number": 9,
+      "title": "より低い権限で足りるときに: LLMエージェントの過剰権限ツール選択を調査",
+      "source": "arXiv",
+      "description": "",
+      "url": "https://arxiv.org/abs/2606.20023",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-06-18",
+      "mode": "deep_dive",
+      "summary": {
+        "article_index": 3,
+        "title_ja": "より低い権限で足りるときに: LLMエージェントの過剰権限ツール選択を調査",
+        "key_points": [
+          "この論文は、低権限で十分なのに高権限ツールを選ぶ過剰権限選択を安全上の問題として定義した",
+          "新ベンチマークToolPrivBenchで評価した結果、主要なLLMエージェントは高権限ツールを選びがちで、一時的な失敗があるとさらに悪化した",
+          "一般的な安全アラインメントやプロンプト対策は不十分で、権限を意識した事後学習が有効だった"
+        ],
+        "detailed_summary": "本論文は、LLMエージェントが複数ツールから自律選択する場面で、必要以上に権限の強いツールを使う傾向を体系的に調べた。著者らはToolPrivBenchを作成し、初回選択だけでなく、一時的なツール障害後の権限エスカレーションも測定した。その結果、主要モデルでは過剰権限選択が広く見られ、障害時にはさらに増えることが分かった。安全性の一般訓練は最小権限原則に自動では結びつかず、権限を意識した事後学習の方が効果的だと示している。",
+        "why_it_matters": "エージェントが実システムに触れる時代では、能力より権限管理の失敗が重大事故につながる。この研究は、便利さと安全性を両立するための評価軸を具体化している。",
+        "headline": "最小権限をどう強制するかを、エージェントのツール選択失敗から具体化できる"
+      },
+      "selection_reason": "最小権限をどう強制するかを、エージェントのツール選択失敗から具体化できる",
+      "classification_reason": "最小権限をどう強制するかを、エージェントのツール選択失敗から具体化できる",
+      "knowledge_value": "エージェントが実システムに触れる時代では、能力より権限管理の失敗が重大事故につながる。この研究は、便利さと安全性を両立するための評価軸を具体化している。",
+      "content_status": "content_ok",
+      "content_chars": 2884,
+      "source_access": "free"
+    },
+    {
+      "number": 10,
+      "title": "何を残し何を忘れるか: LLMとエージェントのメモリ圧縮をレート歪み理論で捉える",
+      "source": "arXiv",
+      "description": "",
+      "url": "https://arxiv.org/abs/2607.08032",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-09",
+      "mode": "deep_dive",
+      "summary": {
+        "article_index": 4,
+        "title_ja": "何を残し何を忘れるか: LLMとエージェントのメモリ圧縮をレート歪み理論で捉える",
+        "key_points": [
+          "KVキャッシュ、長大プロンプト、再帰状態、エージェント記憶の圧縮を単一のレート歪み問題として統一的に捉えている",
+          "7つの軸からなる分類法を提示し、層をまたいだ圧縮手法の比較や転用を可能にした",
+          "現行手法は注意量や新しさに依存しがちで、将来必要になる情報を先に捨ててしまう弱点があると指摘した"
+        ],
+        "detailed_summary": "この論文は、LLMとエージェントが抱える記憶コストを、どの情報をどの精度で残すかというレート歪み問題として統一的に整理する。KVキャッシュの削減、プロンプト圧縮、再帰状態の制御、長期記憶の統合は別分野で発展してきたが、本質は同じだと主張する。著者らは層をまたぐ共通目的関数と下界、7軸の分類法を提示し、注意量や新しさに頼る既存法の限界や、エージェントで繰り返し起きる圧縮を測るベンチマーク不足も課題として挙げている。",
+        "why_it_matters": "長文コンテキストとエージェント運用では、記憶の扱いが性能とコストを左右する。圧縮を統一的に捉える視点は、効率化だけでなく取りこぼしによる性能劣化の抑制にも直結する。",
+        "headline": "コンパクションで何を残すかを情報圧縮として捉え直し、記憶設計の基準を持てる"
+      },
+      "selection_reason": "コンパクションで何を残すかを情報圧縮として捉え直し、記憶設計の基準を持てる",
+      "classification_reason": "コンパクションで何を残すかを情報圧縮として捉え直し、記憶設計の基準を持てる",
+      "knowledge_value": "長文コンテキストとエージェント運用では、記憶の扱いが性能とコストを左右する。圧縮を統一的に捉える視点は、効率化だけでなく取りこぼしによる性能劣化の抑制にも直結する。",
+      "content_status": "content_ok",
+      "content_chars": 3082,
+      "source_access": "free"
+    },
+    {
+      "number": 11,
+      "title": "電力柔軟なAIデータセンター: 系統応答型コンピュートという新パラダイム",
+      "source": "arXiv",
+      "description": "",
+      "url": "https://arxiv.org/abs/2606.25098",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-06-23",
+      "mode": "deep_dive",
+      "summary": {
+        "article_index": 5,
+        "title_ja": "電力柔軟なAIデータセンター: 系統応答型コンピュートという新パラダイム",
+        "key_points": [
+          "AIデータセンターを固定的な大口需要家ではなく、電力系統に応答できる柔軟な資源として運用する考え方を提示した",
+          "系統信号、ジョブスケジューリング、消費電力テレメトリを統合した制御アーキテクチャを提案している",
+          "130kWのGPUクラスタ実験で、急速な負荷削減、継続的な出力抑制、炭素配慮運用、地域間の負荷移動を実証した"
+        ],
+        "detailed_summary": "この論文は、AIインフラの電力需要増に対し、データセンターを単なる重い負荷ではなく系統安定化に協力する柔軟資源として使う構想を示す。ワークロード制御で電力消費を調整し、系統状況に応じて負荷削減やジョブ移送を行う仕組みだ。実運用の130kW GPUクラスタでは、重要ジョブの品質を保ちながら需要ピーク時の消費抑制や炭素排出の少ない時間帯へのシフトを確認した。地域間で計算を移せる点も、系統逼迫の緩和に効くとしている。",
+        "why_it_matters": "AI向け電力需要が急増する中、供給増強だけでは間に合わない。計算需要そのものを柔らかく動かせれば、接続待ちや設備投資の圧力を下げられる。",
+        "headline": "計算を電力需給に合わせて曲げる発想が、AIインフラ投資の勝ち筋を変える"
+      },
+      "selection_reason": "計算を電力需給に合わせて曲げる発想が、AIインフラ投資の勝ち筋を変える",
+      "classification_reason": "計算を電力需給に合わせて曲げる発想が、AIインフラ投資の勝ち筋を変える",
+      "knowledge_value": "AI向け電力需要が急増する中、供給増強だけでは間に合わない。計算需要そのものを柔らかく動かせれば、接続待ちや設備投資の圧力を下げられる。",
+      "content_status": "content_ok",
+      "content_chars": 2842,
+      "source_access": "free"
+    },
+    {
+      "number": 12,
+      "title": "AIデータセンターとの闘いは始まったばかり",
+      "source": "The Verge",
+      "description": "",
+      "url": "https://www.theverge.com/column/963346/ai-data-centers-fight",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-12",
+      "mode": "deep_dive",
+      "summary": {
+        "article_index": 6,
+        "title_ja": "AIデータセンターとの闘いは始まったばかり",
+        "key_points": [
+          "AIデータセンター建設に対する地域住民の反発が、米国や海外で強まっている",
+          "騒音、光害、水質、温室効果ガス、電気料金上昇など、生活環境への影響が主要な争点になっている",
+          "アイルランドのApple計画のように、長期の法廷闘争や住民運動で大型案件が頓挫する例もある"
+        ],
+        "detailed_summary": "この記事は、AIブームで急増するデータセンター建設に対し、地域社会の抵抗が本格化している状況を追う。象徴例として、AppleがアイルランドのAthenryで進めた約10億ドル規模の施設計画は、騒音や洪水、交通、野生生物への影響を懸念する住民の異議申し立てで長期化し、2018年に撤回された。2026年にはAI向け施設の電力と水の消費が一段と注目され、米国各地で住民が説明会や行政手続きに押し寄せ、建設計画の見直しを迫っている。",
+        "why_it_matters": "AIインフラの拡大は、技術や資金だけで決まる段階を過ぎた。地域の受容性が不足すれば、電力確保や許認可より前に計画そのものが止まる。",
+        "headline": "反AIではなく地域政治との衝突として読むと、許認可と立地の実務が見える"
+      },
+      "selection_reason": "反AIではなく地域政治との衝突として読むと、許認可と立地の実務が見える",
+      "classification_reason": "反AIではなく地域政治との衝突として読むと、許認可と立地の実務が見える",
+      "knowledge_value": "AIインフラの拡大は、技術や資金だけで決まる段階を過ぎた。地域の受容性が不足すれば、電力確保や許認可より前に計画そのものが止まる。",
+      "content_status": "content_ok",
+      "content_chars": 7613,
+      "source_access": "free"
+    },
+    {
+      "number": 13,
+      "title": "AGENTS.mdファイルの設定スメル: コーディングエージェント設定でよくある誤り",
+      "source": "arXiv",
+      "description": "",
+      "url": "https://arxiv.org/abs/2606.15828",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-06-14",
+      "mode": "deep_dive",
+      "summary": {
+        "article_index": 1,
+        "title_ja": "AGENTS.mdファイルの設定スメル: コーディングエージェント設定でよくある誤り",
+        "key_points": [
+          "AGENTS.mdやCLAUDE.mdのようなコーディングエージェント向け設定ファイルに潜む問題を整理した初のスメルカタログを提示した。",
+          "グレー文献調査とリポジトリ分析を通じて6種類の設定スメルを特定し、自動検出のためのヒューリスティクスも提案した。",
+          "人気OSS100件の調査ではLint Leakageが62%、Context Bloatが42%、Skill Leakageが35%で見つかり、複数スメルの併発も多かった。"
+        ],
+        "detailed_summary": "この論文は、コーディングエージェントの振る舞いを左右するAGENTS.mdやCLAUDE.mdの設定品質に注目し、ありがちな不備を体系化した。研究チームはグレー文献レビューとリポジトリマイニングを行い、6種類の設定スメルと自動検出の手がかりを整理。人気オープンソース100件を調べたところ、Lint Leakageが62%で最多となり、Context Bloat、Skill Leakageも高頻度だった。設定の肥大化や指示の衝突が広く存在する実態を示している。",
+        "why_it_matters": "AIコーディングエージェントの性能はモデルだけでなく設定文書の質にも強く左右される。運用現場で見落とされがちな設定不良を可視化した点は、開発効率と安全性の改善に直結する。",
+        "headline": "AGENTS.mdの失敗類型を知ると、短い指示で精度を出す運用設計を点検できる"
+      },
+      "selection_reason": "AGENTS.mdの失敗類型を知ると、短い指示で精度を出す運用設計を点検できる",
+      "classification_reason": "AGENTS.mdの失敗類型を知ると、短い指示で精度を出す運用設計を点検できる",
+      "knowledge_value": "AIコーディングエージェントの性能はモデルだけでなく設定文書の質にも強く左右される。運用現場で見落とされがちな設定不良を可視化した点は、開発効率と安全性の改善に直結する。",
+      "content_status": "content_ok",
+      "content_chars": 2808,
+      "source_access": "free"
+    },
+    {
+      "number": 14,
+      "title": "メタのデータセンター請負業者が汚染水を排出し、ワイオミング州が排水規制を強化",
+      "source": "The Guardian",
+      "description": "",
+      "url": "https://www.theguardian.com/us-news/2026/jul/08/meta-datacenter-ai-wyoming-water",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-08",
+      "mode": "adjacent",
+      "summary": {
+        "article_index": 2,
+        "title_ja": "メタのデータセンター請負業者が汚染水を排出し、ワイオミング州が排水規制を強化",
+        "key_points": [
+          "メタのAIデータセンター建設に関わる請負業者が、細菌に汚染された水を公共下水に流していたとワイオミング州当局が明らかにした。",
+          "問題を受けてシャイアンの水道当局は、同種プロジェクトの排水処理に厳しい新ルールを導入し、メタの排水権限も恒久的に取り消した。",
+          "飲料水への影響は確認されていない一方、データセンター建設を巡る水資源と環境負荷への反発が改めて強まっている。"
+        ],
+        "detailed_summary": "ワイオミング州シャイアンで建設中のメタのAIデータセンターから、希少だが自然界に存在する細菌Cupriavidus gilardiiを含む排水が公共下水へ流されていたことが判明した。発覚は2026年2月の定期検査で、当局は責任を負う請負業者を特定し、メタの排水処理施設利用権を恒久的に取り消した。市は閉ループ冷却設備などを使うデータセンターの排水を禁じる新方針も採用。飲料水への影響はないとされるが、巨大データセンターの水利用を巡る懸念を押し広げた。",
+        "why_it_matters": "AI向けデータセンターの拡大が、電力だけでなく排水管理や地域インフラにも負荷をかけることを示した事例だ。今後は建設時の環境規制が各地で厳格化する可能性が高い。",
+        "headline": "水処理事故が即規制強化へつながり、AI競争の制約が地域インフラにあると分かる"
+      },
+      "selection_reason": "水処理事故が即規制強化へつながり、AI競争の制約が地域インフラにあると分かる",
+      "classification_reason": "水処理事故が即規制強化へつながり、AI競争の制約が地域インフラにあると分かる",
+      "knowledge_value": "AI向けデータセンターの拡大が、電力だけでなく排水管理や地域インフラにも負荷をかけることを示した事例だ。今後は建設時の環境規制が各地で厳格化する可能性が高い。",
+      "content_status": "content_ok",
+      "content_chars": 4971,
+      "source_access": "unknown",
+      "adjacent_field": "データセンターの水・電力許認可",
+      "adjacent_reasoning": "AI競争の制約はモデル性能より、どこで水と電力を確保し許認可を通せるかに移りつつあります。インフラ投資、地域政治、安全保障が同じボトルネックに集まるため、表の勝敗とは別の地図が見えます。"
+    },
+    {
+      "number": 15,
+      "title": "トリニダード・トバゴ、データセンター整備につながる米企業との協定に署名",
+      "source": "AP News",
+      "description": "",
+      "url": "https://apnews.com/article/trinidad-tobago-data-centers-ernst-young-a4d9efd41ae303b58f3f0cea695dcc3e",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-12",
+      "mode": "adjacent",
+      "summary": {
+        "article_index": 3,
+        "title_ja": "トリニダード・トバゴ、データセンター整備につながる米企業との協定に署名",
+        "key_points": [
+          "トリニダード・トバゴ政府は、米国企業2社と大型データセンター整備に向けた覚書を締結した。",
+          "計画には300MW級と150MW級の施設構想が含まれ、カリブ海諸国では初の同種合意とされる。",
+          "一方で、水不足が続く同国では電力消費や環境負荷への懸念が強く、オンライン上や活動家から批判が出ている。"
+        ],
+        "detailed_summary": "トリニダード・トバゴ政府は2026年7月、フロリダ拠点のHummingbird AI Holdingsとニューヨーク拠点のErnst and Young LLPとの間で、大型データセンター建設に向けた協力枠組みを定める覚書を締結した。構想には300MWと150MWの施設が含まれ、政府は雇用創出効果を強調する。ただ、同国は慢性的な断水と給水不足を抱えており、水を多く使うデータセンターが既存インフラをさらに圧迫するとの不安が広がっている。",
+        "why_it_matters": "AIインフラ投資が新興国や島しょ国にも広がる一方、雇用創出と資源制約の衝突が鮮明になっている。経済振興策としての誘致が、電力と水の持続性をどう確保するかが問われる。",
+        "headline": "資源国が計算需要を呼び込む動きは、エネルギーとAI立地の新しい結び付きになる"
+      },
+      "selection_reason": "資源国が計算需要を呼び込む動きは、エネルギーとAI立地の新しい結び付きになる",
+      "classification_reason": "資源国が計算需要を呼び込む動きは、エネルギーとAI立地の新しい結び付きになる",
+      "knowledge_value": "AIインフラ投資が新興国や島しょ国にも広がる一方、雇用創出と資源制約の衝突が鮮明になっている。経済振興策としての誘致が、電力と水の持続性をどう確保するかが問われる。",
+      "content_status": "content_ok",
+      "content_chars": 3567,
+      "source_access": "unknown",
+      "adjacent_field": "データセンターの水・電力許認可",
+      "adjacent_reasoning": "AI競争の制約はモデル性能より、どこで水と電力を確保し許認可を通せるかに移りつつあります。インフラ投資、地域政治、安全保障が同じボトルネックに集まるため、表の勝敗とは別の地図が見えます。"
+    }
+  ],
+  "status": "complete",
+  "failed_modes": []
+}
