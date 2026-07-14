@@ -1,0 +1,387 @@
+{
+  "date": "2026-07-14",
+  "generated_at": "2026-07-14T09:02:16.431698+09:00",
+  "run_id": "20260714T090216+0900",
+  "mode_collection_counts": {
+    "breaking": 36,
+    "followup": 10,
+    "deep_dive": 5,
+    "adjacent": 4
+  },
+  "mode_errors": {},
+  "mode": "multimode",
+  "articles": [
+    {
+      "number": 1,
+      "title": "Apple、元従業員がOpenAI入社後に機密ファイルをダウンロードしたため「まれな」バグを悪用したと主張",
+      "source": "TechCrunch",
+      "description": "",
+      "url": "https://techcrunch.com/2026/07/13/apple-says-former-employee-exploited-rare-bug-to-download-confidential-files-after-leaving-for-openai/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-13",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 1,
+        "title_ja": "Apple、元従業員がOpenAI入社後に機密ファイルをダウンロードしたため「まれな」バグを悪用したと主張",
+        "key_points": [
+          "Appleは、元社員のChang Liu氏が退職後に未知の認証バグを悪用し、社内ネットワークへ不正アクセスしたと訴えている。",
+          "同氏はOpenAI入社後の数週間で、未発表製品や技術仕様を含む機密ハードウェア関連ファイルを多数取得したとされる。",
+          "Appleは脆弱性を修正済みだが、退職者アカウント管理や機密情報保護の不備が改めて問われている。"
+        ],
+        "detailed_summary": "AppleはOpenAIを営業秘密の窃取で提訴し、その中で元システム電気エンジニアのChang Liu氏が退職後にAppleの共有ネットワークへアクセスした経緯を明らかにした。訴状によれば、Liu氏は未公表だった認証上のゼロデイ脆弱性を悪用し、未発表製品の情報、技術仕様、エンジニア向け資料など多数の機密ファイルを取得したという。Appleは脆弱性を修正しアクセスを停止したが、退職後の認証管理や端末返却の徹底不足が企業の重大な情報流出リスクになることを示した。",
+        "why_it_matters": "AI人材獲得競争の裏で、企業間の機密情報管理と元従業員リスクが法廷問題に直結している。AppleとOpenAIの対立は、採用活動と知財保護の境界線を厳しく問う事例になる。",
+        "headline": "OpenAIの採用、情報管理、訴訟コストが同時に動く大型法務案件"
+      },
+      "selection_reason": "OpenAIの採用、情報管理、訴訟コストが同時に動く大型法務案件",
+      "classification_reason": "OpenAIの採用、情報管理、訴訟コストが同時に動く大型法務案件",
+      "knowledge_value": "AI人材獲得競争の裏で、企業間の機密情報管理と元従業員リスクが法廷問題に直結している。AppleとOpenAIの対立は、採用活動と知財保護の境界線を厳しく問う事例になる。",
+      "content_status": "content_ok",
+      "content_chars": 4789,
+      "source_access": "free"
+    },
+    {
+      "number": 2,
+      "title": "TSMCの売上高が急増",
+      "source": "CNBC",
+      "description": "",
+      "url": "https://www.cnbc.com/2026/07/13/tsmc-june-revenue-rises-percent-ahead-second-quarter.html",
+      "category": "経済・金融",
+      "published_at": "2026-07-13",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 2,
+        "title_ja": "TSMCの売上高が急増",
+        "key_points": [
+          "TSMCの6月売上高は前年同月比67.9％増の4426.8億台湾ドルとなり、上期売上も大きく伸びた。",
+          "AI向け需要が強く、先端3ナノ製造能力は主要GPU・CPU顧客向けでほぼ売り切れ状態とみられている。",
+          "先端パッケージ工場の増設も進み、AI半導体ブームの中心企業としての存在感を一段と強めている。"
+        ],
+        "detailed_summary": "TSMCは2026年6月売上高が前年同月比67.9％増、前月比でも6.2％増となり、例年6月に見られた月次減収傾向を覆した。2026年上期の累計売上高は2.4兆台湾ドルに達し、前年同期比35.6％増。市場ではAI向け需要の逼迫が続き、3ナノ品は主要顧客向けに完売状態との見方が出ている。さらに南部・嘉義で先端パッケージ工場を追加する計画も報じられ、Nvidia、Apple、AMDなどを支える世界最大の受託半導体メーカーとして、AI投資拡大の恩恵を強く受けている。",
+        "why_it_matters": "TSMCの売上はAIインフラ投資の実勢を映す先行指標だ。ここが強い限り、半導体供給制約とAI関連設備投資の拡大が世界のテック景気を支え続ける可能性が高い。",
+        "headline": "AI投資の実需が半導体売上に残るかを測る最重要の需給指標"
+      },
+      "selection_reason": "AI投資の実需が半導体売上に残るかを測る最重要の需給指標",
+      "classification_reason": "AI投資の実需が半導体売上に残るかを測る最重要の需給指標",
+      "knowledge_value": "TSMCの売上はAIインフラ投資の実勢を映す先行指標だ。ここが強い限り、半導体供給制約とAI関連設備投資の拡大が世界のテック景気を支え続ける可能性が高い。",
+      "content_status": "content_ok",
+      "content_chars": 1935,
+      "source_access": "free"
+    },
+    {
+      "number": 3,
+      "title": "米国とイランが主導権を争う中、ホルムズ海峡の船舶通航量が急減",
+      "source": "CNBC",
+      "description": "",
+      "url": "https://www.cnbc.com/2026/07/13/ship-traffic-through-hormuz-falls-as-us-and-iran-fight-for-control.html",
+      "category": "経済・金融",
+      "published_at": "2026-07-13",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 3,
+        "title_ja": "米国とイランが主導権を争う中、ホルムズ海峡の船舶通航量が急減",
+        "key_points": [
+          "ホルムズ海峡の通航船舶数は直近1週間で大きく落ち込み、日曜は14隻と前週比で約6割減った。",
+          "イランによる商船攻撃と米国の報復で安全保障環境が急速に悪化し、航路選択も混乱している。",
+          "米政府は軍事支援で原油輸送継続を保証すると表明したが、原油市場と物流の不安定化は続いている。"
+        ],
+        "detailed_summary": "米国とイランの戦闘再燃を受け、世界の原油輸送の要衝であるホルムズ海峡の船舶通航量が急減している。Kplerによれば日曜の通航は14隻で、前週同日の37隻から約60％減少した。戦前には1日100隻超、原油・石油製品約2000万バレルが通過していたが、イランの商船攻撃と米軍保護航路への圧力で状況は悪化。米エネルギー省は8百万バレル超の通航を軍支援下で確保したと説明したが、航路の切り替えやトランスポンダー停止も増え、実際の物流把握は難しくなっている。",
+        "why_it_matters": "ホルムズ海峡の混乱は原油価格、海運保険、世界インフレに直結する。軍事衝突が長引けば、エネルギー市場だけでなく各国の金融政策にも波及する。",
+        "headline": "中東衝突が原油価格でなく物流量として現れた即時警戒シグナル"
+      },
+      "selection_reason": "中東衝突が原油価格でなく物流量として現れた即時警戒シグナル",
+      "classification_reason": "中東衝突が原油価格でなく物流量として現れた即時警戒シグナル",
+      "knowledge_value": "ホルムズ海峡の混乱は原油価格、海運保険、世界インフレに直結する。軍事衝突が長引けば、エネルギー市場だけでなく各国の金融政策にも波及する。",
+      "content_status": "content_ok",
+      "content_chars": 2652,
+      "source_access": "free"
+    },
+    {
+      "number": 4,
+      "title": "長く低迷していた日本の債券市場が再び注目されている",
+      "source": "CNBC",
+      "description": "",
+      "url": "https://www.cnbc.com/2026/07/14/japan-bond-jgb-yields-.html",
+      "category": "経済・金融",
+      "published_at": "2026-07-14",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 4,
+        "title_ja": "長く低迷していた日本の債券市場が再び注目されている",
+        "key_points": [
+          "日本国債利回りは数十年ぶりの高水準に達し、10年債は1996年以来の水準まで上昇した。",
+          "日銀の政策正常化で、これまで投資妙味が乏しかった日本国債を再評価する声が海外投資家の間で強まっている。",
+          "一方で、欧州債の方が政策金利面で有利であり、日本の財政持続性リスクを懸念する見方も根強い。"
+        ],
+        "detailed_summary": "日本国債は日銀のイールドカーブ・コントロール終了と政策正常化を背景に売られ、10年債利回りは一時2.901％と1996年以来の高水準を記録した。これにより、長年低利回りで敬遠されてきたJGBが、ようやく保有に値する資産になったとみる投資家も増えている。とくに長期債は円高や利回り低下局面での値上がり余地を評価する声がある。一方、欧州債の方が政策金利や財政安定性で魅力的だとする反論もあり、日本債再評価は進むものの見方は割れている。",
+        "why_it_matters": "日本の長期金利上昇は国内資金の配分だけでなく、世界の債券市場や為替市場にも影響する。長年の低金利体制が終われば、日本発の資本移動がグローバル市場の価格形成を変えうる。",
+        "headline": "日本金利の再価格付けが株式評価と円資産配分を揺らし始めた"
+      },
+      "selection_reason": "日本金利の再価格付けが株式評価と円資産配分を揺らし始めた",
+      "classification_reason": "日本金利の再価格付けが株式評価と円資産配分を揺らし始めた",
+      "knowledge_value": "日本の長期金利上昇は国内資金の配分だけでなく、世界の債券市場や為替市場にも影響する。長年の低金利体制が終われば、日本発の資本移動がグローバル市場の価格形成を変えうる。",
+      "content_status": "content_ok",
+      "content_chars": 4992,
+      "source_access": "free"
+    },
+    {
+      "number": 5,
+      "title": "Uberのロボタクシーを巡るロビー活動がWaymoとの衝突を招いている",
+      "source": "TechCrunch",
+      "description": "",
+      "url": "https://techcrunch.com/2026/07/13/ubers-robotaxi-lobbying-effort-has-put-it-on-a-collision-course-with-waymo/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-13",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 5,
+        "title_ja": "Uberのロボタクシーを巡るロビー活動がWaymoとの衝突を招いている",
+        "key_points": [
+          "ワシントンD.C.で自動運転車の商用運行を認める法案が、UberとWaymoの利害対立の舞台になっている。",
+          "Uberは、ロボタクシーが人間の運転手を排除しWaymoの独占を招くとして、配車ネットワーク上で人間運転手と併存する規制を求めている。",
+          "Waymoは、法案は安全な展開と公共交通・公平性の両立を可能にすると主張し、両社の戦略の違いが鮮明になった。"
+        ],
+        "detailed_summary": "Uberはこれまでロボタクシー企業との提携や出資を進めてきたが、ワシントンD.C.の自動運転法案をめぐっては、規制設計そのものに踏み込み始めた。Uberは法案に反対し、ロボタクシーが単独アプリで運行すれば人間の運転手が仕事を失い、Waymoに事実上の独占を与えると警告。利用者が同じ配車アプリ上で人間運転と自動運転を選べるハイブリッド型を規制で義務づけるべきだと訴える。一方のWaymoは、過度な制約なしに安全な展開を認める現行法案を支持しており、協業関係にある両社が政策面では正面衝突している。",
+        "why_it_matters": "ロボタクシー競争は技術開発だけでなく、誰がルールを設計するかの争いに移っている。D.C.での制度設計は、他都市の自動運転規制や配車市場の主導権争いにも波及しやすい。",
+        "headline": "自動運転の勝敗が技術差より規制交渉力で決まる局面が見える"
+      },
+      "selection_reason": "自動運転の勝敗が技術差より規制交渉力で決まる局面が見える",
+      "classification_reason": "自動運転の勝敗が技術差より規制交渉力で決まる局面が見える",
+      "knowledge_value": "ロボタクシー競争は技術開発だけでなく、誰がルールを設計するかの争いに移っている。D.C.での制度設計は、他都市の自動運転規制や配車市場の主導権争いにも波及しやすい。",
+      "content_status": "content_ok",
+      "content_chars": 13934,
+      "source_access": "free"
+    },
+    {
+      "number": 6,
+      "title": "大規模なAI投資拡大が、ノートPCや電気料金の上昇を通じて新たなインフレ圧力になっている",
+      "source": "AP News",
+      "description": "",
+      "url": "https://apnews.com/article/ai-inflation-federal-reserve-434f02e62a02f9b92e57995d9375df57",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-13",
+      "mode": "followup",
+      "summary": {
+        "article_index": 6,
+        "title_ja": "大規模なAI投資拡大が、ノートPCや電気料金の上昇を通じて新たなインフレ圧力になっている",
+        "key_points": [
+          "AI向けデータセンター投資の急拡大で、メモリやプロセッサー、電力コストが上昇し、消費者物価を押し上げている。",
+          "Apple、Microsoft、Dell、HP、Sonyなどが製品値上げを進めており、ノートPCやゲーム機、スマホにも影響が広がっている。",
+          "インフレ圧力が続けば、FRBが年内に追加利上げを検討する可能性もあり、家計や企業の借入負担に波及しかねない。"
+        ],
+        "detailed_summary": "APによると、AI向けデータセンター建設への投資は2026年に7000億ドル超へ膨らみ、半導体や記憶装置、電力需要を一気に押し上げている。JPMorganは一部メモリ価格が2024年比で最大400％上がると試算し、その影響はすでに消費者向け電子機器へ波及している。AppleはノートPCやiPadを15〜25％値上げし、MicrosoftはXboxを100ドル引き上げる方針を示した。電気料金も上昇傾向にあり、AI投資が新たな物価上昇源としてFRBの金融政策判断を難しくしている。",
+        "why_it_matters": "AIブームは株価や企業成長だけでなく、家計の負担増という形でも現れ始めた。もしこのコスト圧力が続けば、テック投資拡大がそのまま高金利長期化の要因になりうる。",
+        "headline": "AI普及の副作用が家計物価と電力料金へ波及する差分を追える"
+      },
+      "selection_reason": "AI普及の副作用が家計物価と電力料金へ波及する差分を追える",
+      "classification_reason": "AI普及の副作用が家計物価と電力料金へ波及する差分を追える",
+      "knowledge_value": "AIブームは株価や企業成長だけでなく、家計の負担増という形でも現れ始めた。もしこのコスト圧力が続けば、テック投資拡大がそのまま高金利長期化の要因になりうる。",
+      "content_status": "content_ok",
+      "content_chars": 6551,
+      "source_access": "unknown"
+    },
+    {
+      "number": 7,
+      "title": "Anthropic、インドでClaude AIのルピー建て料金を導入",
+      "source": "The Economic Times",
+      "description": "",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-rolls-out-rupee-pricing-for-claude-ai-in-india/articleshow/132373053.cms",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-13",
+      "mode": "followup",
+      "summary": {
+        "article_index": 1,
+        "title_ja": "Anthropic、インドでClaude AIのルピー建て料金を導入",
+        "key_points": [
+          "Anthropicがインド市場向けにClaudeのルピー建て課金を開始し、ドル建て国際カード依存を緩和した。",
+          "対象はPro、Max、Teamで、無料プランは据え置き。UPI決済は未対応のまま。",
+          "インドはClaude利用の約6%を占める重要市場で、ベンガルール拠点開設やInfosys、TCSとの提携も進む。"
+        ],
+        "detailed_summary": "AnthropicはインドでClaudeの地域別価格を導入し、同社にとって世界第2位の市場で初めてルピー決済を可能にした。Pro、Max、Team各プランの料金と機能を明確化し、Research、Claude Code、Microsoft 365連携などを訴求する一方、UPIには未対応で支払いはカードかアプリ課金に限られる。現地拠点の整備や大手IT企業との提携も進んでおり、インド市場への本格投資を示す動きといえる。",
+        "why_it_matters": "生成AI各社の競争が価格と販売体制のローカル化へ移っていることを示す。インド向け最適化は利用拡大だけでなく、OpenAIやGoogleとの市場争奪にも直結する。",
+        "headline": "Claudeの海外収益化が価格戦略から新興国浸透へ移ったと分かる"
+      },
+      "selection_reason": "Claudeの海外収益化が価格戦略から新興国浸透へ移ったと分かる",
+      "classification_reason": "Claudeの海外収益化が価格戦略から新興国浸透へ移ったと分かる",
+      "knowledge_value": "生成AI各社の競争が価格と販売体制のローカル化へ移っていることを示す。インド向け最適化は利用拡大だけでなく、OpenAIやGoogleとの市場争奪にも直結する。",
+      "content_status": "content_ok",
+      "content_chars": 3888,
+      "source_access": "free"
+    },
+    {
+      "number": 8,
+      "title": "報告書がEntergyのMeta向け料金据え置き約束に疑問",
+      "source": "Axios",
+      "description": "",
+      "url": "https://www.axios.com/local/new-orleans/2026/07/13/meta-rate-increase-louisiana-power-plants",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-13",
+      "mode": "followup",
+      "summary": {
+        "article_index": 2,
+        "title_ja": "報告書がEntergyのMeta向け料金据え置き約束に疑問",
+        "key_points": [
+          "Metaのルイジアナ新データセンター向け電力供給を巡り、Entergyの新たな発電所買収計画が一般利用者の負担増につながる可能性が指摘された。",
+          "コンサルタント報告書は、Texas州のCottonwood発電所買収が進めば平均顧客の電気料金が月8ドル超上がる恐れがあるとみる。",
+          "州政府は懸念を受け、データセンター誘致時の料金負担と地域保護の枠組み作成を指示した。"
+        ],
+        "detailed_summary": "Metaの巨大データセンター建設に伴い、Entergy Louisianaは既存のMeta向け新設火力発電所に加え、Texas州のCottonwood発電所買収も進めようとしている。だが公益事業委員会向け報告書は、この買収がMeta専用設備の稼働までの電力不足を埋める役割を持つため、短期的には一般契約者の料金を押し上げる可能性があると指摘した。MetaとEntergyは反論するが、州知事は保護枠組みの策定を命じ、審査は今後も続く。",
+        "why_it_matters": "AIデータセンターの巨大電力需要が、地域の料金政策や産業誘致の前提を揺さぶっている。企業誘致の利益を誰が負担するのかという論点が、今後のインフラ政策の核心になる。",
+        "headline": "AI電力投資の採算が住民負担と規制審査で揺れる実例"
+      },
+      "selection_reason": "AI電力投資の採算が住民負担と規制審査で揺れる実例",
+      "classification_reason": "AI電力投資の採算が住民負担と規制審査で揺れる実例",
+      "knowledge_value": "AIデータセンターの巨大電力需要が、地域の料金政策や産業誘致の前提を揺さぶっている。企業誘致の利益を誰が負担するのかという論点が、今後のインフラ政策の核心になる。",
+      "content_status": "content_ok",
+      "content_chars": 3257,
+      "source_access": "unknown"
+    },
+    {
+      "number": 9,
+      "title": "アルバニージー首相、AIを再生可能エネルギー転換級の転機と位置付けへ",
+      "source": "The Guardian",
+      "description": "",
+      "url": "https://www.theguardian.com/australia-news/2026/jul/14/anthony-albanese-ai-speech-safety-copyright-datacentres-social-licence",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-14",
+      "mode": "followup",
+      "summary": {
+        "article_index": 3,
+        "title_ja": "アルバニージー首相、AIを再生可能エネルギー転換級の転機と位置付けへ",
+        "key_points": [
+          "オーストラリアのアルバニージー首相は、AIの進展を社会の転換点として再生可能エネルギー移行になぞらえて演説する見通しだ。",
+          "演説では安全性、規制順守、労働への影響、防衛、データセンターのような電力多消費インフラが主要論点になる。",
+          "一方で、創作産業保護に向けた著作権改革の具体策は示されない可能性が高い。"
+        ],
+        "detailed_summary": "アルバニージー首相はシドニーでの演説で、AIを経済成長の源泉であると同時に、社会的信頼と政策的ガードレールを必要とする重大な転換点として打ち出す見込みだ。政府内では安全性、プライバシー、雇用変化、防衛、データセンター整備を含む全政府的な政策設計が進む一方、Anthropicは政策の不透明さが投資判断の障害だと指摘している。世論もAIの機会とリスクで割れており、政府の姿勢表明が投資と社会受容の両面で試される。",
+        "why_it_matters": "AI政策は成長戦略だけでなく、社会的許容とインフラ整備をどう両立させるかが問われる段階に入った。各国で同様の論争が広がる中、オーストラリアの対応は一つの先行事例になり得る。",
+        "headline": "AI推進と著作権、安全性、社会的受容を束ねる政策差分"
+      },
+      "selection_reason": "AI推進と著作権、安全性、社会的受容を束ねる政策差分",
+      "classification_reason": "AI推進と著作権、安全性、社会的受容を束ねる政策差分",
+      "knowledge_value": "AI政策は成長戦略だけでなく、社会的許容とインフラ整備をどう両立させるかが問われる段階に入った。各国で同様の論争が広がる中、オーストラリアの対応は一つの先行事例になり得る。",
+      "content_status": "content_ok",
+      "content_chars": 4899,
+      "source_access": "unknown"
+    },
+    {
+      "number": 10,
+      "title": "コマンドラインAIコーディングエージェントの導入と影響：Microsoftの2026年初頭展開研究",
+      "source": "arXiv",
+      "description": "",
+      "url": "https://arxiv.org/abs/2607.01418",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-01",
+      "mode": "deep_dive",
+      "summary": {
+        "article_index": 4,
+        "title_ja": "コマンドラインAIコーディングエージェントの導入と影響：Microsoftの2026年初頭展開研究",
+        "key_points": [
+          "MicrosoftでのClaude CodeとGitHub Copilot CLIの大規模導入を分析したarXiv論文である。",
+          "初回利用は主に同僚や周囲の利用状況といった社会的ネットワークを通じて広がったとされる。",
+          "導入者は反実仮想ベースで約24%多くPRをマージしており、生産性への持続的な上振れが示唆された。"
+        ],
+        "detailed_summary": "この論文は、Microsoftで数万人規模のエンジニアを対象に、Claude CodeとGitHub Copilot CLIの導入初期を観察したものだ。誰が試し、誰が使い続け、費用に見合う成果が出るのかを検証した結果、利用開始は同僚の可視的な使用に強く影響され、継続利用は属性より日常的なコーディング量との関係が強かった。さらに導入者はマージ済みPR数で約24%の増加が見られ、単なる物珍しさではなく開発速度への実効があったと論じている。",
+        "why_it_matters": "CLI型AIエージェントの価値を、組織導入とコストの文脈で定量評価した点が重要だ。普及施策では機能説明だけでなく、社内での可視的な利用拡大が鍵になることを示している。",
+        "headline": "CLIエージェント導入が開発速度と作業分担をどう変えるかを実証で掘れる"
+      },
+      "selection_reason": "CLIエージェント導入が開発速度と作業分担をどう変えるかを実証で掘れる",
+      "classification_reason": "CLIエージェント導入が開発速度と作業分担をどう変えるかを実証で掘れる",
+      "knowledge_value": "CLI型AIエージェントの価値を、組織導入とコストの文脈で定量評価した点が重要だ。普及施策では機能説明だけでなく、社内での可視的な利用拡大が鍵になることを示している。",
+      "content_status": "content_ok",
+      "content_chars": 2611,
+      "source_access": "free"
+    },
+    {
+      "number": 11,
+      "title": "エージェントセキュリティと規制の現実の接点：規制下の金融システムにおける自律エージェント脅威と統制の実務的整理",
+      "source": "arXiv",
+      "description": "",
+      "url": "https://arxiv.org/abs/2606.29142",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-06-28",
+      "mode": "adjacent",
+      "summary": {
+        "article_index": 5,
+        "title_ja": "エージェントセキュリティと規制の現実の接点：規制下の金融システムにおける自律エージェント脅威と統制の実務的整理",
+        "key_points": [
+          "金融の規制環境でLLMエージェントを運用する際の脅威と統制を、実務経験に基づいて整理したarXiv論文である。",
+          "プロンプトインジェクション、権限管理、監査性、ツール悪用、データ所在地、境界ポリシーなど6類型を米欧規制に対応付けた。",
+          "KYCの実運用では約8割を当日自動処理できた一方、監査で初めて見つかった統制不備や自動化できない申請者群も報告した。"
+        ],
+        "detailed_summary": "論文は、規制金融でのAIエージェント導入を研究室レベルの脅威論から実務レベルへ引き上げ、ECOA、Regulation B、EU AI Act、GDPR 22条、FINRA指針などの法的義務と結び付けて論じる。著者らは本人確認業務の実例から、監査可能なRAG、ケースID伝播、推論境界での秘匿化など4つの設計パターンを提示し、審査の迅速化効果を示した。同時に、内部監査でしか見えなかった失敗や自動処理不能な利用者が残る現実も明かしている。",
+        "why_it_matters": "規制産業でAIエージェントを使う難しさは、単なる精度ではなく説明責任と監査性にある。金融以外の高規制分野でも、そのまま通用する設計論点が多い。",
+        "headline": "承認フローや権限設計が最終的に監査と保険へ接続する地図になる"
+      },
+      "selection_reason": "承認フローや権限設計が最終的に監査と保険へ接続する地図になる",
+      "classification_reason": "承認フローや権限設計が最終的に監査と保険へ接続する地図になる",
+      "knowledge_value": "規制産業でAIエージェントを使う難しさは、単なる精度ではなく説明責任と監査性にある。金融以外の高規制分野でも、そのまま通用する設計論点が多い。",
+      "content_status": "content_ok",
+      "content_chars": 3085,
+      "source_access": "free",
+      "adjacent_field": "自律エージェントの監査証跡と保険引受",
+      "adjacent_reasoning": "権限管理、承認フロー、安全性への関心を突き詰めると、最終的には何を記録すれば事故後に責任分界できるかという監査と保険の世界に行き着く。AIそのものの性能論ではなく、社会実装を止めたり進めたりする周辺制度として重要度が高い。"
+    },
+    {
+      "number": 12,
+      "title": "AIセキュリティの逆説：なぜ企業は十分に見えないものを信頼するのか",
+      "source": "TechRadar",
+      "description": "",
+      "url": "https://www.techradar.com/pro/the-ai-security-paradox-why-are-organizations-trusting-what-they-cant-fully-see",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-09",
+      "mode": "adjacent",
+      "summary": {
+        "article_index": 6,
+        "title_ja": "AIセキュリティの逆説：なぜ企業は十分に見えないものを信頼するのか",
+        "key_points": [
+          "企業はAIを急速に業務へ組み込む一方で、実運用後の挙動や権限を十分に可視化できていない。",
+          "調査では87%がAI自動化を支えるID管理は準備済みと答えたが、46%は実際のガバナンス不足も認めている。",
+          "AIエージェントは既存のID管理前提を崩し、特権行動の理由を説明できないこと自体が大きな統制リスクになっている。"
+        ],
+        "detailed_summary": "この記事は、企業がAI導入の速度を優先するあまり、監視や検証の仕組みが追いついていない現状をAIセキュリティの逆説として論じる。AIエージェントは自律的に権限を継承し、複数システムへアクセスできるため、従来の人間前提のID管理では統制しきれない。調査でも多くの組織がリスクを認識しながら常時アクセスを許容しており、なぜその行動が起きたのか説明できないケースが多い。結果として、ガバナンスは予防型ではなく事後対応型へと後退している。",
+        "why_it_matters": "AI導入の成否はモデル性能より、権限管理と可観測性の設計で決まる段階に入っている。見えないまま信頼する運用は、今後の重大インシデントの温床になりやすい。",
+        "headline": "見えないAIを企業が使う不安を可観測性の欠如として整理できる"
+      },
+      "selection_reason": "見えないAIを企業が使う不安を可観測性の欠如として整理できる",
+      "classification_reason": "見えないAIを企業が使う不安を可観測性の欠如として整理できる",
+      "knowledge_value": "AI導入の成否はモデル性能より、権限管理と可観測性の設計で決まる段階に入っている。見えないまま信頼する運用は、今後の重大インシデントの温床になりやすい。",
+      "content_status": "content_ok",
+      "content_chars": 6104,
+      "source_access": "unknown",
+      "adjacent_field": "自律エージェントの監査証跡と保険引受",
+      "adjacent_reasoning": "権限管理、承認フロー、安全性への関心を突き詰めると、最終的には何を記録すれば事故後に責任分界できるかという監査と保険の世界に行き着く。AIそのものの性能論ではなく、社会実装を止めたり進めたりする周辺制度として重要度が高い。"
+    },
+    {
+      "number": 13,
+      "title": "自律AIエージェント向けの不正耐性ある保険契約：戦略耐性を持つ料金メカニズム設計",
+      "source": "arXiv",
+      "description": "",
+      "url": "https://arxiv.org/abs/2606.16326",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-06-15",
+      "mode": "adjacent",
+      "summary": {
+        "article_index": 1,
+        "title_ja": "自律AIエージェント向けの不正耐性ある保険契約：戦略耐性を持つ料金メカニズム設計",
+        "key_points": [
+          "自律AIエージェント向け保険契約で起こり得る5つの不正・抜け道を整理し、どの条件で制度がゲーム化されにくいかを理論的に示した。",
+          "安全な代替行動の後付け選択や、行動の分割による料金回避は既存ルールで防げる一方、越境的な責任逃れ、JSON不正などのインターフェース失敗、モデル身元の虚偽申告には新たな条項が必要だと論じた。",
+          "共通支配下の集約、失敗時のエスカレーション料金、モデル申告に対する最小罰則メニューを組み合わせることで、正直な申告と適切な運用が誘導できるとした。"
+        ],
+        "detailed_summary": "この論文は、自律AIエージェントが副作用を伴う行動を取る際の保険契約を、運用者が意図的に抜け道を探す前提で再設計した研究だ。先行研究の保険ランタイムは運用者を受け身とみなしていたが、本稿は5つの攻撃面を定義し、どこまで制度を悪用されずに保てるかを検証した。特に、責任境界をまたぐ付け替え、無効JSONなどの失敗を安全扱いして報酬化してしまう問題、利用モデルの虚偽申告に対し、新しい契約条項で抑止できると示した。結果として、AIの副作用管理を価格付けと契約で統制する枠組みを一段強化している。",
+        "why_it_matters": "AIエージェントが実運用に入るほど、性能だけでなく保険や責任分担の設計が重要になる。これは、AIの失敗や抜け道を経済的インセンティブごと制御しようとする点で、実装とガバナンスをつなぐ研究だからだ。",
+        "headline": "事故後責任を価格付けで制御する発想が実装の外側を広げる"
+      },
+      "selection_reason": "事故後責任を価格付けで制御する発想が実装の外側を広げる",
+      "classification_reason": "事故後責任を価格付けで制御する発想が実装の外側を広げる",
+      "knowledge_value": "AIエージェントが実運用に入るほど、性能だけでなく保険や責任分担の設計が重要になる。これは、AIの失敗や抜け道を経済的インセンティブごと制御しようとする点で、実装とガバナンスをつなぐ研究だからだ。",
+      "content_status": "content_ok",
+      "content_chars": 3162,
+      "source_access": "free",
+      "adjacent_field": "自律エージェントの監査証跡と保険引受",
+      "adjacent_reasoning": "権限管理、承認フロー、安全性への関心を突き詰めると、最終的には何を記録すれば事故後に責任分界できるかという監査と保険の世界に行き着く。AIそのものの性能論ではなく、社会実装を止めたり進めたりする周辺制度として重要度が高い。"
+    }
+  ],
+  "status": "complete",
+  "failed_modes": []
+}
