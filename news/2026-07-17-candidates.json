@@ -1,0 +1,327 @@
+{
+  "date": "2026-07-17",
+  "generated_at": "2026-07-17T09:09:55.925543+09:00",
+  "run_id": "20260717T090955+0900",
+  "mode_collection_counts": {
+    "breaking": 35,
+    "followup": 13,
+    "deep_dive": 1,
+    "adjacent": 1
+  },
+  "mode_errors": {},
+  "mode": "multimode",
+  "articles": [
+    {
+      "number": 1,
+      "title": "サンフランシスコ市長、Waymo交通混乱を受け自動運転車の規制強化を要求",
+      "source": "TechCrunch",
+      "description": "",
+      "url": "https://techcrunch.com/2026/07/16/san-francisco-mayor-pushes-for-tougher-rules-after-the-waymo-traffic-fiasco/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-16",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 1,
+        "title_ja": "サンフランシスコ市長、Waymo交通混乱を受け自動運転車の規制強化を要求",
+        "key_points": [
+          "7月4日の大規模渋滞でWaymo車両が停止し、主要道路をふさいだ",
+          "ルーリー市長は州当局に自動運転車の新たな運用基準を求めた",
+          "平常時の安全性だけでなく、非常時の信頼性と自治体連携が争点になった"
+        ],
+        "detailed_summary": "サンフランシスコのダニエル・ルーリー市長は、2026年7月4日の花火大会後にWaymo車両が多数停止し、主要道路をふさいで市全体の渋滞を悪化させた問題を受け、州交通当局に自動運転車規制の強化を求めた。2025年12月の広域停電でも似た混乱が起きたとして、平常時の安全性だけでは不十分だと指摘。車線からの即時退避、運行エリアや乗降地点の即応変更、自治体へのリアルタイム情報共有、大規模混雑時の耐性試験を州基準化すべきだと提案している。",
+        "why_it_matters": "自動運転の議論が、事故の有無だけでなく都市インフラとしての復旧力や協調運用へ移りつつある。商用展開の拡大には、非常時対応まで含めた規制設計が避けられない。",
+        "headline": "自動運転の社会受容が規制論へ反転し、実装前提を見直す材料になる"
+      },
+      "selection_reason": "自動運転の社会受容が規制論へ反転し、実装前提を見直す材料になる",
+      "classification_reason": "自動運転の社会受容が規制論へ反転し、実装前提を見直す材料になる",
+      "knowledge_value": "自動運転の議論が、事故の有無だけでなく都市インフラとしての復旧力や協調運用へ移りつつある。商用展開の拡大には、非常時対応まで含めた規制設計が避けられない。",
+      "content_status": "content_ok",
+      "content_chars": 4437,
+      "source_access": "free"
+    },
+    {
+      "number": 2,
+      "title": "SpaceX、Starship V3の2回目打ち上げを点火後に急きょ中止",
+      "source": "TechCrunch",
+      "description": "",
+      "url": "https://techcrunch.com/2026/07/16/spacex-suddenly-aborts-second-starship-v3-launch-after-ignition/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-16",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 2,
+        "title_ja": "SpaceX、Starship V3の2回目打ち上げを点火後に急きょ中止",
+        "key_points": [
+          "点火直後に一部エンジンが始動せず、自動中止が作動した",
+          "第3世代Starlink衛星の試験投入とStarship V3の前進が狙いだった",
+          "IPO後初のStarship試験機会でもあり、時間外取引で株価が下落した"
+        ],
+        "detailed_summary": "SpaceXは2026年7月16日、改良型Starship V3の2回目打ち上げを試みたが、点火直後に複数エンジンが起動せず自動中止となった。数日前にFAAが前回のブースター不具合に対する是正措置を確認し再飛行を認めた直後で、今回は第3世代Starlink衛星の試験投入が狙いだった。Starlinkは同社の主力収益源で、軌道上データセンター構想の中核でもある。6月12日の大型IPO後としては初のStarship試験機会でもあり、打ち上げ中止を受けて株価は時間外で下落した。",
+        "why_it_matters": "Starshipの進捗は、SpaceXの衛星事業と将来の大型宇宙インフラ構想の両方を左右する。技術的な小さな失敗が、事業評価や資本市場の期待に直結する段階へ入っている。",
+        "headline": "巨大実験でも直前停止が起きる現実が、復旧設計と冗長性の重みを示す"
+      },
+      "selection_reason": "巨大実験でも直前停止が起きる現実が、復旧設計と冗長性の重みを示す",
+      "classification_reason": "巨大実験でも直前停止が起きる現実が、復旧設計と冗長性の重みを示す",
+      "knowledge_value": "Starshipの進捗は、SpaceXの衛星事業と将来の大型宇宙インフラ構想の両方を左右する。技術的な小さな失敗が、事業評価や資本市場の期待に直結する段階へ入っている。",
+      "content_status": "content_ok",
+      "content_chars": 2933,
+      "source_access": "free"
+    },
+    {
+      "number": 3,
+      "title": "ついにDoorDashをコマンドラインから注文できるように",
+      "source": "TechCrunch",
+      "description": "",
+      "url": "https://techcrunch.com/2026/07/16/yes-you-can-now-order-doordash-from-the-command-line/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-16",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 3,
+        "title_ja": "ついにDoorDashをコマンドラインから注文できるように",
+        "key_points": [
+          "DoorDashがCLIツール dd-cli の限定ベータを公開した",
+          "AIエージェント経由で店舗検索、割引確認、決済まで実行できる",
+          "冗談のように見えて、エージェント型コマースの具体例になっている"
+        ],
+        "detailed_summary": "DoorDashは、AIエージェントから直接フード注文できるコマンドラインツール dd-cli の限定ベータを発表した。米国とカナダのmacOS開発者が対象で、店舗検索、割引確認、決済までCLI経由で実行できる。見た目は冗談のようだが、本質はDoorDashの注文基盤を外部ソフトや自作エージェントに開放し、食事や日用品の注文機能を組み込めるようにする動きだ。iMessage連携やAsk DoorDashに続く、エージェント型コマースの実験として注目を集めている。",
+        "why_it_matters": "ECやデリバリーの操作主体が人間のアプリ操作からAIエージェントへ移る流れを示している。今後は注文体験そのものより、どのAPIや基盤がエージェントに採用されるかが競争力になる。",
+        "headline": "コマンドラインが購買導線へ伸び始め、エージェント実行面の現実味が増した"
+      },
+      "selection_reason": "コマンドラインが購買導線へ伸び始め、エージェント実行面の現実味が増した",
+      "classification_reason": "コマンドラインが購買導線へ伸び始め、エージェント実行面の現実味が増した",
+      "knowledge_value": "ECやデリバリーの操作主体が人間のアプリ操作からAIエージェントへ移る流れを示している。今後は注文体験そのものより、どのAPIや基盤がエージェントに採用されるかが競争力になる。",
+      "content_status": "content_ok",
+      "content_chars": 2389,
+      "source_access": "free"
+    },
+    {
+      "number": 4,
+      "title": "米国でヒートポンプがなお好調な理由",
+      "source": "MIT Technology Review",
+      "description": "",
+      "url": "https://www.technologyreview.com/2026/07/16/1140505/heat-pump-sales-us/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-17",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 4,
+        "title_ja": "米国でヒートポンプがなお好調な理由",
+        "key_points": [
+          "米国のヒートポンプ販売は15年で2倍に増えた",
+          "2026年第1四半期は天然ガス暖房炉を32％上回った",
+          "税額控除終了後も販売が落ちず、EV市場と対照的な動きを見せている"
+        ],
+        "detailed_summary": "米国ではヒートポンプ販売が過去15年で2倍に増え、2026年第1四半期には天然ガス暖房炉を32％上回った。注目点は、2025年末で最大2000ドルの税額控除が終了した後も販売が落ち込んでいないことだ。新EV向け優遇終了後に需要が急減した流れと対照的で、運転コストの低さ、高効率、建物の脱炭素に役立つ点がなお支持されている。業界団体データでも、2026年初の出荷は横ばいから緩やかな増加に転じており、補助金頼みではない需要の強さが示されている。",
+        "why_it_matters": "脱炭素技術の普及が補助金の有無だけで決まらない例として重要だ。住宅設備のように実利が明確な分野では、政策後退があっても市場が自走する可能性を示している。",
+        "headline": "補助金終了後も需要が崩れず、電化投資が政策依存だけではないと分かる"
+      },
+      "selection_reason": "補助金終了後も需要が崩れず、電化投資が政策依存だけではないと分かる",
+      "classification_reason": "補助金終了後も需要が崩れず、電化投資が政策依存だけではないと分かる",
+      "knowledge_value": "脱炭素技術の普及が補助金の有無だけで決まらない例として重要だ。住宅設備のように実利が明確な分野では、政策後退があっても市場が自走する可能性を示している。",
+      "content_status": "content_ok",
+      "content_chars": 5230,
+      "source_access": "unknown"
+    },
+    {
+      "number": 5,
+      "title": "Roblox、モバイルアプリにAIゲーム作成機能を導入",
+      "source": "TechCrunch",
+      "description": "",
+      "url": "https://techcrunch.com/2026/07/16/roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-16",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 5,
+        "title_ja": "Roblox、モバイルアプリにAIゲーム作成機能を導入",
+        "key_points": [
+          "新機能 Build は文章入力からゲームの原型を自動生成する",
+          "7月28日にニュージーランドで公開アルファを開始する",
+          "低品質なAI生成ゲームの増加懸念に対し、継続率重視で露出を制御すると説明した"
+        ],
+        "detailed_summary": "Robloxは、モバイルアプリ上で文章入力からゲームのたたき台を自動生成できる新機能 Build を発表した。森の冒険ゲームのような簡単な指示だけで、仕組み、環境、キャラクター、音まで備えた初期版を作れ、コード経験がなくても編集と共有ができる。公開アルファは2026年7月28日にニュージーランドの9歳以上向けに始まり、16歳以上は全世界公開も可能。AI量産による低品質ゲームの氾濫懸念に対し、Robloxは継続率重視の推薦で露出を抑える方針を示した。",
+        "why_it_matters": "ゲーム制作の参入障壁を大きく下げる一方で、プラットフォーム上の品質管理がこれまで以上に重要になる。AIで作る量の競争から、遊ばれ続ける体験をどう選別するかへ軸が移る。",
+        "headline": "生成AIでUGC制作の裾野が広がり、創作と配信の入口コストがさらに下がる"
+      },
+      "selection_reason": "生成AIでUGC制作の裾野が広がり、創作と配信の入口コストがさらに下がる",
+      "classification_reason": "生成AIでUGC制作の裾野が広がり、創作と配信の入口コストがさらに下がる",
+      "knowledge_value": "ゲーム制作の参入障壁を大きく下げる一方で、プラットフォーム上の品質管理がこれまで以上に重要になる。AIで作る量の競争から、遊ばれ続ける体験をどう選別するかへ軸が移る。",
+      "content_status": "content_ok",
+      "content_chars": 2956,
+      "source_access": "free"
+    },
+    {
+      "number": 6,
+      "title": "OpenAI、ついにハードウェアを投入 ただしCodex向け",
+      "source": "The Verge",
+      "description": "",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/965901/openai-hardware-codex-micro-launch",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-15",
+      "mode": "followup",
+      "summary": {
+        "article_index": 6,
+        "title_ja": "OpenAI、ついにハードウェアを投入 ただしCodex向け",
+        "key_points": [
+          "OpenAIがWork Louderと共同で限定デバイス Codex Micro を発表した",
+          "Codexスレッドの状態監視や承認操作を物理キーで行える",
+          "Jony Iveと進める別の本命ハードウェア計画とは別案件だ"
+        ],
+        "detailed_summary": "OpenAIは、キーボードメーカーWork Louderと組んだ限定ハードウェア Codex Micro を発表した。13個のメカニカルキーにジョイスティック、ダイヤル、タッチセンサーを備え、6つの半透明キーでCodexスレッドの進行状況やエラーを色で監視できる。送信、変更承認、音声入力などの操作も割り当てられ、ChatGPTデスクトップアプリから設定可能。価格は230ドルで、Jony Iveと進める別の本命ハードとは独立した、開発エージェント運用向け周辺機器という位置づけだ。",
+        "why_it_matters": "AIエージェントがソフトウェアだけでなく専用入力デバイスまで持ち始めた点が新しい。開発者向けAIはモデル性能だけでなく、監視や介入のしやすさを含む運用体験で差がつく局面に入っている。",
+        "headline": "Codexを端末化して囲い込む動きで、開発体験の入口争いが一段進んだ"
+      },
+      "selection_reason": "Codexを端末化して囲い込む動きで、開発体験の入口争いが一段進んだ",
+      "classification_reason": "Codexを端末化して囲い込む動きで、開発体験の入口争いが一段進んだ",
+      "knowledge_value": "AIエージェントがソフトウェアだけでなく専用入力デバイスまで持ち始めた点が新しい。開発者向けAIはモデル性能だけでなく、監視や介入のしやすさを含む運用体験で差がつく局面に入っている。",
+      "content_status": "content_ok",
+      "content_chars": 2382,
+      "source_access": "free"
+    },
+    {
+      "number": 7,
+      "title": "労働党、AI革命を新たなデータセンター規則とAI著作権ルールで主導へ",
+      "source": "ABC News",
+      "description": "",
+      "url": "https://www.abc.net.au/news/2026-07-15/labor-to-set-standards-for-ai-data-centres-and-copyright/106918380",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-15",
+      "mode": "followup",
+      "summary": {
+        "article_index": 1,
+        "title_ja": "労働党、AI革命を新たなデータセンター規則とAI著作権ルールで主導へ",
+        "key_points": [
+          "オーストラリア政府は、データセンターに水使用の最小化と電力の自前調達または費用負担を義務づける全国基準を導入する方針を示した。",
+          "アルバニージー首相は、豪州の書籍・音楽・美術・報道を権利者の管理なしにAI学習へ使わせない姿勢を明確にした。",
+          "来月の国家内閣で州・準州との合意を目指し、関連法案は来年初めに議会提出される見通しだ。"
+        ],
+        "detailed_summary": "オーストラリアのアルバニージー首相は、AIの社会的受容を今のうちに形づくる必要があるとして、データセンターと著作権の新ルールを打ち出した。データセンターには水使用の抑制と、自前での電力確保または費用負担を義務づけ、AI監督を全国ルールへ集約する構えだ。同時に、豪州の作家や音楽家、報道機関の作品は、権利者が条件と価格を決められる形でのみAI企業が利用できるべきだと強調した。制度の詳細は今後の協議に委ねられるが、労働者もAI導入の議論から排除すべきでないとの考えも示している。",
+        "why_it_matters": "AI投資の誘致とクリエイター保護を両立させる規制モデルを、豪州が早い段階で示そうとしている。データセンターの資源負荷まで含めて管理する点は、各国のAI政策にも波及しうる。",
+        "headline": "AI導入だけでなく電力と著作権まで束ね、周辺制約が政策化し始めた"
+      },
+      "selection_reason": "AI導入だけでなく電力と著作権まで束ね、周辺制約が政策化し始めた",
+      "classification_reason": "AI導入だけでなく電力と著作権まで束ね、周辺制約が政策化し始めた",
+      "knowledge_value": "AI投資の誘致とクリエイター保護を両立させる規制モデルを、豪州が早い段階で示そうとしている。データセンターの資源負荷まで含めて管理する点は、各国のAI政策にも波及しうる。",
+      "content_status": "content_ok",
+      "content_chars": 11716,
+      "source_access": "unknown"
+    },
+    {
+      "number": 8,
+      "title": "モジュラー型プロンプト変換でスケーラブルなAIエージェントを構築する",
+      "source": "Google Developers Blog",
+      "description": "",
+      "url": "https://developers.googleblog.com/building-scalable-ai-agents-with-modular-prompt-transpilation/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-16",
+      "mode": "followup",
+      "summary": {
+        "article_index": 2,
+        "title_ja": "モジュラー型プロンプト変換でスケーラブルなAIエージェントを構築する",
+        "key_points": [
+          "単一の巨大なシステムプロンプトは、運用規模が大きくなると保守性と信頼性を損なう。",
+          "主な失敗要因として、変更影響範囲の不透明化、コピペによるルールの分岐、実行時まで見つからないテンプレート不備が挙げられている。",
+          "対策として、プロンプトを静的テキストではなくビルド成果物として扱い、モジュール化・静的検証・CI/CD統合を進めるべきだと提案している。"
+        ],
+        "detailed_summary": "この記事は、AIエージェントを本番運用へ広げると、単一ファイルに安全方針や業務ルール、出力形式、エスカレーション条件を詰め込むやり方が破綻すると指摘する。影響範囲が読みにくく、小さな文言変更が別の挙動を壊しやすいうえ、共通ルールのコピペ増殖や、テンプレート不備の実行時発覚も起きやすい。そこで著者は、プロンプトをソフトウェアと同じくビルド対象として扱い、役割ごとのスキルファイルに分割し、決定的なビルドや静的検証、CI/CDに組み込む設計へ移るべきだと論じている。",
+        "why_it_matters": "AIエージェントの品質問題はモデル性能だけでなく、プロンプト運用の設計不備からも生まれる。開発手法をソフトウェア工学へ寄せる流れは、企業のエージェント導入を左右する。",
+        "headline": "長い指示文より分解可能な仕様へ寄せる流れが、運用設計の差分になる"
+      },
+      "selection_reason": "長い指示文より分解可能な仕様へ寄せる流れが、運用設計の差分になる",
+      "classification_reason": "長い指示文より分解可能な仕様へ寄せる流れが、運用設計の差分になる",
+      "knowledge_value": "AIエージェントの品質問題はモデル性能だけでなく、プロンプト運用の設計不備からも生まれる。開発手法をソフトウェア工学へ寄せる流れは、企業のエージェント導入を左右する。",
+      "content_status": "content_ok",
+      "content_chars": 7132,
+      "source_access": "free"
+    },
+    {
+      "number": 9,
+      "title": "欧州委、デジタル市場法の下でGoogleにAndroidのAI相互運用性と検索データ共有の指針を提示",
+      "source": "European Commission",
+      "description": "",
+      "url": "https://digital-strategy.ec.europa.eu/en/news/commission-provides-guidance-google-ai-interoperability-android-and-sharing-google-search-data",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-16",
+      "mode": "followup",
+      "summary": {
+        "article_index": 3,
+        "title_ja": "欧州委、デジタル市場法の下でGoogleにAndroidのAI相互運用性と検索データ共有の指針を提示",
+        "key_points": [
+          "欧州委員会はGoogleに対し、デジタル市場法に基づく拘束力のある仕様措置を2件発表した。",
+          "1つ目は、GeminiなどGoogle製AIと競合するAIサービスがAndroid端末の機能へ同等にアクセスできるようにするものだ。",
+          "2つ目は、Google検索だけが大規模に集められる検索データを第三者検索エンジンにも開放し、公平な競争環境を整える狙いがある。"
+        ],
+        "detailed_summary": "欧州委員会は、デジタル市場法に基づきGoogleへ2種類の拘束力ある仕様措置を示した。ひとつは、Android端末上で競合するAIアシスタントがGoogleのAIサービスと同じ条件で端末機能へアクセスできるようにし、Gemini優遇を防ぐこと。もうひとつは、Google検索が独占的に蓄積してきた大規模検索データを第三者検索エンジンにも提供し、競争条件を是正することだ。委員会は、利用者のプライバシーを守りつつ、EU域内でより多様な検索・AIサービスの選択肢を広げたい考えを示している。",
+        "why_it_matters": "AIと検索の基盤市場でGoogleの優位を直接是正しようとする、かなり踏み込んだ規制措置だ。EU発の競争ルールが、モバイルAIと検索市場の構造そのものを変える可能性がある。",
+        "headline": "AI相互運用と検索データ開放が進めば、配布面の優位が削られうる"
+      },
+      "selection_reason": "AI相互運用と検索データ開放が進めば、配布面の優位が削られうる",
+      "classification_reason": "AI相互運用と検索データ開放が進めば、配布面の優位が削られうる",
+      "knowledge_value": "AIと検索の基盤市場でGoogleの優位を直接是正しようとする、かなり踏み込んだ規制措置だ。EU発の競争ルールが、モバイルAIと検索市場の構造そのものを変える可能性がある。",
+      "content_status": "content_ok",
+      "content_chars": 1496,
+      "source_access": "unknown"
+    },
+    {
+      "number": 10,
+      "title": "推論にはメモリが必要だ: コンテキストがAIインフラになりつつある理由",
+      "source": "TechRadar",
+      "description": "",
+      "url": "https://www.techradar.com/pro/inference-needs-memory-how-context-is-becoming-ai-infrastructure",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-14",
+      "mode": "deep_dive",
+      "summary": {
+        "article_index": 4,
+        "title_ja": "推論にはメモリが必要だ: コンテキストがAIインフラになりつつある理由",
+        "key_points": [
+          "企業向けAIでの制約はモデル品質から、長い文脈や推論履歴を支えるコンテキスト管理へ移りつつある。",
+          "KVキャッシュは遅延、スループット、電力消費、推論コストを左右する重要なAIネイティブデータだと位置づけられている。",
+          "GPU、CPU、ローカルNVMe、共有ストレージのどれも単独では不十分で、推論時コンテキストを使い捨てではなくシステムメモリとして扱う新しい設計が必要だと論じている。"
+        ],
+        "detailed_summary": "記事は、企業向けAIで本当の制約になり始めているのはモデル精度ではなく、推論時に蓄積される文脈の扱いだと述べる。長い対話や複雑なワークフローでは大量のトークンとKVキャッシュが発生するが、多くの構成ではそれがGPUメモリに一時的に置かれ、資源逼迫とともに捨てられてしまう。その結果、再計算による遅延増大、GPU利用効率の低下、電力消費やコストの上昇が起きる。著者はKVキャッシュを単なるキャッシュではなくAIネイティブデータと捉え、永続性と高速性を両立する新たなメモリ階層が企業AIには必要だと主張している。",
+        "why_it_matters": "AIの性能競争はモデル選びだけではなく、文脈をどう保存し再利用するかというインフラ設計へ移っている。ここを解けない企業は、推論コストと応答性能の両面で不利になる。",
+        "headline": "長文脈を推論資源ではなく記憶インフラとして捉え直し、設計観を深める"
+      },
+      "selection_reason": "長文脈を推論資源ではなく記憶インフラとして捉え直し、設計観を深める",
+      "classification_reason": "長文脈を推論資源ではなく記憶インフラとして捉え直し、設計観を深める",
+      "knowledge_value": "AIの性能競争はモデル選びだけではなく、文脈をどう保存し再利用するかというインフラ設計へ移っている。ここを解けない企業は、推論コストと応答性能の両面で不利になる。",
+      "content_status": "content_ok",
+      "content_chars": 6115,
+      "source_access": "unknown"
+    },
+    {
+      "number": 11,
+      "title": "Adult/18+クリエイター向けPatreon機能と製品へのアクセス",
+      "source": "Patreon Help Center",
+      "description": "",
+      "url": "https://support.patreon.com/hc/en-us/articles/31714988741645-Access-to-Patreon-s-features-and-products-for-Adult-18-creators",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-13",
+      "mode": "adjacent",
+      "summary": {
+        "article_index": 5,
+        "title_ja": "Adult/18+クリエイター向けPatreon機能と製品へのアクセス",
+        "key_points": [
+          "Patreonは、Adult/18+作品を扱うクリエイターにも使える機能を段階的に拡大している。",
+          "対象クリエイターは、Patreon上で活動し機能を使うために本人確認と年齢確認を完了している必要がある。",
+          "テキスト、ニュースレター、画像、外部動画リンク、支払い、コミュニティチャット、割引、ギフト、デジタル商品の単発販売などは利用できる一方、Patreon Videoは利用できない。"
+        ],
+        "detailed_summary": "Patreonは、Adult/18+分野のクリエイターにも安全に配慮しながら、利用可能な製品と機能を広げている。利用には本人確認と年齢確認が必須で、テキスト投稿、ニュースレター、画像投稿、添付ファイル、無料トライアル、WebとAndroidでの決済、コミュニティチャット、検索表示、割引、ギフト、デジタル商品の単発販売などが認められる。一方で、動画はPatreon Videoを使えず、YouTubeやVimeoなど外部サービスへのリンクで対応する必要がある。機能開放は法規制、決済、プラットフォーム方針との整合を見ながら段階的に進めるとしている。",
+        "why_it_matters": "成人向け創作でも収益化とファン接点を広げられる範囲が明確になり、事業設計がしやすくなる。あわせて、プラットフォームが法務と決済制約の中でどこまで開放できるかの現実も見えてくる。",
+        "headline": "作品表現より先に収益化と年齢確認が制約になる現実を具体化する"
+      },
+      "selection_reason": "作品表現より先に収益化と年齢確認が制約になる現実を具体化する",
+      "classification_reason": "作品表現より先に収益化と年齢確認が制約になる現実を具体化する",
+      "knowledge_value": "成人向け創作でも収益化とファン接点を広げられる範囲が明確になり、事業設計がしやすくなる。あわせて、プラットフォームが法務と決済制約の中でどこまで開放できるかの現実も見えてくる。",
+      "content_status": "content_ok",
+      "content_chars": 2767,
+      "source_access": "unknown",
+      "adjacent_field": "クリエイター向け年齢認証・決済コンプライアンス",
+      "adjacent_reasoning": "クリエイター経済や個人発信を本気で見るなら、表の表現論より先に誰が決済を通し、誰が年齢確認を担い、どこで止められるかを押さえる必要があります。これは作品の自由度、収益化の継続性、プラットフォーム依存の強さを左右する隠れた制約だからです。"
+    }
+  ],
+  "status": "complete",
+  "failed_modes": []
+}
