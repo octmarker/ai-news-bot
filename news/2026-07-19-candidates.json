@@ -1,0 +1,507 @@
+{
+  "date": "2026-07-19",
+  "generated_at": "2026-07-19T09:00:03.514296+09:00",
+  "run_id": "20260719T090003+0900",
+  "mode_collection_counts": {
+    "breaking": 36,
+    "followup": 12,
+    "deep_dive": 1,
+    "adjacent": 0
+  },
+  "mode_errors": {
+    "adjacent": "no_candidates"
+  },
+  "mode": "multimode",
+  "articles": [
+    {
+      "number": 1,
+      "title": "Kimi: 脅威か、それとも厄介者か",
+      "source": "TechCrunch",
+      "description": "",
+      "url": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-18",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 1,
+        "title_ja": "Kimi: 脅威か、それとも厄介者か",
+        "key_points": [
+          "Moonshot AIが新しいオープンソースモデルKimi K3を公開し、外部評価でも最先端モデル級の競争力が示された",
+          "発表は中国のAI強化姿勢と重なり、Nvidiaなど半導体株が売られて米市場も動揺した",
+          "米国では対中競争、モデル蒸留、規制強化、オープンモデルの公共財化を巡る論争が再燃した"
+        ],
+        "detailed_summary": "中国のMoonshot AIが新しいオープンソースモデルKimi K3を公開し、自社評価だけでなくArena.aiやVals AIの分析でも先端級の性能が示された。発表は上海での世界AI大会と習近平主席の演説に重なり、対中AI競争への警戒感からNvidiaなど半導体株が売られた。米国ではDeepSeek登場時と似た議論が再燃し、規制が競争力を削ぐという批判、米中間の蒸留論争、オープンモデルが国家提供の公共インフラ化することへの警戒まで広がっている。",
+        "why_it_matters": "AI競争の焦点がモデル性能だけでなく、規制、公開戦略、安全保障に移っていることを示す。中国発の高性能オープンモデルは、米国の政策判断と資本市場の両方に直接影響する。"
+      },
+      "selection_reason": "",
+      "classification_reason": "",
+      "knowledge_value": "AI競争の焦点がモデル性能だけでなく、規制、公開戦略、安全保障に移っていることを示す。中国発の高性能オープンモデルは、米国の政策判断と資本市場の両方に直接影響する。",
+      "content_status": "content_ok",
+      "content_chars": 3944,
+      "source_access": "free"
+    },
+    {
+      "number": 2,
+      "title": "600マイルのロードトリップとデータが示す、EV充電はもうひどくない",
+      "source": "TechCrunch",
+      "description": "",
+      "url": "https://techcrunch.com/2026/07/18/a-600-mile-road-trip-and-data-proves-ev-charging-doesnt-suck-anymore/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-18",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 2,
+        "title_ja": "600マイルのロードトリップとデータが示す、EV充電はもうひどくない",
+        "key_points": [
+          "600マイル超の移動で、非テスラ系EVでも大きな問題なく急速充電できた",
+          "ABRPで充電計画を立て、Rivianの充電器ではカード決済と高出力充電がスムーズに機能した",
+          "唯一の問題はモントリオール近郊の充電器でカード読み取りが使えなかった点だけだった"
+        ],
+        "detailed_summary": "筆者は約600マイルのモントリオール旅行で、航続距離が短いAudi e-tronを使いながらも、急速充電の利便性が数年前より大幅に改善したと報告する。ABRPで最適な充電計画を立て、Rivianの充電拠点では待ち時間なし、食事や買い物の導線もよく、クレジットカード決済で高出力充電ができた。例外はカナダの充電器でカードリーダーが動かなかった場面のみ。充電は休憩や食事と自然に組み合わせられ、国境待ちの方が長かったという実感が、インフラ改善を端的に示している。",
+        "why_it_matters": "EV購入の最大の不安材料だった充電体験が、少なくとも主要ルートでは現実的な水準まで改善してきた。普及の壁がインフラ不足から価格や車種選択へ移りつつある。"
+      },
+      "selection_reason": "",
+      "classification_reason": "",
+      "knowledge_value": "EV購入の最大の不安材料だった充電体験が、少なくとも主要ルートでは現実的な水準まで改善してきた。普及の壁がインフラ不足から価格や車種選択へ移りつつある。",
+      "content_status": "content_ok",
+      "content_chars": 5529,
+      "source_access": "free"
+    },
+    {
+      "number": 3,
+      "title": "今年米国で販売終了または打ち切られたEV一覧",
+      "source": "TechCrunch",
+      "description": "",
+      "url": "https://techcrunch.com/2026/07/18/all-the-evs-that-were-discontinued-or-killed-off-in-the-u-s-this-year/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-18",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 3,
+        "title_ja": "今年米国で販売終了または打ち切られたEV一覧",
+        "key_points": [
+          "Honda Prologueの終了で、ホンダは米国のEVラインアップを失った",
+          "販売終了の背景には7500ドル税額控除の終了、関税、コスト、需要変化、企業戦略の見直しがある",
+          "Afeelaの中止やホンダ系計画の撤回は、米国EV市場での後退を象徴している"
+        ],
+        "detailed_summary": "この記事は、2026年に米国市場から姿を消した、あるいは撤退が決まったEVを整理し、その背景を解説している。象徴的なのがHonda Prologueの終了で、これによりホンダは米国のEV販売車種を失った。記事は、税額控除の終了が販売に与えた打撃に加え、関税、コスト、消費者嗜好の変化、企業の優先順位見直しが撤退を後押ししたとみる。一方でRivian R2のような新規参入や販売回復の兆しもあり、市場全体が消滅するのではなく、採算の取れる領域へ再編されている局面だと示している。",
+        "why_it_matters": "米国のEV市場は成長物語から選別の段階に入った。どのメーカーが残り、どの価格帯や政策環境で普及が進むかを見極める材料になる。"
+      },
+      "selection_reason": "",
+      "classification_reason": "",
+      "knowledge_value": "米国のEV市場は成長物語から選別の段階に入った。どのメーカーが残り、どの価格帯や政策環境で普及が進むかを見極める材料になる。",
+      "content_status": "content_ok",
+      "content_chars": 7742,
+      "source_access": "free"
+    },
+    {
+      "number": 4,
+      "title": "Waymo、サンフランシスコのサービスは1時間の停止後に再開と発表",
+      "source": "TechCrunch",
+      "description": "",
+      "url": "https://techcrunch.com/2026/07/18/waymo-appears-to-pause-san-francisco-service-amidst-power-outage/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-18",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 4,
+        "title_ja": "Waymo、サンフランシスコのサービスは1時間の停止後に再開と発表",
+        "key_points": [
+          "サンフランシスコの停電を受け、Waymoは約1時間ロボタクシーサービスを一時停止した",
+          "停止中は一部利用者に運休と高速道路ルート停止が通知された",
+          "過去の停電時トラブルもあり、市長は自動運転車の非常時運用に関する規制強化を求めている"
+        ],
+        "detailed_summary": "Waymoは、サンフランシスコで約7000件に影響したとみられる停電を受け、現地の状況確認と当局との連携のため、ロボタクシーサービスを約1時間停止した。その後、通常運用を再開したが、利用者には一時停止と高速道路ルートの利用不可が通知されていた。Waymoは過去にも停電や大規模イベント時に車両停止や交通混乱を起こしており、今回の対応は安全側に振れた判断といえる。こうした事例を受け、サンフランシスコ市長は重大インシデント時の自動運転車運用をより厳しく規制すべきだと訴えている。",
+        "why_it_matters": "自動運転の実用化では、平常時の利便性より非常時の挙動が信頼を左右する。停電のような都市インフラ障害にどう耐えるかは、商用展開の核心だ。"
+      },
+      "selection_reason": "",
+      "classification_reason": "",
+      "knowledge_value": "自動運転の実用化では、平常時の利便性より非常時の挙動が信頼を左右する。停電のような都市インフラ障害にどう耐えるかは、商用展開の核心だ。",
+      "content_status": "content_ok",
+      "content_chars": 1438,
+      "source_access": "free"
+    },
+    {
+      "number": 5,
+      "title": "ニール・ライマーはAIマネーが再び外へ流れ出すと考えている",
+      "source": "TechCrunch",
+      "description": "",
+      "url": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-17",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 5,
+        "title_ja": "ニール・ライマーはAIマネーが再び外へ流れ出すと考えている",
+        "key_points": [
+          "Index Ventures共同創業者のNeil Rimerは、AIで集中した富はいずれ再分配されるべきだと語った",
+          "近年のIndexはFigmaのIPOやWiz買収で大きな成果を上げており、その発言は業界内でも重みがある",
+          "一方でGiving Pledgeの勢いは鈍り、米国では寄付総額が増えても寄付参加世帯は減少している"
+        ],
+        "detailed_summary": "Index Ventures共同創業者のNeil Rimerは、AIによって急速に蓄積される富について、いずれ何らかの再分配が起きると述べ、できれば自発的な形が望ましいと語った。発言者は近年の大型IPOや買収で巨額リターンを得た有力VCであり、単なるポピュリズムでは片付けにくい。記事はその発言を起点に、Giving Pledgeの失速や米国で寄付する世帯の減少を紹介し、テック富豪の慈善が流行遅れになりつつある現状を重ねる。AIで生まれる巨富が社会へ戻る経路が細っていることへの違和感が主題になっている。",
+        "why_it_matters": "AIブームが生む富の偏在は、技術論ではなく政治と社会の論点になり始めた。投資家や創業者が利益配分の正当性をどう示すかは、業界の持続性に直結する。"
+      },
+      "selection_reason": "",
+      "classification_reason": "",
+      "knowledge_value": "AIブームが生む富の偏在は、技術論ではなく政治と社会の論点になり始めた。投資家や創業者が利益配分の正当性をどう示すかは、業界の持続性に直結する。",
+      "content_status": "content_ok",
+      "content_chars": 8642,
+      "source_access": "free"
+    },
+    {
+      "number": 6,
+      "title": "同期機能付きChatGPTアプリ",
+      "source": "OpenAI Help Center",
+      "description": "",
+      "url": "https://help.openai.com/en/articles/10847137-chatgpt-synced-connectors-faq",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-18",
+      "mode": "followup",
+      "summary": {
+        "article_index": 6,
+        "title_ja": "同期機能付きChatGPTアプリ",
+        "key_points": [
+          "2026年7月9日時点でアプリディレクトリはプラグインディレクトリへ移行し、プラグインが主要な導線になった",
+          "同期対応アプリは社内情報をChatGPTの回答に取り込み、EnterpriseとEduのEKM有効ワークスペースで利用できる",
+          "ユーザーは自動利用、@メンション、ツールメニューで活用でき、不要なら内部検索をしないよう指示できる"
+        ],
+        "detailed_summary": "OpenAIは2026年7月9日にアプリディレクトリをプラグインディレクトリへ移行し、ChatGPTとCodexでのワークフロー発見をプラグイン中心に再編した。同期機能付きアプリは、接続先サービスの関連情報を回答へ自動反映し、ツール間の往復を減らす仕組みで、利用対象はEnterpriseおよびEduのうちEKMを有効化した環境に限られる。利用者は自動検索のほか、@メンションやツールメニューから明示的に呼び出せる。管理者はプラグインと基盤アプリの権限を設定でき、将来はMCPベースの操作機能へ拡張される可能性も示されている。",
+        "why_it_matters": "ChatGPTが単なる対話UIから、社内データと業務操作をつなぐハブへ変わっている。導入範囲、管理権限、検索の自動化をどう設計するかが企業活用の成否を左右する。"
+      },
+      "selection_reason": "",
+      "classification_reason": "",
+      "knowledge_value": "ChatGPTが単なる対話UIから、社内データと業務操作をつなぐハブへ変わっている。導入範囲、管理権限、検索の自動化をどう設計するかが企業活用の成否を左右する。",
+      "content_status": "content_ok",
+      "content_chars": 9203,
+      "source_access": "free"
+    },
+    {
+      "number": 7,
+      "title": "ChatGPT Businessとは何か",
+      "source": "OpenAI Help Center",
+      "description": "",
+      "url": "https://help.openai.com/en/articles/8792828",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-17",
+      "mode": "followup",
+      "summary": {
+        "article_index": 1,
+        "title_ja": "ChatGPT Businessとは何か",
+        "key_points": [
+          "ChatGPT Businessは、チーム向けの共有ワークスペースを提供するセルフサービス型プラン",
+          "標準ChatGPT席は固定料金でChatGPTとCodexの両方にアクセスできる",
+          "Codex専用席は従量課金だが、2026年6月24日以降は新規Business環境では追加不可"
+        ],
+        "detailed_summary": "OpenAIはChatGPT Businessを、組織向けの安全な共同作業環境として整理した。中央集約の請求、管理者によるユーザーと権限管理、利用可視化、支出制御が中核で、座席は標準ChatGPT席とCodex席の2種類に分かれる。標準席は月額固定でChatGPTとCodexを含み、原則2席以上が必要。Codex専用席は従量課金だが、2026年6月24日以降は新規Businessや未導入ワークスペースでは追加できず、既存導入組織だけが継続運用できる。",
+        "why_it_matters": "Business導入を検討する企業にとって、機能範囲と課金構造を一度に把握できる基本資料だ。特にCodex席の新規停止は、今後の開発AI導入計画に直接影響する。"
+      },
+      "selection_reason": "",
+      "classification_reason": "",
+      "knowledge_value": "Business導入を検討する企業にとって、機能範囲と課金構造を一度に把握できる基本資料だ。特にCodex席の新規停止は、今後の開発AI導入計画に直接影響する。",
+      "content_status": "content_ok",
+      "content_chars": 6455,
+      "source_access": "free"
+    },
+    {
+      "number": 8,
+      "title": "ChatGPT Businessでのクレジット管理と支出制御",
+      "source": "OpenAI Help Center",
+      "description": "",
+      "url": "https://help.openai.com/en/articles/20001155",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-19",
+      "mode": "followup",
+      "summary": {
+        "article_index": 2,
+        "title_ja": "ChatGPT Businessでのクレジット管理と支出制御",
+        "key_points": [
+          "Codex席や追加利用にはワークスペースのクレジット残高が必要",
+          "Billing画面からクレジット追加、自動補充、月次上限設定ができる",
+          "席種別やユーザー別に利用上限を設定できるが、プライバシー管理とは別枠"
+        ],
+        "detailed_summary": "この記事は、ChatGPT BusinessでCodex利用や追加従量課金を回す際のクレジット管理方法を説明する。管理権限を持つユーザーはBillingからクレジットを購入でき、有効期限は12か月。残高が閾値を下回ったときに自動でチャージするAutomatic reloadや、月ごとの補充上限も設定可能だ。さらに、席種別と個人別の月間利用上限を設けられるため、開発用途の継続性を保ちながら予算超過を防げる。クレジット不足時は対象機能が使えなくなる点も強調されている。",
+        "why_it_matters": "AI利用が従量課金へ広がるほど、予算統制と運用停止の回避が重要になる。管理機能の理解は、企業が安心してCodexを本番運用する前提条件になる。"
+      },
+      "selection_reason": "",
+      "classification_reason": "",
+      "knowledge_value": "AI利用が従量課金へ広がるほど、予算統制と運用停止の回避が重要になる。管理機能の理解は、企業が安心してCodexを本番運用する前提条件になる。",
+      "content_status": "content_ok",
+      "content_chars": 3010,
+      "source_access": "free"
+    },
+    {
+      "number": 9,
+      "title": "ChatGPT Businessの請求とシート管理",
+      "source": "OpenAI Help Center",
+      "description": "",
+      "url": "https://help.openai.com/en/articles/8792536",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-19",
+      "mode": "followup",
+      "summary": {
+        "article_index": 3,
+        "title_ja": "ChatGPT Businessの請求とシート管理",
+        "key_points": [
+          "Businessの課金は標準ChatGPT席とCodex席の2種類で構成される",
+          "標準席は2席以上必須で、2026年4月2日から月額価格が5ドル引き下げられた",
+          "Codex席は従量課金で、2026年6月24日以前に導入済みの環境のみ継続追加可能"
+        ],
+        "detailed_summary": "この記事は、ChatGPT Businessの請求体系と席管理をまとめた運用ガイドだ。標準ChatGPT席は固定料金で、月額25ドルまたは年額換算20ドル、最小2席から利用できる。2026年4月2日には価格が5ドル引き下げられ、既存契約者には次回請求や更新時に調整クレジットが反映される。Codex席は固定料金なしの従量課金だが、2026年6月24日以前に導入していたBusinessのみ継続追加できる。請求や支払い方法の管理はWorkspace settingsのBillingに集約される。",
+        "why_it_matters": "価格改定とCodex席の提供条件変更が同時に絡むため、企業の契約判断や座席設計に直結する。既存ユーザーと新規ユーザーで選べる構成が異なる点も重要だ。"
+      },
+      "selection_reason": "",
+      "classification_reason": "",
+      "knowledge_value": "価格改定とCodex席の提供条件変更が同時に絡むため、企業の契約判断や座席設計に直結する。既存ユーザーと新規ユーザーで選べる構成が異なる点も重要だ。",
+      "content_status": "content_ok",
+      "content_chars": 16524,
+      "source_access": "free"
+    },
+    {
+      "number": 10,
+      "title": "Zepがエージェントメモリで来歴を追跡する方法",
+      "source": "Zep Blog",
+      "description": "",
+      "url": "https://blog.getzep.com/how-zep-tracks-provenance-in-agent-memory/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-14",
+      "mode": "deep_dive",
+      "summary": {
+        "article_index": 4,
+        "title_ja": "Zepがエージェントメモリで来歴を追跡する方法",
+        "key_points": [
+          "LLMが抽出した記憶は原文と一致しないため、単純なsource_idでは出所管理が破綻する",
+          "Zepは生データをepisodeとして保存し、派生事実や関係をグラフで結び付ける",
+          "この来歴管理はデバッグ、アクセス制御、削除伝播、コンプライアンスに効く"
+        ],
+        "detailed_summary": "Zepは、エージェントメモリで生成された事実の出所を追跡するため、来歴をグラフ構造として保持する仕組みを説明した。会話や文書、業務データなどの生ソースはepisodeとして保存し、そこから抽出されたノードや関係に生成元episodeを結び付ける。統合、再確認、無効化も時刻付きで記録されるため、後から事実の根拠をたどれる。これにより、検索の信頼性向上だけでなく、属性ベースのアクセス制御や削除要求への伝播対応まで同じ枠組みで扱える。",
+        "why_it_matters": "エージェントが業務判断に使われるほど、記憶の出所を説明できるかは安全性そのものになる。とくに医療や法務のような高リスク領域では、来歴管理なしの記憶は実運用に耐えにくい。"
+      },
+      "selection_reason": "",
+      "classification_reason": "",
+      "knowledge_value": "エージェントが業務判断に使われるほど、記憶の出所を説明できるかは安全性そのものになる。とくに医療や法務のような高リスク領域では、来歴管理なしの記憶は実運用に耐えにくい。",
+      "content_status": "content_ok",
+      "content_chars": 12231,
+      "source_access": "unknown"
+    },
+    {
+      "number": 11,
+      "title": "プラグインとアプリ向けの管理者制御、セキュリティ、コンプライアンス",
+      "source": "OpenAI Help Center",
+      "description": "",
+      "url": "https://help.openai.com/en/articles/11509118",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-19",
+      "mode": "followup",
+      "summary": {
+        "article_index": 5,
+        "title_ja": "プラグインとアプリ向けの管理者制御、セキュリティ、コンプライアンス",
+        "key_points": [
+          "2026年7月9日にアプリディレクトリはPlugin directoryへ移行した",
+          "プラグインはskills、apps、app templatesを含み、基盤アプリ権限とは別管理になる",
+          "EnterpriseとEduは既定で無効、Businessは既定で有効で、役割ごとのアクセス制御も可能"
+        ],
+        "detailed_summary": "OpenAIは2026年7月9日、アプリディレクトリをPlugin directoryへ移行し、プラグインをChatGPTとCodexのワークフロー発見の主導線に据えた。プラグインはskills、apps、app templatesを束ねる一方、外部接続を担う基盤アプリの有効化や権限は別で管理される。EnterpriseとEduでは既定で無効、Businessでは既定で有効という差があり、管理者はWorkspace settingsから導入可否、役割別の利用範囲、基盤アプリのアクセス権限を個別に制御できる。",
+        "why_it_matters": "プラグイン普及が進むほど、機能の有効化と外部データ接続の権限を分けて考える必要がある。企業導入では利便性より先に、誰が何に接続できるかを設計することが重要になる。"
+      },
+      "selection_reason": "",
+      "classification_reason": "",
+      "knowledge_value": "プラグイン普及が進むほど、機能の有効化と外部データ接続の権限を分けて考える必要がある。企業導入では利便性より先に、誰が何に接続できるかを設計することが重要になる。",
+      "content_status": "content_ok",
+      "content_chars": 13831,
+      "source_access": "free"
+    },
+    {
+      "number": 12,
+      "title": "ランタイムログにキャッシュ理由が表示されるように",
+      "source": "Vercel",
+      "description": "",
+      "url": "https://vercel.com/changelog/runtime-logs-now-show-cache-reasons",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-17",
+      "mode": "followup",
+      "summary": {
+        "article_index": 6,
+        "title_ja": "ランタイムログにキャッシュ理由が表示されるように",
+        "key_points": [
+          "Runtime logsにCache Reasonが追加され、キャッシュ非ヒットの理由を確認できる",
+          "ISRやPartial Prerendering、Cache-Control付き関数応答などのキャッシュ可能レスポンスが対象",
+          "CLIやVercelプラグイン経由でも取得でき、ヒット率改善の分析に使える"
+        ],
+        "detailed_summary": "VercelはRuntime logsにCache Reasonを追加し、なぜリクエストが新鮮なキャッシュヒットにならなかったのかを可視化できるようにした。時間ベースやタグベースの再検証などの理由が、ISR、Partial Prerendering、stale-while-revalidateを含むCache-Control付きレスポンスで確認できる。Logs画面だけでなく、vercel logsやvercel metrics、Vercelプラグインのcdn-caching skillからも取得可能で、どの要因がミスを生んでいるかを定量的に追える。",
+        "why_it_matters": "キャッシュの挙動は性能とコストに直結するが、原因が見えないと改善しづらい。理由がログに出ることで、再検証設定の見直しやヒット率最適化がかなり進めやすくなる。"
+      },
+      "selection_reason": "",
+      "classification_reason": "",
+      "knowledge_value": "キャッシュの挙動は性能とコストに直結するが、原因が見えないと改善しづらい。理由がログに出ることで、再検証設定の見直しやヒット率最適化がかなり進めやすくなる。",
+      "content_status": "content_ok",
+      "content_chars": 1310,
+      "source_access": "unknown"
+    },
+    {
+      "number": 13,
+      "title": "不変な静的アセットのCDNキャッシュとデプロイの最適化",
+      "source": "Vercel",
+      "description": "",
+      "url": "https://vercel.com/changelog/optimized-cdn-caching-and-deploying-of-immutable-static-assets",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-17",
+      "mode": "followup",
+      "summary": {
+        "article_index": 1,
+        "title_ja": "不変な静的アセットのCDNキャッシュとデプロイの最適化",
+        "key_points": [
+          "Vercelがコンテンツアドレス型の静的ファイルをデプロイ間で再利用する仕組みを導入",
+          "CDNリクエスト17％減、転送量24％減、デプロイ速度最大30％改善、TTFBは世界平均で60％超改善",
+          "Next.js 16.3 preview以降では標準有効で、設定不要のまま対応フレームワークへ順次拡大"
+        ],
+        "detailed_summary": "Vercelは、ハッシュ付きで生成される不変な静的アセットをデプロイごとに再アップロードせず、複数のデプロイ間で再利用する仕組みを導入した。フレームワーク定義の基盤を使ってハッシュ衝突やファイル寿命、ルーティングまで吸収するため、利用側の設定は不要。Next.jsのようにSkew Protectionを使う案件ではCDNリクエストが17％減り、転送量は24％減少。平均でデプロイは最大30％速くなり、頻繁に更新するプロジェクトではTTFBも大きく改善する。",
+        "why_it_matters": "デプロイ回数が多いプロジェクトほど、配信コストと体感速度の両方に効く。開発者は設定を増やさずに配信基盤の改善を受けられる。"
+      },
+      "selection_reason": "",
+      "classification_reason": "",
+      "knowledge_value": "デプロイ回数が多いプロジェクトほど、配信コストと体感速度の両方に効く。開発者は設定を増やさずに配信基盤の改善を受けられる。",
+      "content_status": "content_ok",
+      "content_chars": 1289,
+      "source_access": "unknown"
+    },
+    {
+      "number": 14,
+      "title": "Anthropic、ClaudeのFable 5をMaxとTeam Premiumで利用枠の50％まで標準提供へ",
+      "source": "DAWN.COM",
+      "description": "",
+      "url": "https://www.dawn.com/news/2016483",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-18",
+      "mode": "followup",
+      "summary": {
+        "article_index": 2,
+        "title_ja": "Anthropic、ClaudeのFable 5をMaxとTeam Premiumで利用枠の50％まで標準提供へ",
+        "key_points": [
+          "Anthropicは7月20日からFable 5をMaxとTeam Premiumに週次利用枠の50％まで標準搭載する",
+          "ProとTeam Standardは引き続き利用クレジット経由での提供だが、一時金として100ドル分を付与",
+          "需要予測と計算資源の制約から段階的に提供してきた経緯を説明し、今後は対象プランを明確化"
+        ],
+        "detailed_summary": "Anthropicは7月20日から、最上位モデルFable 5をMaxプランとTeam Premiumプランで週次利用枠の50％まで標準利用できるようにする。Fable 5は7月1日から7日にも一時的に同条件で提供され、その後は利用クレジット方式へ切り替わっていた。今回の見直しで、Fableを集中的に使う上位プランの条件を固定し、需要の読み違いによる混乱を抑える狙いがある。ProとTeam Standardは引き続きクレジット方式だが、補填として100ドル分のクレジットを一度だけ配る。",
+        "why_it_matters": "高性能モデルの提供条件が安定すると、業務利用の見積もりや運用設計がしやすくなる。生成AIサービスでは性能だけでなく、供給能力の管理が競争力そのものになっている。"
+      },
+      "selection_reason": "",
+      "classification_reason": "",
+      "knowledge_value": "高性能モデルの提供条件が安定すると、業務利用の見積もりや運用設計がしやすくなる。生成AIサービスでは性能だけでなく、供給能力の管理が競争力そのものになっている。",
+      "content_status": "content_ok",
+      "content_chars": 2306,
+      "source_access": "unknown"
+    },
+    {
+      "number": 15,
+      "title": "PJMの容量オークション結果で警鐘が強まるとFERC委員長が指摘",
+      "source": "Utility Dive",
+      "description": "",
+      "url": "https://www.utilitydive.com/news/pjm-capacity-auction-governance-ferc-swett/825508/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-17",
+      "mode": "followup",
+      "summary": {
+        "article_index": 3,
+        "title_ja": "PJMの容量オークション結果で警鐘が強まるとFERC委員長が指摘",
+        "key_points": [
+          "PJMの最新容量オークションは信頼性目標を約7GW下回り、新規供給は約500MWにとどまった",
+          "FERCはPJMの意思決定が遅く不透明で、拒否権や議題支配に弱いと批判",
+          "7月23日の技術会合でガバナンス改革を議論し、データセンターなど大口計算負荷向けの信頼性基準整備も急ぐ"
+        ],
+        "detailed_summary": "米連邦エネルギー規制委員会のローラ・スウェット委員長は、PJMの直近の容量オークションが信頼性目標を約7GW下回り、新しい供給も約500MWしか積み上がらなかったとして危機感を示した。問題は単にPJMだけでなく、連邦、州、事業者、参加者が絡む構造的な課題だとしつつ、現行の利害調整プロセスは遅く不透明で、必要な改革を前に進めにくいと批判。FERCは7月23日の技術会合で改革案を記録に残し、前進の道筋を固めたい考えだ。あわせてデータセンターや暗号資産マイニング向けの信頼性基準づくりにも期限を設けた。",
+        "why_it_matters": "電力需要が増える局面で、系統運営の遅さがそのまま供給不足に直結する段階に入っている。AI向け大口需要が広がるなか、制度改革の遅れは電力価格と投資判断の両方を揺らす。"
+      },
+      "selection_reason": "",
+      "classification_reason": "",
+      "knowledge_value": "電力需要が増える局面で、系統運営の遅さがそのまま供給不足に直結する段階に入っている。AI向け大口需要が広がるなか、制度改革の遅れは電力価格と投資判断の両方を揺らす。",
+      "content_status": "content_ok",
+      "content_chars": 5978,
+      "source_access": "unknown"
+    },
+    {
+      "number": 16,
+      "title": "AIデータセンターの拡大で米電力会社は発電計画の見直しを迫られる可能性があるとBofAが分析",
+      "source": "Utility Dive",
+      "description": "",
+      "url": "https://www.utilitydive.com/news/ai-data-center-growth-utilities-generation-plans/825541/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-17",
+      "mode": "followup",
+      "summary": {
+        "article_index": 4,
+        "title_ja": "AIデータセンターの拡大で米電力会社は発電計画の見直しを迫られる可能性があるとBofAが分析",
+        "key_points": [
+          "米国では今後5年で230GW超の新規電源が必要だが、規制電力会社の供給見通しは93GW程度にとどまる",
+          "データセンターだけで約125GWの新規需要が加わり、2026年から2030年の電力需要成長率は年平均4.1％と予測",
+          "大型ガスタービンは2030年まで逼迫しており、現地発電用ガスエンジン、石炭延命、蓄電池、送電強化が現実策になる"
+        ],
+        "detailed_summary": "Bank of Americaは、AI計算基盤の急拡大を背景に、米国で今後5年に必要な新規発電容量が230GWを超える一方、規制電力会社が積み増せる認定供給力は約93GWにとどまり、100GW超の不足が生じると試算した。最大の押し上げ要因はデータセンターで、単独で約125GWの需要増を生む見込み。風力や太陽光は設備容量ほどピーク時に頼れないため、確実な電源がなお必要になる。大型ガスタービンの供給は2030年まで詰まっており、開発側は自家発電用ガスエンジンや系統併用型の構成に傾き、電力会社は石炭延命や蓄電池、送電投資を迫られる。",
+        "why_it_matters": "AIブームは半導体だけでなく、電力設備の需給まで変え始めている。発電計画の遅れはデータセンター立地、電気料金、脱炭素の進み方に広く影響する。"
+      },
+      "selection_reason": "",
+      "classification_reason": "",
+      "knowledge_value": "AIブームは半導体だけでなく、電力設備の需給まで変え始めている。発電計画の遅れはデータセンター立地、電気料金、脱炭素の進み方に広く影響する。",
+      "content_status": "content_ok",
+      "content_chars": 4186,
+      "source_access": "unknown"
+    },
+    {
+      "number": 17,
+      "title": "ペンシルベニア州のデータセンターは新法で監視強化へ",
+      "source": "ESG Dive",
+      "description": "",
+      "url": "https://www.esgdive.com/news/pennsylvania-passes-budget-increasing-data-center-oversight/825521/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-17",
+      "mode": "followup",
+      "summary": {
+        "article_index": 5,
+        "title_ja": "ペンシルベニア州のデータセンターは新法で監視強化へ",
+        "key_points": [
+          "州予算に盛り込まれた新規定で、データセンターは電力使用量と水使用量を毎年詳細報告する義務を負う",
+          "未提出には1日1万ドルの罰金が科され、州当局は集計ベースの環境影響レポートを公表する",
+          "PJM向け需要予測の透明性も強化され、州規制当局が負荷見通しの妥当性を確認しやすくなる"
+        ],
+        "detailed_summary": "ペンシルベニア州では、ジョシュ・シャピロ知事が署名した2026-2027年度予算により、州内データセンターに対して年間の正確な電力使用量と水使用量の報告義務が課される。ピーク時の平均消費電力、前年の総消費量、翌年の需要見通し、系統負荷や排出削減を抑えるための自家発電策まで報告対象になる。未提出なら1日1万ドルの罰金。州環境保護局は集計した消費動向と環境影響を毎年公表する。あわせて、PJMに提出される需要予測データについて州規制当局の監視権限も強化された。",
+        "why_it_matters": "AI時代のデータセンター増設は地域経済の追い風になる一方、電力系統と水資源への負荷も大きい。州が実需データを握ることで、立地誘致とインフラ保全のバランスを取りやすくなる。"
+      },
+      "selection_reason": "",
+      "classification_reason": "",
+      "knowledge_value": "AI時代のデータセンター増設は地域経済の追い風になる一方、電力系統と水資源への負荷も大きい。州が実需データを握ることで、立地誘致とインフラ保全のバランスを取りやすくなる。",
+      "content_status": "content_ok",
+      "content_chars": 3670,
+      "source_access": "unknown"
+    },
+    {
+      "number": 18,
+      "title": "Databricks、評価額1880億ドルに到達しAI時代の再成長を続ける",
+      "source": "TechCrunch",
+      "description": "",
+      "url": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-17",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 6,
+        "title_ja": "Databricks、評価額1880億ドルに到達しAI時代の再成長を続ける",
+        "key_points": [
+          "DatabricksはCoatue主導の新たな資金調達ラウンドを発表し、評価額は1880億ドルに達した",
+          "2024年末の620億ドル、2025年9月の1000億ドル、2026年2月の1340億ドルから短期間で急伸",
+          "大規模データ基盤企業からAI基盤企業へ転身し、オープンウェイトモデル活用とエージェント基盤で存在感を高めている"
+        ],
+        "detailed_summary": "Databricksは新たな資金調達ラウンドを発表し、企業価値は1880億ドルに達した。調達額は正式非公表だが、外部報道では約30億ドルとされる。注目点は金額以上に、同社が短期間で評価を引き上げ続けていることだ。2024年12月の620億ドル、2025年9月の1000億ドル、2026年2月の1340億ドルからさらに上積みした。もともとはクラウド上の大規模データ分析基盤で伸びたが、企業データを握っていた強みを生かし、LakebaseやUnity、Omnigentなどを通じてAI実装の受け皿へと変貌した。最近はGLM 5.2のような低コストのオープンモデル活用でも存在感を見せている。",
+        "why_it_matters": "AI市場では、基盤モデルそのものだけでなく、企業データと運用基盤を押さえる会社に資本が集中している。Databricksの評価上昇は、生成AIの価値がアプリ層と運用層へ広がっていることを示す。"
+      },
+      "selection_reason": "",
+      "classification_reason": "",
+      "knowledge_value": "AI市場では、基盤モデルそのものだけでなく、企業データと運用基盤を押さえる会社に資本が集中している。Databricksの評価上昇は、生成AIの価値がアプリ層と運用層へ広がっていることを示す。",
+      "content_status": "content_ok",
+      "content_chars": 3750,
+      "source_access": "free"
+    }
+  ],
+  "status": "partial",
+  "failed_modes": [
+    "adjacent"
+  ]
+}
