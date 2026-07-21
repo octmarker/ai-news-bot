@@ -1,0 +1,301 @@
+{
+  "date": "2026-07-21",
+  "generated_at": "2026-07-21T09:03:16.085086+09:00",
+  "run_id": "20260721T090316+0900",
+  "mode_collection_counts": {
+    "breaking": 35,
+    "followup": 7,
+    "deep_dive": 4,
+    "adjacent": 0
+  },
+  "mode_errors": {
+    "adjacent": "no_candidates"
+  },
+  "mode": "multimode",
+  "articles": [
+    {
+      "number": 1,
+      "title": "AIで最重要級のプロトコルが少し使いやすくなる",
+      "source": "TechCrunch",
+      "description": "",
+      "url": "https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-20",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 1,
+        "title_ja": "AIで最重要級のプロトコルが少し使いやすくなる",
+        "key_points": [
+          "MCPはAIモデルが外部データや業務ツールへ安全に接続するための相互運用基盤になっている。",
+          "次期アップデートではセッションIDの扱いを見直し、サーバー側をよりステートレスに運用しやすくする。",
+          "負荷分散された大規模環境での運用負荷とコストが下がり、企業によるMCP導入が進みやすくなる可能性がある。"
+        ],
+        "detailed_summary": "MCPは、AIチャットボットがカレンダーや社内DB、業務ツールへ安全にアクセスするための基盤だ。今回の更新は、これまで各リクエストで厳密に追跡していたセッションID管理を、より疎結合で扱える形へ寄せる。負荷分散下では従来方式が大きな運用負担だったが、新仕様で複数サーバー間の状態共有が減り、企業向けMCPサーバーを大規模に回しやすくなる。",
+        "why_it_matters": "AIエージェントの実用化はモデル性能だけでなく接続基盤の運用しやすさに左右される。MCPの改善は、企業が本番環境でAIを動かすハードルを下げる。",
+        "headline": "MCP実装の摩擦低下は、エージェント接続設計の普及速度を今日から変える"
+      },
+      "selection_reason": "MCP実装の摩擦低下は、エージェント接続設計の普及速度を今日から変える",
+      "classification_reason": "MCP実装の摩擦低下は、エージェント接続設計の普及速度を今日から変える",
+      "knowledge_value": "AIエージェントの実用化はモデル性能だけでなく接続基盤の運用しやすさに左右される。MCPの改善は、企業が本番環境でAIを動かすハードルを下げる。",
+      "content_status": "content_ok",
+      "content_chars": 3328,
+      "source_access": "free"
+    },
+    {
+      "number": 2,
+      "title": "Hugging Face、侵害で内部データセットと認証情報への影響を確認し利用者に対応要請",
+      "source": "TechCrunch",
+      "description": "",
+      "url": "https://techcrunch.com/2026/07/20/hugging-face-confirms-breach-affected-internal-datasets-and-credentials-urges-users-to-take-action/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-20",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 2,
+        "title_ja": "Hugging Face、侵害で内部データセットと認証情報への影響を確認し利用者に対応要請",
+        "key_points": [
+          "悪意あるデータセットが脆弱性を悪用してサーバー上でコードを実行し、権限昇格を通じて内部システムへ到達した。",
+          "Hugging Faceは盗まれた認証情報を失効・ローテーションし、利用者にも保存済みキーの更新と不審な挙動の確認を求めた。",
+          "同社は攻撃を外部AIエージェントによるものと説明し、ログ解析には外部モデルではなく自社のローカルLLMを使った。"
+        ],
+        "detailed_summary": "Hugging Faceは先週のハッキングで、内部データセットとサービス認証情報が侵害されたと明らかにした。発端は、同社プラットフォームにアップロードされたデータセットが脆弱性を突いてサーバー上で不正コードを実行し、攻撃者が権限を拡大したことだった。顧客や提携先データの流出有無は調査中だが、脆弱性は修正済みで、同社は資格情報の失効と法執行機関への報告、外部鑑識調査も進めている。",
+        "why_it_matters": "AIモデルやデータセットを公開する基盤そのものが攻撃面になると示した事例だ。AI開発基盤の安全性が、利用企業のサプライチェーンリスクとして一段と重くなる。",
+        "headline": "モデル流通基盤の侵害は、認証情報管理と依存先監査の前提を更新する"
+      },
+      "selection_reason": "モデル流通基盤の侵害は、認証情報管理と依存先監査の前提を更新する",
+      "classification_reason": "モデル流通基盤の侵害は、認証情報管理と依存先監査の前提を更新する",
+      "knowledge_value": "AIモデルやデータセットを公開する基盤そのものが攻撃面になると示した事例だ。AI開発基盤の安全性が、利用企業のサプライチェーンリスクとして一段と重くなる。",
+      "content_status": "content_ok",
+      "content_chars": 2914,
+      "source_access": "free"
+    },
+    {
+      "number": 3,
+      "title": "YouTube、AIスロップと不快動画をめぐる方針を明確化",
+      "source": "TechCrunch",
+      "description": "",
+      "url": "https://techcrunch.com/2026/07/20/youtube-clarifies-policies-around-ai-slop-and-upsetting-videos/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-20",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 3,
+        "title_ja": "YouTube、AIスロップと不快動画をめぐる方針を明確化",
+        "key_points": [
+          "YouTubeは収益化対象外となる「非真正コンテンツ」を3類型に整理し、AI量産動画への取り締まりを明確化した。",
+          "対象は、汎用的で反復的な動画、視聴者に不快感や苦痛を与える動画、健康や金融など敏感分野をAI人格で語る動画だ。",
+          "AIの利用自体を禁じるのではなく、創造性の乏しいコンテンツファーミングをYouTube Partner Programから排除する狙いがある。"
+        ],
+        "detailed_summary": "YouTubeは、AIやテンプレートを使って大量生産される低品質動画への対処を強めるため、既存の収益化ポリシーをより具体化した。新しい説明では、収益化できない非真正コンテンツを3つに分類し、単調な量産物、不快感を与える動画、敏感なテーマをAI人格で扱う動画を明示した。AIが創作を助ける使い方は認めつつ、広告収益だけを狙うコンテンツファームを抑えたい考えが前面に出ている。",
+        "why_it_matters": "動画生成AIが普及するほど、プラットフォーム側は品質基準を細かく定義する必要がある。収益化ルールの明確化は、AI活用の許容線をクリエイター市場に示す。",
+        "headline": "AI量産動画の収益化規制は、発信戦略とクリエイター経済の地合いに効く"
+      },
+      "selection_reason": "AI量産動画の収益化規制は、発信戦略とクリエイター経済の地合いに効く",
+      "classification_reason": "AI量産動画の収益化規制は、発信戦略とクリエイター経済の地合いに効く",
+      "knowledge_value": "動画生成AIが普及するほど、プラットフォーム側は品質基準を細かく定義する必要がある。収益化ルールの明確化は、AI活用の許容線をクリエイター市場に示す。",
+      "content_status": "content_ok",
+      "content_chars": 4208,
+      "source_access": "free"
+    },
+    {
+      "number": 4,
+      "title": "ジェンスン・フアンの4兆ドル賭けがNvidiaの進路を変える",
+      "source": "Yahoo Finance",
+      "description": "",
+      "url": "https://finance.yahoo.com/technology/ai/articles/jensen-huangs-staggering-4-trillion-210300335.html",
+      "category": "経済・金融",
+      "published_at": "2026-07-20",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 4,
+        "title_ja": "ジェンスン・フアンの4兆ドル賭けがNvidiaの進路を変える",
+        "key_points": [
+          "Nvidiaのジェンスン・フアンCEOは、世界のデータセンター設備投資が2030年までに年3兆〜4兆ドルへ膨らむと見ている。",
+          "この見通しは、ハイパースケーラーの年1.03兆ドル規模を想定する市場コンセンサスよりかなり強気だ。",
+          "Nvidia自身は売上高816億ドル、データセンター売上752億ドルと急成長しており、強気予想の背景になっている。"
+        ],
+        "detailed_summary": "NvidiaはAI向けデータセンター投資が今後さらに爆発的に拡大すると読んでいる。フアンCEOとCFOは、世界の年間設備投資がこの10年末までに3兆〜4兆ドルへ達する可能性を示したが、これは市場予想を大きく上回る。NeedhamやBofAの試算でも増額傾向はあるものの、なお差は大きい。一方でNvidiaは直近四半期に売上高が前年同期比85％増、データセンター部門は92％増と、現実の需要も強い。",
+        "why_it_matters": "この予測が当たれば、AIインフラ投資の規模感そのものが書き換わる。半導体、電力、クラウド、企業IT予算まで広く影響する見立てだ。",
+        "headline": "Nvidia需要の電力波及が鮮明で、AI投資判断をインフラ目線へ寄せる"
+      },
+      "selection_reason": "Nvidia需要の電力波及が鮮明で、AI投資判断をインフラ目線へ寄せる",
+      "classification_reason": "Nvidia需要の電力波及が鮮明で、AI投資判断をインフラ目線へ寄せる",
+      "knowledge_value": "この予測が当たれば、AIインフラ投資の規模感そのものが書き換わる。半導体、電力、クラウド、企業IT予算まで広く影響する見立てだ。",
+      "content_status": "content_ok",
+      "content_chars": 2623,
+      "source_access": "free"
+    },
+    {
+      "number": 5,
+      "title": "d1g1t、AI搭載インテリジェンスを金融アドバイザー業務に直接組み込むMCPサーバーを発表",
+      "source": "PR Newswire",
+      "description": "",
+      "url": "https://www.prnewswire.com/news-releases/d1g1t-launches-mcp-server-to-bring-ai-powered-intelligence-directly-into-financial-advisor-workflows-302828182.html",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-20",
+      "mode": "followup",
+      "summary": {
+        "article_index": 5,
+        "title_ja": "d1g1t、AI搭載インテリジェンスを金融アドバイザー業務に直接組み込むMCPサーバーを発表",
+        "key_points": [
+          "d1g1tはMCP準拠のコネクタを公開し、Claude、ChatGPT、Copilotから自社の資産管理基盤へ直接つなげられるようにした。",
+          "アドバイザーは自然言語で保有資産、年初来成績、ルール逸脱、顧客レポート作成などをAIへ依頼できる。",
+          "モーニングブリーフ、面談準備、ポートフォリオ分析、オンボーディング、コンプライアンス監視などの実務を自動化対象に据える。"
+        ],
+        "detailed_summary": "カナダのウェルステック企業d1g1tは、資産運用プラットフォームの主要機能をMCP経由でAIエージェントに公開する新サーバーを発表した。これにより金融アドバイザーは、ClaudeやChatGPTに自然言語で依頼し、顧客世帯の保有状況や運用成績、リスク、リバランス、税損収穫、面談準備資料まで扱える。画面を順に操作する代わりに、統制されたライブデータへAIが直接触れる運用へ進める狙いだ。",
+        "why_it_matters": "MCPが単なる技術標準ではなく、金融実務の作業時間を削る業務基盤として入り始めたことを示す。AI導入の価値が、会話体験より実務の圧縮で測られる段階に入っている。",
+        "headline": "MCPが金融助言業務へ入る実例で、垂直AI化の進み方を追跡できる"
+      },
+      "selection_reason": "MCPが金融助言業務へ入る実例で、垂直AI化の進み方を追跡できる",
+      "classification_reason": "MCPが金融助言業務へ入る実例で、垂直AI化の進み方を追跡できる",
+      "knowledge_value": "MCPが単なる技術標準ではなく、金融実務の作業時間を削る業務基盤として入り始めたことを示す。AI導入の価値が、会話体験より実務の圧縮で測られる段階に入っている。",
+      "content_status": "content_ok",
+      "content_chars": 4529,
+      "source_access": "unknown"
+    },
+    {
+      "number": 6,
+      "title": "豪州、新たな規則で政府の自動AI意思決定を抑制へ",
+      "source": "The Guardian",
+      "description": "",
+      "url": "https://www.theguardian.com/australia-news/2026/jul/19/national-ai-plan-labor-anthony-albanese-andrew-charlton",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-19",
+      "mode": "followup",
+      "summary": {
+        "article_index": 6,
+        "title_ja": "豪州、新たな規則で政府の自動AI意思決定を抑制へ",
+        "key_points": [
+          "豪州政府は、政府機関によるAIを使った自動意思決定に厳格なルールを導入し、公平性、正確性、透明性を重視する方針だ。",
+          "同時に、AI企業へ安全配慮を求めるデジタル・デューティー・オブ・ケア、追加のプライバシー改革、職場のAI安全策も進める。",
+          "データセンター増設による電力負荷にも対応し、来年以降の立法で大型施設の立地や基準を管理する構えを示した。"
+        ],
+        "detailed_summary": "オーストラリアのアルバニージー政権は、政府部門で広がるAI利用に対応する国家計画を進め、自動意思決定への厳しい規制を整える。違法なロボデット問題で自動処理の危うさが露呈した流れを受け、公平性、精度、透明性を優先する。加えて、AI企業に安全設計を求める法制度、個人データ保護の見直し、職場安全策もセットで進行中だ。急増するデータセンターの電力消費も政策課題として前面に出ている。",
+        "why_it_matters": "AI規制を政府内部の運用、民間企業の責任、インフラ立地まで一体で設計しようとしている点が大きい。AI普及の副作用を制度で先回りする試みとして注目される。",
+        "headline": "政府AI利用の縛り方が具体化し、導入余地と禁止線の比較材料になる"
+      },
+      "selection_reason": "政府AI利用の縛り方が具体化し、導入余地と禁止線の比較材料になる",
+      "classification_reason": "政府AI利用の縛り方が具体化し、導入余地と禁止線の比較材料になる",
+      "knowledge_value": "AI規制を政府内部の運用、民間企業の責任、インフラ立地まで一体で設計しようとしている点が大きい。AI普及の副作用を制度で先回りする試みとして注目される。",
+      "content_status": "content_ok",
+      "content_chars": 3721,
+      "source_access": "unknown"
+    },
+    {
+      "number": 7,
+      "title": "SonyがUdioのAI音楽生成をめぐり3万曲で提訴",
+      "source": "The Verge",
+      "description": "",
+      "url": "https://www.theverge.com/tech/968375/sony-udio-lawsuit-songs-ai-copyright",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-20",
+      "mode": "followup",
+      "summary": {
+        "article_index": 1,
+        "title_ja": "SonyがUdioのAI音楽生成をめぐり3万曲で提訴",
+        "key_points": [
+          "Sony MusicがUdioによる著作権侵害の対象として3万超の楽曲を挙げ、新たな訴訟を起こした",
+          "追加楽曲は訴訟手続きで得た学習データを音声フィンガープリントで分析して特定したという",
+          "Sonyは差し止めと1作品あたり最大15万ドルの賠償を求めており、対象曲は今後さらに増える可能性がある"
+        ],
+        "detailed_summary": "Sony Music Entertainmentは、Udioが自社の3万曲超を無断で複製し生成AIモデルに取り込んだとして、ニューヨークで新たな訴訟を提起した。前年の共同訴訟では対象が333作品にとどまったが、開示資料と音声フィンガープリント分析を通じて追加候補を特定したという。Udioは多様な録音を学習に使ったとされ、Sonyは差し止めと巨額賠償を求める。一方でUMGとWarnerは和解し提携へ進んでおり、音楽業界のAI対応の分岐も浮き彫りになった。",
+        "why_it_matters": "生成AIの学習データが著作権法上どこまで許されるかを左右する重要訴訟だ。結果次第で音楽AI企業の開発コスト、提携戦略、業界ルールが大きく変わる。",
+        "headline": "著作権訴訟の争点が具体化し、創作系AIプロダクトの境界確認に効く"
+      },
+      "selection_reason": "著作権訴訟の争点が具体化し、創作系AIプロダクトの境界確認に効く",
+      "classification_reason": "著作権訴訟の争点が具体化し、創作系AIプロダクトの境界確認に効く",
+      "knowledge_value": "生成AIの学習データが著作権法上どこまで許されるかを左右する重要訴訟だ。結果次第で音楽AI企業の開発コスト、提携戦略、業界ルールが大きく変わる。",
+      "content_status": "content_ok",
+      "content_chars": 2167,
+      "source_access": "free"
+    },
+    {
+      "number": 8,
+      "title": "未修正のClaude for Chromeの欠陥でGmailやカレンダーに不正アクセスの恐れ",
+      "source": "IANS Research",
+      "description": "",
+      "url": "https://www.iansresearch.com/resources/all-blogs/post/security-blog/2026/07/20/unpatched-claude-for-chrome-flaw-could-give-attackers-access-to-gmail--calendar",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-20",
+      "mode": "followup",
+      "summary": {
+        "article_index": 2,
+        "title_ja": "未修正のClaude for Chromeの欠陥でGmailやカレンダーに不正アクセスの恐れ",
+        "key_points": [
+          "ManifoldはClaude for Chromeに未修正の脆弱性が2件あると報告した",
+          "悪意ある拡張機能がユーザー承認なしにClaudeの操作を発火させ、GmailやGoogle Docs、Calendarの情報に触れ得る",
+          "ブラウザ拡張とAIエージェントの連携は、信頼済みセッション経由で機密情報へ広く到達する構造的な危険を抱える"
+        ],
+        "detailed_summary": "AIセキュリティ企業Manifoldは、AnthropicのClaude for Chrome拡張に未修正の脆弱性が2件残っていると公表した。クリック元の検証不足により別の拡張機能が承認済み操作を偽装できる点と、URLパラメータで確認なしモードを直接開ける設計が問題とされる。現時点で実攻撃は確認されていないが、GmailやGoogle Docs、Google Calendarといった連携先データに到達し得るため、ブラウザ常駐型AIの供給網リスクを示す事例として重い。",
+        "why_it_matters": "AIエージェントは便利な反面、1つの拡張機能の欠陥が複数の業務システムへの入口になり得る。企業のAI導入ではモデル性能だけでなく、拡張機能の権限設計と隔離も同じくらい重要になる。",
+        "headline": "ブラウザ常駐エージェントの権限設計を、実害ベースで再点検できる"
+      },
+      "selection_reason": "ブラウザ常駐エージェントの権限設計を、実害ベースで再点検できる",
+      "classification_reason": "ブラウザ常駐エージェントの権限設計を、実害ベースで再点検できる",
+      "knowledge_value": "AIエージェントは便利な反面、1つの拡張機能の欠陥が複数の業務システムへの入口になり得る。企業のAI導入ではモデル性能だけでなく、拡張機能の権限設計と隔離も同じくらい重要になる。",
+      "content_status": "content_ok",
+      "content_chars": 5156,
+      "source_access": "unknown"
+    },
+    {
+      "number": 9,
+      "title": "Claude Codeユーザー向けFAQ",
+      "source": "Claude Help Center",
+      "description": "",
+      "url": "https://support.claude.com/en/articles/14554922-claude-code-user-faq",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-21",
+      "mode": "deep_dive",
+      "summary": {
+        "article_index": 3,
+        "title_ja": "Claude Codeユーザー向けFAQ",
+        "key_points": [
+          "導入初期に多い疑問を、使い始めから日常運用、注意点、信頼性まで段階別に整理している",
+          "Claude Codeは端末でリポジトリを読み、コマンド実行や複数ファイル編集まで行うエージェント型ツールとして説明される",
+          "権限モード、/init、CLAUDE.mdの書き方など、日々の運用でつまずきやすい実務ポイントも補足している"
+        ],
+        "detailed_summary": "この記事はClaude Codeを使い始めた開発者向けのFAQで、導入直後から日常利用までに出やすい疑問を短答形式でまとめている。インストールやログイン時の403、TeamやEnterprise、Consoleでの利用可否、VS CodeやJetBrains対応、補完中心ツールとの違いを整理したうえで、権限モードの切り替え、/initの役割、CLAUDE.mdに書くべき運用ルールまで案内する。最初の数週間で迷いやすい論点を一気に把握できる構成だ。",
+        "why_it_matters": "AIコーディング支援は導入後の使い方で効果が大きく変わる。初期設定と運用ルールを正しく理解すると、権限事故を減らしつつ生産性を早く立ち上げられる。",
+        "headline": "日次運用で詰まりやすい論点を整理し、Claude Code実務の解像度を上げる"
+      },
+      "selection_reason": "日次運用で詰まりやすい論点を整理し、Claude Code実務の解像度を上げる",
+      "classification_reason": "日次運用で詰まりやすい論点を整理し、Claude Code実務の解像度を上げる",
+      "knowledge_value": "AIコーディング支援は導入後の使い方で効果が大きく変わる。初期設定と運用ルールを正しく理解すると、権限事故を減らしつつ生産性を早く立ち上げられる。",
+      "content_status": "content_ok",
+      "content_chars": 7262,
+      "source_access": "unknown"
+    },
+    {
+      "number": 10,
+      "title": "LNG供給危機 ホルムズ海峡とカタール輸出経済",
+      "source": "Straits",
+      "description": "",
+      "url": "https://straits.live/lng-supply-at-risk",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-20",
+      "mode": "deep_dive",
+      "summary": {
+        "article_index": 4,
+        "title_ja": "LNG供給危機 ホルムズ海峡とカタール輸出経済",
+        "key_points": [
+          "海上輸送されるLNGの約5分の1がホルムズ海峡を通り、その大半はカタールのラスラファンから積み出される",
+          "LNGには原油のような迂回パイプラインがなく、海峡閉鎖時の代替手段が極めて乏しい",
+          "喜望峰経由の長距離迂回はLNG船の稼働を逼迫させ、スポット価格の急騰と代替燃料への切り替えを招く"
+        ],
+        "detailed_summary": "記事は、ホルムズ海峡が閉鎖された場合にLNGが最も深刻な影響を受ける理由を解説する。世界のLNGの約2割を担うカタールは東岸のラスラファンからほぼ全量を出荷しており、すべての船が同海峡を通過する。原油と違ってLNGには迂回パイプラインが存在せず、専用船の余力も小さい。買い手は在庫取り崩しやスポット調達、石炭や燃料油への切り替えを迫られ、価格は限界供給の争奪で先に跳ね上がる。",
+        "why_it_matters": "中東の地政学リスクが、電力コストやインフレ、エネルギー安全保障へ直結する構造を示している。特にアジアと欧州の輸入国にとって、ホルムズの混乱は数週間で現実の価格ショックになり得る。",
+        "headline": "ホルムズ依存のLNG流路を押さえ、日本の電力と輸入コスト波及を整理できる"
+      },
+      "selection_reason": "ホルムズ依存のLNG流路を押さえ、日本の電力と輸入コスト波及を整理できる",
+      "classification_reason": "ホルムズ依存のLNG流路を押さえ、日本の電力と輸入コスト波及を整理できる",
+      "knowledge_value": "中東の地政学リスクが、電力コストやインフレ、エネルギー安全保障へ直結する構造を示している。特にアジアと欧州の輸入国にとって、ホルムズの混乱は数週間で現実の価格ショックになり得る。",
+      "content_status": "content_ok",
+      "content_chars": 5927,
+      "source_access": "unknown"
+    }
+  ],
+  "status": "partial",
+  "failed_modes": [
+    "adjacent"
+  ]
+}
