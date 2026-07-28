@@ -1,0 +1,503 @@
+{
+  "date": "2026-07-28",
+  "generated_at": "2026-07-28T09:00:03.672901+09:00",
+  "run_id": "20260728T090003+0900",
+  "mode_collection_counts": {
+    "breaking": 35,
+    "followup": 4,
+    "deep_dive": 4,
+    "adjacent": 1
+  },
+  "mode_errors": {},
+  "mode": "multimode",
+  "articles": [
+    {
+      "number": 1,
+      "title": "GoogleとBingの検索結果にClaudeの非公開チャットが露出",
+      "source": "WIRED",
+      "description": "",
+      "url": "https://www.wired.com/story/private-claude-chats-exposed-in-google-and-bing-search-results/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-28",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 1,
+        "title_ja": "GoogleとBingの検索結果にClaudeの非公開チャットが露出",
+        "key_points": [
+          "Anthropicの共有URL付きClaudeチャットの一部がGoogleやBingで検索可能になっていた",
+          "原因はrobots.txtだけでは不十分で、各共有ページにnoindex指定が欠けていた点にある",
+          "政治相談、法律相談、性的ロールプレイなど機微な内容も露出し、共有機能の設計と利用者の認識に課題が浮かんだ"
+        ],
+        "detailed_summary": "AnthropicのClaudeでは、会話を他人と共有するための公開URLを発行できるが、その一部がGoogleやBingにインデックスされ、検索結果から閲覧可能になっていた。Anthropicはrobots.txtでクローラーを制限していたものの、検索エンジン側はnoindexタグやx-robots-tagも重視すると明示しており、実際に露出したページにはその指定がなかった。共有済みチャットには政治的助言や法的相談など個人情報性の高い内容も含まれ、生成AIの共有機能が想定以上に公開寄りである現実を示した。",
+        "why_it_matters": "生成AIの会話は私的だと思われがちだが、共有機能ひとつで検索可能な公開情報になり得る。AIサービス各社の設計責任だけでなく、利用者側の情報管理リテラシーも問われる話だ。",
+        "headline": "Claude共有物の漏出が可視化され、記憶設計と公開境界の前提を今日更新する必要がある"
+      },
+      "selection_reason": "Claude共有物の漏出が可視化され、記憶設計と公開境界の前提を今日更新する必要がある",
+      "classification_reason": "Claude共有物の漏出が可視化され、記憶設計と公開境界の前提を今日更新する必要がある",
+      "knowledge_value": "生成AIの会話は私的だと思われがちだが、共有機能ひとつで検索可能な公開情報になり得る。AIサービス各社の設計責任だけでなく、利用者側の情報管理リテラシーも問われる話だ。",
+      "content_status": "content_ok",
+      "content_chars": 4560,
+      "source_access": "unknown",
+      "content_excerpt": "What happens between you and an AI chatbot does not always stay between you and a chatbot. Just ask Google. Over the weekend, people were..."
+    },
+    {
+      "number": 2,
+      "title": "これがドナルド・トランプ政権のAIブレーン集団だ",
+      "source": "WIRED",
+      "description": "",
+      "url": "https://www.wired.com/story/this-is-donald-trumps-ai-brain-trust/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-28",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 2,
+        "title_ja": "これがドナルド・トランプ政権のAIブレーン集団だ",
+        "key_points": [
+          "トランプ政権内では中国製オープンウェイトAIへの規制方針を少数の有力人物が左右している",
+          "商務長官ハワード・ラトニックは輸出規制と米国モデル育成の両面で中間的立場を取る",
+          "国家サイバー長官ショーン・ケアンクロスは対中AI規制で強硬姿勢を示し、国家安全保障の観点を強めている"
+        ],
+        "detailed_summary": "中国のオープンウェイトAIが急速に高性能化するなか、トランプ政権ではAI規制の主導権が一枚岩ではなく、複数省庁に散らばる少数の実力者に集中している。商務長官ラトニックは輸出規制を握る一方、米国の主要研究所に対中対抗のため独自オープンモデル開発を促す構想も検討している。CAISIのアービンド・ラマンは安全対策の実務を担い、国家サイバー長官ケアンクロスは中国AIを国家安全保障リスクとして強く警戒する。省庁間調整が弱いぶん、大統領への影響力が政策を決める構図が鮮明だ。",
+        "why_it_matters": "AI政策が制度設計より政権内の力学で決まりやすい状況を示している。米中AI競争のルールは、技術論だけでなく政権中枢の人事と思想で大きく変わる。",
+        "headline": "米政権のAI意思決定者を押さえると、規制・対中戦略・企業選別の読み筋が変わる"
+      },
+      "selection_reason": "米政権のAI意思決定者を押さえると、規制・対中戦略・企業選別の読み筋が変わる",
+      "classification_reason": "米政権のAI意思決定者を押さえると、規制・対中戦略・企業選別の読み筋が変わる",
+      "knowledge_value": "AI政策が制度設計より政権内の力学で決まりやすい状況を示している。米中AI競争のルールは、技術論だけでなく政権中枢の人事と思想で大きく変わる。",
+      "content_status": "content_ok",
+      "content_chars": 6697,
+      "source_access": "unknown",
+      "content_excerpt": "As China’s open-weight AI models become increasingly powerful, the Trump administration is relying on a small group of officials to decide whether and what restrictions..."
+    },
+    {
+      "number": 3,
+      "title": "レーザーは原子炉燃料の供給にどう役立つのか",
+      "source": "MIT Technology Review",
+      "description": "",
+      "url": "https://www.technologyreview.com/2026/07/27/1140798/laser-nuclear-enrichment/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-28",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 3,
+        "title_ja": "レーザーは原子炉燃料の供給にどう役立つのか",
+        "key_points": [
+          "Global Laser Enrichmentはケンタッキー州の劣化ウラン廃棄物をレーザー濃縮で再利用しようとしている",
+          "レーザー濃縮は遠心分離より高効率な可能性があり、天然ウラン並みの原料や将来の原子炉燃料製造に応用できる",
+          "次世代炉向けに高濃縮寄りの燃料需要が増えるなか、燃料供給網の拡充手段として注目されている"
+        ],
+        "detailed_summary": "米ケンタッキー州パデューカ近郊には、閉鎖済み濃縮施設から出た大量のウラン廃棄物が保管されている。Global Laser Enrichmentは、同位体ごとの分子振動の違いを精密レーザーで狙う濃縮技術を使い、この未利用資源から再び有用なウラン原料を取り出そうとしている。現在主流の遠心分離法より効率が高ければ、既存廃棄物や低品位資源から燃料原料を得やすくなり、将来は5％超から20％近いU-235を必要とする先進炉向け燃料供給にも道が開く。核燃料調達の選択肢を広げる技術として位置づけられている。",
+        "why_it_matters": "原子力拡大のボトルネックは炉そのものだけでなく燃料供給にもある。既存廃棄物を資源化できれば、エネルギー安全保障と次世代炉の実装速度の両方に効く。",
+        "headline": "電力制約を左右する核燃料供給の新技術で、AIインフラの外部条件として重要度が高い"
+      },
+      "selection_reason": "電力制約を左右する核燃料供給の新技術で、AIインフラの外部条件として重要度が高い",
+      "classification_reason": "電力制約を左右する核燃料供給の新技術で、AIインフラの外部条件として重要度が高い",
+      "knowledge_value": "原子力拡大のボトルネックは炉そのものだけでなく燃料供給にもある。既存廃棄物を資源化できれば、エネルギー安全保障と次世代炉の実装速度の両方に効く。",
+      "content_status": "content_ok",
+      "content_chars": 8211,
+      "source_access": "unknown"
+    },
+    {
+      "number": 4,
+      "title": "原油市場の供給過剰シナリオは崩壊した",
+      "source": "Yahoo Finance",
+      "description": "",
+      "url": "https://finance.yahoo.com/energy/articles/oil-markets-glut-narrative-just-160000237.html",
+      "category": "経済・金融",
+      "published_at": "2026-07-26",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 4,
+        "title_ja": "原油市場の供給過剰シナリオは崩壊した",
+        "key_points": [
+          "ホルムズ海峡とバブ・エル・マンデブ海峡の両方が機能不全に陥り、原油輸送が急速に逼迫している",
+          "フーシ派の攻撃やウクライナのドローン攻撃で、サウジやカザフスタンの輸出にも支障が出ている",
+          "問題は原油だけでなく、精製能力の制約からディーゼルやガソリンなど石油製品の供給危機にも広がっている"
+        ],
+        "detailed_summary": "つい先月まで語られていた原油供給過剰シナリオは、中東と黒海での軍事緊張再燃で一気に崩れた。イラン封鎖の影響でホルムズ海峡の通過量が激減するなか、代替ルートとして使われた紅海のバブ・エル・マンデブ海峡でもフーシ派がタンカーを攻撃し、輸送は大きく停滞した。さらにウクライナのドローン攻撃でロシア黒海沿岸ノヴォロシースク経由のカザフ原油輸出も打撃を受けている。結果としてBrentは1バレル100ドルを突破し、精製余力の乏しさも相まって、原油より調整しにくいディーゼルなど石油製品の需給逼迫が景気後退リスクを強めている。",
+        "why_it_matters": "エネルギー市場は余剰から不足へ一気に転じ得ることを示した。物流、インフレ、景気に直結するため、単なる商品市況では済まない。",
+        "headline": "ホルムズ海峡と原油需給の見方修正は、地政学とコスト前提を即座に揺らす材料になる"
+      },
+      "selection_reason": "ホルムズ海峡と原油需給の見方修正は、地政学とコスト前提を即座に揺らす材料になる",
+      "classification_reason": "ホルムズ海峡と原油需給の見方修正は、地政学とコスト前提を即座に揺らす材料になる",
+      "knowledge_value": "エネルギー市場は余剰から不足へ一気に転じ得ることを示した。物流、インフレ、景気に直結するため、単なる商品市況では済まない。",
+      "content_status": "content_ok",
+      "content_chars": 2681,
+      "source_access": "free"
+    },
+    {
+      "number": 5,
+      "title": "Amazonの新しい携帯電話向け衛星網はSpaceXへの圧力を強めるかもしれない",
+      "source": "TechCrunch",
+      "description": "",
+      "url": "https://techcrunch.com/2026/07/27/amazons-new-satellite-network-for-mobile-phones-could-turn-up-the-heat-on-spacex/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-27",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 5,
+        "title_ja": "Amazonの新しい携帯電話向け衛星網はSpaceXへの圧力を強めるかもしれない",
+        "key_points": [
+          "Amazonは携帯電話向け通信を提供する5,105機の新衛星ネットワークをFCCに申請し、2028年の打ち上げ開始を計画している",
+          "Globalstar買収で得た周波数資産をLeo衛星ブロードバンド網と組み合わせ、SpaceXの衛星直結モバイル事業に対抗する構えだ",
+          "ただし需要の不透明さに加え、Blue Originのロケット遅延で自前の打ち上げ手段を持てない点が弱みになっている"
+        ],
+        "detailed_summary": "Amazonは米FCCに対し、携帯電話向けの直接通信サービスを担う5,105機の衛星ネットワークの運用許可を申請した。数カ月前に取得したGlobalstarの衛星通信事業と周波数を活用し、自社の低軌道ブロードバンド網Leoと統合することで、SpaceXが先行する衛星インターネットと衛星モバイル接続市場に本格参入する狙いだ。一方で、現時点の衛星モバイルは帯域が細く、主な用途は緊急通信やテキスト送信に限られ、T-Mobile幹部も利用はごく少ないと明かしている。Amazonは資金力で劣らないが、Blue OriginのNew Glenn遅延で打ち上げ計画には不確実性が残る。",
+        "why_it_matters": "宇宙通信はブロードバンドだけでなく携帯直結へ競争軸が広がっている。通信インフラの次の主戦場で、資本力と打ち上げ能力のどちらが勝敗を分けるかが見えてくる。",
+        "headline": "通信網の主導権争いが衛星まで広がり、遠隔エージェント実行基盤の将来像に直結する"
+      },
+      "selection_reason": "通信網の主導権争いが衛星まで広がり、遠隔エージェント実行基盤の将来像に直結する",
+      "classification_reason": "通信網の主導権争いが衛星まで広がり、遠隔エージェント実行基盤の将来像に直結する",
+      "knowledge_value": "宇宙通信はブロードバンドだけでなく携帯直結へ競争軸が広がっている。通信インフラの次の主戦場で、資本力と打ち上げ能力のどちらが勝敗を分けるかが見えてくる。",
+      "content_status": "content_ok",
+      "content_chars": 2093,
+      "source_access": "free"
+    },
+    {
+      "number": 6,
+      "title": "PG&Eのデータセンターパイプラインは前四半期比で倍超の12.7GWに拡大",
+      "source": "DCD",
+      "description": "",
+      "url": "https://www.datacenterdynamics.com/en/news/pge-data-center-pipeline-more-than-doubles-to-127gw-compared-to-last-quarter/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-27",
+      "mode": "followup",
+      "summary": {
+        "article_index": 6,
+        "title_ja": "PG&Eのデータセンターパイプラインは前四半期比で倍超の12.7GWに拡大",
+        "key_points": [
+          "PG&E管内の提案中データセンター需要はQ1の5.1GWからQ2末に12.7GWへ急増した",
+          "ただし2030年までに実際に稼働すると見込むのは1.8GWで、全案件が実現する前提ではない",
+          "PG&Eは他の利用者の料金引き下げにつながる案件を優先し、接続審査や資金コミット条件も厳格化している"
+        ],
+        "detailed_summary": "カリフォルニアの大手電力会社PG&Eは、データセンター案件の接続申請パイプラインが2026年Q2末で12.7GWに達し、前四半期の5.1GWから倍以上に拡大したと明らかにした。増加の中心は初期審査申請と手数料支払いを終えた案件で、26件・8.2GWに膨らんだが、建設合意まで進んだのは4件・490MWにとどまる。経営陣は全案件が実現するわけではないと認めつつ、データセンター需要が他の利用者の電気料金を下げることを重視し、最終段階では作業契約や総事業費の約1割に相当する資金コミットを求めるなど選別を強めている。",
+        "why_it_matters": "AI向けデータセンター需要が送電網計画そのものを押し動かしている。今後は単に電力を確保できるかではなく、地域住民の料金負担を減らせる案件だけが生き残る。",
+        "headline": "AI競争が電力確保戦へ移った差分を示す。モデル比較より供給網監視の価値が高い"
+      },
+      "selection_reason": "AI競争が電力確保戦へ移った差分を示す。モデル比較より供給網監視の価値が高い",
+      "classification_reason": "AI競争が電力確保戦へ移った差分を示す。モデル比較より供給網監視の価値が高い",
+      "knowledge_value": "AI向けデータセンター需要が送電網計画そのものを押し動かしている。今後は単に電力を確保できるかではなく、地域住民の料金負担を減らせる案件だけが生き残る。",
+      "content_status": "content_ok",
+      "content_chars": 2215,
+      "source_access": "unknown"
+    },
+    {
+      "number": 7,
+      "title": "MCP最大の更新で、多くのサーバーが前提としていた仕組みが不要に",
+      "source": "The New Stack",
+      "description": "",
+      "url": "https://thenewstack.io/mcp-release-candidate-rewrite/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-26",
+      "mode": "followup",
+      "summary": {
+        "article_index": 1,
+        "title_ja": "MCP最大の更新で、多くのサーバーが前提としていた仕組みが不要に",
+        "key_points": [
+          "MCPの大型改訂でセッション管理や初期ハンドシェイクが廃止され、従来の中核機能の一部も非推奨になる。",
+          "背景には、リモートかつ水平分散されたMCPサーバー運用で、セッション固定や専用ゲートウェイなど余計な分散システム負担が生じていた問題がある。",
+          "各リクエストを独立化し、能力情報やプロトコル版を毎回送る方式へ移すことで、HTTP的でスケーラブルな設計に近づける。"
+        ],
+        "detailed_summary": "MCPの次期仕様では、これまで多くの実装が前提にしていたセッション管理と初期ハンドシェイクが撤廃される。もともとローカル接続向けに自然だった設計が、リモート運用ではインスタンス固定や共有セッションストアを必要とし、運用負荷の原因になっていたためだ。新仕様は各リクエストに必要情報を載せ、必要な状態だけを明示的ハンドルで扱う方針へ転換する。結果として、通常のステートレスサービスに近い構成でMCPサーバーを運用しやすくなる。",
+        "why_it_matters": "MCPを本番環境で運用する際の複雑さとコストを下げる改訂だからだ。標準的なWebインフラに寄せることで、導入障壁が下がり、実装の裾野が広がる可能性がある。",
+        "headline": "MCP実装前提が崩れる更新で、スキル設計とツール探索の持ち方を見直す必要がある"
+      },
+      "selection_reason": "MCP実装前提が崩れる更新で、スキル設計とツール探索の持ち方を見直す必要がある",
+      "classification_reason": "MCP実装前提が崩れる更新で、スキル設計とツール探索の持ち方を見直す必要がある",
+      "knowledge_value": "MCPを本番環境で運用する際の複雑さとコストを下げる改訂だからだ。標準的なWebインフラに寄せることで、導入障壁が下がり、実装の裾野が広がる可能性がある。",
+      "content_status": "content_ok",
+      "content_chars": 9480,
+      "source_access": "unknown"
+    },
+    {
+      "number": 8,
+      "title": "Nvidiaと大手テック各社、AIセキュリティ連合を立ち上げ",
+      "source": "SecurityWeek",
+      "description": "",
+      "url": "https://www.securityweek.com/nvidia-and-tech-giants-launch-ai-security-alliance/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-27",
+      "mode": "followup",
+      "summary": {
+        "article_index": 2,
+        "title_ja": "Nvidiaと大手テック各社、AIセキュリティ連合を立ち上げ",
+        "key_points": [
+          "Nvidiaを中心に、Microsoft、IBM、Hugging Face、Cloudflareなど多数の企業がOpen Secure AI Allianceを発足した。",
+          "各社はAI防御向けのオープンソース資産を持ち寄り、監査、脆弱性修復、エージェント検証、ゼロトラスト認証などを強化する。",
+          "連合は、先端AIのオープン化を一律に規制すると防御側の能力が弱まると主張し、開放性と安全策の両立を訴えている。"
+        ],
+        "detailed_summary": "Nvidiaと多数のテクノロジー企業は、AIシステムとAIエージェントの防御を目的とするOpen Secure AI Allianceを設立した。Nvidiaの追跡・監査向け研究NOOA、HPEのSPIFFE/SPIRE、IBMとRed Hatの脆弱性修復基盤、Microsoftのエージェント型スキャン環境など、各社が実務的な防御技術を提供する。連合は、オープンモデルや公開ツールは脅威ではなく防御資産だと位置づけ、規制強化がかえって共同防衛力を損なうと警告している。",
+        "why_it_matters": "AIの安全保障が個社競争から業界横断の防御基盤づくりへ移りつつあることを示す。規制議論でも、閉鎖性だけが安全ではないという論点が強まる。",
+        "headline": "エージェント導入競争が性能から監査と安全保証へ拡張した流れを追うのに適している"
+      },
+      "selection_reason": "エージェント導入競争が性能から監査と安全保証へ拡張した流れを追うのに適している",
+      "classification_reason": "エージェント導入競争が性能から監査と安全保証へ拡張した流れを追うのに適している",
+      "knowledge_value": "AIの安全保障が個社競争から業界横断の防御基盤づくりへ移りつつあることを示す。規制議論でも、閉鎖性だけが安全ではないという論点が強まる。",
+      "content_status": "content_ok",
+      "content_chars": 3401,
+      "source_access": "unknown"
+    },
+    {
+      "number": 9,
+      "title": "AIは人々の仕事の範囲をどう広げているか",
+      "source": "OpenAI",
+      "description": "",
+      "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-27",
+      "mode": "followup",
+      "summary": {
+        "article_index": 3,
+        "title_ja": "AIは人々の仕事の範囲をどう広げているか",
+        "key_points": [
+          "OpenAIの分析では、米国のChatGPT利用データ80万件超のうち、仕事関連メッセージの相当部分が本来の職種外の業務に関するものだった。",
+          "職種固有の非汎用タスクに限ると43.5%が自職種の外にあり、AIが役割横断的な仕事を後押ししていることが示された。",
+          "特に顧客対応、デザイン、人事、法務、マーケティングで越境利用が強く、従来は他部門に渡していた作業を自分で処理する動きが目立つ。"
+        ],
+        "detailed_summary": "OpenAI Economic Researchは、米国のChatGPT利用メッセージ80万件超を分析し、AIが職務の境界を広げていると報告した。汎用的な作業を除いた職種固有タスクの43.5%が利用者本来の職種外に属し、顧客対応やデザイン、人事、法務、マーケティングでその傾向が強い。小規模事業者が契約確認や財務分析を自力で進めるように、AIは仕事のやり方だけでなく、誰が何を担当するかまで変え始めている。",
+        "why_it_matters": "AI導入の影響は単純な自動化ではなく、職務再編そのものに及ぶ可能性がある。採用、教育、組織設計を考えるうえで早期の兆候として重要だ。",
+        "headline": "代替より職務拡張へ寄る実証で、AI社員の役割分担設計を更新する材料になる"
+      },
+      "selection_reason": "代替より職務拡張へ寄る実証で、AI社員の役割分担設計を更新する材料になる",
+      "classification_reason": "代替より職務拡張へ寄る実証で、AI社員の役割分担設計を更新する材料になる",
+      "knowledge_value": "AI導入の影響は単純な自動化ではなく、職務再編そのものに及ぶ可能性がある。採用、教育、組織設計を考えるうえで早期の兆候として重要だ。",
+      "content_status": "content_ok",
+      "content_chars": 6088,
+      "source_access": "free"
+    },
+    {
+      "number": 10,
+      "title": "Claude Codeでスキルを使い、検証ループを組み込む方法",
+      "source": "Claude by Anthropic",
+      "description": "",
+      "url": "https://claude.com/blog/building-verification-loops-in-claude-code-with-skills",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-22",
+      "mode": "deep_dive",
+      "summary": {
+        "article_index": 4,
+        "title_ja": "Claude Codeでスキルを使い、検証ループを組み込む方法",
+        "key_points": [
+          "Claude Codeでは、変更後の確認作業をスキル化し、AI自身がテストと修正を反復する検証ループに変えられる。",
+          "ビルド、テスト、リンター、仕様チェック、GitHub Actions、PRレビューなど、既存の確認フローを自動化対象として整理している。",
+          "人が毎回同じ細かな修正をしているなら、それはスキル化すべきシグナルだと位置づけている。"
+        ],
+        "detailed_summary": "Anthropicは、Claude Codeで手動確認をスキル化し、AIが自分で検証と修正を繰り返す仕組みを解説した。もともとClaudeは型チェック、リンター、テスト、実行時エラーなどの決定的シグナルを使って確認するが、人が毎回行う画面確認や仕様照合も検証ループへ落とし込めるという。/verify、GitHub Actions、スペック検証、管理エージェントの採点機能などを組み合わせれば、セッションごとの品質確認を人の記憶に頼らず再現可能にできる。",
+        "why_it_matters": "AIコーディングの価値は生成速度だけでなく、自己修正の仕組みを持てるかで決まる。検証をスキル化できれば、品質のばらつきを減らし、運用をかなり自動化できる。",
+        "headline": "手動確認をスキル化して閉ループ化する発想が、完了条件先行の運用設計に直結する"
+      },
+      "selection_reason": "手動確認をスキル化して閉ループ化する発想が、完了条件先行の運用設計に直結する",
+      "classification_reason": "手動確認をスキル化して閉ループ化する発想が、完了条件先行の運用設計に直結する",
+      "knowledge_value": "AIコーディングの価値は生成速度だけでなく、自己修正の仕組みを持てるかで決まる。検証をスキル化できれば、品質のばらつきを減らし、運用をかなり自動化できる。",
+      "content_status": "content_ok",
+      "content_chars": 10703,
+      "source_access": "free"
+    },
+    {
+      "number": 11,
+      "title": "2026年版 チャット履歴管理のためのLLM要約手法",
+      "source": "Mem0",
+      "description": "",
+      "url": "https://mem0.ai/blog/llm-chat-history-summarization-guide-2025",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-22",
+      "mode": "deep_dive",
+      "summary": {
+        "article_index": 5,
+        "title_ja": "2026年版 チャット履歴管理のためのLLM要約手法",
+        "key_points": [
+          "長い会話履歴をそのまま渡し続ける方式は、文脈窓の制約とトークン費用の増大ですぐ限界に達する。",
+          "単純な要約より、重要事実だけを選んで保持するメモリ形成の方が、コスト削減と応答品質の両面で優れると記事は主張する。",
+          "本番環境では、ベクトル検索、知識グラフ、階層型メモリを組み合わせた多層アーキテクチャが有効とされる。"
+        ],
+        "detailed_summary": "この記事は、LLMアプリの会話履歴管理で、単純な全履歴投入や末尾N件保持ではコストと文脈欠落の問題を解けないと指摘する。代わりに、重要な事実を抽出して保存するメモリ形成型アプローチが有効で、Mem0のような仕組みはトークン費用を80〜90%下げつつ応答品質も改善すると紹介する。さらに実運用では、短期記憶と長期記憶を分けた階層設計や、ベクトル検索、知識グラフを使った意味的検索を組み合わせ、人に近い記憶保持を目指す流れが強まっている。",
+        "why_it_matters": "会話型AIの使い勝手と収益性は、モデル性能だけでなくメモリ設計で大きく変わる。履歴管理を誤ると、精度低下とコスト増が同時に起きる。",
+        "headline": "長文履歴の圧縮手法を比較でき、コンテキストを増やすより整える思想と相性が良い"
+      },
+      "selection_reason": "長文履歴の圧縮手法を比較でき、コンテキストを増やすより整える思想と相性が良い",
+      "classification_reason": "長文履歴の圧縮手法を比較でき、コンテキストを増やすより整える思想と相性が良い",
+      "knowledge_value": "会話型AIの使い勝手と収益性は、モデル性能だけでなくメモリ設計で大きく変わる。履歴管理を誤ると、精度低下とコスト増が同時に起きる。",
+      "content_status": "content_ok",
+      "content_chars": 13627,
+      "source_access": "unknown"
+    },
+    {
+      "number": 12,
+      "title": "ホルムズ海峡の戦争保険料率",
+      "source": "Straits.live",
+      "description": "",
+      "url": "https://straits.live/strait-of-hormuz-war-risk-insurance-rate",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-26",
+      "mode": "deep_dive",
+      "summary": {
+        "article_index": 6,
+        "title_ja": "ホルムズ海峡の戦争保険料率",
+        "key_points": [
+          "ホルムズ海峡を通過する船舶の戦争保険は、平時の8.0倍まで上昇している。",
+          "VLCCの単航海あたり保険料は最大250万ドルと報じられ、平時の約12.5万ドルから大幅に跳ね上がった。",
+          "保険料高騰は、海峡が物理的に通れても商業的には通航困難にし、実質的な閉鎖効果を生む。"
+        ],
+        "detailed_summary": "記事は、ホルムズ海峡通過に必要な戦争保険が平時の8倍に達し、VLCCでは単航海で最大250万ドル規模になっていると説明する。戦争保険は通常の船体保険と別建てで、Lloyd’s Joint War Committeeが対象海域を高リスク地域に指定すると、船価に対する料率が急騰する。記事は、平時比4倍前後でも多くの商業運航が採算割れになるとし、保険市場の再価格付けが、海峡の物理的閉鎖以上に物流停止を招く現実を強調している。",
+        "why_it_matters": "エネルギー輸送の要衝では、軍事的封鎖より先に保険市場が物流を止めることがある。地政学リスクが海運コストと原油供給に直結する点で重要だ。",
+        "headline": "見出しより保険料率で緊張度を測る発想が、地政学を実務指標へ落とす助けになる"
+      },
+      "selection_reason": "見出しより保険料率で緊張度を測る発想が、地政学を実務指標へ落とす助けになる",
+      "classification_reason": "見出しより保険料率で緊張度を測る発想が、地政学を実務指標へ落とす助けになる",
+      "knowledge_value": "エネルギー輸送の要衝では、軍事的封鎖より先に保険市場が物流を止めることがある。地政学リスクが海運コストと原油供給に直結する点で重要だ。",
+      "content_status": "content_ok",
+      "content_chars": 3640,
+      "source_access": "unknown"
+    },
+    {
+      "number": 13,
+      "title": "AIコーディングツールを毎日試す筆者が選ぶ、見落としがちなClaude Codeの隠れ機能9選",
+      "source": "Tom's Guide",
+      "description": "",
+      "url": "https://www.tomsguide.com/ai/i-test-ai-coding-tools-all-day-here-are-9-hidden-claude-code-features-youre-probably-missing",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-21",
+      "mode": "deep_dive",
+      "summary": {
+        "article_index": 1,
+        "title_ja": "AIコーディングツールを毎日試す筆者が選ぶ、見落としがちなClaude Codeの隠れ機能9選",
+        "key_points": [
+          "Claude Codeはコード生成だけでなく、アプリ構築、デバッグ、リポジトリ理解、定型作業の自動化まで担える開発支援ツールとして高く評価されている。",
+          "プロジェクト直下にCLAUDE.mdを置くと、技術スタック、コーディング規約、実行コマンドなどを毎回説明せずに共有でき、作業効率が大きく上がる。",
+          "チェックポイント機能で過去の状態に戻せるほか、カスタムSkillsのような拡張機能もあり、初心者でも高度なワークフローを組みやすい。"
+        ],
+        "detailed_summary": "この記事は、筆者がClaude Codeを使い込む中で見えてきた隠れた便利機能を紹介している。中心にあるのは、プロジェクトの前提条件を恒久的に伝えるCLAUDE.mdと、失敗時に即座に巻き戻せるチェックポイント機能だ。いずれもターミナル中心の設計で一見わかりにくいが、設定を整えるだけで毎回の指示コストや手戻りを大幅に減らせる。AI支援開発を本格運用するうえで、表面的なコード生成より運用設計が重要だと示している。",
+        "why_it_matters": "AIコーディング支援は、単発の生成精度より継続利用の設計で差がつく。隠れ機能を押さえると、初心者でも開発速度と再現性を一段引き上げられる。",
+        "headline": "表層的な機能紹介寄りだが、運用の抜けを短時間で棚卸しする実務価値は残る"
+      },
+      "selection_reason": "表層的な機能紹介寄りだが、運用の抜けを短時間で棚卸しする実務価値は残る",
+      "classification_reason": "表層的な機能紹介寄りだが、運用の抜けを短時間で棚卸しする実務価値は残る",
+      "knowledge_value": "AIコーディング支援は、単発の生成精度より継続利用の設計で差がつく。隠れ機能を押さえると、初心者でも開発速度と再現性を一段引き上げられる。",
+      "content_status": "content_ok",
+      "content_chars": 8462,
+      "source_access": "unknown"
+    },
+    {
+      "number": 14,
+      "title": "AIエージェントの監査証跡 すべての行動を帰属可能にする方法",
+      "source": "Citadel Cloud Management",
+      "description": "",
+      "url": "https://www.citadelcloudmanagement.com/blog/ai-agent-audit-trails-attributable-actions",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-27",
+      "mode": "adjacent",
+      "summary": {
+        "article_index": 2,
+        "title_ja": "AIエージェントの監査証跡 すべての行動を帰属可能にする方法",
+        "key_points": [
+          "AIエージェントが顧客情報更新やチケット操作などの実務を担うなら、人間と同等以上の監査性と説明責任が必要になる。",
+          "従来のサービスアカウント中心のログでは、誰のために、なぜ、何をしたのかが追えず、監査やインシデント対応に耐えない。",
+          "解決策として、主体の連鎖、ツール呼び出し、ポリシー判断、入出力ハッシュを含む追記専用のセッション台帳を整備し、停止手段まで明示すべきだと提案している。"
+        ],
+        "detailed_summary": "この記事は、AIエージェントが社内システムに対して実行権限を持つ時代に必要な監査基盤を論じている。普通のアプリログでは、実際の依頼者、判断理由、同一セッション内の連鎖行動を十分に追跡できない。そこで著者は、セッションごとの台帳を中核に据え、ユーザー、エージェント、認証情報の主体連鎖や、各ツール呼び出しの証跡を改ざん耐性付きで記録する設計を提示する。要点は、AIを便利機能ではなく統制対象の実務主体として扱えということだ。",
+        "why_it_matters": "AIエージェントの導入が進むほど、説明不能な自動操作は重大なリスクになる。監査証跡の設計は、AI活用の拡大とガバナンスを両立させる土台になる。",
+        "headline": "賢さではなく実行証跡が導入条件になる視点で、承認フロー設計の解像度が上がる"
+      },
+      "selection_reason": "賢さではなく実行証跡が導入条件になる視点で、承認フロー設計の解像度が上がる",
+      "classification_reason": "賢さではなく実行証跡が導入条件になる視点で、承認フロー設計の解像度が上がる",
+      "knowledge_value": "AIエージェントの導入が進むほど、説明不能な自動操作は重大なリスクになる。監査証跡の設計は、AI活用の拡大とガバナンスを両立させる土台になる。",
+      "content_status": "content_ok",
+      "content_chars": 10958,
+      "source_access": "unknown",
+      "adjacent_field": "エージェント監査ログと機械向けコンプライアンス",
+      "adjacent_reasoning": "権限付きエージェントを実務へ入れる発想はすでに強いが、次の広がりは賢さではなく、誰が何を実行し、後からどう検証できるかという監査可能性にある。これは安全性やコスト管理だけでなく、保険、社内承認、B2B導入の通行証になる。"
+    },
+    {
+      "number": 15,
+      "title": "ゲームフリーク新作アクションRPG『Beast of Reincarnation』のコンセプトは「1人と1匹の過酷な旅」 開発体制やシステムの詳細など、ディレクタートークセッションまとめ",
+      "source": "AUTOMATON",
+      "description": "本稿ではゲームフリークのディレクター古島康太氏のトークセッションの内容をお伝えする。",
+      "url": "https://automaton-media.com/articles/reportjp/20260726-456725/",
+      "category": "ゲーム・エンタメ",
+      "published_at": "2026-07-26",
+      "mode": "adjacent",
+      "summary": {
+        "article_index": 3,
+        "title_ja": "ゲームフリーク新作アクションRPG『Beast of Reincarnation』のコンセプトは「1人と1匹の過酷な旅」 開発体制やシステムの詳細など、ディレクタートークセッションまとめ",
+        "key_points": [
+          "舞台は西暦4026年の荒廃した日本で、穢れに侵された主人公エマと犬のクゥが、元凶である輪廻の獣を討つ旅に出る。",
+          "戦闘は複雑な入力より判断とタイミングを重視し、スキルツリーによって新技や相棒との連携、探索の幅が広がる設計になっている。",
+          "フォトリアル表現や高水準の開発体制は、まずハイエンド志向だったのではなく、相棒との過酷な旅を成立させる表現を突き詰めた結果だという。"
+        ],
+        "detailed_summary": "この記事は、ゲームフリーク新作『Beast of Reincarnation』のディレクタートークをまとめたものだ。物語の核は、穢れに覆われた未来の日本でエマと犬のクゥが西へ向かう旅にある。ゲーム面では、移動や連携、スキル獲得によって攻略の横幅を増やし、操作の複雑さではなく判断の気持ちよさを狙う。2019年頃から構想が形になり、2022年頃に本開発へ移行。複数社と組みながらUnreal Engineを研究し、作品の情緒に合う高精細な表現へ到達した。",
+        "why_it_matters": "ゲームフリークが従来イメージと異なる高精細アクションRPGに挑んだ背景が見える。作品の見た目だけでなく、設計思想そのものが新境地に踏み込んでいる点が注目材料だ。",
+        "headline": "少人数での世界観構築と体験設計を追え、創作とプロダクト設計の接点として効く"
+      },
+      "selection_reason": "少人数での世界観構築と体験設計を追え、創作とプロダクト設計の接点として効く",
+      "classification_reason": "少人数での世界観構築と体験設計を追え、創作とプロダクト設計の接点として効く",
+      "knowledge_value": "ゲームフリークが従来イメージと異なる高精細アクションRPGに挑んだ背景が見える。作品の見た目だけでなく、設計思想そのものが新境地に踏み込んでいる点が注目材料だ。",
+      "content_status": "content_ok",
+      "content_chars": 2392,
+      "source_access": "free",
+      "adjacent_field": "",
+      "adjacent_reasoning": ""
+    },
+    {
+      "number": 16,
+      "title": "短編アニメ『Tengu Tōsen』がYouTubeで配信開始",
+      "source": "Anime News Network",
+      "description": "Bandai Namco Entertainment, Plott's project about tengu streams online for free",
+      "url": "https://www.animenewsnetwork.com/news/2026-07-27/tengu-tosen-short-anime-streams-on-youtube/.240023",
+      "category": "漫画・アニメ・文化",
+      "published_at": "2026-07-27",
+      "mode": "adjacent",
+      "summary": {
+        "article_index": 4,
+        "title_ja": "短編アニメ『Tengu Tōsen』がYouTubeで配信開始",
+        "key_points": [
+          "バンダイナムコエンターテインメントとPlottが共同制作する短編アニメ『Tengu Tōsen』の第1話本編が公式YouTubeで無料公開された。",
+          "和風ファンタジーと剣劇を掛け合わせた作品で、悪事を働く天狗と、それを討つ刀伐使たちの戦いを描く。",
+          "主人公アカリ・ヒノミヤは世界を脅かした大妖魔の力を宿しており、仲間と出会いながら内なる力と向き合い宿命の敵に挑む。"
+        ],
+        "detailed_summary": "この記事は、短編アニメ企画『Tengu Tōsen』の本編第1話が公式YouTubeで無料配信されたことを伝えている。作品は、伝統的な和風ファンタジーと日本刀による戦いを組み合わせた構成で、悪しき天狗と刀伐使の抗争を軸に進む。主人公アカリは、かつて世界を脅かした大妖魔・波旬の力を宿す少年で、仲間と合流しながら剣を手に運命へ立ち向かう。これまでのサイドストーリー短編から、本筋の展開へ進んだ節目でもある。",
+        "why_it_matters": "YouTube無料配信は新規IPの認知拡大に直結する。短尺アニメと配信導線を組み合わせた展開が、今後のメディアミックス戦略の試金石になりそうだ。",
+        "headline": "YouTube起点の流通は、個人発信とIP育成の初速をどう作るか考える材料になる"
+      },
+      "selection_reason": "YouTube起点の流通は、個人発信とIP育成の初速をどう作るか考える材料になる",
+      "classification_reason": "YouTube起点の流通は、個人発信とIP育成の初速をどう作るか考える材料になる",
+      "knowledge_value": "YouTube無料配信は新規IPの認知拡大に直結する。短尺アニメと配信導線を組み合わせた展開が、今後のメディアミックス戦略の試金石になりそうだ。",
+      "content_status": "content_ok",
+      "content_chars": 1516,
+      "source_access": "free",
+      "adjacent_field": "",
+      "adjacent_reasoning": ""
+    },
+    {
+      "number": 17,
+      "title": "Crunchyroll、『Romelia War Chronicle』アニメを配信へ",
+      "source": "Anime News Network",
+      "description": "World premiere screens at Otakon on July 31",
+      "url": "https://www.animenewsnetwork.com/news/2026-07-27/crunchyroll-to-stream-romelia-war-chronicle-anime/.240021",
+      "category": "漫画・アニメ・文化",
+      "published_at": "2026-07-27",
+      "mode": "adjacent",
+      "summary": {
+        "article_index": 5,
+        "title_ja": "Crunchyroll、『Romelia War Chronicle』アニメを配信へ",
+        "key_points": [
+          "アニメ『Romelia War Chronicle』は2026年7月31日に米国ワシントンD.C.のOtakonでワールドプレミア上映され、Crunchyrollで配信予定となっている。",
+          "放送は2クールで、根本優奈、小笠原仁、廣瀬裕也、千本木彩花、伊瀬茉莉也らが出演し、監督は白井宏旨、音楽はKOHTA YAMAMOTOが担当する。",
+          "魔王討伐後に婚約破棄され追放されたロメリアが、戦闘力ではなく交易、交渉、財務、情報収集の力で王国再建と防衛に挑む物語が描かれる。"
+        ],
+        "detailed_summary": "この記事は、『Romelia War Chronicle』のアニメがCrunchyrollで配信されることと、2026年7月31日にOtakonでワールドプレミアが行われる予定を報じている。原作は2019年開始のライトノベルで、シリーズ累計55万部超。主人公ロメリアは、勇者一行から不要と切り捨てられた後、自ら培った交渉力や財務感覚を武器に軍を築き、王国を守ろうとする。異世界ものの中でも、武力ではなく実務能力で逆転する構図が特徴になっている。",
+        "why_it_matters": "配信先と上映イベントが明確になり、海外展開の本格化が見えてきた。戦えない追放令嬢が知略で戦局を動かす設定は、異世界作品の中でも差別化しやすい。",
+        "headline": "どの配信面を取れるかで作品の到達範囲が変わる。IP流通の現実を追いやすい"
+      },
+      "selection_reason": "どの配信面を取れるかで作品の到達範囲が変わる。IP流通の現実を追いやすい",
+      "classification_reason": "どの配信面を取れるかで作品の到達範囲が変わる。IP流通の現実を追いやすい",
+      "knowledge_value": "配信先と上映イベントが明確になり、海外展開の本格化が見えてきた。戦えない追放令嬢が知略で戦局を動かす設定は、異世界作品の中でも差別化しやすい。",
+      "content_status": "content_ok",
+      "content_chars": 2776,
+      "source_access": "free",
+      "adjacent_field": "",
+      "adjacent_reasoning": ""
+    }
+  ],
+  "status": "complete",
+  "failed_modes": []
+}
