@@ -1,0 +1,414 @@
+{
+  "date": "2026-07-31",
+  "generated_at": "2026-07-31T09:00:04.159955+09:00",
+  "run_id": "20260731T090004+0900",
+  "mode_collection_counts": {
+    "breaking": 34,
+    "followup": 13,
+    "deep_dive": 4,
+    "adjacent": 2
+  },
+  "mode_errors": {},
+  "mode": "multimode",
+  "articles": [
+    {
+      "number": 1,
+      "title": "Apple、重大な供給制約に備えて在庫を積み増し",
+      "source": "TechCrunch",
+      "description": "",
+      "url": "https://techcrunch.com/2026/07/30/apple-stockpiles-inventory-as-it-braces-for-significant-supply-constraints/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-30",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 1,
+        "title_ja": "Apple、重大な供給制約に備えて在庫を積み増し",
+        "key_points": [
+          "生成AIブームでメモリ需要と価格が急騰し、AppleはiPhoneやMac向け部材の確保に苦戦している。",
+          "在庫は前年9月の57億ドルから111億ドルへ増加し、在庫最小化を重視してきた従来方針から転換した。",
+          "供給制約の影響でMacとiPadは値上げされ、次四半期の売上成長見通しも鈍化して株価は時間外で下落した。"
+        ],
+        "detailed_summary": "Appleは過去最高の6月四半期決算を示し、iPhone売上は前年同期比22％増、Macは29％増と好調だった。一方で、生成AI向け需要の急拡大で先端メモリの調達が逼迫し、Appleシリコンに使う高度なメモリ確保が大きな課題になっている。Tim Cook氏は供給網の柔軟性が乏しく、制約の影響は今後さらに強まると説明。在庫は111億ドルまで積み上がり、MacとiPadの値上げにも踏み切った。成長率見通しの鈍化を受け、投資家の不安も広がっている。",
+        "why_it_matters": "AIブームが半導体需給を押し上げ、消費者向けハードの価格や供給に直接波及していることを示す。Appleですら例外ではなく、業界全体のコスト構造と製品戦略に影響する。",
+        "headline": "AI需要が部材逼迫を本格化させ、端末側の供給制約が収益と製品計画に波及し始めた"
+      },
+      "selection_reason": "AI需要が部材逼迫を本格化させ、端末側の供給制約が収益と製品計画に波及し始めた",
+      "classification_reason": "AI需要が部材逼迫を本格化させ、端末側の供給制約が収益と製品計画に波及し始めた",
+      "knowledge_value": "AIブームが半導体需給を押し上げ、消費者向けハードの価格や供給に直接波及していることを示す。Appleですら例外ではなく、業界全体のコスト構造と製品戦略に影響する。",
+      "content_status": "content_ok",
+      "content_chars": 2099,
+      "source_access": "free"
+    },
+    {
+      "number": 2,
+      "title": "判事、トランプ政権はAnthropicを「サプライチェーンリスク」とする証拠をなお欠くと指摘",
+      "source": "TechCrunch",
+      "description": "",
+      "url": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-30",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 2,
+        "title_ja": "判事、トランプ政権はAnthropicを「サプライチェーンリスク」とする証拠をなお欠くと指摘",
+        "key_points": [
+          "連邦判事は、Anthropicを供給網リスクと認定して政府利用を禁じる十分な証拠を政権側が示していないと述べた。",
+          "対立の発端は国防総省との契約交渉で、Anthropicは大量監視や致死兵器の標的選定への利用に難色を示していた。",
+          "政権側の主張には、公開批判への報復につながりかねない論理や、モデル停止機能の存在を示せない点が含まれている。"
+        ],
+        "detailed_summary": "米連邦地裁のRita Lin判事は、トランプ政権がAnthropicをサプライチェーン上のリスクと位置づけ、連邦政府による同社技術の利用を禁じた措置について、根拠が不十分だと指摘した。争点は国防総省との契約交渉にあり、Anthropic側は米国民の大量監視や致死兵器の標的判断への活用は技術的に時期尚早だと主張。これに対し政府は公開批判や有事のモデル改変可能性を問題視したが、判事は証拠が見当たらないとし、暫定差し止めを恒久化するか判断を進めている。",
+        "why_it_matters": "AI企業が軍事利用の範囲にどこまで関与できるかという線引きを問う重要事例だ。政府調達における報復的排除が許されるかどうかという法的前例にもつながる。",
+        "headline": "AI企業への安全保障ラベル付けが司法で止まり、政権とモデル企業の緊張が可視化した"
+      },
+      "selection_reason": "AI企業への安全保障ラベル付けが司法で止まり、政権とモデル企業の緊張が可視化した",
+      "classification_reason": "AI企業への安全保障ラベル付けが司法で止まり、政権とモデル企業の緊張が可視化した",
+      "knowledge_value": "AI企業が軍事利用の範囲にどこまで関与できるかという線引きを問う重要事例だ。政府調達における報復的排除が許されるかどうかという法的前例にもつながる。",
+      "content_status": "content_ok",
+      "content_chars": 1530,
+      "source_access": "free"
+    },
+    {
+      "number": 3,
+      "title": "AIによるバグ探索で、Chromeは週2回のパッチ配信が必要に",
+      "source": "WIRED",
+      "description": "",
+      "url": "https://www.wired.com/story/chrome-needs-twice-a-week-patching-thanks-to-ai-bug-hunting-for-now/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-31",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 3,
+        "title_ja": "AIによるバグ探索で、Chromeは週2回のパッチ配信が必要に",
+        "key_points": [
+          "Googleによると、6月のChrome主要2リリースだけで1,072件の脆弱性修正が行われた。",
+          "増加の主因は、AIを使った脆弱性発見、トリアージ、修正開発の社内プロセス強化にある。",
+          "Chromeは2週間ごとの大型更新に加え、当面は週2回のセキュリティ更新を試行している。"
+        ],
+        "detailed_summary": "Chromeのセキュリティチームは、AIを活用した脆弱性探索の進化によって、バグ発見と修正のペースが急増していると報告した。6月の主要2回のバージョン更新では1,072件の脆弱性を修正し、これは過去23回分の大型更新の合計を上回る規模だ。Googleは2012年頃から機械学習を活用してきたが、今年は攻守の両面で転換点だと説明する。こうした状況を受け、Chromeは通常の大型更新に加えて週2回のセキュリティ修正配信を試しており、AI時代の防御体制を先取りしている。",
+        "why_it_matters": "AIは攻撃だけでなく防御側の開発運用も根本から変え始めている。主要ソフトの更新頻度が上がれば、企業のIT運用やユーザーの安全確保の前提も変わる。",
+        "headline": "AIが脆弱性探索の速度を引き上げ、実運用側のパッチ頻度と防御前提を変え始めた"
+      },
+      "selection_reason": "AIが脆弱性探索の速度を引き上げ、実運用側のパッチ頻度と防御前提を変え始めた",
+      "classification_reason": "AIが脆弱性探索の速度を引き上げ、実運用側のパッチ頻度と防御前提を変え始めた",
+      "knowledge_value": "AIは攻撃だけでなく防御側の開発運用も根本から変え始めている。主要ソフトの更新頻度が上がれば、企業のIT運用やユーザーの安全確保の前提も変わる。",
+      "content_status": "content_ok",
+      "content_chars": 3931,
+      "source_access": "unknown",
+      "content_excerpt": "Google’s Chrome browser has always been focused on pushing security updates. A decade ago it was controversial that the browser, the first to add automatic..."
+    },
+    {
+      "number": 4,
+      "title": "FRBの金利据え置き決定が、ウォール街のインフレ不安を揺さぶる",
+      "source": "Yahoo Finance",
+      "description": "",
+      "url": "https://finance.yahoo.com/economy/policy/articles/fed-interest-rate-decision-rocks-163300252.html",
+      "category": "経済・金融",
+      "published_at": "2026-07-30",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 4,
+        "title_ja": "FRBの金利据え置き決定が、ウォール街のインフレ不安を揺さぶる",
+        "key_points": [
+          "FRBは7月29日に政策金利を9対3で据え置いたが、明確な先行き指針を示さなかった。",
+          "市場はこれを安心材料と受け取らず、30年債利回りは5.2％に達し、ダウ平均は1,153ポイント下落した。",
+          "市場関係者は9月利上げ観測を強めており、中東情勢によるエネルギー価格上昇が大きな焦点になっている。"
+        ],
+        "detailed_summary": "FRBの7月会合では利上げも明確なフォワードガイダンスも見送られたが、Kevin Warsh議長はインフレ率を2％目標に戻す姿勢だけを繰り返し、具体策には踏み込まなかった。この曖昧さが市場の不安を強め、7月29日の据え置き後に30年米国債利回りは5.2％まで上昇、ダウ平均も2.19％安となった。市場では9月会合が重要になるとの見方が広がり、とくに中東での軍事緊張を背景とする原油高が、今後のインフレと金融政策を左右する要因として意識されている。",
+        "why_it_matters": "金利の据え置き自体よりも、中央銀行が先行きをどこまで明確に語るかが市場安定に直結している。インフレ再加速と地政学リスクが重なる中で、資産価格の変動はさらに大きくなりやすい。",
+        "headline": "7月FOMC後の市場解釈が揺れ、金利と株式の織り込み修正を追う起点として重要"
+      },
+      "selection_reason": "7月FOMC後の市場解釈が揺れ、金利と株式の織り込み修正を追う起点として重要",
+      "classification_reason": "7月FOMC後の市場解釈が揺れ、金利と株式の織り込み修正を追う起点として重要",
+      "knowledge_value": "金利の据え置き自体よりも、中央銀行が先行きをどこまで明確に語るかが市場安定に直結している。インフレ再加速と地政学リスクが重なる中で、資産価格の変動はさらに大きくなりやすい。",
+      "content_status": "content_ok",
+      "content_chars": 2528,
+      "source_access": "free"
+    },
+    {
+      "number": 5,
+      "title": "Criterion Channel、9月1日に『新世紀エヴァンゲリオン』と劇場版2作を追加",
+      "source": "Anime News Network",
+      "description": "GKIDS licensed original 1995 TV anime, both films",
+      "url": "https://www.animenewsnetwork.com/news/2026-07-30/criterion-channel-adds-neon-genesis-evangelion-anime-evangelion-death-2-the-end-of-evangelion-films-/.240121",
+      "category": "漫画・アニメ・文化",
+      "published_at": "2026-07-30",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 5,
+        "title_ja": "Criterion Channel、9月1日に『新世紀エヴァンゲリオン』と劇場版2作を追加",
+        "key_points": [
+          "Criterion Channelは9月1日から『新世紀エヴァンゲリオン』TVシリーズと『EVANGELION:DEATH (TRUE)²』『Air/まごころを、君に』を配信する。",
+          "北米では長らく入手困難だったが、GKIDSが2020年にTV版と関連映画の権利を取得して再展開を進めてきた。",
+          "Criterion Channelは2025年以降アニメの拡充を進めており、今回の追加はその流れを象徴する。"
+        ],
+        "detailed_summary": "Criterion Channelは9月1日から『新世紀エヴァンゲリオン』TVアニメ本編に加え、『EVANGELION:DEATH (TRUE)²』と『The End of Evangelion』を配信する。作品群はアニメ史上でも特に影響力が大きい一方、北米では長く絶版状態にあり、再視聴の機会が限られていた。GKIDSは2020年に権利を取得し、近年は劇場上映も実施している。Criterion Channel自身も2025年以降アニメ作品の導入を進めており、エヴァ追加は配信ラインアップ強化の中でも象徴的な一手といえる。",
+        "why_it_matters": "歴史的評価の高い作品へのアクセス改善は、アニメ文化の再評価と新規視聴者の拡大につながる。配信サービスがクラシックアニメの保存と再流通を担う流れも鮮明になっている。",
+        "headline": "強いIPが配信面で再流通し、旧作アニメ資産の海外再評価と文脈更新を示している"
+      },
+      "selection_reason": "強いIPが配信面で再流通し、旧作アニメ資産の海外再評価と文脈更新を示している",
+      "classification_reason": "強いIPが配信面で再流通し、旧作アニメ資産の海外再評価と文脈更新を示している",
+      "knowledge_value": "歴史的評価の高い作品へのアクセス改善は、アニメ文化の再評価と新規視聴者の拡大につながる。配信サービスがクラシックアニメの保存と再流通を担う流れも鮮明になっている。",
+      "content_status": "content_ok",
+      "content_chars": 2683,
+      "source_access": "free"
+    },
+    {
+      "number": 6,
+      "title": "Mark Zuckerberg、個人向けAIエージェントへ大規模な攻勢を計画",
+      "source": "The Verge",
+      "description": "",
+      "url": "https://www.theverge.com/tech/972294/meta-q2-2026-earnings-mark-zuckerberg-personal-ai-agents",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-29",
+      "mode": "followup",
+      "summary": {
+        "article_index": 6,
+        "title_ja": "Mark Zuckerberg、個人向けAIエージェントへ大規模な攻勢を計画",
+        "key_points": [
+          "Metaは24時間ユーザーの代わりに動く個人向けAIエージェントを次の大きな柱に据える方針を示した。",
+          "Zuckerberg氏は、コーディング向け中心の他社と異なり、一般消費者がそのまま使える製品化を重視すると語った。",
+          "Metaは事業用エージェントの展開も拡大中で、AI投資として2026年に1300億〜1450億ドルの設備投資を見込む。"
+        ],
+        "detailed_summary": "Metaの2026年第2四半期決算説明会で、Mark Zuckerberg氏は個人向けAIエージェントを近く本格展開すると示した。目標は、技術に詳しくない人でも初期設定なしで使え、健康や人間関係、家計管理など幅広い目的を支援する消費者向け製品に仕上げることだ。もっとも、MetaはGoogleやMicrosoftのようにメールや文書基盤を持たず、AI研究面でも先行勢に後れを取るとの見方がある。一方でWhatsAppやMessenger上の事業者向けエージェントは週100万社超が利用しており、Instagramにも拡大中。巨額の設備投資と組織再編でAIへの賭けを強めている。",
+        "why_it_matters": "AIエージェント競争は企業向けから生活全般を支える個人向けへ広がりつつある。Metaが本気で参入すれば、SNS企業が個人の行動支援領域まで踏み込む転換点になり得る。",
+        "headline": "チャット体験から個人代理実行へ軸足を移し、主要プレイヤーの競争面が一段進んだ"
+      },
+      "selection_reason": "チャット体験から個人代理実行へ軸足を移し、主要プレイヤーの競争面が一段進んだ",
+      "classification_reason": "チャット体験から個人代理実行へ軸足を移し、主要プレイヤーの競争面が一段進んだ",
+      "knowledge_value": "AIエージェント競争は企業向けから生活全般を支える個人向けへ広がりつつある。Metaが本気で参入すれば、SNS企業が個人の行動支援領域まで踏み込む転換点になり得る。",
+      "content_status": "content_ok",
+      "content_chars": 3054,
+      "source_access": "free"
+    },
+    {
+      "number": 7,
+      "title": "EU、米中への巻き返しへAIギガファクトリー7カ所に114億ドルを投じる計画",
+      "source": "AP News",
+      "description": "",
+      "url": "https://apnews.com/article/eu-ai-gigafactories-china-us-data-center-88b83cd517a4d47c115605e636d0b3e4",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-30",
+      "mode": "followup",
+      "summary": {
+        "article_index": 1,
+        "title_ja": "EU、米中への巻き返しへAIギガファクトリー7カ所に114億ドルを投じる計画",
+        "key_points": [
+          "EU欧州委員会はAI計算基盤の強化へ100億ユーロを拠出し、7つのAIギガファクトリー建設を促す方針を示した。",
+          "公的資金を呼び水に200億ユーロの民間投資も見込み、各施設には最先端AIチップを少なくとも10万基備える計画だ。",
+          "欧州は電力コストや部材供給、民間投資額で米中に後れを取っており、技術主権とデータ主権の確保が急務になっている。"
+        ],
+        "detailed_summary": "EUは米国と中国に後れを取るAI基盤の立て直しに向け、100億ユーロを投じて7つのAIギガファクトリー建設を支援する。公的資金で民間資金200億ユーロを呼び込み、各拠点には10万基以上の先端チップを配備する構想だ。狙いは演算能力の底上げだけではない。欧州は電力高、部材供給の弱さ、米系クラウド依存という構造問題を抱えており、AIを巡る技術主権と運用自律性の回復が政策の中心に据えられている。",
+        "why_it_matters": "AI競争はモデル開発だけでなく計算資源の確保で決まる局面に入っている。EUの動きは、半導体・クラウド・データ主権を含む産業政策として各地域の分断を強める可能性がある。",
+        "headline": "モデル競争が資本と電力の産業政策へ移り、欧州の追撃手段が具体化した"
+      },
+      "selection_reason": "モデル競争が資本と電力の産業政策へ移り、欧州の追撃手段が具体化した",
+      "classification_reason": "モデル競争が資本と電力の産業政策へ移り、欧州の追撃手段が具体化した",
+      "knowledge_value": "AI競争はモデル開発だけでなく計算資源の確保で決まる局面に入っている。EUの動きは、半導体・クラウド・データ主権を含む産業政策として各地域の分断を強める可能性がある。",
+      "content_status": "content_ok",
+      "content_chars": 3427,
+      "source_access": "unknown"
+    },
+    {
+      "number": 8,
+      "title": "リモート操作を管理対象デバイスに限定",
+      "source": "GitHub Changelog",
+      "description": "",
+      "url": "https://github.blog/changelog/2026-07-30-limit-remote-control-to-managed-devices/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-30",
+      "mode": "followup",
+      "summary": {
+        "article_index": 2,
+        "title_ja": "リモート操作を管理対象デバイスに限定",
+        "key_points": [
+          "組織はCopilotのリモート操作を許可する端末を管理対象デバイスに絞り込めるようになった。",
+          "新しいremoteControl設定では、SSO必須、完全無効、制限なし有効を選べ、既存の企業ポリシーと組み合わせて運用できる。",
+          "設定はサーバー管理、MDM配布、ファイル配布の3方式で導入でき、ユーザー単位と端末単位の両面から統制できる。"
+        ],
+        "detailed_summary": "企業向けCopilotで、どの端末がリモート操作の受け手になれるかを細かく制御する新設定が追加された。管理者はremoteControl設定を使い、特定組織のSSO認証を必須にする、機能自体を無効化する、無制限で有効化する、といった運用を端末単位で決められる。既存の企業ポリシーがユーザー全体への提供可否を握り、新設定が端末側の条件を縛る二層構造になったことで、セキュリティと運用柔軟性を両立しやすくなる。",
+        "why_it_matters": "生成AIのリモート操作は便利だが、端末管理が甘いと情報漏えいの入口になる。企業にとっては、利用拡大と統制を両立するための実務的な改善だ。",
+        "headline": "リモート操作AIの導入条件が端末管理へ寄り、権限設計と監督UIの前提が締まった"
+      },
+      "selection_reason": "リモート操作AIの導入条件が端末管理へ寄り、権限設計と監督UIの前提が締まった",
+      "classification_reason": "リモート操作AIの導入条件が端末管理へ寄り、権限設計と監督UIの前提が締まった",
+      "knowledge_value": "生成AIのリモート操作は便利だが、端末管理が甘いと情報漏えいの入口になる。企業にとっては、利用拡大と統制を両立するための実務的な改善だ。",
+      "content_status": "content_ok",
+      "content_chars": 1351,
+      "source_access": "free"
+    },
+    {
+      "number": 9,
+      "title": "AIの粗製乱造に対し、アーティストたちは法廷で反撃し始めている",
+      "source": "The Verge",
+      "description": "",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/971059/ai-artists-lawsuit-google-meta-anthropic",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-30",
+      "mode": "followup",
+      "summary": {
+        "article_index": 3,
+        "title_ja": "AIの粗製乱造に対し、アーティストたちは法廷で反撃し始めている",
+        "key_points": [
+          "作家やイラストレーター、音楽家らが、自作物を無断で学習に使ったとしてAI企業への訴訟を拡大している。",
+          "争点の中心は著作権だが、利用規約違反など別の法的論点も持ち込まれ、勝敗は分かれつつも一部で前進が見られる。",
+          "当事者たちは訴訟の行方に一定の期待を持つ一方、AIの普及が創作環境そのものを壊しかねない不安を強く抱いている。"
+        ],
+        "detailed_summary": "AI学習データの可視化が進んだことで、自分の本や絵、音楽が無断利用されていたと知ったアーティストたちが法廷闘争を強めている。訴えの相手はAnthropic、Meta、Google、Stability AI、Midjourneyなど大手が中心で、著作権侵害に加え利用規約違反も争点になっている。判例はまだ揺れているが、創作者側は法的な歯止めを作れると見ている。ただ、裁判で一部勝てても、生成AIが創作の経済基盤や職業の将来を削るという根深い危機感は消えていない。",
+        "why_it_matters": "生成AIの正当性は技術論ではなく権利処理の問題として再定義されつつある。今後の判決は、AI企業の学習慣行とクリエイター経済の境界線を大きく左右する。",
+        "headline": "生成物の氾濫が訴訟と和解の実務段階に入り、創作経済の防衛線が見え始めた"
+      },
+      "selection_reason": "生成物の氾濫が訴訟と和解の実務段階に入り、創作経済の防衛線が見え始めた",
+      "classification_reason": "生成物の氾濫が訴訟と和解の実務段階に入り、創作経済の防衛線が見え始めた",
+      "knowledge_value": "生成AIの正当性は技術論ではなく権利処理の問題として再定義されつつある。今後の判決は、AI企業の学習慣行とクリエイター経済の境界線を大きく左右する。",
+      "content_status": "content_ok",
+      "content_chars": 10143,
+      "source_access": "free"
+    },
+    {
+      "number": 10,
+      "title": "大規模アクションモデルは顧客体験をどう変えるのか",
+      "source": "TechRadar",
+      "description": "",
+      "url": "https://www.techradar.com/pro/how-large-action-models-are-reshaping-cx",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-28",
+      "mode": "deep_dive",
+      "summary": {
+        "article_index": 4,
+        "title_ja": "大規模アクションモデルは顧客体験をどう変えるのか",
+        "key_points": [
+          "多くの企業はAIを導入していても、実運用では試験段階にとどまり、顧客対応は依然として分断されがちだ。",
+          "LAMはLLMの会話理解を土台に、次に取るべき行動を判断し、複数システムをまたいだ業務処理を自律実行する。",
+          "航空便の振替や補償処理のように、説明だけで終わらない実行型AIがCXの中心に移りつつある。"
+        ],
+        "detailed_summary": "記事は、顧客体験の現場でAIの重心が会話生成から業務実行へ移りつつあると論じる。LLMは顧客の意図理解や自然な対話に強いが、それだけでは分断された社内システムをまたいで問題を解決できない。そこで注目されるのがLarge Action Modelsで、顧客認証、予約変更、補償処理、通知送信までをガードレール付きで自律実行する。企業が求めているのは、応答のうまさではなく、顧客の課題をその場で片づける実務能力だという整理だ。",
+        "why_it_matters": "AI導入の評価軸が、会話品質から業務完了率へ移ることを示している。CX分野では、社内システムを動かせるAIが競争力を左右する。",
+        "headline": "応答AIではなく実行AIへ重心が移る時、業務設計と承認フローがどう変わるか見える"
+      },
+      "selection_reason": "応答AIではなく実行AIへ重心が移る時、業務設計と承認フローがどう変わるか見える",
+      "classification_reason": "応答AIではなく実行AIへ重心が移る時、業務設計と承認フローがどう変わるか見える",
+      "knowledge_value": "AI導入の評価軸が、会話品質から業務完了率へ移ることを示している。CX分野では、社内システムを動かせるAIが競争力を左右する。",
+      "content_status": "content_ok",
+      "content_chars": 8649,
+      "source_access": "unknown"
+    },
+    {
+      "number": 11,
+      "title": "Redis Agent Memory",
+      "source": "Redis",
+      "description": "",
+      "url": "https://redis.io/agent-memory/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-30",
+      "mode": "deep_dive",
+      "summary": {
+        "article_index": 5,
+        "title_ja": "Redis Agent Memory",
+        "key_points": [
+          "Redisは、AIエージェント向けに短期記憶と長期コンテキストを管理するマネージドメモリ層を提供している。",
+          "会話から事実、好み、出来事をLLMで抽出し、要約や重複排除を行いながらベクトル化して保存できる。",
+          "REST API、MCP、Pythonクライアントに対応し、保存先もRedis以外にPinecone、Chroma、PostgreSQLなどを選べる。"
+        ],
+        "detailed_summary": "Redis Agent Memoryは、AIエージェントが会話をまたいで文脈を保持するための管理型メモリ基盤だ。セッションごとの生メッセージを短期記憶として保持しつつ、LLMで重要な事実や嗜好、出来事を抽出し、埋め込みとして長期保存する。履歴の自動要約、不要部分のトリミング、重複排除、意味検索までを備え、開発者が昇格ルールや剪定ロジックを自前実装しなくても、必要な文脈をエージェントへ高速に渡せる点を売りにしている。",
+        "why_it_matters": "エージェントの品質は推論力だけでなく、必要な文脈をどれだけ正確に持ち越せるかで決まる。記憶レイヤーの標準化は、実運用エージェントの開発速度と信頼性を押し上げる。",
+        "headline": "長時間エージェントの状態保持をどう切り出すか、実装判断の土台として使える"
+      },
+      "selection_reason": "長時間エージェントの状態保持をどう切り出すか、実装判断の土台として使える",
+      "classification_reason": "長時間エージェントの状態保持をどう切り出すか、実装判断の土台として使える",
+      "knowledge_value": "エージェントの品質は推論力だけでなく、必要な文脈をどれだけ正確に持ち越せるかで決まる。記憶レイヤーの標準化は、実運用エージェントの開発速度と信頼性を押し上げる。",
+      "content_status": "content_ok",
+      "content_chars": 1417,
+      "source_access": "unknown"
+    },
+    {
+      "number": 12,
+      "title": "戦争リスク保険とは何か ホルムズ海峡はどう値付けされるのか",
+      "source": "Straits",
+      "description": "",
+      "url": "https://straits.live/war-risk-insurance-explained",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-27",
+      "mode": "deep_dive",
+      "summary": {
+        "article_index": 6,
+        "title_ja": "戦争リスク保険とは何か ホルムズ海峡はどう値付けされるのか",
+        "key_points": [
+          "商船の通常保険では戦争、拿捕、テロ、機雷などは対象外で、別建ての戦争リスク保険を購入する必要がある。",
+          "ロイズ市場とJoint War Committeeの指定海域リストが保険料形成の中核で、指定海域に入る前には追加保険料の再見積もりが発生する。",
+          "ホルムズ海峡では、平時はVLCC1航海あたり十数万ドル規模でも、緊張が高まると追加保険料が数倍に跳ね、航海採算を左右する。"
+        ],
+        "detailed_summary": "記事は、ホルムズ海峡の危機が海運市場でどう価格化されるかを、戦争リスク保険の仕組みから解説する。通常の船体保険やP&I保険では戦争、拿捕、テロ、機雷などは免責で、別途war-risk coverが必要になる。中心市場はロイズで、Joint War Committeeが危険海域を指定すると、船主は入域前通知を行い、その都度追加保険料を提示される。VLCCのような大型原油船では保険率の小さな変化でも1航海あたりのコストが大きく増え、輸送判断や原油物流に直結する。",
+        "why_it_matters": "地政学リスクはニュース見出しより先に保険料へ表れる。ホルムズの保険コストを読むことは、原油供給、運賃、インフレ圧力の先行指標を読むことに近い。",
+        "headline": "地政学ショックが保険料率に先に出る構造を掴めば、能源と物流の読みが一段深まる"
+      },
+      "selection_reason": "地政学ショックが保険料率に先に出る構造を掴めば、能源と物流の読みが一段深まる",
+      "classification_reason": "地政学ショックが保険料率に先に出る構造を掴めば、能源と物流の読みが一段深まる",
+      "knowledge_value": "地政学リスクはニュース見出しより先に保険料へ表れる。ホルムズの保険コストを読むことは、原油供給、運賃、インフレ圧力の先行指標を読むことに近い。",
+      "content_status": "content_ok",
+      "content_chars": 6917,
+      "source_access": "unknown"
+    },
+    {
+      "number": 13,
+      "title": "330MWデータセンターが農地を買って灌漑を止め、その差分の水を使おうとしたが、カリフォルニア最大級の灌漑区が拒否し、訴訟に発展",
+      "source": "TechRadar",
+      "description": "",
+      "url": "https://www.techradar.com/pro/a-330-mw-data-center-wanted-to-buy-a-farm-switch-off-the-irrigation-and-drink-the-difference-californias-most-powerful-irrigation-district-said-no-so-it-sued",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-28",
+      "mode": "adjacent",
+      "summary": {
+        "article_index": 1,
+        "title_ja": "330MWデータセンターが農地を買って灌漑を止め、その差分の水を使おうとしたが、カリフォルニア最大級の灌漑区が拒否し、訴訟に発展",
+        "key_points": [
+          "IVCMは330MWの大型データセンター冷却用として年間880エーカーフィート、約2億8700万ガロンの水供給をIIDに求めた",
+          "開発側は農地の灌漑を止めて相殺するためコロラド川の需要増はないと主張したが、IIDは規則を理由に申請を却下した",
+          "争点は休耕地や農地由来の水を工業用途へ振り替えられるかで、水量自体より前例化の影響が大きい"
+        ],
+        "detailed_summary": "カリフォルニア州で計画中の330MWデータセンターを巡り、開発会社IVCMが冷却用水の供給を拒まれたとしてImperial Irrigation Districtを提訴した。要求水量は年間880エーカーフィートで、IIDの取水権全体から見れば0.03％程度にすぎない。開発側は隣接農地の灌漑停止で消費を相殺するため実質ゼロ影響だと説明したが、IIDは規則21を根拠に市の水道利用を求めた。農業用水を産業用へ転用できるかという前例づくりが本質的な争点になっている。",
+        "why_it_matters": "水量の大小ではなく、水利権の使い道をデータセンター向けに組み替えられるかが問われている。認められれば、干ばつ地域でのデータセンター立地や地域の水配分ルールに広く波及する。",
+        "headline": "計算資源の勝負が水利権と地域政治にぶつかる現実を押さえると視野が広がる"
+      },
+      "selection_reason": "計算資源の勝負が水利権と地域政治にぶつかる現実を押さえると視野が広がる",
+      "classification_reason": "計算資源の勝負が水利権と地域政治にぶつかる現実を押さえると視野が広がる",
+      "knowledge_value": "水量の大小ではなく、水利権の使い道をデータセンター向けに組み替えられるかが問われている。認められれば、干ばつ地域でのデータセンター立地や地域の水配分ルールに広く波及する。",
+      "content_status": "content_ok",
+      "content_chars": 5267,
+      "source_access": "unknown",
+      "adjacent_field": "データセンターの水・電力・保険制約",
+      "adjacent_reasoning": "AI競争やAGI到達見通しを本気で追うなら、モデル性能そのものより先に、計算資源を支える電力、水、保険、立地の制約を押さえた方が視野が広がります。地政学やエネルギー供給網への関心とも自然につながります。"
+    },
+    {
+      "number": 14,
+      "title": "人、電力、水がデジタルインフラの運用リスクを決めている",
+      "source": "Aon",
+      "description": "",
+      "url": "https://www.aon.com/en/insights/articles/data-center-operational-risks-power-water-people",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-27",
+      "mode": "adjacent",
+      "summary": {
+        "article_index": 2,
+        "title_ja": "人、電力、水がデジタルインフラの運用リスクを決めている",
+        "key_points": [
+          "データセンター拡大の制約は資金ではなく、電力、水、地域受容、人材の確保に移っている",
+          "これらの制約は設計、建設、移行、運用、退出の全ライフサイクルに連鎖し、銀行融資適格性や保険、レジリエンスを左右する",
+          "AI需要の増加で送電網接続の遅れや設備納期長期化が進み、電力確保がサイト選定と開発期間を決める要因になっている"
+        ],
+        "detailed_summary": "この記事は、データセンターが重要インフラ化する中で、運用リスクの中心が電力、水、熟練労働力へ移ったと論じる。AIとクラウド需要で投資は増える一方、実際の拡張は送電網容量、水資源、現場人材に縛られる。しかも各要素は独立しておらず、冷却方式やエネルギー設計が複雑になるほど、それを実装し維持できる人材の有無が成否を決める。結果として、これらは稼働後の問題ではなく、設計段階から資金調達、保険、稼働継続性を左右する経営課題になっている。",
+        "why_it_matters": "データセンター競争は、単に建てる資金があるかではなく、限られた電力と水を確保し、それを回せる人材まで押さえられるかで決まる。インフラ投資判断の基準が設備規模から供給制約への対応力へ変わっている。",
+        "headline": "電力と水だけでなく保険と人材が制約になる視点はAI投資の外縁を広げる"
+      },
+      "selection_reason": "電力と水だけでなく保険と人材が制約になる視点はAI投資の外縁を広げる",
+      "classification_reason": "電力と水だけでなく保険と人材が制約になる視点はAI投資の外縁を広げる",
+      "knowledge_value": "データセンター競争は、単に建てる資金があるかではなく、限られた電力と水を確保し、それを回せる人材まで押さえられるかで決まる。インフラ投資判断の基準が設備規模から供給制約への対応力へ変わっている。",
+      "content_status": "content_ok",
+      "content_chars": 28130,
+      "source_access": "unknown",
+      "adjacent_field": "データセンターの水・電力・保険制約",
+      "adjacent_reasoning": "AI競争やAGI到達見通しを本気で追うなら、モデル性能そのものより先に、計算資源を支える電力、水、保険、立地の制約を押さえた方が視野が広がります。地政学やエネルギー供給網への関心とも自然につながります。"
+    }
+  ],
+  "status": "complete",
+  "failed_modes": []
+}
