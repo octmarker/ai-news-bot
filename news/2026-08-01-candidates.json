@@ -1,0 +1,383 @@
+{
+  "date": "2026-08-01",
+  "generated_at": "2026-08-01T09:00:03.437090+09:00",
+  "run_id": "20260801T090003+0900",
+  "mode_collection_counts": {
+    "breaking": 35,
+    "followup": 15,
+    "deep_dive": 3,
+    "adjacent": 1
+  },
+  "mode_errors": {},
+  "mode": "multimode",
+  "articles": [
+    {
+      "number": 1,
+      "title": "Google EarthのAIディープフェイク機能、わずか1日で停止",
+      "source": "The Verge",
+      "description": "Google has shut down Google Earth feature it launched Thursday that allowed users to edit satellite images with text prompts using AI. The tool essentially let users create AI deepfakes of the real world using text prompts; Digital Digging's Henk van Ess, for example, intentionally generated images adding things like refugees near the Mexican border […]",
+      "url": "https://www.theverge.com/tech/973943/google-earth-ai-image-generation-deepfake-tool",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-31",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 1,
+        "title_ja": "Google EarthのAIディープフェイク機能、わずか1日で停止",
+        "key_points": [
+          "Google Earthに追加された、テキスト指示で衛星画像を改変できるAI機能が公開翌日に停止された。",
+          "難民の追加やガザの病院付近の爆破跡など、現実世界を偽装する画像が容易に生成できることが問題視された。",
+          "Googleは透かし表示と一定の安全策を説明したが、より強いガードレールが必要としてロールバックした。"
+        ],
+        "detailed_summary": "Googleは木曜に公開したGoogle Earthの生成AI機能を、翌日に停止した。これはテキスト入力で衛星画像風の場面を作れる機能で、現実の地理情報を改ざんしたように見える画像を誰でも簡単に作れてしまう点が批判を招いた。実際に検証では、メキシコ国境付近の難民やガザの病院近くの爆破跡など、誤情報に直結し得る画像が生成されたという。GoogleはAI生成の透かしや有害テーマ対策を説明したが、信頼性の高い世界の見取り図として使われるEarthでは不十分と判断し、機能を引き下げた。",
+        "why_it_matters": "地図や衛星画像は報道、研究、政策判断でも信頼されやすい。そこに生成AIが入り込むと、透かしがあっても誤情報の拡散源になり得ることを示した。",
+        "headline": "生成AI機能が公開翌日に停止し、地理情報と改変耐性の境界線が一気に可視化した"
+      },
+      "selection_reason": "生成AI機能が公開翌日に停止し、地理情報と改変耐性の境界線が一気に可視化した",
+      "classification_reason": "生成AI機能が公開翌日に停止し、地理情報と改変耐性の境界線が一気に可視化した",
+      "knowledge_value": "地図や衛星画像は報道、研究、政策判断でも信頼されやすい。そこに生成AIが入り込むと、透かしがあっても誤情報の拡散源になり得ることを示した。",
+      "content_status": "content_ok",
+      "content_chars": 1669,
+      "source_access": "free"
+    },
+    {
+      "number": 2,
+      "title": "NHTSA、サスペンション不具合報告でテスラ車120万台を調査",
+      "source": "The Verge",
+      "description": "The National Highway Traffic Safety Administration (NHTSA) is probing nearly 1.2 million Tesla vehicles after receiving complaints about a suspension failure that could cause \"a loss of vehicle directional control,\" as reported earlier by Reuters. The preliminary investigation includes the 2018-2020 Model 3 and 2021-2023 Model Y, according to a filing from the NHTSA's Office […]",
+      "url": "https://www.theverge.com/transportation/973887/nhtsa-tesla-investigation-suspension",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-31",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 2,
+        "title_ja": "NHTSA、サスペンション不具合報告でテスラ車120万台を調査",
+        "key_points": [
+          "米道路交通安全局NHTSAが、テスラ約120万台を対象に予備調査を開始した。",
+          "対象は2018〜2020年のModel 3と2021〜2023年のModel Yで、前輪サスペンション部品の分離が焦点となっている。",
+          "156件の苦情が寄せられているが、現時点で事故や負傷、死亡の報告は確認されていない。"
+        ],
+        "detailed_summary": "米道路交通安全局NHTSAは、前輪サスペンションの一部が外れる恐れがあるとして、テスラの約120万台を対象に予備調査を始めた。対象は2018〜2020年型Model 3と2021〜2023年型Model Yで、前側のロアラテラルリンクの分離が起きると操舵安定性を失う可能性がある。苦情は156件に上り、多くは事前警告なしで故障したとされる一方、一部では異音が前兆として報告された。テスラは過去にも類似のサスペンション問題でリコールを実施しているが、今回の案件はそれらと別件とみられている。",
+        "why_it_matters": "EV大手の品質問題は販売やブランドだけでなく、規制当局の監視強化にも直結する。事故が未発生でも、調査段階で大規模台数が対象になる点は重い。",
+        "headline": "テスラの量産品質問題が再び規制論点化し、自動車EV評価の前提を揺らす材料になる"
+      },
+      "selection_reason": "テスラの量産品質問題が再び規制論点化し、自動車EV評価の前提を揺らす材料になる",
+      "classification_reason": "テスラの量産品質問題が再び規制論点化し、自動車EV評価の前提を揺らす材料になる",
+      "knowledge_value": "EV大手の品質問題は販売やブランドだけでなく、規制当局の監視強化にも直結する。事故が未発生でも、調査段階で大規模台数が対象になる点は重い。",
+      "content_status": "content_ok",
+      "content_chars": 1430,
+      "source_access": "free"
+    },
+    {
+      "number": 3,
+      "title": "CXMTの華々しい上場初日、その真価は先端メモリーで問われる",
+      "source": "CNBC",
+      "description": "",
+      "url": "https://www.cnbc.com/2026/07/31/cxmts-sk-hynix-samsung-micron-memory-chip.html",
+      "category": "経済・金融",
+      "published_at": "2026-07-31",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 3,
+        "title_ja": "CXMTの華々しい上場初日、その真価は先端メモリーで問われる",
+        "key_points": [
+          "中国メモリーメーカーCXMTは上海市場デビューで約466％上昇し、注目を集めた。",
+          "ただし市場評価より重要なのは、Samsung、SK hynix、Micronとの技術格差をどこまで縮められるかだ。",
+          "EUV露光装置へのアクセス制限やHBM開発の遅れから、先端分野では1〜2世代後れの見方が強い。"
+        ],
+        "detailed_summary": "中国のメモリー半導体メーカーCXMTは上海市場への上場初日に株価が急騰し、中国の半導体自立戦略の成果として期待を集めた。ただ、アナリストは本当の勝負は資本市場の熱狂ではなく、AI向け需要の核であるHBMを含む先端DRAMで世界大手との差を縮められるかにあるとみる。米主導の輸出規制で中国は最先端EUV露光装置を使えず、CXMTは同量生産により多くのウェハーを要する不利を抱える。2026年末からHBM生産を狙うが、製品世代や歩留まりでなお遅れが見込まれ、中国内需を土台にシェアを伸ばす構図になりそうだ。",
+        "why_it_matters": "中国の半導体自給がどこまで実力を伴うかを測る試金石だからだ。上場の成功だけでは、AI時代の競争力を決めるHBM分野の構造的不利は埋まらない。",
+        "headline": "中国メモリ勢の資本市場評価が急浮上し、AI半導体競争の地政学が一段進んだ"
+      },
+      "selection_reason": "中国メモリ勢の資本市場評価が急浮上し、AI半導体競争の地政学が一段進んだ",
+      "classification_reason": "中国メモリ勢の資本市場評価が急浮上し、AI半導体競争の地政学が一段進んだ",
+      "knowledge_value": "中国の半導体自給がどこまで実力を伴うかを測る試金石だからだ。上場の成功だけでは、AI時代の競争力を決めるHBM分野の構造的不利は埋まらない。",
+      "content_status": "content_ok",
+      "content_chars": 3773,
+      "source_access": "free"
+    },
+    {
+      "number": 4,
+      "title": "海上の要衝が新たな戦場に、ドローンとミサイルが物流を揺らす",
+      "source": "CNBC",
+      "description": "",
+      "url": "https://www.cnbc.com/2026/07/30/strait-hormuz-drone-shipping-risks.html",
+      "category": "経済・金融",
+      "published_at": "2026-07-30",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 4,
+        "title_ja": "海上の要衝が新たな戦場に、ドローンとミサイルが物流を揺らす",
+        "key_points": [
+          "ホルムズ海峡だけでなく、紅海、黒海、アゾフ海など重要航路で商船への脅威が強まっている。",
+          "ドローンとミサイルの普及で、比較的小規模な戦力でも港湾や船舶、経済インフラに大きな打撃を与えられるようになった。",
+          "輸送遅延や保険料上昇、ルート変更が進み、エネルギー、食料、消費財の価格にも波及する恐れがある。"
+        ],
+        "detailed_summary": "世界の物流を支える海上交通の要衝が、相次いで軍事的な前線になっている。記事はホルムズ海峡、紅海、黒海、アゾフ海を例に、商船への攻撃や航行停止が保険料と運賃を押し上げ、従来は安定していた航路の前提を崩していると指摘する。特にウクライナによるドローンを使った対ロシア海上攻撃は、低コスト兵器がタンカーや港湾に深刻な経済損害を与える新しい戦い方を示した。海上輸送は世界の物量貿易の約8割を担うため、単一のボトルネックが止まるだけでも、食料や原油、工業製品の供給と価格が広範囲に揺さぶられる。",
+        "why_it_matters": "海上交通路は地政学の周辺要因ではなく、インフレや供給網を左右する中核リスクになった。ドローン戦の拡大で、今後は従来より安価に航路が脅かされる時代に入っている。",
+        "headline": "ホルムズだけでない海上ボトルネックの連鎖が、物流とエネルギー判断を重くする"
+      },
+      "selection_reason": "ホルムズだけでない海上ボトルネックの連鎖が、物流とエネルギー判断を重くする",
+      "classification_reason": "ホルムズだけでない海上ボトルネックの連鎖が、物流とエネルギー判断を重くする",
+      "knowledge_value": "海上交通路は地政学の周辺要因ではなく、インフレや供給網を左右する中核リスクになった。ドローン戦の拡大で、今後は従来より安価に航路が脅かされる時代に入っている。",
+      "content_status": "content_ok",
+      "content_chars": 7464,
+      "source_access": "free"
+    },
+    {
+      "number": 5,
+      "title": "現金減少と高騰するメモリー費用、AI投資の価格が膨張",
+      "source": "CNBC",
+      "description": "",
+      "url": "https://www.cnbc.com/2026/07/31/tech-earnings-cash-memory-ai.html",
+      "category": "経済・金融",
+      "published_at": "2026-07-31",
+      "mode": "breaking",
+      "summary": {
+        "article_index": 5,
+        "title_ja": "現金減少と高騰するメモリー費用、AI投資の価格が膨張",
+        "key_points": [
+          "大手テック企業のAI関連支出は2026年に7650億ドル、2027年には約1.2兆ドルへ拡大すると予測されている。",
+          "Amazon、Meta、Alphabetではフリーキャッシュフローの悪化が目立ち、AI投資が財務を圧迫している。",
+          "背景にはAI向け半導体に不可欠なメモリー不足と価格高騰があり、Appleの製品価格や需要にも波及している。"
+        ],
+        "detailed_summary": "AIブームが始まってから数年がたち、巨大テック企業は成長の物語を維持する一方で、投資負担の急膨張に直面している。Goldman SachsはAI支出が今年7650億ドル、2027年には約1.2兆ドルに達すると予測し、Amazonは年間設備投資見通しを2200億ドルへ引き上げた。Amazon、Meta、Alphabetではフリーキャッシュフローが大幅に悪化し、Nvidia製AIシステムに必要なメモリーの供給逼迫と価格高騰が主要因になっている。Appleもメモリー価格上昇と供給制約の影響を受け、MacやiPadの値上げに続き、iPhoneも値上げ圧力が強まる可能性がある。",
+        "why_it_matters": "AI競争は技術力だけでなく、巨額投資をどこまで耐えられるかという資本力の勝負になっている。メモリー不足はクラウド各社だけでなく、消費者向け製品価格にも波及する。",
+        "headline": "AI投資の勝敗が性能より資金繰りとメモリ調達力へ寄る局面が鮮明になった"
+      },
+      "selection_reason": "AI投資の勝敗が性能より資金繰りとメモリ調達力へ寄る局面が鮮明になった",
+      "classification_reason": "AI投資の勝敗が性能より資金繰りとメモリ調達力へ寄る局面が鮮明になった",
+      "knowledge_value": "AI競争は技術力だけでなく、巨額投資をどこまで耐えられるかという資本力の勝負になっている。メモリー不足はクラウド各社だけでなく、消費者向け製品価格にも波及する。",
+      "content_status": "content_ok",
+      "content_chars": 6117,
+      "source_access": "free"
+    },
+    {
+      "number": 6,
+      "title": "GPT-5.6で価格性能比を前進、OpenAIが値下げと高速化を実施",
+      "source": "OpenAI",
+      "description": "",
+      "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-30",
+      "mode": "followup",
+      "summary": {
+        "article_index": 6,
+        "title_ja": "GPT-5.6で価格性能比を前進、OpenAIが値下げと高速化を実施",
+        "key_points": [
+          "OpenAIはGPT-5.6 Lunaを80％、Terraを20％値下げし、APIではSol向けに高速なFast modeを導入した。",
+          "Fast modeは従来のPriority Processingを置き換え、標準処理比で最大2.5倍の速度を提供する。",
+          "企業は業務ごとに知能、速度、信頼性、コストの配分を柔軟に最適化しやすくなる。"
+        ],
+        "detailed_summary": "OpenAIはGPT-5.6ファミリーの運用効率改善を価格と速度の両面で顧客に還元すると発表した。最廉価で高速なLunaは80％値下げ、日常業務向けのTerraは20％値下げされ、CodexやChatGPT Workでの利用カウントにも反映される。加えてAPIではSol向けにFast modeを導入し、従来のPriority Processingを置き換えつつ、標準処理の最大2.5倍の速度を提供する。OpenAIは、業務の難所では高性能モデルを使い、実装やテストなど定義済み作業は低コスト高速モデルへ振り分けることで、企業が用途ごとに費用対効果を細かく最適化できると訴えている。",
+        "why_it_matters": "生成AIの導入は性能だけでなく、1ドル当たりでどれだけ仕事を回せるかが決定的になっている。今回の改定は、企業の本番運用をより大規模にしやすくする価格戦略だ。",
+        "headline": "性能競争から単価競争への軸ずれを追える更新で、導入設計の前提が変わる"
+      },
+      "selection_reason": "性能競争から単価競争への軸ずれを追える更新で、導入設計の前提が変わる",
+      "classification_reason": "性能競争から単価競争への軸ずれを追える更新で、導入設計の前提が変わる",
+      "knowledge_value": "生成AIの導入は性能だけでなく、1ドル当たりでどれだけ仕事を回せるかが決定的になっている。今回の改定は、企業の本番運用をより大規模にしやすくする価格戦略だ。",
+      "content_status": "content_ok",
+      "content_chars": 6236,
+      "source_access": "free"
+    },
+    {
+      "number": 7,
+      "title": "EU、ブリュッセルの新チームでAIディープフェイク・違法画像・ハッキングを取り締まりへ",
+      "source": "AP News",
+      "description": "",
+      "url": "https://apnews.com/article/eu-ai-regulation-deepfakes-hacking-f4fcee1f9750e2b32cdf26ad73ee5ec2",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-31",
+      "mode": "followup",
+      "summary": {
+        "article_index": 1,
+        "title_ja": "EU、ブリュッセルの新チームでAIディープフェイク・違法画像・ハッキングを取り締まりへ",
+        "key_points": [
+          "EUはAI法の施行に合わせ、AI企業を監視する専任チームをブリュッセルで拡充した。",
+          "対象はディープフェイク、性的に露骨な違法コンテンツ、サイバー攻撃、重要インフラへの脅威など。",
+          "違反企業には罰金やEU市場からの排除もあり、米中を含む大手AI企業にも適用される。"
+        ],
+        "detailed_summary": "EUはAI法の発効に合わせ、AIモデルの利用実態を監視する体制を強化し、新たに38人を加えたAIオフィスで世界のAI企業への監督を本格化させる。生成物へのラベル表示や電子透かしを義務づけるほか、ディープフェイク、違法な性的画像、公共インフラを狙うサイバー攻撃、さらには化学・生物・核関連の重大リスクまで監視対象に含めた。内部告発窓口や通報ツールも整備し、EUはデジタル主権の一環としてAI規制を執行段階へ移した。",
+        "why_it_matters": "AI規制が理念ではなく執行フェーズに入ったことを示す。欧州市場で事業を行うAI企業は、透明性と安全性の実務対応を急ぐ必要がある。",
+        "headline": "深偽造と侵害行為を一体で締める執行強化で、欧州規制の実装段階が見えてきた"
+      },
+      "selection_reason": "深偽造と侵害行為を一体で締める執行強化で、欧州規制の実装段階が見えてきた",
+      "classification_reason": "深偽造と侵害行為を一体で締める執行強化で、欧州規制の実装段階が見えてきた",
+      "knowledge_value": "AI規制が理念ではなく執行フェーズに入ったことを示す。欧州市場で事業を行うAI企業は、透明性と安全性の実務対応を急ぐ必要がある。",
+      "content_status": "content_ok",
+      "content_chars": 3426,
+      "source_access": "unknown"
+    },
+    {
+      "number": 8,
+      "title": "データセンター需要拡大でCenterPoint Energyが投資計画を12億ドル増額",
+      "source": "Data Center Dynamics",
+      "description": "",
+      "url": "https://www.datacenterdynamics.com/en/news/centerpoint-energy-raises-investment-plan-by-12bn-as-data-center-load-pipeline-grows/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-31",
+      "mode": "followup",
+      "summary": {
+        "article_index": 2,
+        "title_ja": "データセンター需要拡大でCenterPoint Energyが投資計画を12億ドル増額",
+        "key_points": [
+          "CenterPoint EnergyはERCOTのBatch Zeroに17GW超の大口負荷案件を提出した。",
+          "主因はデータセンター需要で、10年の設備投資計画を667億ドルへ引き上げた。",
+          "2031年までに対象負荷は現行ピーク需要比で65％超の増加になる見通し。"
+        ],
+        "detailed_summary": "テキサスの電力・ガス事業者CenterPoint Energyは、ERCOTの新しい大口需要家向け接続審査で17GW超の案件を申請し、そのうち約14GWが基底負荷または審査対象になる見込みだと明らかにした。需要増の中心はデータセンターで、同社は10年間の投資計画を12億ドル積み増し、総額667億ドルに拡大した。ヒューストン周辺では2029年までに8GWのデータセンター負荷を通電する想定で、AI普及に伴う電力需要の急増が送配電投資を押し上げている。",
+        "why_it_matters": "AIブームが半導体だけでなく電力インフラ投資を直接押し上げていることが分かる。今後は電力供給能力がデータセンター立地競争の核心になる。",
+        "headline": "AI需要が電力会社の設備投資を直接押し上げ、計算資源の外部制約が具体化した"
+      },
+      "selection_reason": "AI需要が電力会社の設備投資を直接押し上げ、計算資源の外部制約が具体化した",
+      "classification_reason": "AI需要が電力会社の設備投資を直接押し上げ、計算資源の外部制約が具体化した",
+      "knowledge_value": "AIブームが半導体だけでなく電力インフラ投資を直接押し上げていることが分かる。今後は電力供給能力がデータセンター立地競争の核心になる。",
+      "content_status": "content_ok",
+      "content_chars": 1936,
+      "source_access": "unknown"
+    },
+    {
+      "number": 9,
+      "title": "Nscale、AI計算基盤の垂直統合を狙いAnyscaleを買収",
+      "source": "TechCrunch",
+      "description": "",
+      "url": "https://techcrunch.com/2026/07/30/nscale-buys-anyscale-as-it-seeks-to-own-more-of-the-ai-compute-stack/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-30",
+      "mode": "followup",
+      "summary": {
+        "article_index": 3,
+        "title_ja": "Nscale、AI計算基盤の垂直統合を狙いAnyscaleを買収",
+        "key_points": [
+          "英AIネオクラウドのNscaleがAnyscaleを約16.5億ドルで買収する。",
+          "AnyscaleはRayの開発チームが創業し、AIワークロードの拡張と運用基盤を提供している。",
+          "Nscaleは電力、データセンター、オーケストレーションに加え、ソフトウェア層まで取り込み垂直統合を進める。"
+        ],
+        "detailed_summary": "英国のAIネオクラウド企業Nscaleは、分散Python基盤Rayで知られるチームが立ち上げたAnyscaleを買収し、顧客のAI支出をより広く取り込もうとしている。Anyscaleは当初、高計算量プロジェクト向け基盤を提供していたが、生成AIの普及後は大規模言語モデルの学習・配信、推論、強化学習などを支えるスケーリング基盤へ軸足を移した。Nscaleにとっては、電力やデータセンターだけでなくワークロード管理まで内製化し、AI計算スタック全体を押さえる戦略的な一手になる。",
+        "why_it_matters": "AIインフラ競争がGPU調達だけでなく、ソフトウェア運用層を含む垂直統合へ進んでいる。顧客獲得の鍵は計算資源そのものより、使いこなす仕組みの提供に移りつつある。",
+        "headline": "推論基盤と運用ソフトの垂直統合が進み、ネオクラウドの勝ち筋が見えやすい"
+      },
+      "selection_reason": "推論基盤と運用ソフトの垂直統合が進み、ネオクラウドの勝ち筋が見えやすい",
+      "classification_reason": "推論基盤と運用ソフトの垂直統合が進み、ネオクラウドの勝ち筋が見えやすい",
+      "knowledge_value": "AIインフラ競争がGPU調達だけでなく、ソフトウェア運用層を含む垂直統合へ進んでいる。顧客獲得の鍵は計算資源そのものより、使いこなす仕組みの提供に移りつつある。",
+      "content_status": "content_ok",
+      "content_chars": 2068,
+      "source_access": "free"
+    },
+    {
+      "number": 10,
+      "title": "[社内勉強会資料公開] Claude Code 入門 #2 — 基本操作とコンテキスト管理",
+      "source": "Zenn",
+      "description": "",
+      "url": "https://zenn.dev/cscloud_blog/articles/csc-claude-code-study-session-02",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-21",
+      "mode": "deep_dive",
+      "summary": {
+        "article_index": 4,
+        "title_ja": "[社内勉強会資料公開] Claude Code 入門 #2 — 基本操作とコンテキスト管理",
+        "key_points": [
+          "勉強会第2回は、スラッシュコマンドとPermission Modeを理解し、会話のコンテキスト管理を学ぶ内容。",
+          "長い会話や大きなファイル読み込みでコンテキストが埋まると、応答精度が落ちやすいと説明している。",
+          "`/clear`、`/compact`、`/context`、`/btw`やPlan modeの活用で、作業の本筋を汚さず安全に進める方法を紹介している。"
+        ],
+        "detailed_summary": "この記事は、Claude Codeを業務で使う社内向け勉強会の第2回資料として、基本操作とコンテキスト管理の考え方を整理している。会話履歴や読み込んだ情報はすべてコンテキストとして蓄積され、上限に近づくと古い指示を忘れるなど精度低下が起きやすい。そのため、`/context`で残量を確認し、`/compact`で要約、話題転換時は`/clear`、脇道の質問は`/btw`で処理する運用を推奨する。加えてPermission Modeの違いとPlan modeの安全性、編集前のチェックポイント保存にも触れている。",
+        "why_it_matters": "AIコーディング支援の品質はモデル性能だけでなく、会話の整理と権限制御の設計で大きく変わる。実務利用ではコンテキスト管理がそのまま生産性と事故防止につながる。",
+        "headline": "Claude運用でコンテキストを増やすより整える発想を、実務の粒度で掘り下げられる"
+      },
+      "selection_reason": "Claude運用でコンテキストを増やすより整える発想を、実務の粒度で掘り下げられる",
+      "classification_reason": "Claude運用でコンテキストを増やすより整える発想を、実務の粒度で掘り下げられる",
+      "knowledge_value": "AIコーディング支援の品質はモデル性能だけでなく、会話の整理と権限制御の設計で大きく変わる。実務利用ではコンテキスト管理がそのまま生産性と事故防止につながる。",
+      "content_status": "content_ok",
+      "content_chars": 5076,
+      "source_access": "free"
+    },
+    {
+      "number": 11,
+      "title": "Agentic Context Management: エージェントの記憶とコストをライフサイクルとアーキテクチャの問題として解く",
+      "source": "Hugging Face Papers",
+      "description": "",
+      "url": "https://huggingface.co/papers/2607.21503",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-23",
+      "mode": "deep_dive",
+      "summary": {
+        "article_index": 5,
+        "title_ja": "Agentic Context Management: エージェントの記憶とコストをライフサイクルとアーキテクチャの問題として解く",
+        "key_points": [
+          "エージェント失敗の主因は推論力不足ではなく、会話履歴やツール出力を含むコンテキスト管理の失敗だと論じる。",
+          "解決策として、設計、取り込み、スコープ管理、先回り、圧縮と統合の5つのプリミティブを提案する。",
+          "素朴な履歴追加はトークンコストを二次的に膨らませる一方、検証済み圧縮なら精度を保って線形コストに抑えられると主張する。"
+        ],
+        "detailed_summary": "この論文は、本番環境のAIエージェントが壊れるのは推論能力よりも、何を頭の中に保持し続けるかを制御できないためだと位置づける。従来の保存と検索だけでは不十分で、記憶対象の選定、構造化、データ型ごとの保存先選択、忘却、関連性判断、将来必要な情報の先読み、予算内での圧縮までを含むライフサイクル全体として扱うべきだという立場だ。著者らはAgentic Context Managementを5要素に分解し、参照実装Maximem SynapがLongMemEvalで92％、LoCoMoで93.2％を記録したと報告している。",
+        "why_it_matters": "AIエージェント運用のボトルネックがモデル性能からコンテキスト設計へ移っていることを明確に示す。コストと精度を両立させるには、メモリを保存先ではなく運用アーキテクチャとして設計する必要がある。",
+        "headline": "メモリとコストをプロンプト技巧でなく制御層の設計問題として捉え直せる"
+      },
+      "selection_reason": "メモリとコストをプロンプト技巧でなく制御層の設計問題として捉え直せる",
+      "classification_reason": "メモリとコストをプロンプト技巧でなく制御層の設計問題として捉え直せる",
+      "knowledge_value": "AIエージェント運用のボトルネックがモデル性能からコンテキスト設計へ移っていることを明確に示す。コストと精度を両立させるには、メモリを保存先ではなく運用アーキテクチャとして設計する必要がある。",
+      "content_status": "content_ok",
+      "content_chars": 6016,
+      "source_access": "unknown"
+    },
+    {
+      "number": 12,
+      "title": "Identity and Access ManagementでMCP利用を制御する",
+      "source": "Google Cloud Documentation",
+      "description": "",
+      "url": "https://docs.cloud.google.com/mcp/control-mcp-use-iam",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-27",
+      "mode": "deep_dive",
+      "summary": {
+        "article_index": 6,
+        "title_ja": "Identity and Access ManagementでMCP利用を制御する",
+        "key_points": [
+          "Google CloudはIAMの許可・拒否ポリシーでMCPツール利用を細かく制御できる。",
+          "MCP呼び出しには`mcp.tools.call`権限に加え、背後のBigQueryなど個別リソース権限も必要。",
+          "読み取り専用かどうか、サービス名、ツール名、OAuthクライアントIDなどの属性を条件に拒否ポリシーを組める。"
+        ],
+        "detailed_summary": "この記事は、Google Cloud環境でMCPサーバーやエージェントのツール利用をIAMで管理する方法を説明している。ツール呼び出しにはプロジェクト上の`mcp.tools.call`権限だけでなく、実際にアクセスするBigQueryなど基盤サービス側の権限も必要で、どちらかが欠けても実行は失敗する。IAM denyポリシーでは読み取り専用属性、OAuthクライアントID、サービス名、ツール名などを条件に利用を止められ、allowポリシーでも一部属性が使える。コンソールでは扱えない条件があり、CLI管理が前提になる点や制約事項も示されている。",
+        "why_it_matters": "MCPの普及で、AIエージェントにどのツールをどこまで使わせるかがセキュリティ上の中心課題になる。既存IAMで細かく統制できれば、エージェント導入のガバナンスを実務レベルに落とし込める。",
+        "headline": "MCP権限を人やツール属性で縛る具体策があり、監督設計の解像度が上がる"
+      },
+      "selection_reason": "MCP権限を人やツール属性で縛る具体策があり、監督設計の解像度が上がる",
+      "classification_reason": "MCP権限を人やツール属性で縛る具体策があり、監督設計の解像度が上がる",
+      "knowledge_value": "MCPの普及で、AIエージェントにどのツールをどこまで使わせるかがセキュリティ上の中心課題になる。既存IAMで細かく統制できれば、エージェント導入のガバナンスを実務レベルに落とし込める。",
+      "content_status": "content_ok",
+      "content_chars": 7589,
+      "source_access": "unknown"
+    },
+    {
+      "number": 13,
+      "title": "でんでんタウン買い物ガイド：家電とアニメ完全案内（2026年）",
+      "source": "Osaka Tourism Guide",
+      "description": "",
+      "url": "https://www.osakatourism.org/den-den-town-shopping/",
+      "category": "AI・テクノロジー",
+      "published_at": "2026-07-25",
+      "mode": "adjacent",
+      "summary": {
+        "article_index": 1,
+        "title_ja": "でんでんタウン買い物ガイド：家電とアニメ完全案内（2026年）",
+        "key_points": [
+          "大阪・日本橋のでんでんタウンは、150店超の専門店が集まるアニメ、ゲーム、家電の一大買い物エリア。",
+          "Animate、まんだらけ、SUPER POTATO、Joshinなど、ジャンル別の主要店と狙い目商品が整理されている。",
+          "免税対応、価格帯、所要時間、最寄り駅まで含め、短時間で効率よく買い回る実用情報をまとめている。"
+        ],
+        "detailed_summary": "この記事は、大阪・日本橋のでんでんタウンを、旅行者向けの実践的な買い物スポットとして整理した2026年版ガイドだ。堺筋とオタロード周辺に広がる150超の専門店を、アニメ・マンガ、レトロゲーム、家電、コスプレの4分野で紹介し、中古から高額プレミア品までのおおまかな価格帯も提示。秋葉原よりコンパクトで混雑が比較的少なく、免税も使いやすいため、目的買いにも掘り出し物探しにも向く点が強調されている。",
+        "why_it_matters": "大阪観光でサブカルや家電の買い物を重視する人にとって、限られた時間でどこを回るべきか判断しやすくなる。訪日客の消費行動に直結する、実用性の高い地域ガイドになっている。",
+        "headline": "アニメ関心を現地消費と物販へつなぎ、オフライン希少価値の作り方まで見えてくる"
+      },
+      "selection_reason": "アニメ関心を現地消費と物販へつなぎ、オフライン希少価値の作り方まで見えてくる",
+      "classification_reason": "アニメ関心を現地消費と物販へつなぎ、オフライン希少価値の作り方まで見えてくる",
+      "knowledge_value": "大阪観光でサブカルや家電の買い物を重視する人にとって、限られた時間でどこを回るべきか判断しやすくなる。訪日客の消費行動に直結する、実用性の高い地域ガイドになっている。",
+      "content_status": "content_ok",
+      "content_chars": 5452,
+      "source_access": "unknown",
+      "adjacent_field": "聖地巡礼・体験型小売・IP観光",
+      "adjacent_reasoning": "漫画・アニメ・ゲームへの関心を、配信やSNSの外にある現地体験と物販の経済へ広げると、オフライン性の高い希少価値がどう作られるかが見えてきます。個人ブランドやファン文化を、身体移動、地域密着、小売粗利という別の現実面から読めるのが効きます。"
+    }
+  ],
+  "status": "complete",
+  "failed_modes": []
+}
